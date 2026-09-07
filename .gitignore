@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+.wrangler/
+coverage/
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+
+# Local research inputs and databases. Publish reviewed exports deliberately.
+data/local/
+source_documents/
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.sqlite-shm
+*.sqlite-wal
+*.tgz
+*.zip
