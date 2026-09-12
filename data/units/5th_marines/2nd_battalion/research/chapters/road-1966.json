@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "road-1966",
+  "title": "The Road to Vietnam",
+  "subtitle": "Across the Pacific. Training on Okinawa. Arrival at Chu Lai.",
+  "dateLabel": "January—13 April",
+  "year": 1966,
+  "months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR"
+  ],
+  "narrative": "1966_ROAD_NARRATIVE.md",
+  "showEventDates": true,
+  "sections": [
+    {
+      "id": "road-preparation",
+      "title": "PREPARING TO LEAVE",
+      "intro": "December’s rapid buildup leads into the new year.",
+      "note": "The previous chapter covers the December leadership changes.",
+      "eventIds": [
+        "road-activation"
+      ],
+      "collapsible": false
+    },
+    {
+      "id": "road-pacific",
+      "title": "ACROSS THE PACIFIC",
+      "intro": "Long Beach → Pearl Harbor → Okinawa",
+      "note": "The record distinguishes troop embarkation from sailing, and arrivals on February 2 from February 4.",
+      "eventIds": [
+        "road-embarkation",
+        "road-pearl-harbor",
+        "road-okinawa-arrival"
+      ],
+      "collapsible": false
+    },
+    {
+      "id": "road-okinawa",
+      "title": "TRAINING ON OKINAWA",
+      "intro": "Camp Schwab and the Northern Training Area became the center of preparation.",
+      "note": "Battalion-wide and all-company statements do not establish individual Marines’ attendance.",
+      "eventIds": [
+        "road-training",
+        "road-combined-training",
+        "road-reactivation",
+        "road-control"
+      ],
+      "collapsible": false
+    },
+    {
+      "id": "road-arrival",
+      "title": "BOUND FOR CHU LAI",
+      "intro": "The final exercise and movement to Vietnam.",
+      "note": "The April 14 assignment around Hill 69 opens the following chapter.",
+      "eventIds": [
+        "road-kin-beach",
+        "road-chu-lai"
+      ],
+      "collapsible": false
+    }
+  ],
+  "timelineGroups": [
+    {
+      "title": "PREPARING TO LEAVE",
+      "eventIds": [
+        "road-activation"
+      ]
+    },
+    {
+      "title": "ACROSS THE PACIFIC",
+      "eventIds": [
+        "road-embarkation",
+        "road-pearl-harbor",
+        "road-okinawa-arrival"
+      ]
+    },
+    {
+      "title": "TRAINING ON OKINAWA",
+      "eventIds": [
+        "road-training",
+        "road-combined-training",
+        "road-reactivation",
+        "road-control"
+      ]
+    },
+    {
+      "title": "BOUND FOR CHU LAI",
+      "eventIds": [
+        "road-kin-beach",
+        "road-chu-lai"
+      ]
+    }
+  ],
+  "dateStart": "1966-01-01",
+  "dateEnd": "1966-04-13"
+}

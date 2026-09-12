@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "princeton-exercise",
+  "title": "Helicopter movement from USS Princeton",
+  "date": {
+    "label": "19 Nov 1965",
+    "start": "1965-11-19",
+    "end": "1965-11-19",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "princeton-exercise"
+    },
+    {
+      "documentId": "1201048065",
+      "anchorId": "princeton-participants"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "On 19 November, the battalion conducted a PHIBLEX—a landing exercise—with helicopter movement from USS Princeton to Camp Pendleton.",
+        "source": 0
+      }
+    ],
+    [
+      {
+        "text": "Three rifle companies and elements of Headquarters and Service Company participated. The report places the companies at approximately 40% manning; it does not identify the three rifle companies by name.",
+        "source": 1
+      }
+    ]
+  ],
+  "notes": [
+    "Three rifle companies participated; this entry does not identify them individually.",
+    "Map destination is a contextual location view, not the exact position of each action.",
+    "The narrative says mid-November; the detailed chronology supplies November 19. Company manning here is separate from the approximately 50% battalion strength reported for the special training program."
+  ],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Expanded Chapter 00 training from existing audited OCR; no new OCR or assumed company participation."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Added three sentences from OCR-only deck-log review, PDF page 39; no specific flight assigned to 2/5."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Moved added shipboard detail to location panel at Brent’s correction; chronology restored."
+    }
+  ],
+  "category": "training",
+  "mapDestination": "camp",
+  "chapterIds": [
+    "rebirth-1965"
+  ]
+}

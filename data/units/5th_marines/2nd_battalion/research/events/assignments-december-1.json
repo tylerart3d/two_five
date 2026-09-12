@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "assignments-december-1",
+  "title": "XO, S-1, Echo and Foxtrot changes",
+  "date": {
+    "label": "1 Dec 1965",
+    "start": "1965-12-01",
+    "end": "1965-12-01",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "assignments-december-1"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Maj R. A. Pape relieved Maj T. E. Bulger as executive officer; Bulger transferred out. 1stLt D. R. West relieved 1stLt T. Boyd as S-1. 1stLt D. E. Marcum relieved 1stLt T. R. Minor as Echo commander; Minor transferred out. Capt R. A. Hickethier relieved 1stLt G. S. Burgett as Foxtrot commander.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Retained as chronology summary; individual leadership actions now supply the timeline."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": true
+}

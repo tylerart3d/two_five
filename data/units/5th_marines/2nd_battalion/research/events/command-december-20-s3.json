@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "command-december-20-s3",
+  "title": "R. A. Pape becomes S-3",
+  "date": {
+    "label": "20 Dec 1965",
+    "start": "1965-12-20",
+    "end": "1965-12-20",
+    "precision": "day"
+  },
+  "kind": "leadership-change",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "command-december-20"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "R. A. Pape becomes S-3.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": false,
+  "chronologyEventId": "command-december-20"
+}

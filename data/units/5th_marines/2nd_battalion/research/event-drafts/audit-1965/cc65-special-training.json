@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-special-training",
+  "title": "RLT-5 special training program begins",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "15 Nov 1965",
+    "start": "1965-11-15",
+    "end": "1965-11-15",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "training",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-SPECIAL-TRAINING"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The RLT-5 special training program began on 15 November. Training was very limited by school TAD, higher-authority commitments, and approximately 50% on-board strength.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "relatedExistingEventIds": [],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

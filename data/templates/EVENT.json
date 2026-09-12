@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "replace-with-stable-event-id",
+  "title": "Replace with event title",
+  "visibility": "research_only",
+  "reviewStatus": "draft",
+  "chapterIds": [],
+  "date": {
+    "label": "Date unresolved",
+    "start": null,
+    "end": null,
+    "precision": "unknown"
+  },
+  "kind": "event",
+  "category": "other",
+  "units": [],
+  "people": [],
+  "locations": [],
+  "sources": [],
+  "paragraphs": [],
+  "notes": [],
+  "researchStatus": "Draft; evidence references still required.",
+  "revisions": []
+}

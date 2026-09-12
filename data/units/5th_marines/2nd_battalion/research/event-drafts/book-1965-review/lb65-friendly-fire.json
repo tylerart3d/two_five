@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-friendly-fire",
+  "title": "Listening-post fatal shooting",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "unknown",
+    "start": null,
+    "end": null,
+    "precision": "unknown"
+  },
+  "kind": "event",
+  "category": "casualty",
+  "units": [],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-19"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The book describes two men mortally wounded by their remaining listening-post partner after approaching from behind. Names, date and precise company are unstated; battalion attribution from surrounding McPartlin passage remains a review issue."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction.",
+    "No confirmed participant assignment until corroborated. The surrounding discussion covers both infantry battalions."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "role": "possible battalion attribution",
+      "confidence": "uncertain; narrative context only"
+    }
+  ]
+}

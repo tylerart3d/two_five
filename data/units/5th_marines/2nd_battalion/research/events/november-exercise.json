@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "november-exercise",
+  "title": "Golf platoon joins an Army exercise",
+  "date": {
+    "label": "3–5 Nov 1965",
+    "start": "1965-11-03",
+    "end": "1965-11-05",
+    "precision": "range"
+  },
+  "kind": "event",
+  "units": [
+    "2/5",
+    "G/2/5 (1st Platoon, reinforced)",
+    "3rd Brigade, 5th Infantry Division (Mechanized), U.S. Army"
+  ],
+  "people": [
+    "2ndLt W. W. Jaffke"
+  ],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "november-exercise"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "From 3–5 November, 1st Platoon (reinforced), Golf Company, under 2ndLt W. W. Jaffke, acted as the opposing force in an Army exercise at Camp Pendleton. The exercise was conducted by the 3rd Brigade, 5th Infantry Division (Mechanized), from Fort Carson, Colorado.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Map destination is a contextual location view, not the exact position of each action."
+  ],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Expanded Chapter 00 training from existing audited OCR; no new OCR or assumed company participation."
+    },
+    {
+      "date": "2026-09-08",
+      "note": "Removed Where it fits in the story section at Brent’s request."
+    }
+  ],
+  "context": {
+    "title": "The Army exercise",
+    "date": "3–5 November 1965 · Camp Pendleton",
+    "prompt": "What was this exercise?",
+    "sections": [
+      {
+        "heading": "Playing the opposing force",
+        "text": "The transcription names 1st Platoon (reinforced), Golf Company, as the aggressors. In an exercise, that means playing the opposing side so the participating troops can practice against it."
+      },
+      {
+        "heading": "Who organized it?",
+        "text": "The entry attributes the exercise to the U.S. Army’s 3rd Brigade, 5th Infantry Division (Mechanized), from Fort Carson, Colorado. It places the exercise at Camp Pendleton."
+      }
+    ],
+    "uncertainty": "Name under review: the existing transcription says “TIMBERTORCH”; another reading is “TENDERTOUCH.” Both are retained until the source is checked.",
+    "source": 0
+  },
+  "category": "training",
+  "mapDestination": "camp",
+  "chapterIds": [
+    "rebirth-1965"
+  ]
+}

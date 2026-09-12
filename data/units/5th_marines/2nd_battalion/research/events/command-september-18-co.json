@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "command-september-18-co",
+  "title": "L. W. T. Waller II relieves J. R. Catt as CO",
+  "date": {
+    "label": "18 Sep 1965",
+    "start": "1965-09-18",
+    "end": "1965-09-18",
+    "precision": "day"
+  },
+  "kind": "leadership-change",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "command-september-18"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "L. W. T. Waller II relieves J. R. Catt as CO.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": false,
+  "chronologyEventId": "command-september-18"
+}

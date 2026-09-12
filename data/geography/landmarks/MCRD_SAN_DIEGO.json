@@ -1,0 +1,29 @@
+{
+  "id": "mcrd-san-diego",
+  "name": "MCRD San Diego",
+  "coordinates": [
+    32.7419444444,
+    -117.1972222222
+  ],
+  "description": "For many Marines, San Diego was where military life began. The base opened in 1921, took over West Coast recruit training from Mare Island in 1923, and received the name Marine Corps Recruit Depot San Diego in 1948. By 1965, it was an established place for turning civilians into Marines before they continued to further training and unit assignments.",
+  "sources": [
+    {
+      "title": "Marine Corps · depot history",
+      "url": "https://www.mcrdsd.marines.mil/Units/Subordinate-Units/Recruit-Training-Regiment/History-of-Recruit-Training-Regiment/"
+    },
+    {
+      "title": "Marine Corps · West Coast training moves to San Diego",
+      "url": "https://www.mcrc.marines.mil/In-the-News/Stories/Article/Article/519414/depot-decade-a-base-is-born-in-san-diego/"
+    },
+    {
+      "title": "Coordinate reference · Wikidata Q615972",
+      "url": "https://www.wikidata.org/wiki/Q615972"
+    },
+    {
+      "title": "MCRD boundary · OpenStreetMap / SanGIS source",
+      "url": "https://www.openstreetmap.org/way/31929400"
+    }
+  ],
+  "precision": "Modern reference boundary from OpenStreetMap way 31929400, whose source tag credits SanGIS military-facility footprints. This is not a verified 1965 perimeter or evidence of individual attendance. Label placement is approximate.",
+  "retrieved": "2026-09-11"
+}

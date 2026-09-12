@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "road-training",
+  "title": "Training at Camp Schwab",
+  "date": {
+    "label": "Feb–early Apr 1966",
+    "start": "1966-02-02",
+    "end": "1966-04-05",
+    "precision": "range"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-06"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Each company spent eight days at the Counter-Guerrilla Warfare School in Okinawa’s Northern Training Area. The program included patrolling, a two-day guerrilla problem, day and night live firing, landmine and demolition instruction, and jungle lanes.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Individual company training dates remain to be established.",
+    "Map destination is a contextual location view, not the exact position of each action."
+  ],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "training",
+  "mapDestination": "schwab",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

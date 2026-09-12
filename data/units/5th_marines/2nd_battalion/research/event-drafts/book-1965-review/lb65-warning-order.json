@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-warning-order",
+  "title": "Warning order for administrative landing",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-03-04",
+    "start": "1965-03-04",
+    "end": "1965-03-04",
+    "precision": "day",
+    "derivation": "March 4 inferred from the next day after explicit March 3; not a directly printed date in this sentence."
+  },
+  "kind": "event",
+  "category": "planning",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-10"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Following the March 3 reconnaissance, Karch issued the next-day warning order to McPartlin: land at RED Beach 2 and move along Route 1 to airfield defensive positions."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ]
+}

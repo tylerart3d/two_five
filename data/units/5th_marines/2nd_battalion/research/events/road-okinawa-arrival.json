@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "road-okinawa-arrival",
+  "title": "Arrival on Okinawa",
+  "date": {
+    "label": "2–4 Feb 1966",
+    "start": "1966-02-02",
+    "end": "1966-02-04",
+    "precision": "range"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "ROAD-03"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The chronology dates the battalion’s arrival to February 2. USS Mathews and USS Belle Grove arrived on February 4. Attached units returned to their parent units on Okinawa.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "movement",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

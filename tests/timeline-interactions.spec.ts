@@ -1,0 +1,30 @@
+import { test, expect } from '@playwright/test';
+
+test('dated hover bands and independent event navigation',async({page})=>{
+ await page.emulateMedia({reducedMotion:'reduce'});
+ await page.goto('/#chapter/rebirth-1965');
+ await page.getByRole('button',{name:/Rebirth of the 2\/5/}).click();
+ await page.locator('.timeline-event-list button').filter({hasText:'Return to San Diego'}).hover();
+ await expect(page.locator('.timeline-date-preview')).toHaveText('8 Aug 1965');
+ const left=await page.getByTestId('event-time-highlight').evaluate(e=>parseFloat(e.style.left));
+ expect(left).toBeCloseTo(38/184*100,1);
+ const exercise=page.locator('.timeline-event-list button').filter({hasText:'Golf platoon joins'});
+ await exercise.focus();await page.mouse.move(0,0);
+ await expect(page.locator('.timeline-date-preview')).toHaveText('3–5 Nov 1965');
+ const width=await page.getByTestId('event-time-highlight').evaluate(e=>e.style.width);
+ expect(width).toContain(String(3/184*100).slice(0,5));
+ await page.locator('.timeline-event-list button').filter({hasText:'Landing team designated for planning'}).click();
+ await expect(page.getByRole('tab',{name:'Narrative',exact:true})).toHaveAttribute('aria-selected','true');
+ await expect(page.getByRole('button',{name:'Full timeline',exact:true})).toHaveCount(0);
+ await expect(page.locator('.timeline-event-list li')).toHaveCount(45);
+ const transfers=page.locator('.timeline-event-list button').filter({hasText:'Majority of returning personnel'});
+ await transfers.hover();
+ await expect(page.locator('.timeline-date-preview')).toHaveText('After 8 Aug 1965 · dates unknown');
+ await expect(page.getByTestId('event-time-highlight')).toHaveClass(/approximate/);
+ expect(await page.getByTestId('event-time-highlight').evaluate(e=>e.style.width)).toContain('0%');
+ await transfers.click();
+ await expect(page.locator('[data-event-id="post-return-transfers"]')).toContainText('not a documented transfer date');
+ await page.locator('.timeline-event-list button').filter({hasText:'Golf platoon joins'}).click();
+ await expect(page.getByRole('tab',{name:'Chronology',exact:true})).toHaveAttribute('aria-selected','true');
+ await expect(page.locator('.map-scopes button').filter({hasText:'Find Camp Margarita'})).toHaveAttribute('aria-pressed','true');
+});

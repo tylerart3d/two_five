@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-1965-11-19-13",
+  "title": "Helicopter PHIBLEX from USS Princeton",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "19 NOVEMBER 1965",
+    "start": "1965-11-19",
+    "end": "1965-11-19",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "training",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ENTRY-13"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "CONDUCTED PHIBLEX The Battalion conducted a PHIBLEX which was a move- ment by helicopter from the USS PRINCETON to Marine Corps Base, Camp Pendleton, California. Three (3) rifle companies and elements of H&S Co. participated, however, companies were at approximately 40% manning level.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Description is whitespace-normalized OCR, not a corrected transcription. Same-date billet changes remain grouped; source excerpt retains all named actions."
+  ],
+  "relatedExistingEventIds": [
+    "princeton-exercise"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

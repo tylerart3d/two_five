@@ -1,0 +1,25 @@
+{
+  "id": "princeton-1965-11",
+  "title": "USS Princeton — November 1965 deck log",
+  "unit": "USS Princeton (LPH-5)",
+  "pdfSha256": "b57ee13a8b9936f77a6d4f2b34ef72f963a946d3eb1e4f018566a1cc82f7778f",
+  "ocrSha256": "3eb2bb38b118497e64bfcbe3628725de1b0d8cad7f8b0f19ed5eadaabe178c25",
+  "pageCount": 62,
+  "originalItemUrl": "https://catalog.archives.gov/id/173486702",
+  "originalPdfUrl": "https://catalog.archives.gov/medialz/dc-metro/rg-024/594258/VA_Batch_0001A/LPH-5_BWN00104455_1965_11/LPH-5_BWN00104455_1965_11.pdf",
+  "anchors": [
+    {
+      "id": "princeton-deck-log",
+      "label": "Princeton deck log · November 19",
+      "kind": "ship-log",
+      "page": 39,
+      "pageLabel": "November 19, 1965 · PDF page 39",
+      "rect": null,
+      "quote": "",
+      "claim": "Ship log for November 19; related activity on PDF pages 35–40. OCR reviewed separately; no verified text highlight.",
+      "ocrStart": 0,
+      "ocrEnd": 0,
+      "alignment": "Page-level reference only; coordinates and text alignment unverified."
+    }
+  ]
+}

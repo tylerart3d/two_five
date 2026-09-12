@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-company-l-roster",
+  "title": "Company L roster under Marine Unit Vietnam",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-01-01",
+    "start": "1965-01-01",
+    "end": "1965-01-23",
+    "precision": "record-period"
+  },
+  "kind": "event",
+  "category": "personnel",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [
+    "Captain John J. Sheridan"
+  ],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-227"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The command appendix lists Company L, 3/9, under Captain John J. Sheridan for January 1–23. This is a roster interval, not an inferred appointment date."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "L/3/9",
+      "role": "subject",
+      "confidence": "explicit"
+    }
+  ]
+}

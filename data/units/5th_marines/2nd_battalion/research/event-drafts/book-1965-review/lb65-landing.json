@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-landing",
+  "title": "BLT 3/9 lands at RED Beach 2",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-03-08",
+    "start": "1965-03-08",
+    "end": "1965-03-08",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "movement",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-10"
+    },
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-11"
+    },
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-12"
+    },
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-235"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Heavy seas delayed H-hour from 0800 to 0900. The first assault wave landed three minutes after the revised hour, and the final assault wave at 0918. Company L began moving inland at 0945; I, artillery and K followed, while M secured unloading."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction.",
+    "Times as reported locally; no UTC offset established. Do not treat plans as actual actions."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    },
+    {
+      "unit": "L/3/9",
+      "role": "first inland echelon",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "I/3/9",
+      "role": "motor march",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "K/3/9",
+      "role": "rear guard of motor march",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "M/3/9",
+      "role": "beach security",
+      "confidence": "explicit"
+    }
+  ],
+  "timeAssertions": [
+    {
+      "time": "08:00",
+      "type": "initial planned H-hour"
+    },
+    {
+      "time": "09:00",
+      "type": "revised planned H-hour"
+    },
+    {
+      "time": "09:03",
+      "type": "first wave; derived from three minutes late"
+    },
+    {
+      "time": "09:18",
+      "type": "final assault wave"
+    },
+    {
+      "time": "09:45",
+      "type": "Company L begins inland movement"
+    }
+  ]
+}

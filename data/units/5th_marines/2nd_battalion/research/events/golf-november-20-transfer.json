@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "golf-november-20-transfer",
+  "title": "R. E. Garrett transfers out of the battalion",
+  "date": {
+    "label": "20 Nov 1965",
+    "start": "1965-11-20",
+    "end": "1965-11-20",
+    "precision": "day"
+  },
+  "kind": "personnel-transfer",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "golf-november-20"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "R. E. Garrett transfers out of the battalion.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    }
+  ],
+  "category": "personnel",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": false,
+  "chronologyEventId": "golf-november-20"
+}

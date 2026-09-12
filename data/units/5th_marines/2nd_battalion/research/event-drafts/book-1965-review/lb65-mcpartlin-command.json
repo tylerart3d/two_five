@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-mcpartlin-command",
+  "title": "McPartlin command roster intervals",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-03-08",
+    "start": "1965-03-08",
+    "end": "1965-06-17",
+    "precision": "record-period"
+  },
+  "kind": "event",
+  "category": "personnel",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-227"
+    },
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-229"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Appendices list McPartlin for March 8–May 6 and May 6–June 17 under different task-organization sections. May 6 is not evidence of a new appointment."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ]
+}

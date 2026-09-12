@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "blt-planning-december",
+  "title": "Landing team designated for planning",
+  "date": {
+    "start": "1965-12-17",
+    "end": "1965-12-17",
+    "label": "17 Dec 1965",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "organization",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "ROAD-01"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The battalion was designated a battalion landing team for planning purposes on 17 December. Activation followed on 1 January 1966.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR excerpt; page-only citation, not human verified.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Cataloged from existing ROAD evidence; no new OCR. Timeline-only record."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "chapterIds": [
+    "rebirth-1965"
+  ]
+}

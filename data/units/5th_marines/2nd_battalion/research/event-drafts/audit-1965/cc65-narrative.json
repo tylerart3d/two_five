@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-narrative",
+  "title": "Commander narrative summary",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "July–December 1965 summary",
+    "start": "1965-07-01",
+    "end": "1965-12-31",
+    "precision": "chapter-context"
+  },
+  "kind": "context",
+  "category": "context",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-NARRATIVE"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The narrative repeats the return, SEATO demonstration, Golf aggressor exercise, and Princeton PHIBLEX. It adds post-return transfers, limited training, and understrength companies.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Narrative says mid-November PHIBLEX; detailed entry gives November 19. Approximately 50% battalion strength in the narrative differs in scope from approximately 40% participating company manning in the PHIBLEX entry. Keep these distinct."
+  ],
+  "relatedExistingEventIds": [
+    "return-san-diego",
+    "november-exercise",
+    "princeton-exercise"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

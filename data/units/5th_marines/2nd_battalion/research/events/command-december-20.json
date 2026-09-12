@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "command-december-20",
+  "title": "Waller → Uskurait",
+  "date": {
+    "label": "20 Dec 1965",
+    "start": "1965-12-20",
+    "end": "1965-12-20",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "command-december-20"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Lieutenant Colonel R. H. Uskurait succeeding Major L. W. T. Waller, II, as commanding officer; Waller became executive officer and Major R. A. Pape became S-3.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Retained as chronology summary; individual leadership actions now supply the timeline."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": true
+}

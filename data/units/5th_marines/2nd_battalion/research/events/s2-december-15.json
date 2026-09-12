@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "s2-december-15",
+  "title": "S-2: Slocum → Moore",
+  "date": {
+    "label": "15 Dec 1965",
+    "start": "1965-12-15",
+    "end": "1965-12-15",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "s2-december-15"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Capt A. H. Moore relieved GySgt J. J. Slocum as S-2.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ]
+}

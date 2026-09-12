@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "road-reactivation",
+  "title": "BLT 2/5 reactivated",
+  "date": {
+    "label": "25 Mar 1966",
+    "start": "1966-03-25",
+    "end": "1966-03-25",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-09"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The battalion landing team was activated again on March 25 as preparations for Vietnam approached completion.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "organization",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

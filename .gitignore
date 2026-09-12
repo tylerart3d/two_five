@@ -1,5 +1,8 @@
 node_modules/
 dist/
+public/pdfjs/
+test-results/
+playwright-report/
 .env
 .env.*
 !.env.example
@@ -14,6 +17,7 @@ Thumbs.db
 
 # Local research inputs and databases. Publish reviewed exports deliberately.
 data/local/
+data/**/_files/
 source_documents/
 *.sqlite
 *.sqlite3

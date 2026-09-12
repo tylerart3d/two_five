@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "road-chu-lai",
+  "title": "Arrival at Chu Lai",
+  "date": {
+    "label": "8–13 Apr 1966",
+    "start": "1966-04-08",
+    "end": "1966-04-13",
+    "precision": "range"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048068",
+      "anchorId": "ROAD-10"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "BLT 2/5 departed Okinawa on April 8 and arrived at Chu Lai on April 13. After debarkation, the landing team was dissolved and supporting units returned to their parent commands.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "movement",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

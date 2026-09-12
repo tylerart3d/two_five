@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "golf-november-20-golf",
+  "title": "J. F. O’Rourke relieves R. E. Garrett as Golf commander",
+  "date": {
+    "label": "20 Nov 1965",
+    "start": "1965-11-20",
+    "end": "1965-11-20",
+    "precision": "day"
+  },
+  "kind": "leadership-change",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "golf-november-20"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "J. F. O’Rourke relieves R. E. Garrett as Golf commander.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": false,
+  "chronologyEventId": "golf-november-20"
+}

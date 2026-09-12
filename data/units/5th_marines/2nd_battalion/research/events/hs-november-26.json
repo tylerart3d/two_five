@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "hs-november-26",
+  "title": "H&S: Parenti → Burns",
+  "date": {
+    "label": "26 Nov 1965",
+    "start": "1965-11-26",
+    "end": "1965-11-26",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "hs-november-26"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Capt R. D. Burns relieved Capt L. W. Parenti as H&S Company commander.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ]
+}

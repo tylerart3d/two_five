@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "road-kin-beach",
+  "title": "A final amphibious exercise",
+  "date": {
+    "label": "Before 8 Apr 1966",
+    "start": "1966-02-02",
+    "end": "1966-04-08",
+    "precision": "before"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048068",
+      "anchorId": "ROAD-10"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Before departure, BLT 2/5 conducted a four-day amphibious landing exercise at Kin Beach, Okinawa. The retrospective account does not give its exact dates.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "The date bounds are a navigation envelope only; exact exercise dates are not established."
+  ],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "training",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

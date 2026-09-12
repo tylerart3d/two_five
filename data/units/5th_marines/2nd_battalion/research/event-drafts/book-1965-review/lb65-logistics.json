@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-logistics",
+  "title": "3/9 rations support the brigade",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "first-weeks",
+    "start": null,
+    "end": null,
+    "precision": "first-weeks"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-16"
+    },
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-17"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The initial brigade supply crisis was met with the 15 days of rations landed with McPartlin’s battalion and an emergency airlift from Saigon. This describes brigade logistics, not 15 days without resupply."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "hs-november-5-hs",
+  "title": "L. W. Parenti relieves C. H. Ram as H&S commander",
+  "date": {
+    "label": "5 Nov 1965",
+    "start": "1965-11-05",
+    "end": "1965-11-05",
+    "precision": "day"
+  },
+  "kind": "leadership-change",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "hs-november-5"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "L. W. Parenti relieves C. H. Ram as H&S commander.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": false,
+  "chronologyEventId": "hs-november-5"
+}

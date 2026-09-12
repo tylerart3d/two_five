@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-patrols",
+  "title": "Patrols into hills west of Da Nang",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "first-weeks",
+    "start": null,
+    "end": null,
+    "precision": "first-weeks"
+  },
+  "kind": "event",
+  "category": "patrol",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-19"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The account says McPartlin’s patrols west into the hills encountered no Viet Cong during this initial period. Do not generalize beyond the passage."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ]
+}

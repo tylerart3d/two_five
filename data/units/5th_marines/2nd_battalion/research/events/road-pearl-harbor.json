@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "road-pearl-harbor",
+  "title": "A stop at Pearl Harbor",
+  "date": {
+    "label": "18–20 Jan 1966",
+    "start": "1966-01-18",
+    "end": "1966-01-20",
+    "precision": "range"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "ROAD-03"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The landing team arrived at Pearl Harbor on January 18 and departed for Okinawa on January 20.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Map destination is a contextual location view, not the exact position of each action."
+  ],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "movement",
+  "mapDestination": "pearl-harbor",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

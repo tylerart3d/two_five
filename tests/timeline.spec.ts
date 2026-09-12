@@ -1,0 +1,23 @@
+import { test, expect } from '@playwright/test';
+test('chapter expands upward and events navigate prose or evidence according to reading mode', async ({page})=>{
+  await page.emulateMedia({reducedMotion:'reduce'});
+  await page.goto('/#map');
+  const timeline=page.locator('.chapter-timeline');
+  const before=(await timeline.boundingBox())!;
+  const toggle=page.getByRole('button',{name:/Rebirth of the 2/});
+  await toggle.click();
+  await expect(toggle).toHaveAttribute('aria-expanded','true');
+  const after=(await timeline.boundingBox())!;
+  expect(after.y).toBeLessThan(before.y);
+  expect(after.y+after.height).toBeCloseTo(before.y+before.height,0);
+  await expect(page.locator('.timeline-event-list button')).toHaveCount(20);
+  await page.getByRole('button',{name:/3–5 Nov 1965/}).click();
+  await expect(page.locator('#november-exercise')).toHaveAttribute('open','');
+  await expect(page.locator('.source-window')).toHaveCount(0);
+  await expect(page.locator('.story .inline-citation')).toHaveCount(0);
+  await page.getByRole('button',{name:'Read the Source'}).click();
+  await page.getByRole('button',{name:/19 Nov 1965/}).click();
+  await expect(page.locator('.viewer-tools')).toContainText('Page 3 / 3');
+  await toggle.click();
+  await expect(page.locator('#chapter-events')).toHaveAttribute('inert','');
+});

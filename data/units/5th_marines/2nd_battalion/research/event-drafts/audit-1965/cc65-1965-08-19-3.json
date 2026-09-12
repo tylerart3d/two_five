@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-1965-08-19-3",
+  "title": "Command relief and eight billet assignments",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "19 AUGUST 1965",
+    "start": "1965-08-19",
+    "end": "1965-08-19",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "leadership",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ENTRY-3"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Lieutenant Colonel C. E. MC PARTLIN, Jr., was re- lieved as Commanding Officer by Captain C. H. RAM. The following billets were filled on this date: S-1: First Lieutenant T. BOYD S-2: First Lieutenant E. A. KRATOVIL, Jr. S-4: Captain H. C. WINCH CO, H&SCo: First Lieutenant P. C. ROLLINS CO, \"E\"Co: First Lieutenant T. R. MINOR CO, \"F\"Co: First Lieutenant D. G. WINTER CO, \"G\"Co: First Lieutenant D. H. EERING CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Description is whitespace-normalized OCR, not a corrected transcription. Same-date billet changes remain grouped; source excerpt retains all named actions."
+  ],
+  "relatedExistingEventIds": [
+    "assignments-august",
+    "command-august",
+    "doherty-august"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

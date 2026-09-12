@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-relief",
+  "title": "1/9 relieves the predecessor 3/9",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "disputed",
+    "start": null,
+    "end": null,
+    "precision": "disputed"
+  },
+  "kind": "event",
+  "category": "movement",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-49"
+    },
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-229"
+    },
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-237"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Page 49 dates arrival/relief to June 11; page 237 dates relief to June 17, and page 229 gives June 17 departure. Keep both date assertions rather than manufacture a six-day operation."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ],
+  "dateAssertions": [
+    {
+      "date": "1965-06-11",
+      "action": "arrival and relief",
+      "sourceAnchor": "LB65-PAGE-49"
+    },
+    {
+      "date": "1965-06-17",
+      "action": "relief",
+      "sourceAnchor": "LB65-PAGE-237"
+    },
+    {
+      "date": "1965-06-17",
+      "action": "departure",
+      "sourceAnchor": "LB65-PAGE-229"
+    }
+  ]
+}

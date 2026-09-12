@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-1965-11-26-15",
+  "title": "Burns relieves Parenti at H&S",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "26 NOVEMBER 1965",
+    "start": "1965-11-26",
+    "end": "1965-11-26",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "leadership",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ENTRY-15"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Captain L. W. PARENTI was relieved as CO, H&S Co, by Captain R. D. BURNS.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Description is whitespace-normalized OCR, not a corrected transcription. Same-date billet changes remain grouped; source excerpt retains all named actions."
+  ],
+  "relatedExistingEventIds": [
+    "hs-november-26"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

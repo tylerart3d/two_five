@@ -1,6 +1,7 @@
 # Project brief
 
-Status: initial direction recorded September 7, 2026. Stage planning is next.
+Status: direction updated September 7, 2026. See PHASE_ONE.md for the revised
+stage outline and LEGACY_ASSESSMENT.md for the initial reuse assessment.
 
 ## Purpose
 
@@ -12,7 +13,9 @@ helping veterans, families, and casual readers follow events in time and place.
 
 Focus on 1965 and 1966 for the October 2026 reunion. The precise reunion date,
 chapter selection, coverage goals, and release acceptance criteria remain to be
-established. The archive can grow beyond this period later.
+established. The archive can grow beyond this period later. Start the first
+complete experience with 1965, centered on Camp Pendleton, reorganization,
+command changes, and training, before expanding into 1966.
 
 ## Experience direction
 
@@ -31,10 +34,15 @@ Retain immutable source text, page-level PDF references, extraction metadata,
 review states, and reproducible corrections. Distinguish what a document states
 from interpretations and recollections. Preserve disagreements and gaps.
 
-AI-assisted extraction is intended to reduce manual cataloging work. A local
-vision-model workflow is planned; exact model identity, runtime, accuracy, and
-hardware requirements must be verified during planning. No model is configured
-in this starter.
+Brent reports that almost all extraction is already complete; remaining material
+is largely garbled or unreadable even to human readers. Prioritize migration,
+version reconciliation, provenance repair, and review over repeating extraction.
+Retain unreadable material and add recoverable information incrementally. Local
+vision tooling is for targeted recovery; no model is configured in this starter.
+
+Photographs have two uses: primary imagery of 2/5, particularly Hotel Company,
+and period-context imagery of relevant places or equipment. Preserve those
+distinctions in metadata and captions. See PHOTO_RESEARCH.md.
 
 ## Technology direction
 

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "post-return-transfers",
+  "title": "Majority of returning personnel transferred within the division",
+  "visibility": "site",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "After 8 Aug 1965 · dates unknown",
+    "start": "1965-08-08",
+    "end": null,
+    "precision": "after"
+  },
+  "kind": "event",
+  "category": "personnel",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "post-return-transfers"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "After the return to San Diego, the majority of officers and men were transferred to other units throughout the division. No individual dates or numerical total are given.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "August 8 is the return date used to position this entry, not a documented transfer date. The source gives no end date, named recipients, individual destinations or numerical total."
+  ],
+  "researchStatus": "Existing OCR; aggregate statement, precise dates unresolved.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added to Chapter 00 with an open end; timeline marker uses earliest bound only."
+    }
+  ]
+}

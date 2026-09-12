@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "seato-demonstration",
+  "title": "SEATO combined fire-support demonstration",
+  "date": {
+    "start": "1965-09-16",
+    "end": "1965-09-16",
+    "label": "16 Sep 1965",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5",
+    "RLT-5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "seato-demonstration"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "On 16 September, units of Regimental Landing Team Five conducted a combined fire-support exercise for military representatives of the Southeast Asia Treaty Organization (SEATO). The battalion provided the ground maneuver element.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "The report does not identify the participating 2/5 companies or an exact demonstration site."
+  ],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Expanded Chapter 00 training from existing audited OCR; no new OCR or assumed company participation."
+    }
+  ],
+  "category": "training",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "visibility": "site",
+  "reviewStatus": "needs_review"
+}

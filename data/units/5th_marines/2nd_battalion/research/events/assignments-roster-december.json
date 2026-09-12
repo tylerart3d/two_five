@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "assignments-roster-december",
+  "title": "Battalion billet roster recorded as of December 20",
+  "visibility": "site",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "As of 20 Dec 1965",
+    "start": "1965-12-20",
+    "end": "1965-12-20",
+    "precision": "record-date"
+  },
+  "kind": "event",
+  "category": "personnel",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "assignments-roster-december"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Roster: CO R.H. Uskurait; XO L.W.T. Waller II; S-1 D.R. West; S-2 A.H. Moore; S-3 R.A. Pape; S-4 H.T. Winston; H&S R.D. Hughes; Echo D.E. Marcum; Foxtrot R.A. Hickethier; Golf J.F. O’Rourke; Hotel J.J. Doherty.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Roster is an observation, not eleven appointment dates. November 26 names R.D. Burns at H&S; this roster reads R.D. Hughes. No intervening relief is recorded. S-4 also differs from August; transition date unknown. Preserve OCR names pending review."
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

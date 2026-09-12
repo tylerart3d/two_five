@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-1965-11-03-11",
+  "title": "Golf reinforced platoon participates in TIMBERTORCH",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "3-5 NOVEMBER 1965",
+    "start": "1965-11-03",
+    "end": "1965-11-05",
+    "precision": "range"
+  },
+  "kind": "event",
+  "category": "training",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ENTRY-11"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "PARTICIPATED IN OPERATION TIMBERTORCH The 1st Platoon (Rein), \"G\" Co, under the command of 2ndLt W. W. JAFFKE participated as aggressors in the U.S. Army Operation Timbertorch which was conducted by the 3rd Brigade, 5th Infantry Divi- sion (Mechanized), Fort Carson, Colorado, at Marine Corps Base, Camp Pendleton, California.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Description is whitespace-normalized OCR, not a corrected transcription. Same-date billet changes remain grouped; source excerpt retains all named actions."
+  ],
+  "relatedExistingEventIds": [
+    "november-exercise"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

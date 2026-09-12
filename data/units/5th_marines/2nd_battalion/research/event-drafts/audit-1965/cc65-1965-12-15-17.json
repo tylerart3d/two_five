@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-1965-12-15-17",
+  "title": "Moore relieves Slocum as S-2",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "15 DECEMBER 1965",
+    "start": "1965-12-15",
+    "end": "1965-12-15",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "leadership",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ENTRY-17"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Gunnery Sergeant J. J. SLOCUM was relieved as S-2 by Captain A. H. MOORE.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Description is whitespace-normalized OCR, not a corrected transcription. Same-date billet changes remain grouped; source excerpt retains all named actions."
+  ],
+  "relatedExistingEventIds": [
+    "s2-december-15"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

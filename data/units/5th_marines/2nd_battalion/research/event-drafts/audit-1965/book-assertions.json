@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "visibility": "research_only",
+  "sourceId": "usmc-history-1965-pcn19000307600",
+  "ocrSha256": "430686ebabb5acd3dc33cf24c747786412a6d9e5283d58b9ab387e718fad3815",
+  "assertions": [
+    {
+      "id": "LB65-001",
+      "status": "extracted; OCR not visually verified",
+      "ocr_utf8_byte_start": 228296,
+      "ocr_utf8_byte_end_exclusive": 228644,
+      "excerpt": "Under  this  system, \na  battalion  from  the  1st  Marine  Division  in  California  relieved  a \nbattalion  of  the  3d  Marine  Division  in  the  Western  Pacific, \nexchanging  designation  and  mission.  Thus  the  2d  Battalion, \n5th  Marines  when  it  arrived  in  Okinawa  at  the  end  of  June \nbecame  the  3d  Battalion,  9th  Marines.",
+      "ocr_page_matches": [
+        {
+          "ocr_object_index_0": 72,
+          "ocr_page_file": "usmarinesinvietn00jack_1_0073.djvu",
+          "archive_leaf": 73,
+          "printed_page_label": "55"
+        }
+      ],
+      "official_pdf_page_index": null,
+      "verified_pdf_highlight": null
+    },
+    {
+      "id": "LB65-002",
+      "status": "extracted; OCR not visually verified",
+      "ocr_utf8_byte_start": 53701,
+      "ocr_utf8_byte_end_exclusive": 53954,
+      "excerpt": "Lieutenant  Colonel  McPartlin  had  enlisted  in  the  Marine \nCorps  in  1932.  A  first  sergeant  at  the  outbreak  of  World  War \nII,  he  was  commissioned  a  second  lieutenant  in  1942.  He  saw \ncombat  in  both  World  War  II  and  Korea.",
+      "ocr_page_matches": [
+        {
+          "ocr_object_index_0": 27,
+          "ocr_page_file": "usmarinesinvietn00jack_1_0028.djvu",
+          "archive_leaf": 28,
+          "printed_page_label": "10"
+        }
+      ],
+      "official_pdf_page_index": null,
+      "verified_pdf_highlight": null
+    },
+    {
+      "id": "LB65-003",
+      "status": "extracted; OCR not visually verified",
+      "ocr_utf8_byte_start": 205021,
+      "ocr_utf8_byte_end_exclusive": 205333,
+      "excerpt": "On  11  June,  1/9  arrived  and  relieved  3/9,  which  returned \nto  Okinawa  for  transfer  back  to  the  United  States.  This  ex- \nchange of  units  was  in  line  with  the  peacetime  battalion \ntransplacement  system  then  in  effect  and  could  not  in  any  sense \nbe  considered  a  reinforcement.",
+      "ocr_page_matches": [
+        {
+          "ocr_object_index_0": 66,
+          "ocr_page_file": "usmarinesinvietn00jack_1_0067.djvu",
+          "archive_leaf": 67,
+          "printed_page_label": "49"
+        }
+      ],
+      "official_pdf_page_index": null,
+      "verified_pdf_highlight": null
+    },
+    {
+      "id": "LB65-004",
+      "status": "extracted; OCR not visually verified",
+      "ocr_utf8_byte_start": 426190,
+      "ocr_utf8_byte_end_exclusive": 426281,
+      "excerpt": "Only  one  regiment \nof  the  division,  the  5th  Marines,  remained  at  Camp \nPendleton.",
+      "ocr_page_matches": [
+        {
+          "ocr_object_index_0": 134,
+          "ocr_page_file": "usmarinesinvietn00jack_1_0135.djvu",
+          "archive_leaf": 135,
+          "printed_page_label": "117"
+        }
+      ],
+      "official_pdf_page_index": null,
+      "verified_pdf_highlight": null
+    },
+    {
+      "id": "LB65-005",
+      "status": "extracted; OCR not visually verified",
+      "ocr_utf8_byte_start": 427067,
+      "ocr_utf8_byte_end_exclusive": 427565,
+      "excerpt": "The  end  of  the  battalion  rotation  between  East  Pac \nand  West  Pac  caused  the  institution  of  an  individual \npersonnel  replacement  system  for  all  units  of  III \nMAF.  Under  the  designator  Operation  MIX- \nMASTER,  Marines  in  Vietnam  were  transferred \nbetween  units  so  that  everyone  in  each  unit  would \nnot  have  the  same  overseas  tour  expiration  date.  This \nhomogenization  process  involved  thousands  of \nMarines  and  took  place  over  several  months.",
+      "ocr_page_matches": [
+        {
+          "ocr_object_index_0": 134,
+          "ocr_page_file": "usmarinesinvietn00jack_1_0135.djvu",
+          "archive_leaf": 135,
+          "printed_page_label": "117"
+        }
+      ],
+      "official_pdf_page_index": null,
+      "verified_pdf_highlight": null
+    },
+    {
+      "id": "LB65-006",
+      "status": "extracted; OCR not visually verified",
+      "ocr_utf8_byte_start": 804391,
+      "ocr_utf8_byte_end_exclusive": 804692,
+      "excerpt": "3/9* \n\nLtCol  Charles  E.  McPartlin,  Jr 6May-17Jun \n\nLtCol  Robert  J.  Tunnell,  Jr 14Aug-30Sep \n\nLtCol  William  W.  Taylor 10ct-31Dec \n\n'i/9  departed  Vietnam  on  17 fun  under  the  battalion  intra- \ntheater  transplacement  system.  The  newly  formed  3/9 \nreturned  to  Vietnam  on  14Aug.",
+      "ocr_page_matches": [
+        {
+          "ocr_object_index_0": 238,
+          "ocr_page_file": "usmarinesinvietn00jack_1_0239.djvu",
+          "archive_leaf": 239,
+          "printed_page_label": "229"
+        }
+      ],
+      "official_pdf_page_index": null,
+      "verified_pdf_highlight": null
+    }
+  ],
+  "method": "Reuses existing assertions unchanged; no fresh OCR extraction or correction bypass."
+}

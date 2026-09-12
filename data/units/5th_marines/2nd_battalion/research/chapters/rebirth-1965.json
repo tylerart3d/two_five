@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "rebirth-1965",
+  "title": "Rebirth of the 2/5",
+  "subtitle": "From 3/9 to 2/5. Reorganization, leadership, and training.",
+  "dateLabel": "July—December",
+  "year": 1965,
+  "months": [
+    "JUL",
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "narrative": "1965_NARRATIVE.md",
+  "sections": [
+    {
+      "id": "reorganization",
+      "title": "REORGANIZATION",
+      "intro": "",
+      "collapsible": false,
+      "note": "",
+      "eventIds": [
+        "redesignation",
+        "return-san-diego",
+        "post-return-transfers"
+      ]
+    },
+    {
+      "id": "command-assignments",
+      "title": "COMMAND RESTRUCTURING",
+      "intro": "Leadership shifted repeatedly as the battalion rebuilt during the second half of 1965. Commanders moved into new roles, staff and company billets changed hands, and several officers transferred out of the battalion.",
+      "collapsible": false,
+      "note": "",
+      "eventIds": [
+        "command-august",
+        "command-september-8",
+        "command-september-18",
+        "command-december-20",
+        "assignments-august",
+        "xo-september-17",
+        "s3-september-22",
+        "staff-golf-november-1",
+        "foxtrot-november-2",
+        "hs-november-5",
+        "golf-november-20",
+        "hs-november-26",
+        "assignments-december-1",
+        "s2-december-15",
+        "assignments-roster-december"
+      ],
+      "groups": [
+        {
+          "id": "battalion-command-details",
+          "title": "Battalion command",
+          "eventIds": [
+            "command-august",
+            "command-september-8",
+            "command-september-18",
+            "command-december-20"
+          ],
+          "note": "Names transcribed from existing OCR; these spellings await review."
+        },
+        {
+          "id": "staff-company-leadership",
+          "title": "Staff and company leadership",
+          "eventIds": [
+            "assignments-august",
+            "xo-september-17",
+            "s3-september-22",
+            "staff-golf-november-1",
+            "foxtrot-november-2",
+            "hs-november-5",
+            "golf-november-20",
+            "hs-november-26",
+            "assignments-december-1",
+            "s2-december-15",
+            "assignments-roster-december"
+          ],
+          "note": "Names are OCR transcriptions awaiting review. The August S-4 reading is unresolved. The November H&S entry names Burns, while the December roster names Hughes; a replacement date is not established."
+        }
+      ]
+    },
+    {
+      "id": "hotel-leadership",
+      "title": "HOTEL COMPANY",
+      "intro": "",
+      "collapsible": false,
+      "note": "",
+      "eventIds": [
+        "doherty-august",
+        "doherty-december"
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": "PLACE & PREPARATION",
+      "intro": "",
+      "collapsible": false,
+      "note": "",
+      "eventIds": [
+        "camp-margarita",
+        "seato-demonstration",
+        "november-exercise",
+        "special-training-november",
+        "princeton-exercise"
+      ]
+    }
+  ],
+  "timelineGroups": [
+    {
+      "title": "Formation",
+      "eventIds": [
+        "redesignation",
+        "return-san-diego"
+      ]
+    },
+    {
+      "title": "Leadership",
+      "eventIds": [
+        "doherty-august",
+        "command-august",
+        "assignments-august",
+        "command-september-8",
+        "xo-september-17",
+        "command-september-18",
+        "s3-september-22",
+        "staff-golf-november-1",
+        "foxtrot-november-2",
+        "hs-november-5",
+        "golf-november-20",
+        "hs-november-26",
+        "assignments-december-1",
+        "s2-december-15",
+        "doherty-december",
+        "command-december-20"
+      ]
+    },
+    {
+      "title": "Training",
+      "eventIds": [
+        "november-exercise",
+        "princeton-exercise"
+      ]
+    }
+  ],
+  "dateStart": "1965-07-01",
+  "dateEnd": "1965-12-31"
+}

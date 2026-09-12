@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-1965-07-19-1",
+  "title": "3/9 redesignated 2/5 under McPartlin",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "19 JULY 1965",
+    "start": "1965-07-19",
+    "end": "1965-07-19",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "organization",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ENTRY-1"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The Third Battalion, Ninth Marines was redesignated the Second Battalion, Fifth Marines. Lieutenant Colonel C. E. MC PARTLIN, Jr., was the Commanding Officer.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Description is whitespace-normalized OCR, not a corrected transcription. Same-date billet changes remain grouped; source excerpt retains all named actions."
+  ],
+  "relatedExistingEventIds": [
+    "redesignation"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-landing-plan",
+  "title": "Traffic and landing arrangements",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-03-07",
+    "start": "1965-03-07",
+    "end": "1965-03-07",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "planning",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-11"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Karch told McPartlin Route 1 would close to civilians for 36 hours. The plan set H-hour at 0800 on March 8 and unloading completion at 1600 March 9. These are planned times, not actual completion claims. Companies I and K were to secure the beach; M was reserve."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ]
+}

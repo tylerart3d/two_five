@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-chu-lai-security",
+  "title": "Company K helps secure Chu Lai beach",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-05-06",
+    "start": "1965-05-06",
+    "end": "1965-05-06",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "movement",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-33"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Company K, 3/9, came from Da Nang to reinforce ARVN 2d Division troops securing the Chu Lai landing area. Do not infer participation by the whole battalion."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "K/3/9",
+      "role": "additional beach security",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "ARVN 2d Division elements",
+      "role": "existing beach security",
+      "confidence": "explicit"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "visibility": "research_only",
+  "documentId": "1201048065",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "status": "OCR passage inventory complete; historical review and atomic-event reconciliation pending",
+  "dateEntryCount": 18,
+  "ledger": [
+    {
+      "sourceAnchor": "CC65-ENTRY-1",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-07-19-1",
+      "existingEventIds": [
+        "redesignation"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-2",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-08-08-2",
+      "existingEventIds": [
+        "return-san-diego"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-3",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-08-19-3",
+      "existingEventIds": [
+        "assignments-august",
+        "command-august",
+        "doherty-august"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-4",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-09-08-4",
+      "existingEventIds": [
+        "command-september-8"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-5",
+      "disposition": "new_event_draft",
+      "draftId": "cc65-1965-09-16-5",
+      "existingEventIds": []
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-6",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-09-17-6",
+      "existingEventIds": [
+        "xo-september-17"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-7",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-09-18-7",
+      "existingEventIds": [
+        "command-september-18"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-8",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-09-22-8",
+      "existingEventIds": [
+        "s3-september-22"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-9",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-11-01-9",
+      "existingEventIds": [
+        "staff-golf-november-1"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-10",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-11-02-10",
+      "existingEventIds": [
+        "foxtrot-november-2"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-11",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-11-03-11",
+      "existingEventIds": [
+        "november-exercise"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-12",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-11-05-12",
+      "existingEventIds": [
+        "hs-november-5"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-13",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-11-19-13",
+      "existingEventIds": [
+        "princeton-exercise"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-14",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-11-20-14",
+      "existingEventIds": [
+        "golf-november-20"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-15",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-11-26-15",
+      "existingEventIds": [
+        "hs-november-26"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-16",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-12-01-16",
+      "existingEventIds": [
+        "assignments-december-1"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-17",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-12-15-17",
+      "existingEventIds": [
+        "s2-december-15"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ENTRY-18",
+      "disposition": "existing_event_detail_reconciliation",
+      "draftId": "cc65-1965-12-20-18",
+      "existingEventIds": [
+        "command-december-20",
+        "doherty-december"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-TRANSFERS",
+      "disposition": "context_or_new_detail",
+      "draftId": "cc65-transfers",
+      "existingEventIds": [
+        "return-san-diego"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-SPECIAL-TRAINING",
+      "disposition": "context_or_new_detail",
+      "draftId": "cc65-special-training",
+      "existingEventIds": []
+    },
+    {
+      "sourceAnchor": "CC65-ROSTER",
+      "disposition": "context_or_new_detail",
+      "draftId": "cc65-roster",
+      "existingEventIds": [
+        "doherty-december",
+        "command-december-20"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-ORGANIZATION",
+      "disposition": "context_or_new_detail",
+      "draftId": "cc65-organization",
+      "existingEventIds": [
+        "camp-margarita"
+      ]
+    },
+    {
+      "sourceAnchor": "CC65-NARRATIVE",
+      "disposition": "context_or_new_detail",
+      "draftId": "cc65-narrative",
+      "existingEventIds": [
+        "return-san-diego",
+        "november-exercise",
+        "princeton-exercise"
+      ]
+    }
+  ],
+  "limits": [
+    "Headings and classification markings are metadata.",
+    "Grouped entries retain multiple actions; they are not a count of atomic historical events.",
+    "No original PDF inspected. No general correction resolver implemented; audit fails if applicable corrections appear."
+  ]
+}

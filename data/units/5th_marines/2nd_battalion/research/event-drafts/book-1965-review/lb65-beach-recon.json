@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-beach-recon",
+  "title": "Reconnaissance selects RED Beach 2",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-02-23",
+    "start": "1965-02-23",
+    "end": "1965-02-27",
+    "precision": "range"
+  },
+  "kind": "context",
+  "category": "supporting-context",
+  "units": [
+    "1st Force Reconnaissance Company, Subunit 1",
+    "UDT 12"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-172"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "1st Force Reconnaissance Subunit 1 and UDT 12 reconnoitered RED Beaches 1 and 2 from USS Cook. RED Beach 2 was selected for BLT 3/9. This was supporting-unit activity, not a 3/9 patrol."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "1st Force Reconnaissance Company, Subunit 1",
+      "role": "reconnaissance",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "UDT 12",
+      "role": "reconnaissance",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "BLT 3/9",
+      "role": "intended landing force; beneficiary",
+      "confidence": "explicit"
+    }
+  ]
+}

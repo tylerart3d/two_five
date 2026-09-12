@@ -1,0 +1,27 @@
+{
+  "visibility": "research_only",
+  "reviewStatus": "caption reviewed; image not inspected",
+  "photos": [
+    {
+      "printedPage": "10",
+      "photoId": "A183676",
+      "description": "BLT 3/9 landing at RED Beach 2 on March 8",
+      "relationship": "predecessor 3/9; not yet 2/5 designation",
+      "rightsReview": "Check individual image credit before publication"
+    },
+    {
+      "printedPage": "11",
+      "photoId": "A183798",
+      "description": "BLT 3/9 continuing across RED Beach 2",
+      "relationship": "predecessor 3/9; not yet 2/5 designation",
+      "rightsReview": "Check individual image credit before publication"
+    },
+    {
+      "printedPage": "18",
+      "photoId": "A183859",
+      "description": "Krulak, McPartlin, Karch and Muir viewing terrain from Hill 327",
+      "relationship": "predecessor 3/9; not yet 2/5 designation",
+      "rightsReview": "Check individual image credit before publication"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-1965-09-18-7",
+  "title": "Waller becomes CO; Catt becomes S-3",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "18 SEPTEMBER 1965",
+    "start": "1965-09-18",
+    "end": "1965-09-18",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "leadership",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ENTRY-7"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Major J. R. CATT was relieved as Commanding Officer by Major L. W. T. WALLER, II. Major J. R. CATT be- came the S-3.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Description is whitespace-normalized OCR, not a corrected transcription. Same-date billet changes remain grouped; source excerpt retains all named actions."
+  ],
+  "relatedExistingEventIds": [
+    "command-september-18"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

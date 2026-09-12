@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "s3-september-22-transfer",
+  "title": "J. R. Catt transfers out of the battalion",
+  "date": {
+    "label": "22 Sep 1965",
+    "start": "1965-09-22",
+    "end": "1965-09-22",
+    "precision": "day"
+  },
+  "kind": "personnel-transfer",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "s3-september-22"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "J. R. Catt transfers out of the battalion.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    }
+  ],
+  "category": "personnel",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": false,
+  "chronologyEventId": "s3-september-22"
+}

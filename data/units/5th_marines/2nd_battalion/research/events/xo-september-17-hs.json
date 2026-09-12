@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "xo-september-17-hs",
+  "title": "C. H. Ram becomes H&S commander",
+  "date": {
+    "label": "17 Sep 1965",
+    "start": "1965-09-17",
+    "end": "1965-09-17",
+    "precision": "day"
+  },
+  "kind": "leadership-change",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "xo-september-17"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "C. H. Ram becomes H&S commander.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": false,
+  "chronologyEventId": "xo-september-17"
+}

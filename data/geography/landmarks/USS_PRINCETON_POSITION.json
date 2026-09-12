@@ -1,0 +1,19 @@
+{
+  "coordinates": [
+    33.2761559829947,
+    -117.51851643546341
+  ],
+  "shoreReference": [
+    33.3,
+    -117.49
+  ],
+  "distanceYards": 4100,
+  "bearingDegrees": 225,
+  "status": "editorial-estimate",
+  "method": "Approximate beach midpoint and southwest bearing selected for user-requested placement; not a surveyed shoreline midpoint or verified November 19 fix.",
+  "source": "https://catalog.archives.gov/id/173486702",
+  "pdfPages": [
+    35,
+    37
+  ]
+}

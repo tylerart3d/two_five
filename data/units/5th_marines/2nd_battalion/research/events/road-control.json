@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "road-control",
+  "title": "Under 9th MAB control",
+  "date": {
+    "label": "30 Mar 1966",
+    "start": "1966-03-30",
+    "end": "1966-03-30",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-09"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Operational and administrative control of BLT 2/5 shifted from RLT-5 to the 9th Marine Amphibious Brigade on March 30.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "organization",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

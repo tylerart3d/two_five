@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-recon-attachment",
+  "title": "Reconnaissance platoon attached to BLT 3/9",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-03-08",
+    "start": "1965-03-08",
+    "end": "1965-04-13",
+    "precision": "range"
+  },
+  "kind": "event",
+  "category": "organization",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-174"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "A platoon of Company A, 3d Reconnaissance Battalion, landed attached to BLT 3/9. On April 13, the in-country reconnaissance platoons were regrouped as a new Company D."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "BLT 3/9",
+      "role": "receiving landing team",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "Company A, 3d Reconnaissance Battalion (one platoon)",
+      "role": "attached",
+      "confidence": "explicit"
+    }
+  ]
+}

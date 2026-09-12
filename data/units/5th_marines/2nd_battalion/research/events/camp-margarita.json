@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "camp-margarita",
+  "title": "Camp Margarita location context",
+  "date": {
+    "label": "July–December 1965",
+    "start": "1965-07-01",
+    "end": "1965-12-31",
+    "precision": "chapter-context"
+  },
+  "kind": "location-context",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [
+    "camp-margarita",
+    "camp-pendleton"
+  ],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "camp-margarita"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The command chronology places the battalion at "
+      },
+      {
+        "text": "Camp Margarita, Camp Pendleton",
+        "source": 0
+      },
+      {
+        "text": "."
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-08",
+      "note": "Named the report explicitly in the location sentence."
+    },
+    {
+      "date": "2026-09-08",
+      "note": "Shortened report name to The command chronology at Brent’s request."
+    }
+  ],
+  "category": "organization",
+  "chapterIds": [
+    "rebirth-1965"
+  ]
+}

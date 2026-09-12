@@ -1,0 +1,23 @@
+{
+  "region": {
+    "name": "Southern California",
+    "description": "In the second half of 1965, 2/5 was based at Camp Margarita, Camp Pendleton. These months in Southern California brought reorganization, changes in leadership and training before the battalion moved overseas.",
+    "sources": [],
+    "precision": "This regional view provides orientation, not a verified exercise route or historical embarkation berth."
+  },
+  "pendleton": {
+    "name": "Camp Pendleton",
+    "description": "By 1965, Camp Pendleton had more than two decades of experience preparing Marines for overseas service. Dedicated in 1942 to meet the need for amphibious training, it had become a training and staging base through World War II, Korea and now Vietnam. Marines arrived here after recruit training to develop their infantry skills, while experienced men returned between overseas assignments. Gregory Lake, who trained at Pendleton in the early 1960s before deploying to Vietnam in 1965, recalled jungle-warfare instruction and a combat-intelligence course that sharpened his map-and-compass skills.",
+    "sources": [
+      {
+        "title": "Marine Corps Base Camp Pendleton · official history",
+        "url": "https://www.pendleton.marines.mil/About/"
+      },
+      {
+        "url": "https://www.marines.mil/News/News-Display/Article/614607/gregory-greg-lake-remembers-vietnam-operation-starlite-50-years-after/",
+        "title": "Marine Corps · Gregory Lake recalls training before Vietnam"
+      }
+    ],
+    "precision": "The displayed SanGIS outline uses newer geographic data, simplified to omit two detached areas. It is not a verified 1965 installation boundary."
+  }
+}

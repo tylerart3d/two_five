@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "special-training-november",
+  "title": "RLT-5 special training program begins",
+  "date": {
+    "start": "1965-11-15",
+    "end": "1965-11-15",
+    "label": "15 Nov 1965",
+    "precision": "day"
+  },
+  "kind": "event",
+  "units": [
+    "2/5",
+    "RLT-5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "special-training-november"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Regimental Landing Team Five’s special training program began on 15 November. The battalion’s commander reported that training was very limited: Marines were away on temporary additional duty at schools, higher headquarters imposed other commitments, and on-board strength was approximately 50%.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "November 15 is the program’s start date; no end date is stated. The half-strength figure describes the battalion, not each participating company."
+  ],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Expanded Chapter 00 training from existing audited OCR; no new OCR or assumed company participation."
+    }
+  ],
+  "category": "training",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "visibility": "site",
+  "reviewStatus": "needs_review"
+}

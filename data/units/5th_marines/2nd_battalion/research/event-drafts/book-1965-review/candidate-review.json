@@ -1,0 +1,1798 @@
+{
+  "sourceId": "usmc-history-1965-pcn19000307600",
+  "visibility": "research_only",
+  "correctionChecks": [
+    {
+      "layer": "agent",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "applicableCount": 0
+    },
+    {
+      "layer": "human",
+      "sha256": "d0974ba90f6a480085b4cec26094db208991a39117b29f50889b21f70639a16e",
+      "applicableCount": 0
+    }
+  ],
+  "candidates": [
+    {
+      "id": "LB65-LEAD-001",
+      "printedPage": "3",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 20,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0021.djvu",
+        "archive_leaf": 21,
+        "printed_page_label": "3",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 469,
+        "context": "ommander (ADC) of the 3d Marine Division and a veteran of several amphibious campaigns during World War II, assumed command of the 9th Marine Expeditionary Brigade. The brigade consisted of two Marine battalion landing teams,* BLTs 1/9 and 3/9, which had been embarked in ships of the Seventh Fleet's Task Force 76 since the beginning of the year in the South China Sea. At this time, the brigade was the U.S. combat force most readily available for deployment to South Vietnam. As General Karch later remarked, ' 'When the temperature went up we got closer.\"' At this stage of the war the United States was not yet prepared to make the decision to intervene in Vietnam with ground combat units. On 23 January, the U. S. Joint Chiefs of Staff ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-002",
+      "printedPage": "3",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 20,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0021.djvu",
+        "archive_leaf": 21,
+        "printed_page_label": "3",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1327,
+        "context": " alert status for the 9th MEB. BLT 1/9, then em- barked in the ships of Navy Task Group 76.5, 30 miles off Cap St. Jacques, a point 70 miles southeast of Saigon, reverted to a 96 -hour reaction time for a landing in South Vietnam while BLT 3/9 resumed normal operations . Political instability within South Vietnam caused this reprieve to be of short duration. On 22-23 * Battalion landing team (BLT) is the basic Marine unit in an assault landing. It is composed of an infantry battalion rein- forced by necessary combat and service elements. The rein- forcements are usually a battery of artillery; a platoon each of trucks (motor transport), tanks, amphibian tractors, recon- naissance, and engineers; and detachments of communications, sho",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-003",
+      "printedPage": "3",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 20,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0021.djvu",
+        "archive_leaf": 21,
+        "printed_page_label": "3",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 2523,
+        "context": "n its way to Hong Kong, was diverted first towards a position off Da Nang and then back to its former position off Cap St. Jacques. Arriving at its previous location on the 28th, the battalion stood by to land in Saigon if so directed. BLT 3/9, embarked in the ships of Navy Task Group 76.7, reached its assigned position off Da Nang on 29 January. The South Vietnamese formed an interim government and the Marines returned to normal shipboard routine . The confusing alert status of the amphibious forces resulting from the unstable conditions in Vietnam was the subject of extensive message traffic between General Westmoreland, Commander, U. S. Military Assistance Command, Vietnam (ComUSMACV), and Admiral Sharp. On 30 January, ComUSMACV r",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-004",
+      "printedPage": "4",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 21,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0022.djvu",
+        "archive_leaf": 22,
+        "printed_page_label": "4",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 240,
+        "context": "THE LANDING AND THE BUILDUP USMC Photo A1844^3 A Marine HA WK missile launcher is in position at the Da Nang Airfield. The HA WKS are designed to defend against la w- flying enemy aircraft . place in March. On 31 January, both BLTs 1/9 and 3/9 departed for Subic Bay with the latter on 72-hour reaction time for landing in Vietnam. Once more events in Vietnam were to alter training and deployment plans. Air Retaliation and the Arrival of the HAWKS On 7 February 1965, the Viet Cong (VC) attacked the U.S. compound at Pleiku in the Central Highlands, a provocation that altered the entire course of the war. In the early morning of the 7th, the Viet Cong attacking force laid dovm a mortar barrage on the advisors' quarters and airfield, kill",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-005",
+      "printedPage": "7",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 24,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0025.djvu",
+        "archive_leaf": 25,
+        "printed_page_label": "7",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 4273,
+        "context": "sador Taylor, in a message to the State Department on 22 February, agreed to placing one Marine BLT at Da Nang \"in view of General Westmoreland's un- derstandable concern for the safety of this important base.\"'* By this time, BLTs 1/9 and 3/9 were back on board ship at their former stations near Cap St. Jacques and Da Nang. The Task Force 76 flagship, the USS Mount McKinley (AGC 7), with the task force commander. Rear Admiral Don W. Wulzen, and General Karch on board, accompanied the amphibious task group carrying BLT 1/9 off Viet- nam. General Karch had met with Westmoreland and the MACV staff in Saigon. The Marines were",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-006",
+      "printedPage": "10",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 27,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0028.djvu",
+        "archive_leaf": 28,
+        "printed_page_label": "10",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 81,
+        "context": "10 THE LANDING AND THE BUILDUP m \\^ > *«•»<* USMC Photo A183676 Marines from BLT 3/9 came ashore on 8 March 1965 at RED Beach 2, northwest of Da Nang. The heavy surf delayed the landing for an hour. 2d, however, Karch cancelled both the exercise and the briefing when he received orders to proceed immediately to Da Nang. Boarding a Marine KC- 130F, the tanker /transport model of the C-130, General Karch and 28 members of his staff departed Okinawa at 2300. The aircraft stopped at Cubi Point to pick up staff members of Navy Task Force 76 and arrived in Da Nang the morning of the ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-007",
+      "printedPage": "10",
+      "category": "predecessor_3_9",
+      "match": "3 /9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 27,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0028.djvu",
+        "archive_leaf": 28,
+        "printed_page_label": "10",
+        "category": "predecessor_3_9",
+        "match": "3 /9",
+        "normalized_character_start": 847,
+        "context": "rs met General Karch and his group as they landed and escorted them about the airbase and landing beaches. At 1600, the MEB staff boarded its plane for the return flight to Subic Bay. The next day, the general issued a warning order to BLT 3 /9, which had been off the coast of Da Nang in Navy amphibious shipping since early February, to be prepared \"to administratively land the landing force.\" The BLT commander, Lieutenant Colonel Charles E. McPartlin, Jr., was to land his battalion at RED Beach 2, north of the airbase and west of the city of Da Nang, and move by truck convoy along Route 1 to defensive positions at the airfield.^\"* At the same time, the Marines and the Navy made refinements in dispositions of their tactical units. BLT",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-008",
+      "printedPage": "10",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 27,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0028.djvu",
+        "archive_leaf": 28,
+        "printed_page_label": "10",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1053,
+        "context": "ral issued a warning order to BLT 3 /9, which had been off the coast of Da Nang in Navy amphibious shipping since early February, to be prepared \"to administratively land the landing force.\" The BLT commander, Lieutenant Colonel Charles E. McPartlin, Jr., was to land his battalion at RED Beach 2, north of the airbase and west of the city of Da Nang, and move by truck convoy along Route 1 to defensive positions at the airfield.^\"* At the same time, the Marines and the Navy made refinements in dispositions of their tactical units. BLT 2/9, embarked on the ships of the amphibious ready group, relieved BLT 1/9 at Subic Bay. The JUNGLE DRUM III exercise was rescheduled for 14- 31 March and was scaled down from a MEB-size exercise with only BLT ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-009",
+      "printedPage": "10",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 27,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0028.djvu",
+        "archive_leaf": 28,
+        "printed_page_label": "10",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1823,
+        "context": "ticipating unit. General Karch flew back to Da Nang on 6 March and joined Admiral Wulzen on board the Mount McKinley, which was 10 miles off Da Nang with the rest of the task force. As the MEB commander later recalled: * Lieutenant Colonel McPartlin had enlisted in the Marine Corps in 1932. A first sergeant at the outbreak of World War II, he was commissioned a second lieutenant in 1942. He saw combat in both World War II and Korea.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-010",
+      "printedPage": "11",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 28,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0029.djvu",
+        "archive_leaf": 29,
+        "printed_page_label": "11",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 61,
+        "context": "THE CALL FOR MARINES 11 USMC Photo A 183798 Marines from BLT 3/9 continue landing across RED Beach 2. A member of the beach party {holding flag in foreground) directs traffic. On 7 March, I was sitting in my stateroom when Admiral Wulzen comes in and says, \"Here is a dispatch,\" which said, \"Close Da Nang, land the landing force.\" I looked at the dispatch, I looked at Admiral Wulzen, and I said \"Don, do you think in Washington they know what time it is in Da Nang? This means a night landing if we close Da Nang at this point. ' ' Karch went on to exclaim: And ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-011",
+      "printedPage": "11",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 28,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0029.djvu",
+        "archive_leaf": 29,
+        "printed_page_label": "11",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 940,
+        "context": "d it was about 12 o'clock. The move into the Da Nang harbor from which the landing would be launched was going to take about four to five hours. ^'* Upon his return to the command ship that evening, General Karch radioed Lieutenant Colonel McPartlin . He assured the battalion commander that Route 1 would be closed to civilians for 36 hours and that McPartlin would control traffic in the beachhead area. The Vietnamese would regulate movement along the rest of the route. The MEB commander concluded: \"Unless the situation ashore changes during the night, you can count on an administrative move from beachhead to airfield. Speed in execution is essential ....\"\" Shortly afterward, General Karch ordered the execution of OPlan-37D. The plan, with ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-012",
+      "printedPage": "11",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 28,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0029.djvu",
+        "archive_leaf": 29,
+        "printed_page_label": "11",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1051,
+        "context": "to take about four to five hours. ^'* Upon his return to the command ship that evening, General Karch radioed Lieutenant Colonel McPartlin . He assured the battalion commander that Route 1 would be closed to civilians for 36 hours and that McPartlin would control traffic in the beachhead area. The Vietnamese would regulate movement along the rest of the route. The MEB commander concluded: \"Unless the situation ashore changes during the night, you can count on an administrative move from beachhead to airfield. Speed in execution is essential ....\"\" Shortly afterward, General Karch ordered the execution of OPlan-37D. The plan, with H-hour set for 0800, 8 March, scheduled general unloading to be completed by 1600 the next day. Lieutenant Colo",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-013",
+      "printedPage": "11",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 28,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0029.djvu",
+        "archive_leaf": 29,
+        "printed_page_label": "11",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1564,
+        "context": ". Speed in execution is essential ....\"\" Shortly afterward, General Karch ordered the execution of OPlan-37D. The plan, with H-hour set for 0800, 8 March, scheduled general unloading to be completed by 1600 the next day. Lieutenant Colonel McPartlin planned for Company I to land over the northern portion of RED Beach 2 and Company K over the southern sector. They were to insure that the landing area was secure and provide the advance guard for the movement to the airfield. Company M was designated battalion reserve. At 0545 on the 8th, the four ships of Amphibious Task Force 76, the flagship Mount McKinley, the attack transport USS Henrico (APA 45), attack cargo ship USS Union (AKA 106), and amphibious transport dock USS Vancouver (LPD 2) ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-014",
+      "printedPage": "12",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 29,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0030.djvu",
+        "archive_leaf": 30,
+        "printed_page_label": "12",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 982,
+        "context": "craft (LCVPs) be rescheduled for larger and heavier landing craft (LCMs). The first wave of assault troops in 11 Marine amphibian tractors (LVTPs) touched down at RED Beach 2 just three minutes late and the fourth and final assault wave of 3/9 landed at 0918. * On the beach, the commander of I Corps Tactical Zone (I CTZ), General Thi, and the Mayor of Da Nang welcomed General Karch while a group of Vietnamese university students led by a vanguard of pretty girls holding leis of flowers greeted the Marines.** Vietnamese troops secured the beachhead and the route to the airfield. The first echelons of Company L moved out from the beachhead at 0945 . Banners in both Vietnamese and English were strung along the route of march welcoming t",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-015",
+      "printedPage": "16",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 33,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0034.djvu",
+        "archive_leaf": 34,
+        "printed_page_label": "16",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 808,
+        "context": "eclared that \"overall responsiblity for the defense of Da Nang area remains a RVNAF [Republic of Vietnam Armed Forces] responsibility.\"^ To carry out this limited mission, General Karch had nearly 5,000 Marines under his command, including McPartlin's and Bain's infantry battalions, two helicopter squadrons, and limited logistic and combat support forces. The brigade had absorbed the former Marine Unit Vietnam (MUV), or Task Unit 79.3.5 , better remembered as SHUFLY. On 9 March the MUV became Marine Aircraft Group (MAG) 16. Colonel John H. King, Jr., the former MUV commander and veteran Marine aviator who had commanded a helicopter squadron in Korea, assumed command of MAG-16. The 9th MEB air-ground team at Da Nang faced a difficult logist",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-016",
+      "printedPage": "16",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 33,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0034.djvu",
+        "archive_leaf": 34,
+        "printed_page_label": "16",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 3225,
+        "context": " 12 March and the arrival of its commanding officer, Lieutenant Colonel George H. Smith, six days later, the first two weeks for the MEB were a logistic nightmare. The entire brigade subsisted on the 15 days of rations that had landed with McPartlin's battalion and an 'Colonel Oddy wrote in 1976:'' . . . this was a time when unrestricted officers with infantry MOSs could be assigned command of service units. This was fortunate for me as I had previous command experience with infantry platoons, com- panies and battalions and it seemed unlikely I would command one of the infantry regiments of the Division. Command of a large service organization and the opportunity to formulate frgm scratch a larger task organized service and support group w",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-017",
+      "printedPage": "18",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 35,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0036.djvu",
+        "archive_leaf": 36,
+        "printed_page_label": "18",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 2193,
+        "context": "y moving into the Da Nang area in strength and that the situation was changing. \"'\" In contrast to the helicopter squadrons, the USMC Photo A183859 Lieutenant General Krulak; Ueutenant Colonel Charles E. McPartlin, Jr., Commanding Officer, 3d Battalion, 9th Marines; Brigadier General Karch; and Lieutenant Colonel Joseph E. Muir, 9th MEB operations officer {left to right) study the terrain from Hill 327 west of Da Nang. This hill was the highest point in the 9th MEB area of operations. Marine infantry battalions were confined to the approximately eight square miles of relatively un- populated terrain encompassing the airfield and the high ground to the west which made up the MEB's tactical area of responsibility (TAOR). * * Within the Marines' TAOR, Bain's",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-018",
+      "printedPage": "18",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 35,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0036.djvu",
+        "archive_leaf": 36,
+        "printed_page_label": "18",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 2796,
+        "context": "ain encompassing the airfield and the high ground to the west which made up the MEB's tactical area of responsibility (TAOR). * * Within the Marines' TAOR, Bain's 1st Battalion, 3d Marines manned defenses on the airfield while McPartlin 's 3d Battalion, 9th Marines moved to forward positions on hill mass 268-327 due west of the base. There, the latter battalion not only protected the airfield but also provided security for Battery B of the LAAM Battalion which moved to Hill 327. To accomplish the mission of airfield defense. Bain's battalion established an extensive system of listening posts forward of the company defensive areas around the *The U. S. Army helicopters belonged to the Utility Tactical Transport Detachment, 68th Aviation Company, USA, also ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-019",
+      "printedPage": "18",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 35,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0036.djvu",
+        "archive_leaf": 36,
+        "printed_page_label": "18",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 2157,
+        "context": " this mission that the VC were really moving into the Da Nang area in strength and that the situation was changing. \"'\" In contrast to the helicopter squadrons, the USMC Photo A183859 Lieutenant General Krulak; Ueutenant Colonel Charles E. McPartlin, Jr., Commanding Officer, 3d Battalion, 9th Marines; Brigadier General Karch; and Lieutenant Colonel Joseph E. Muir, 9th MEB operations officer {left to right) study the terrain from Hill 327 west of Da Nang. This hill was the highest point in the 9th MEB area of operations. Marine infantry battalions were confined to the approximately eight square miles of relatively un- populated terrain encompassing the airfield and the high ground to the west which made up the MEB's tactical area of respons",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-020",
+      "printedPage": "18",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 35,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0036.djvu",
+        "archive_leaf": 36,
+        "printed_page_label": "18",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 2783,
+        "context": "opulated terrain encompassing the airfield and the high ground to the west which made up the MEB's tactical area of responsibility (TAOR). * * Within the Marines' TAOR, Bain's 1st Battalion, 3d Marines manned defenses on the airfield while McPartlin 's 3d Battalion, 9th Marines moved to forward positions on hill mass 268-327 due west of the base. There, the latter battalion not only protected the airfield but also provided security for Battery B of the LAAM Battalion which moved to Hill 327. To accomplish the mission of airfield defense. Bain's battalion established an extensive system of listening posts forward of the company defensive areas around the *The U. S. Army helicopters belonged to the Utility Tactical Transport Detachment, 68th",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-021",
+      "printedPage": "19",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 36,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0037.djvu",
+        "archive_leaf": 37,
+        "printed_page_label": "19",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 533,
+        "context": "to any sector of the airfield. The inherent difficulty of the unit's defensive assignment was that the battalion could not establish listening posts or conduct defensive reconnaissance patrols beyond the confines of the airfield . Although McPartlin's battalion ran patrols into the hills to the west, his Marines encountered no Viet Cong. In fact, the first Americans casualties were inflicted by another Marine when two men from a three-man listening post left their positions to investigate a suspicious movement to their front. The two men apparently lost their way in the dark and came upon their remaining partner from the rear. He turned and opened fire, mortally wounding his two comrades . Initially, the Marine infantrymen suffered more fr",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-022",
+      "printedPage": "19",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 36,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0037.djvu",
+        "archive_leaf": 37,
+        "printed_page_label": "19",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1678,
+        "context": "Bain's relief of some ARVN forces at the airfield on 13 March was delayed when the Viet- namese refused to leave their positions. The Marines had to make further liaison with the ARVN headquarters before completing the relief the next day. McPartlin's battalion recorded a similar ex- perience. The Marines attempted to establish a mutual check point with the Popular Forces (PF), Vietnam's home defense militia.* The PFs showed * Popular Forces were Vietnamese who were recruited and served in their local villages and hamlets. Regional Forces (RFs) were Vietnamese forces recruited within a province and assigned to the province chief. Although comparison with the U. S. institutions is not exact, one could say that PFs were county- or parish-typ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-023",
+      "printedPage": "20",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 37,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0038.djvu",
+        "archive_leaf": 38,
+        "printed_page_label": "20",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 119,
+        "context": "20 THE LANDING AND THE BUILDUP up at the check point, but then quickly disappeared. These experiences with the PFs led McPartlin to comment, \"that the PFs were most unreliable military personnel.\"\" To add to the 3d Battalion's problems , fire discipline in an ARVN training camp southeast of the battalion was nonexistent. Periodically, uncomfortable moments occurred as ARVN recruits inadvertently fired towards the unit's positions. The area south and east of the airbase remained the responsibility of the ARVN because General Thi wanted to keep the Marines away from the populated area, fearing that the Americans might prov",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-024",
+      "printedPage": "25",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/3: Clement and 2/3 landing context. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 42,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0043.djvu",
+        "archive_leaf": 43,
+        "printed_page_label": "25",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 1612,
+        "context": "ns off Tiensha Peninsula and general unloading continued. A provisional task force under Lieutenant Colonel Qement, consisting of Companies F and G of the 2d Battalion, 3d Marines and support elements was helilifted to Phu Bai. At Da Nang, Company H took up positions on Hills 278 and 312 north of the high ground held by the 1st Battalion, 3d Marines while Company E remained on board the ships to assist with the unloading. The next day. Company E joined Company H. General Westmoreland complimented General Karch : MACV staff officers who observed the amphibious landing at Da Nang and air movement to Phu Bai of elements of your command on 10 April report the movement was accomplished smoothly and profes- * According to Major Marc A. Moore, th",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-025",
+      "printedPage": "25",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/3: Clement and 2/3 landing context. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 42,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0043.djvu",
+        "archive_leaf": 43,
+        "printed_page_label": "25",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 1829,
+        "context": "o Phu Bai. At Da Nang, Company H took up positions on Hills 278 and 312 north of the high ground held by the 1st Battalion, 3d Marines while Company E remained on board the ships to assist with the unloading. The next day. Company E joined Company H. General Westmoreland complimented General Karch : MACV staff officers who observed the amphibious landing at Da Nang and air movement to Phu Bai of elements of your command on 10 April report the movement was accomplished smoothly and profes- * According to Major Marc A. Moore, the S-3 of the 2d Battalion, 3d Marines, \"The original plan called for unloading BLT 2/3 at the mouth of the Hue River and moving to Hue via the river with flank security on each bank. A specific plan was drawn up to ca",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-026",
+      "printedPage": "33",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 50,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0051.djvu",
+        "archive_leaf": 51,
+        "printed_page_label": "33",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 234,
+        "context": "THE 9TH MEB IN VIETNAM 33 end of these talks , the commander set H-Hour for the amphibious portion of the operation at 0800, 7 May. Units from the ARVN 2d Division which had secured the Chu Lai area were joined on 6 May by Company K, 3d Battalion, 9th Marines from Da Nang to provide additional beach security. All was ready and the U.S. Army advisors with the ARVN had even prepared their own sign to greet the landing force, \"Ahoy Marines: Welcome Aboard, Area Secured.\" Colonel Edward Cook, who at the time was General Collins' G-2, in 1976 wrote: Prior to the landing, I was at General Lam's [Brigadier General Hoang Xuan Lam] headquarters for his briefing on the coordination required between units from his ARVN 2d Division and the Landing Force. I aske",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-027",
+      "printedPage": "49",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 66,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0067.djvu",
+        "archive_leaf": 67,
+        "printed_page_label": "49",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1558,
+        "context": "he entire subject of the total U.S. troop commitment to the war in Vietnam was undergoing reconsideration. * LtCol Taylor relieved LtCol Jones when the latter suffered a heart attack on 28 April 1965. **On 11 June, 1/9 arrived and relieved 3/9, which returned to Okinawa for transfer back to the United States. This ex- change of units was in line with the peacetime battalion transplacement system then in effect and could not in any sense be considered a reinforcement.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-028",
+      "printedPage": "49",
+      "category": "replacement_system",
+      "match": "transplacement",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 66,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0067.djvu",
+        "archive_leaf": 67,
+        "printed_page_label": "49",
+        "category": "replacement_system",
+        "match": "transplacement",
+        "normalized_character_start": 1695,
+        "context": "Jones when the latter suffered a heart attack on 28 April 1965. **On 11 June, 1/9 arrived and relieved 3/9, which returned to Okinawa for transfer back to the United States. This ex- change of units was in line with the peacetime battalion transplacement system then in effect and could not in any sense be considered a reinforcement.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-029",
+      "printedPage": "55",
+      "category": "direct_2_5",
+      "match": "2d Battalion, 5th Marines",
+      "disposition": "designation_exchange_context",
+      "note": "Outward-bound 2/5 became new 3/9; retain distinction from returning 3/9. No June arrival assigned to returning battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 72,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0073.djvu",
+        "archive_leaf": 73,
+        "printed_page_label": "55",
+        "category": "direct_2_5",
+        "match": "2d Battalion, 5th Marines",
+        "normalized_character_start": 1145,
+        "context": "e U.S. under the battalion transplacement system. Under this system, a battalion from the 1st Marine Division in California relieved a battalion of the 3d Marine Division in the Western Pacific, exchanging designation and mission. Thus the 2d Battalion, 5th Marines when it arrived in Okinawa at the end of June became the 3d Battalion, 9th Marines. In the movement of the 7th Marines battalions there was no change in designation since they actually reinforced the 3d Marine Division. dock landing ship Alamo (LSD 33) and the attack transport Okanogan (APA 220) at Okinawa since 30 June, awaiting permission to deploy to South Vietnam. When the battalion received its new mission, the ships sailed, arriving off Qui Nhon on the evening of 6 July. The selected land",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-030",
+      "printedPage": "55",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "designation_exchange_context",
+      "note": "Outward-bound 2/5 became new 3/9; retain distinction from returning 3/9. No June arrival assigned to returning battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 72,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0073.djvu",
+        "archive_leaf": 73,
+        "printed_page_label": "55",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 818,
+        "context": "d to arrive later in the year. Admiral Sharp approved the request and General Krulak assigned Lieutenant Colonel Leon N. Utter 's BLT 2/7 for the Qui Nhon mission.\"* The Marines of BLT 2/7 had been embarked in the * 2/7 was substituted for 3/9 to go into Vietnam because the latter battalion had just arrived on Okinawa from the U.S. under the battalion transplacement system. Under this system, a battalion from the 1st Marine Division in California relieved a battalion of the 3d Marine Division in the Western Pacific, exchanging designation and mission. Thus the 2d Battalion, 5th Marines when it arrived in Okinawa at the end of June became the 3d Battalion, 9th Marines. In the movement of the 7th Marines battalions there was no change ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-031",
+      "printedPage": "55",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "designation_exchange_context",
+      "note": "Outward-bound 2/5 became new 3/9; retain distinction from returning 3/9. No June arrival assigned to returning battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 72,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0073.djvu",
+        "archive_leaf": 73,
+        "printed_page_label": "55",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 1228,
+        "context": "om the 1st Marine Division in California relieved a battalion of the 3d Marine Division in the Western Pacific, exchanging designation and mission. Thus the 2d Battalion, 5th Marines when it arrived in Okinawa at the end of June became the 3d Battalion, 9th Marines. In the movement of the 7th Marines battalions there was no change in designation since they actually reinforced the 3d Marine Division. dock landing ship Alamo (LSD 33) and the attack transport Okanogan (APA 220) at Okinawa since 30 June, awaiting permission to deploy to South Vietnam. When the battalion received its new mission, the ships sailed, arriving off Qui Nhon on the evening of 6 July. The selected landing area, GREEN Beach, was south of the city and had been secured by Bodley's batta",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-032",
+      "printedPage": "55",
+      "category": "regimental_context",
+      "match": "5th Marines",
+      "disposition": "designation_exchange_context",
+      "note": "Outward-bound 2/5 became new 3/9; retain distinction from returning 3/9. No June arrival assigned to returning battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 72,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0073.djvu",
+        "archive_leaf": 73,
+        "printed_page_label": "55",
+        "category": "regimental_context",
+        "match": "5th Marines",
+        "normalized_character_start": 1159,
+        "context": "he battalion transplacement system. Under this system, a battalion from the 1st Marine Division in California relieved a battalion of the 3d Marine Division in the Western Pacific, exchanging designation and mission. Thus the 2d Battalion, 5th Marines when it arrived in Okinawa at the end of June became the 3d Battalion, 9th Marines. In the movement of the 7th Marines battalions there was no change in designation since they actually reinforced the 3d Marine Division. dock landing ship Alamo (LSD 33) and the attack transport Okanogan (APA 220) at Okinawa since 30 June, awaiting permission to deploy to South Vietnam. When the battalion received its new mission, the ships sailed, arriving off Qui Nhon on the evening of 6 July. The selected land",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-033",
+      "printedPage": "55",
+      "category": "replacement_system",
+      "match": "transplacement",
+      "disposition": "designation_exchange_context",
+      "note": "Outward-bound 2/5 became new 3/9; retain distinction from returning 3/9. No June arrival assigned to returning battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 72,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0073.djvu",
+        "archive_leaf": 73,
+        "printed_page_label": "55",
+        "category": "replacement_system",
+        "match": "transplacement",
+        "normalized_character_start": 932,
+        "context": "eon N. Utter 's BLT 2/7 for the Qui Nhon mission.\"* The Marines of BLT 2/7 had been embarked in the * 2/7 was substituted for 3/9 to go into Vietnam because the latter battalion had just arrived on Okinawa from the U.S. under the battalion transplacement system. Under this system, a battalion from the 1st Marine Division in California relieved a battalion of the 3d Marine Division in the Western Pacific, exchanging designation and mission. Thus the 2d Battalion, 5th Marines when it arrived in Okinawa at the end of June became the 3d Battalion, 9th Marines. In the movement of the 7th Marines battalions there was no change in designation since they actually reinforced the 3d Marine Division. dock landing ship Alamo (LSD 33) and the attack transpo",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-034",
+      "printedPage": "56",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/9: Explicit photo caption. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 73,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0074.djvu",
+        "archive_leaf": 74,
+        "printed_page_label": "56",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 2365,
+        "context": "team. Two rifle squads took up blocking positions to counter any reaction force, while the recoilless rifle team backed up the mortars. At approximately 0115, the 13 men of the demolition team tunneled under USMC Photo A194609 Marines from Company H, 2d Battalion, 9th Marines stop a Vietnamese civilian bus on Route 1, 12 miles south of Da Nang in a search for VC guerrillas. The troops are checking civilian ID cards and looking for unauthorized weapons and am- munition . the outer defensive wire, crossed the open area, and cut a hole in the inner perimeter fence. ^^ Lieutenant Colonel Verle E. Ludwig's 1st Bat- talion, 9th Marines was responsible for airfield defense. All four companies and the battalion CP had been located on the airfield,",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-035",
+      "printedPage": "61",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 78,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0079.djvu",
+        "archive_leaf": 79,
+        "printed_page_label": "61",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 981,
+        "context": "gh the order to deactivate came on 7 August, the provisional battalion remained in existence for two more weeks, sharing the airfield defense mission with the two companies of the 1st Battalion, 9th Marines and later with the newly arrived 3d Battalion, 9th Marines. The 3d Battalion assumed the entire mission of base defense on the formal deactivation of the provisional battalion on 22 August . The provisional battalion had served its purpose, in that the 9th Marines was able to begin the oc- cupation of its new TAOR. Of particular concern was the area to the south of the Cau Do. The 9th Marines area of responsibility now extended to the South China Sea on the east, the Yen River on the west, and approximately three and a half miles to the south of the So",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-036",
+      "printedPage": "65",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 82,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0083.djvu",
+        "archive_leaf": 83,
+        "printed_page_label": "65",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 2556,
+        "context": "se I forces. For the Marine Corps, the immediate result of the conference was the decision to reinforce IE MAF with the 7th Marines regimental headquarters and the remaining two battalions on Okinawa, the 1st Battalion, 7th Marines and the 3d Battalion, 9th Marines. The arrival of the 7th Marines at Chu Lai on 14 August was to signal the beginning of the first major Marine offensive against a main force Viet Cong unit.* *The regimental headquarters and BLT 1/7 landed at Chu Lai on this date. BLT 3/9 arrived at Da Nang and relieved the 1st Battahon, 9th Marines of the responsibility for airfield defense.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-037",
+      "printedPage": "65",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 82,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0083.djvu",
+        "archive_leaf": 83,
+        "printed_page_label": "65",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 2817,
+        "context": "ines. The arrival of the 7th Marines at Chu Lai on 14 August was to signal the beginning of the first major Marine offensive against a main force Viet Cong unit.* *The regimental headquarters and BLT 1/7 landed at Chu Lai on this date. BLT 3/9 arrived at Da Nang and relieved the 1st Battahon, 9th Marines of the responsibility for airfield defense.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-038",
+      "printedPage": "70",
+      "category": "regimental_context",
+      "match": "5th Marines",
+      "disposition": "broader_context",
+      "note": "Regimental/leadership or replacement-system background; no direct 2/5 participation established.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 87,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0088.djvu",
+        "archive_leaf": 88,
+        "printed_page_label": "70",
+        "category": "regimental_context",
+        "match": "5th Marines",
+        "normalized_character_start": 2460,
+        "context": "ing World War II including the Makin Island Raid and Iwo Jima. For his actions on Makin Island, he was awarded the Navy Cross. Colonel Peatross had served previously as a battalion commander under General Walt when the latter commanded the 5th Marines in Korea. and BLT 1/7 on the 14th made the risk acceptable. Walt told the assembled officers: At most, all we're going to dig up is two battalions. If we dig up as many as two battalions, we've got to have the amphibious means of making a [landing] and our ultimate action depends upon how we come to grips with this thing. He then turned to Colonel Peatross, and according to the latter stated, \"Pete, you're the only one available.\" General Walt then returned to Da Nang and made the final decisio",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-039",
+      "printedPage": "71",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 88,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0089.djvu",
+        "archive_leaf": 89,
+        "printed_page_label": "71",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1310,
+        "context": "Marines were to move northeast to the South China Sea. Fortunately for the 7th Marines, the ships of Amphibious Squadron (Phibron) 7, which had brought the regiment to Vietnam, were at Chu Lai unloading BLT 1/7 and Da Nang disembarking BLT 3/9. Colonel Peatross later wrote: On the evening of 16 August the Amphibious Group Commander, Captain W. [William] R. McKinney, USN, under whose command most of the ships operated, had to be informed of the operation. Colonel Peatross sent his RLT S-4, Major Floyd J. Johnson, Jr., out to Captain McKinney 's flagship to inform him of the operation and to brief him on the plans as we knew them. This was a timely move as one of the ships had just sailed from Chu Lai and was on its way to Hong Kong. C",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-040",
+      "printedPage": "71",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Fisher battalion STARLITE plan. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 88,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0089.djvu",
+        "archive_leaf": 89,
+        "printed_page_label": "71",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 2783,
+        "context": "one mile inland from the sea, closing off the VCs' retreat. Soon after H-Hour, UH-34s from Marine Medium Helicopter Squadrons 261 and 361 were to shuttle Fisher's 2d Battalion into the three LZs. The two battalions were to join forces when Company H from LZ BLUE linked up with Company I outside the hamlet of An Cuong (2), 1 ,800 meters inland from GREEN Beach.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-041",
+      "printedPage": "72",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: STARLITE landing sequence. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 89,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0090.djvu",
+        "archive_leaf": 90,
+        "printed_page_label": "72",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 3714,
+        "context": " platoons quickly moved northward and the enemy fire ceased. The third platoon secured the northern half of An Cuong (1). Fifteen minutes after H-Hour, Company G landed at LZ RED. Company E and Fisher's command group landed at LZ WHITE and Company H arrived at LZ BLUE 45 minutes later. On the beach. Lieutenant Colonel Muir, who had moved his CP ashore, was joined at 0730 by Colonel Peatross and his staff. Tanks and Ontos rolled off the LCUs and LCMs and made their way forward to support the assault companies. Company L came ashore and established perimeter security for the supply area at the beach. Most of the Marine companies met only light resistance as they moved into the attack. Company G searched two hamlets in the vicinity of LZ RED ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-042",
+      "printedPage": "75",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 92,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0093.djvu",
+        "archive_leaf": 93,
+        "printed_page_label": "75",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 387,
+        "context": " in all directions. Two small knolls dominated the flat terrain. Hill 43, a few hundred meters southwest of Nam Yen (3), and Hill 30, 400 meters north of An Cuong (2). LZ BLUE was just south of Nam Yen (3), between Hill 43 and the hamlet . Company H's LZ was almost on top of the 60th VC Battalion. The enemy allowed the first helicopters to touch down with little interference, but then opened up as the others came in. According to one of the helicopter pilots. Captain Howard B. Henry from HMM-361, ' 'You just had to close your eyes and drop down to the deck. ' '* Three U.S. Army UH-IB Huey gunships from the 7th Airlift Platoon, took the VC on Hill 43 under fire while the infantry company formed a defensive perimeter around the landing zone.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-043",
+      "printedPage": "75",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 92,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0093.djvu",
+        "archive_leaf": 93,
+        "printed_page_label": "75",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 901,
+        "context": "had to close your eyes and drop down to the deck. ' '* Three U.S. Army UH-IB Huey gunships from the 7th Airlift Platoon, took the VC on Hill 43 under fire while the infantry company formed a defensive perimeter around the landing zone. The Company H commander. First Lieutenant Homer K. Jenkins, was not yet aware of the size of the enemy force. He ordered one platoon to take the hill and the rest of the company to secure Nam Yen (3). Both attacks soon stalled. The platoon attacking Hill 43 was still at the bottom of the hill when Jenkins called back his other two platoons from the outskirts of Nam Yen (3) in order to regroup. He requested air strikes against both the enemy hill position and Nam Yen (3). He then renewed the attack, but this ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-044",
+      "printedPage": "75",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 92,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0093.djvu",
+        "archive_leaf": 93,
+        "printed_page_label": "75",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 3740,
+        "context": "field, Purnell counted 50 Viet Cong bodies. He then radioed his battalion commander for further instructions. Muir ordered Purnell 's company to join Company K, which was heavily engaged at Phase Line BANANA, 2,000 meters to the northeast. Company H remained near Nam Yen (3) to clean out all enemy opposition there and then planned to link up with Muir's battalion. As Company I was preparing to move from An Cuong (2), a UH-IE gunship from Lieutenant Colonel George F. Bauman's VMO-2 was shot down by enemy small arms fire northeast of the hamlet. Lieutenant Colonel Muir ordered Purnell to leave some men behind to protect the helicopter. The lieutenant ordered two squads and three tanks to stay with the helicopter until the craft was evacuated",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-045",
+      "printedPage": "75",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 92,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0093.djvu",
+        "archive_leaf": 93,
+        "printed_page_label": "75",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 4312,
+        "context": "r ordered Purnell to leave some men behind to protect the helicopter. The lieutenant ordered two squads and three tanks to stay with the helicopter until the craft was evacuated. As the company departed, its members could see that Jenkins' Company H had left Hill 43 and was ad- vancing on the left flank of Company L At 1100 Jenkins led his unit, augmented by five tanks and three Ontos, from the HiU 43 area into the open rice paddy between Nam Yen (3) and An Cuong (2). Jenkins bypassed Nam Yen (3) as he mistakenly believed that Company I had cleared both hamlets. Suddenly, from positions in Nam Yen (3) and from Hill 30, the VC opened up with smaU arms and machine gun fire, catching the Marine rear guard in a murderous crossfire. Then mortar",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-046",
+      "printedPage": "75",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 92,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0093.djvu",
+        "archive_leaf": 93,
+        "printed_page_label": "75",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 4868,
+        "context": "oth hamlets. Suddenly, from positions in Nam Yen (3) and from Hill 30, the VC opened up with smaU arms and machine gun fire, catching the Marine rear guard in a murderous crossfire. Then mortar shells began bursting upon the lead platooas. Company H",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-047",
+      "printedPage": "76",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 93,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0094.djvu",
+        "archive_leaf": 94,
+        "printed_page_label": "76",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 848,
+        "context": "attacked Hill 30. About 1400, the company tried to move back to the landing zone. The lead platoon was forced to alter course when medical evacuation helicopters tried to land in the midst of the unit . As it maneuvered off to the flank of Company H, this platoon became separated from Jenkins' main body and was engaged by the Viet Cong. At this juncture, the platoon unexpectedly linked up with Purnell's helicopter security detail which had started to move toward its parent company after the downed helicopter had been repaired and flown out. The small force was quickly engaged by a Viet Cong unit, but together the two Marine units fought their way to An Cuong (2).** Meanwhile, Jenkins and his other two platoons fought a delaying action and ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-048",
+      "printedPage": "76",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 93,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0094.djvu",
+        "archive_leaf": 94,
+        "printed_page_label": "76",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 1996,
+        "context": "\" to Company I, which, at the time, was only a ' 'few hundred yards\" in front of Comer's command group. Major Comer recalled that he briefed both the five LVTs and the section officers of * Lance Corporal Joe C. Paul, a fire team leader in Company H, was posthumously awarded the Medal of Honor for his gallant actions during the engagement near Nam Yen (3). A copy of his citation is printed in Appendix D. ** Company I senior squad leader, Corporal Robert E. O'Malley, killed eight VC single-handedly that day. For his action, O'Malley became the first Marine to receive the Medal of Honor in Vietnam although Captain Frank S. Reasoner was later posthumously awarded the medal for an action in July 1965. See Chapter 11. Copies of both citations a",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-049",
+      "printedPage": "76",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 93,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0094.djvu",
+        "archive_leaf": 94,
+        "printed_page_label": "76",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 4348,
+        "context": " \"was to gather whatever other support ... [he] could and to rescue them as rapidly as possible.\" Major Comer told Colonel Peatross about the proposed rescue mission. The regimental commander, well aware of the vulnerable positions of both Company H and the supply column and fearing that the enemy was at- tempting to drive a salient between the two bat- talions, heartily approved and provided Comer with ' 'the single available M-48 tank for support . \" ' i ♦ ♦ ♦ When Company I arrived at the rear CP, Comer held a hurried briefing with Lieutenant Purnell and * * * Colonel Peatross later stated that the enemy force which ambushed the supply column may have been getting ready to hit the regimental CP when the LVTs rumbled into them. Peatross,",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-050",
+      "printedPage": "77",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 94,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0095.djvu",
+        "archive_leaf": 95,
+        "printed_page_label": "77",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 2047,
+        "context": "oded area to their right front and forced to take what cover they could in the open rice paddies. At the time, the Marines came upon the two reinforced squads from Company I which had been left to guard the downed Huey and the platoon from Company H. The two squads from Company I fought their way to Hill 30 where they were evacuated while the Company H platoon remained with Comer in the rice paddies. At this point Comer recalled: When it became obvious that I could not move the \"B\" group [the command group] in either direction ... I radioed instructions to Lieutenant Purnell to extricate the supply column as rapidly as he could as I deemed that the",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-051",
+      "printedPage": "77",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 94,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0095.djvu",
+        "archive_leaf": 95,
+        "printed_page_label": "77",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 2152,
+        "context": "time, the Marines came upon the two reinforced squads from Company I which had been left to guard the downed Huey and the platoon from Company H. The two squads from Company I fought their way to Hill 30 where they were evacuated while the Company H platoon remained with Comer in the rice paddies. At this point Comer recalled: When it became obvious that I could not move the \"B\" group [the command group] in either direction ... I radioed instructions to Lieutenant Purnell to extricate the supply column as rapidly as he could as I deemed that the",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-052",
+      "printedPage": "78",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 95,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0096.djvu",
+        "archive_leaf": 96,
+        "printed_page_label": "78",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 4620,
+        "context": "t and Company L from Bodley 's battalion following in reserve, was to attack to the northeast from Phase Line BANANA. Simultane- ously, Fisher's unit, with Companies E and G, was to drive eastward to the sea, joining Muir's force. Jenkins' Company H, Comer's group, and Com- pany I were to withdraw to the regimental CP.*** The remainder of Lieutenant Colonel Bodley 's 3d Battalion, 7th Marines was to fill the gap. Com- panies I and M of his unit were to move out of the regimental CP, extr^'ct the ambushed supply col- umn, and then move toward An Thoi (2) to **At about 0530 the next morning, the ships ceased firing; their magazines had been emptied of star (illumination) shells. ♦♦♦Company H had accounted for 156 dead VC and sustained 45 eva",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-053",
+      "printedPage": "78",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Jenkins company during STARLITE; explicit confirmation in Paul citation p.243. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 95,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0096.djvu",
+        "archive_leaf": 96,
+        "printed_page_label": "78",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 5069,
+        "context": "were to move out of the regimental CP, extr^'ct the ambushed supply col- umn, and then move toward An Thoi (2) to **At about 0530 the next morning, the ships ceased firing; their magazines had been emptied of star (illumination) shells. ♦♦♦Company H had accounted for 156 dead VC and sustained 45 evacuated casualties; 15 killed and 30 hospitalized.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-054",
+      "printedPage": "91",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/7: Utter battalion, STOMP context pp.90–91. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 108,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0109.djvu",
+        "archive_leaf": 109,
+        "printed_page_label": "91",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 555,
+        "context": "TOMP. When a thorough review of his orders and message traffic revealed nothing prohibiting the use of such munitions, the battalion commander approved and ordered the execution of the operation. Operation STOMP unfolded according to plan. Company H made its LVT assault through the mud flats of Qui Nhon bay while Company F landed by helicopter to cut off the VC avenues of retreat . The two companies closed their cordon around the Viet Cong, killing 26 and capturing three. With escape denied, the enemy went underground, taking many local peasants with them for use as human shields. During the mop-up of the area, a much -publicized action occurred. As the Marines slowly and meth- odically searched out a complex of tunnels, they threw in tear",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-055",
+      "printedPage": "108",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/9 and H/2/7: Footnote distinguishes attached H/2/9 from H/2/7 on mortar security. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 125,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0126.djvu",
+        "archive_leaf": 126,
+        "printed_page_label": "108",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 1468,
+        "context": "alion in strength. Earlier that morning, after evacuating 54 Marines suffering from immersion foot,* the battalion had moved out in a column formation with Company G in the lead, followed by Company F, Headquarters and Service Company, and Company H, 2d Battalion, 9th Marines.** The Marines moved along a narrow road which wound through hedgerow-bordered rice paddies. The Viet Cong allowed the lead company to pass through the village of Ky Phu, four miles from Route 1, before opening fire on the Company G advance guard. At * Immersion foot is an extremely painful foot condition, a symptom of which is swelling which takes on a puffy, wrinkled look. This malady was caused' by prolonged wear of wet footgear and continued to plague the Marines ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-056",
+      "printedPage": "108",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/9 and H/2/7: Footnote distinguishes attached H/2/9 from H/2/7 on mortar security. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 125,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0126.djvu",
+        "archive_leaf": 126,
+        "printed_page_label": "108",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 2000,
+        "context": "mersion foot is an extremely painful foot condition, a symptom of which is swelling which takes on a puffy, wrinkled look. This malady was caused' by prolonged wear of wet footgear and continued to plague the Marines throughout the war. ** Company H, 2d Battalion, 9th Marines had been attached to Utter' s battalion on 13 December, replacing Company E which had taken heavy casualties. Company H, 2d Battalion, 7th Marines was not with the column. It was providing security for the 107mm Mortar Battery, 1st Battalion, 12th Marines. first. Lieutenant Colonel Utter thought that the enemy force consisted only of a few snipers, and ordered Company G to clear the area south of the road and moved Company F forward. Company F had just passed through ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-057",
+      "printedPage": "108",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/9 and H/2/7: Footnote distinguishes attached H/2/9 from H/2/7 on mortar security. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 125,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0126.djvu",
+        "archive_leaf": 126,
+        "printed_page_label": "108",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 2147,
+        "context": "by prolonged wear of wet footgear and continued to plague the Marines throughout the war. ** Company H, 2d Battalion, 9th Marines had been attached to Utter' s battalion on 13 December, replacing Company E which had taken heavy casualties. Company H, 2d Battalion, 7th Marines was not with the column. It was providing security for the 107mm Mortar Battery, 1st Battalion, 12th Marines. first. Lieutenant Colonel Utter thought that the enemy force consisted only of a few snipers, and ordered Company G to clear the area south of the road and moved Company F forward. Company F had just passed through the east end of Ky Phu when enemy mortar rounds dropped on H&S Company, still in the open paddies west of the hamlet. Two Viet Cong companies tried",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-058",
+      "printedPage": "108",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/9 and H/2/7: Footnote distinguishes attached H/2/9 from H/2/7 on mortar security. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 125,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0126.djvu",
+        "archive_leaf": 126,
+        "printed_page_label": "108",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 3572,
+        "context": "H&S Company fought its way into Ky Phu. According to Grosz, who accompanied the lead elements of Company F in the attack, \"Once we got them going, the VC just broke and ran . It was just like a turkey shoot . \" \" At the rear of the column. Company H remained in contact with the enemy; a VC company struck the Marines from both flanks and the rear. Both the company commander and his radio operator were mortally wounded. First Lieutenant Harvey C. Barnum, the attached artillery forward observer, did what he could to save the two dying Marines, strapped the radio on his back and assumed com- mand. The young officer rallied the company and the Marines established a defensive position on a small hill north of the road. After four hours of heavy ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-059",
+      "printedPage": "108",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/9 and H/2/7: Footnote distinguishes attached H/2/9 from H/2/7 on mortar security. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 125,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0126.djvu",
+        "archive_leaf": 126,
+        "printed_page_label": "108",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 4102,
+        "context": "o dying Marines, strapped the radio on his back and assumed com- mand. The young officer rallied the company and the Marines established a defensive position on a small hill north of the road. After four hours of heavy fighting, Barnum led Company H into Ky Phu and rejoined the battalion . * * * By nightfall the fight at Ky Phu was over. The 80th VC Battalion broke, leaving 104 bodies on the * * *Lieutenant Barnum was performing temporary duty in Vietnam from his permanent duty station at Marine Barracks, Pearl Harbor. He had volunteered for 60 days of \"on-the-job\" training under the FMPac combat indoctrination program. For his heroic exploits in this engagement, Lieutenant Barnum was awarded the Medal of Honor.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-060",
+      "printedPage": "117",
+      "category": "regimental_context",
+      "match": "5th Marines",
+      "disposition": "broader_context",
+      "note": "Regimental/leadership or replacement-system background; no direct 2/5 participation established.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 134,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0135.djvu",
+        "archive_leaf": 135,
+        "printed_page_label": "117",
+        "category": "regimental_context",
+        "match": "5th Marines",
+        "normalized_character_start": 1309,
+        "context": "ement and readjustment of personnel and units in the Western Pacific. On 24 August, the 1st Marine Division, under Major General Lewis J. Fields, established its CP on Okinawa, as did the 1st Marines. Only one regiment of the division, the 5th Marines, remained at Camp Pendleton. As noted earlier, one battalion of the 1st Marines, Lieutenant Colonel Fianifin's 2d Battalion, relieved BLT 3/7 as the SLF battalion of the Seventh Fleet, and at the end of August Lieutenant Colonel Bodley's 3d Battalion rejoined its parent regiment, the 7th Marines, at Chu Lai. At the same time, Lieutenant Colonel Donald V. McCloskey's 1st Battalion, 1st Marines arrived at Da Nang and relieved the 1st Battalion, 3d Marines, which returned to the United States. Ano",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-061",
+      "printedPage": "117",
+      "category": "regimental_context",
+      "match": "5th Marines",
+      "disposition": "broader_context",
+      "note": "Regimental/leadership or replacement-system background; no direct 2/5 participation established.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 134,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0135.djvu",
+        "archive_leaf": 135,
+        "printed_page_label": "117",
+        "category": "regimental_context",
+        "match": "5th Marines",
+        "normalized_character_start": 1877,
+        "context": " same time, Lieutenant Colonel Donald V. McCloskey's 1st Battalion, 1st Marines arrived at Da Nang and relieved the 1st Battalion, 3d Marines, which returned to the United States. Another battalion from the United States, the 3d Battalion, 5th Marines, was moved to Okinawa to become the new 1st Battalion, 3d Marines. This relief ended the intertheater battalion transplacement system. The end of the battalion rotation between East Pac and West Pac caused the institution of an individual personnel replacement system for all units of III MAF. Under the designator Operation MIX- MASTER, Marines in Vietnam were transferred between units so that everyone in each unit would not have the same overseas tour expiration date. This homogenization proces",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-062",
+      "printedPage": "117",
+      "category": "replacement_system",
+      "match": "transplacement",
+      "disposition": "broader_context",
+      "note": "Regimental/leadership or replacement-system background; no direct 2/5 participation established.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 134,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0135.djvu",
+        "archive_leaf": 135,
+        "printed_page_label": "117",
+        "category": "replacement_system",
+        "match": "transplacement",
+        "normalized_character_start": 2001,
+        "context": "alion, 3d Marines, which returned to the United States. Another battalion from the United States, the 3d Battalion, 5th Marines, was moved to Okinawa to become the new 1st Battalion, 3d Marines. This relief ended the intertheater battalion transplacement system. The end of the battalion rotation between East Pac and West Pac caused the institution of an individual personnel replacement system for all units of III MAF. Under the designator Operation MIX- MASTER, Marines in Vietnam were transferred between units so that everyone in each unit would not have the same overseas tour expiration date. This homogenization process involved thousands of Marines and took place over several months. * With the termination of the intertheater trans- placement",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-063",
+      "printedPage": "126",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 143,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0144.djvu",
+        "archive_leaf": 144,
+        "printed_page_label": "126",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 1071,
+        "context": "the shells hit the VC unit, forcing it to disperse. Shortly afterward, a 9th Marines squad ambushed a strong VC force near the An Tu (1) hamlet, five miles south of Da Nang. The Marine patrol, 11 Marines and a Navy corpsman from Company I, 3d Battalion, 9th Marines, had arrived at the ambush",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-064",
+      "printedPage": "129",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 146,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0147.djvu",
+        "archive_leaf": 147,
+        "printed_page_label": "129",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 1407,
+        "context": "up with new recruits, most from the city of Da Nang, and retrained.\" BGen Edwin H. Simmons, Comments on Shulimson, \"USMC Ops RVN Jul-Dec65,\" dtd 12 May 71 (Vietnam Comment File). talion, Lieutenant Colonel Robert J. Tunnell's newly arrived 3d Battalion, 9th Marines, which relieved the 1st Battalion, 9th Marines on the airfield. Lieutenant Colonel Clark stiU retained the position of base defense coordinator. His job, according to his successor, was to collect statistics on Marine \"saturation-type patrolling\" and to inform the battalion commander \"where to alternate the emphasis\" in the airfield defense battalion's patrolling effort.\" The main physical security problem of the airfield, other than keeping the Viet Cong out, was overlapping American and Vietn",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-065",
+      "printedPage": "140",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 157,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0158.djvu",
+        "archive_leaf": 158,
+        "printed_page_label": "140",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 463,
+        "context": "l carrying pole. mander, and on 9 September, Colonel John E. Gorman, the 9th Marines commander, ordered both his forward battalions, the 1st and 2d, to render all possible assistance to the Vietnamese in the protection of the harvest/' The 3d Battalion, 9th Marines later replaced the 2d Battalion. The campaign produced results quickly. About noon on 12 September, Chief Trinh told Lieutenant Colonel Ludwig that a VC main force unit had moved into a hamlet south of Marble Mountain to collect its rice tax. The battalion commander immediately sent a two-company attack force, supported by Ontos, tanks, and amtracs into the area. The Marines met strong opposition from VC mortars and recoilless rifles. Shortly after dark, the enemy broke contact and fled. The ne",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-066",
+      "printedPage": "160",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/3: Clement/Moore MIDNIGHT context pp.159–160. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 177,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0178.djvu",
+        "archive_leaf": 178,
+        "printed_page_label": "160",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 609,
+        "context": "the objective area. As the helicopters flew through a pass in a ridgeline west of the landing zone, the artillery shifted its fires to the north and east and flare planes began dropping their loads. The UH-34s landed safely and disembarked Company H and a platoon from Company F without incident . Four waves of helicopters landed within 28 minutes and the Marine infantry moved to encircle the Viet Cong . Most of the enemy managed to elude the Marines; Qement's troops killed two VC and detained 30 suspects. Despite the small returns in terms of enemy casualties, the Marines did prove the practicality of night helicopter assaults. Colonel Leslie E. Brown, the operations officer of the wing, concluded: \"We've still got to study night lifts, bu",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-067",
+      "printedPage": "172",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 189,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0190.djvu",
+        "archive_leaf": 190,
+        "printed_page_label": "172",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 616,
+        "context": "ry, Subunit 1, in. conjunction with Underwater Demolition Team 12, operating from the USS Cook (APD 130), accomplished the reconnaissance of RED Beaches 1 and 2 at Da Nang. As a result, RED Beach 2 was selected as the landing beach for BLT 3/9, the first element of the 9th MEB to land in Vietnam . The period 15-20 March was devoted to the reconnaissance of the beaches and terrain near Phu Bai. Subunit I's reports resulted in 3d MEB's decision to send its first BLT to Phu Bai by way of the river approach to Hue and then overland to Phu Bai. The proposed landing beaches were backed by im- passable lagoons which made exit almost impossible. For Subunit 1, this was its first real test. The VC were active in the area, but the mission was ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-068",
+      "printedPage": "174",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 191,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0192.djvu",
+        "archive_leaf": 192,
+        "printed_page_label": "174",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1597,
+        "context": "recon\" was not an entirely satisfactory solution; some knotty problems arose. 3d Reconnaissance Battalion, Opening Moves When the 9th MEB landed at Da Nang on 8 March, a platoon from Company A, 3d Recon- naissance Battalion attached to BLT 3/9, became the first division reconnaissance element to be \"resident\" in Vietnam. Other platoons arrived as attachments to BLTs, a platoon from Company B with BLT 3/4, a platoon from Company D with BLT 1/3, and a second Company D platoon with BLT 2/3. Platoon attachments lasted until 13 April, at which time the four \"in country\" reconnaissance platoons were regrouped as a new Company D, 3d Reconnaissance Battalion. Captain Patrick G. Collins' Company D operated as the brigade reconnaissance compan",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-069",
+      "printedPage": "220",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 229,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0230.djvu",
+        "archive_leaf": 230,
+        "printed_page_label": "220",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 3210,
+        "context": "d MajGen Kinnard, CGlstAirCavDiv, dtd 15Sep65, end to Simmons Comments, fan 10. 34. Ill MAF G-3 Section, Agenda Subject, Base Defense Command, dtd 40ct65, end, Simmons Comments , JanlO. 35. Carrington Comments. 36. Dennis Comments, 76. 37. 3/9 OpO 321A-65, dtd 14Sep65, end 3, 3/9 ComdC, Sep65. 38. 3d MarDiv OpO 327-65, dtd 15Aug65, end 1, 3d MarDiv ComdC, Aug65. 39. Ill MAF G-3 Section, Agenda Subject, War Dog Requirements, dtd 4Jan66, end 10, III MAF ComdC, Jan66. 40. Carrington Comments . 41. LtCol Harold A. Hatch, intvw by MCB, CamPen, dtd 6Jul66 (No. 156, Oral Hist CoU, Hist&MusDiv, HQMC), hereafter Hatch Intvw. Extended Patrolling Additional material for this section is derived from 1/7 ComdC, Dec65; 1/9 ComdC, Dec65; LtGen Lewi",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-070",
+      "printedPage": "220",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 229,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0230.djvu",
+        "archive_leaf": 230,
+        "printed_page_label": "220",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 3247,
+        "context": " 15Sep65, end to Simmons Comments, fan 10. 34. Ill MAF G-3 Section, Agenda Subject, Base Defense Command, dtd 40ct65, end, Simmons Comments , JanlO. 35. Carrington Comments. 36. Dennis Comments, 76. 37. 3/9 OpO 321A-65, dtd 14Sep65, end 3, 3/9 ComdC, Sep65. 38. 3d MarDiv OpO 327-65, dtd 15Aug65, end 1, 3d MarDiv ComdC, Aug65. 39. Ill MAF G-3 Section, Agenda Subject, War Dog Requirements, dtd 4Jan66, end 10, III MAF ComdC, Jan66. 40. Carrington Comments . 41. LtCol Harold A. Hatch, intvw by MCB, CamPen, dtd 6Jul66 (No. 156, Oral Hist CoU, Hist&MusDiv, HQMC), hereafter Hatch Intvw. Extended Patrolling Additional material for this section is derived from 1/7 ComdC, Dec65; 1/9 ComdC, Dec65; LtGen Lewis W. Walt, intvw by III MAF, dtd 30Ja",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-071",
+      "printedPage": "227",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 236,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0237.djvu",
+        "archive_leaf": 237,
+        "printed_page_label": "227",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 364,
+        "context": "anding Officer Col John H. King, Jr lJan-9Mar Sub-Unit2,MABS-16 LtCol Thomas E. Vernon lJan-9Mar HMM-365 LtCol Joseph Koler, Jr lJan-18Feb HMM-163 LtCol Norman G. Ewers 18Feb-9Mar 1st LAAM Battalion LtCol Bertram E. Cook, Jr 8Feb-9Mar CoL, 3/9 Capt John J. Sheridan lJan-23Jan CoD,l/3 Capt Terry Turner 23Jan-9Mar Co C, 7th Engineer Battalion Maj William G. Bates 14Feb 9Mar 9th Marine Exeditionary Brigade 8Mar-6May 9th MEB Headquarters Commanding General BGen Frederick J. Karch 8Mar-6May Deputy Commander Col Donald H. Stapp 8Mar-3Apr Col Clifford F. Quilici 4Apr-6May Chief of Staff Col Lowell D. Grow .8Mar-3Apr Col Donald H. Stapp 4Apr-6May G-1 Maj RuelT. Scyphers 8Mar-13Mar Maj Samuel E. Englehart 14Mar-6May G-2 Maj Edmund J. Regan, J",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-072",
+      "printedPage": "227",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 236,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0237.djvu",
+        "archive_leaf": 237,
+        "printed_page_label": "227",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1585,
+        "context": "ul L. Hitchcock 16Apr-6May 1st LAAM Battalion LtCol Bertram E. Cook, Jr 9Mar-6May 3d Marines Col Edwin B. Wheeler 12Apr-6May 1/3 LtCol Herbert J. Bain 8Mar-27Apr LtCol William H. Lanagan, Jr 28Apr-6May 2/3 LtCol David A. Clement 10Apr-6May 3/9 LtCol Charles E. McPartlin, Jr 8Mar-6May 3/4 LtCol Donald R. Jones 14Apr-27Apr LtCol William W. Taylor 28Apr-6May Brigade Logistic Support Group LtCol George H. Smith 12Mar-6May Brigade Artillery Group Captain Myron J. Kandra llMar-llApr Maj Gilbert W. Ferguson 12Apr-6May 1/12 Maj Gilbert W. Ferguson 12Apr-6May Brigade Engineer Group Maj William G. Bates 12Mar-6May 227",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-073",
+      "printedPage": "227",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 236,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0237.djvu",
+        "archive_leaf": 237,
+        "printed_page_label": "227",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1606,
+        "context": "-6May 1st LAAM Battalion LtCol Bertram E. Cook, Jr 9Mar-6May 3d Marines Col Edwin B. Wheeler 12Apr-6May 1/3 LtCol Herbert J. Bain 8Mar-27Apr LtCol William H. Lanagan, Jr 28Apr-6May 2/3 LtCol David A. Clement 10Apr-6May 3/9 LtCol Charles E. McPartlin, Jr 8Mar-6May 3/4 LtCol Donald R. Jones 14Apr-27Apr LtCol William W. Taylor 28Apr-6May Brigade Logistic Support Group LtCol George H. Smith 12Mar-6May Brigade Artillery Group Captain Myron J. Kandra llMar-llApr Maj Gilbert W. Ferguson 12Apr-6May 1/12 Maj Gilbert W. Ferguson 12Apr-6May Brigade Engineer Group Maj William G. Bates 12Mar-6May 227",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-074",
+      "printedPage": "228",
+      "category": "replacement_system",
+      "match": "transplacement",
+      "disposition": "broader_context",
+      "note": "Regimental/leadership or replacement-system background; no direct 2/5 participation established.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 237,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0238.djvu",
+        "archive_leaf": 238,
+        "printed_page_label": "228",
+        "category": "replacement_system",
+        "match": "transplacement",
+        "normalized_character_start": 3200,
+        "context": " A. Hatch 28Sep-31Dec 2/1* LtCol Robert T.Hanifin,Jr 23Dec-31Dec 'Part of the SLF 5Sep-22Dec . 1/3* LtCol William H. Lanagan, Jr 6May-lSep LtCol Robert R. Dickey III 19Nov-31Dec '1 1 relieved 1/3 on 31 Aug ending the intertheater battalion transplacement system. 1/1 did no! redesignate to 1/3. 2/3* LtCol David A. Clement 6May-10Nov LtCol William K. Horn llNov-19Nov - *2/3 departed Vietnam for Okinawa as the first battalion involved in the newly instituted intra-theater battalion rotation program. The newly formed 1/3 replaced 2/3 at Da Nang.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-075",
+      "printedPage": "229",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 238,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0239.djvu",
+        "archive_leaf": 239,
+        "printed_page_label": "229",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1070,
+        "context": "ovember, had the operational control of the unit. ■,,-. . LtCol Charles H, Bodley 3Sep-31Dec 'Part of the SLF Jun-Sep. 1/9 LtCol Verle E. Ludwig 16Jun-31Dec 2/9 LtCol George R. Scharnberg 6Jul-31 Aug LtCol William F. Donahue, Jr lSep-31Dec 3/9* LtCol Charles E. McPartlin, Jr 6May-17Jun LtCol Robert J. Tunnell, Jr 14Aug-30Sep LtCol William W. Taylor 10ct-31Dec 'i/9 departed Vietnam on 17 fun under the battalion intra- theater transplacement system. The newly formed 3/9 returned to Vietnam on 14Aug. 3/11 LtCol William H. Peck 16Aug-29Dec LtCol Paul B. Watson, Jr 30Dec-31Dec 1/12 Maj Gilbert W. Ferguson 6May-8Jul LtCol Warren E. McCain . .9Jul-31Dec 2/12 LtCol Jack K.Knocke 7Jul-lSep LtCol Eugene O. Speckart 2Sep-31Dec 3/12 Maj Jesse L.",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-076",
+      "printedPage": "229",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 238,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0239.djvu",
+        "archive_leaf": 239,
+        "printed_page_label": "229",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1299,
+        "context": "lSep-31Dec 3/9* LtCol Charles E. McPartlin, Jr 6May-17Jun LtCol Robert J. Tunnell, Jr 14Aug-30Sep LtCol William W. Taylor 10ct-31Dec 'i/9 departed Vietnam on 17 fun under the battalion intra- theater transplacement system. The newly formed 3/9 returned to Vietnam on 14Aug. 3/11 LtCol William H. Peck 16Aug-29Dec LtCol Paul B. Watson, Jr 30Dec-31Dec 1/12 Maj Gilbert W. Ferguson 6May-8Jul LtCol Warren E. McCain . .9Jul-31Dec 2/12 LtCol Jack K.Knocke 7Jul-lSep LtCol Eugene O. Speckart 2Sep-31Dec 3/12 Maj Jesse L. Gibney , Jr 7May-9Jul LtCol Leslie L. Page 10Jul-31Dec LtCol Edwin M. Rudzis 8Jul-31Dec 1st Amphibian Tractor Battalion LtCol Jack Glenn 21Jul-30Jul LtCol William D. Pomeroy 31Jul-31Dec 3d Anti-Tank Battalion Maj Edward E. Brook",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-077",
+      "printedPage": "229",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 238,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0239.djvu",
+        "archive_leaf": 239,
+        "printed_page_label": "229",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1092,
+        "context": "tional control of the unit. ■,,-. . LtCol Charles H, Bodley 3Sep-31Dec 'Part of the SLF Jun-Sep. 1/9 LtCol Verle E. Ludwig 16Jun-31Dec 2/9 LtCol George R. Scharnberg 6Jul-31 Aug LtCol William F. Donahue, Jr lSep-31Dec 3/9* LtCol Charles E. McPartlin, Jr 6May-17Jun LtCol Robert J. Tunnell, Jr 14Aug-30Sep LtCol William W. Taylor 10ct-31Dec 'i/9 departed Vietnam on 17 fun under the battalion intra- theater transplacement system. The newly formed 3/9 returned to Vietnam on 14Aug. 3/11 LtCol William H. Peck 16Aug-29Dec LtCol Paul B. Watson, Jr 30Dec-31Dec 1/12 Maj Gilbert W. Ferguson 6May-8Jul LtCol Warren E. McCain . .9Jul-31Dec 2/12 LtCol Jack K.Knocke 7Jul-lSep LtCol Eugene O. Speckart 2Sep-31Dec 3/12 Maj Jesse L. Gibney , Jr 7May-9Jul LtCol",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-078",
+      "printedPage": "229",
+      "category": "replacement_system",
+      "match": "transplacement",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 238,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0239.djvu",
+        "archive_leaf": 239,
+        "printed_page_label": "229",
+        "category": "replacement_system",
+        "match": "transplacement",
+        "normalized_character_start": 1259,
+        "context": "Jul-31 Aug LtCol William F. Donahue, Jr lSep-31Dec 3/9* LtCol Charles E. McPartlin, Jr 6May-17Jun LtCol Robert J. Tunnell, Jr 14Aug-30Sep LtCol William W. Taylor 10ct-31Dec 'i/9 departed Vietnam on 17 fun under the battalion intra- theater transplacement system. The newly formed 3/9 returned to Vietnam on 14Aug. 3/11 LtCol William H. Peck 16Aug-29Dec LtCol Paul B. Watson, Jr 30Dec-31Dec 1/12 Maj Gilbert W. Ferguson 6May-8Jul LtCol Warren E. McCain . .9Jul-31Dec 2/12 LtCol Jack K.Knocke 7Jul-lSep LtCol Eugene O. Speckart 2Sep-31Dec 3/12 Maj Jesse L. Gibney , Jr 7May-9Jul LtCol Leslie L. Page 10Jul-31Dec LtCol Edwin M. Rudzis 8Jul-31Dec 1st Amphibian Tractor Battalion LtCol Jack Glenn 21Jul-30Jul LtCol William D. Pomeroy 31Jul-31Dec 3d Anti-Tank ",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-079",
+      "printedPage": "235",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 244,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0245.djvu",
+        "archive_leaf": 245,
+        "printed_page_label": "235",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1762,
+        "context": "r categories of Marines assigned outside the Da Nang area. 8 Mar— The 9th Marine Expeditionary Brigade (MEB) commanded by Brigadier General Frederick J. Karch, landed at Da Nang. The MEB included two Marine Battalion Landing Teams (BLTs) — 3/9 (Lieutenant Colonel Charles E. McPartlin, Jr.) which landed over Red Beach 2, and 1/3 (Lieutenant Colonel Herbert J. Bain) which arrived by air from Okinawa. The 9th MEB mission was to defend the Da Nang Airbase. This was the first U.S. ground combat unit to land in RVN. 9 Mar— The MUV (TU 79. 3. 5) was placed under operational control of the 9th MEB and designated MAG-16, com- manded by Colonel John H. King, Jr. HMM-163 remained in direct support of ARVN I Corps; other elements of the expandin",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-080",
+      "printedPage": "235",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "retained_predecessor_evidence",
+      "note": "",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 244,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0245.djvu",
+        "archive_leaf": 245,
+        "printed_page_label": "235",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 1797,
+        "context": "tside the Da Nang area. 8 Mar— The 9th Marine Expeditionary Brigade (MEB) commanded by Brigadier General Frederick J. Karch, landed at Da Nang. The MEB included two Marine Battalion Landing Teams (BLTs) — 3/9 (Lieutenant Colonel Charles E. McPartlin, Jr.) which landed over Red Beach 2, and 1/3 (Lieutenant Colonel Herbert J. Bain) which arrived by air from Okinawa. The 9th MEB mission was to defend the Da Nang Airbase. This was the first U.S. ground combat unit to land in RVN. 9 Mar— The MUV (TU 79. 3. 5) was placed under operational control of the 9th MEB and designated MAG-16, com- manded by Colonel John H. King, Jr. HMM-163 remained in direct support of ARVN I Corps; other elements of the expanding MAG (Sub-Unit 2, MABS-16) were in direc",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-081",
+      "printedPage": "237",
+      "category": "predecessor_3_9",
+      "match": "3d Battalion, 9th Marines",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 246,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0247.djvu",
+        "archive_leaf": 247,
+        "printed_page_label": "237",
+        "category": "predecessor_3_9",
+        "match": "3d Battalion, 9th Marines",
+        "normalized_character_start": 1240,
+        "context": "Lieutenant Colonel Walter C. Stewart, Jr., relieved VMFA-531, which chopped to 1st MAW (Rear) marking the first in- country relief of a USMC jet squadron. 17 Jun— Lieutenant Colonel Verle E. Ludwig's 1st Battalion, 9th Marines relieved the 3d Battalion, 9th Marines at Da Nang and assumed the responsibility formerly held by 3/9 in the defense of the airbase; 3/9 was the first Marine battalion to be rotated from RVN. 18 Jun — Brigadier General Karch returned to Da Nang and assumed duties as Assistant Division Commander (ADC), 3d MarDiv (Fwd). 19 Jun — Approximately 350 inhabitants of Pho Nam Thuong and Nam Yen villages moved into the Le My area. 21 Jun — Lieutenant Mervin B. Porter's HMM-261 relieved Lieutenant Colonel Ewer's HMM-163 at Da Nang; HMM-163 bec",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-082",
+      "printedPage": "237",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 246,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0247.djvu",
+        "archive_leaf": 247,
+        "printed_page_label": "237",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1325,
+        "context": "W (Rear) marking the first in- country relief of a USMC jet squadron. 17 Jun— Lieutenant Colonel Verle E. Ludwig's 1st Battalion, 9th Marines relieved the 3d Battalion, 9th Marines at Da Nang and assumed the responsibility formerly held by 3/9 in the defense of the airbase; 3/9 was the first Marine battalion to be rotated from RVN. 18 Jun — Brigadier General Karch returned to Da Nang and assumed duties as Assistant Division Commander (ADC), 3d MarDiv (Fwd). 19 Jun — Approximately 350 inhabitants of Pho Nam Thuong and Nam Yen villages moved into the Le My area. 21 Jun — Lieutenant Mervin B. Porter's HMM-261 relieved Lieutenant Colonel Ewer's HMM-163 at Da Nang; HMM-163 became the SLF helicopter squadron. 27 Jun — Lieutenant Colonel Cl",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-083",
+      "printedPage": "237",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "identity_or_date_reconciliation",
+      "note": "June 11 relief claim versus June 17 relief/departure; appendix also contains replacement commanders. Preserve distinct claims.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 246,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0247.djvu",
+        "archive_leaf": 247,
+        "printed_page_label": "237",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 1360,
+        "context": "try relief of a USMC jet squadron. 17 Jun— Lieutenant Colonel Verle E. Ludwig's 1st Battalion, 9th Marines relieved the 3d Battalion, 9th Marines at Da Nang and assumed the responsibility formerly held by 3/9 in the defense of the airbase; 3/9 was the first Marine battalion to be rotated from RVN. 18 Jun — Brigadier General Karch returned to Da Nang and assumed duties as Assistant Division Commander (ADC), 3d MarDiv (Fwd). 19 Jun — Approximately 350 inhabitants of Pho Nam Thuong and Nam Yen villages moved into the Le My area. 21 Jun — Lieutenant Mervin B. Porter's HMM-261 relieved Lieutenant Colonel Ewer's HMM-163 at Da Nang; HMM-163 became the SLF helicopter squadron. 27 Jun — Lieutenant Colonel Clement's 2d Battalion, 3d Marines re",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-084",
+      "printedPage": "238",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 247,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0248.djvu",
+        "archive_leaf": 248,
+        "printed_page_label": "238",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 579,
+        "context": "ng headquarters were established at Chu Lai under the 3d MarDiv ADC, Brigadier General Karch. 15 Aug— The Headquarters of the 7th RLT and 1/7 came ashore at Chu Lai. Colonel Oscar F. Peatross commanded the regiment. At Da Nang, elements of 3/9 came ashore making it the first battalion to be re-introduced into RVN (See 8 March and 17 June 1965 entries). 16 Aug — 3/9 relieved 1/9 as the Base Defense Battalion at Da Nang. 17 Aug— 2/4 and 3/3 were assigned to the 7th Marines for Operation STARLITE. 18-24 Aug— Operation STARLITE. Three Marine bat- talions—1/7, 2/4, and 3/3— attached to the 7th Marines, and supported by air, artillery, and naval gunfire, con- ducted an amphibious-heliborne search and destroy operation in the Van Tuong vill",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-085",
+      "printedPage": "238",
+      "category": "predecessor_3_9",
+      "match": "3/9",
+      "disposition": "excluded_replacement_3_9",
+      "note": "Later 1965 replacement battalion or its source notes; not the returning McPartlin battalion.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 247,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0248.djvu",
+        "archive_leaf": 248,
+        "printed_page_label": "238",
+        "category": "predecessor_3_9",
+        "match": "3/9",
+        "normalized_character_start": 703,
+        "context": "e 7th RLT and 1/7 came ashore at Chu Lai. Colonel Oscar F. Peatross commanded the regiment. At Da Nang, elements of 3/9 came ashore making it the first battalion to be re-introduced into RVN (See 8 March and 17 June 1965 entries). 16 Aug — 3/9 relieved 1/9 as the Base Defense Battalion at Da Nang. 17 Aug— 2/4 and 3/3 were assigned to the 7th Marines for Operation STARLITE. 18-24 Aug— Operation STARLITE. Three Marine bat- talions—1/7, 2/4, and 3/3— attached to the 7th Marines, and supported by air, artillery, and naval gunfire, con- ducted an amphibious-heliborne search and destroy operation in the Van Tuong village complex south of Chu Lai. The purpose of the attack was to eliminate an enemy force — the 1st VC Regiment, reportedly 2,",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-086",
+      "printedPage": "243",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/4: Explicit Joe Paul citation. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 252,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0253.djvu",
+        "archive_leaf": 253,
+        "printed_page_label": "243",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 384,
+        "context": "sly to LANCE CORPORAL JOE C. PAUL UNITED STATES MARINE CORPS for service as set forth in the following Citation: For conspicuous gallantry and intrepidity at the risk of his life above and beyond the call of duty as a Fire Team Leader with Company H, Second Battalion, Fourth Marines, during Operation STARLITE near Chu Lai in the Republic of Vietnam on 18 August 1965. In violent battle. Corporal Paul's platoon sustained five casualties as it was temporarily pinned down by devastating mortar, recoilless rifle, automatic weapons, and rifle fire delivered by insurgent communist (Viet Cong) forces in well -trenched positions. The wounded Marines were unable to move from their perilously exposed positions forward of the remainder of their platoo",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-087",
+      "printedPage": "244",
+      "category": "company_lead_unassigned",
+      "match": "Company H",
+      "disposition": "excluded_other_company",
+      "note": "H/2/9: Explicit Barnum citation. Not Hotel 2/5.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 253,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0254.djvu",
+        "archive_leaf": 254,
+        "printed_page_label": "244",
+        "category": "company_lead_unassigned",
+        "match": "Company H",
+        "normalized_character_start": 388,
+        "context": "UM, JR. UNITED STATES MARINE CORPS for service as set forth in the following CITATION: For conspicuous gallantry and intrepidity at the risk of his life above and beyond the call of duty as Forward Observer for Artillery, while attached to Company H, Second Battalion, Ninth Marines, Third Marine Division (Reinforced), in action against communist forces at Ky Phu in Quang Tin Province, Republic of Vietnam, on 18 December 1965. When the company was suddenly pinned down by a hail of extremely accurate enemy fire and was quickly separated from the remainder of the battalion by over five hundred meters of open and fire -swept ground, and casualties mounted rapidly, Lieutenant Barnum quickly made a hazardous reconnaissance of the area seeking ta",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-088",
+      "printedPage": "255",
+      "category": "regimental_context",
+      "match": "5th Marines",
+      "disposition": "index_cross_reference",
+      "note": "Navigation aid, not independent event evidence.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 264,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0265.djvu",
+        "archive_leaf": 265,
+        "printed_page_label": "255",
+        "category": "regimental_context",
+        "match": "5th Marines",
+        "normalized_character_start": 3255,
+        "context": "93, 118, 141, 172; illus. 46,77 CoE, 72-74, 78-79 CoG,72,74, 78, 101« CoH, 71-72, 74-78 3d Battalion, 24-28, 31, 33«, 46-48, 91-92, 117», 118, 124, 130, 133, 134«, 135, 142, 164, 170, 174, 193, 203; illus. 21,24,49 Co I, 71 CoK, 79 CoL, 72 5th Marines, 117 1st Battalion, 106 2d Battalion, 55« 3d Battalion, 117",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    },
+    {
+      "id": "LB65-LEAD-089",
+      "printedPage": "257",
+      "category": "leadership_lead",
+      "match": "McPartlin",
+      "disposition": "index_cross_reference",
+      "note": "Navigation aid, not independent event evidence.",
+      "reviewStatus": "agent_text_review; not human/PDF verified",
+      "sourceCandidate": {
+        "ocr_object_index_0": 266,
+        "ocr_page_file": "usmarinesinvietn00jack_1_0267.djvu",
+        "archive_leaf": 267,
+        "printed_page_label": "257",
+        "category": "leadership_lead",
+        "match": "McPartlin",
+        "normalized_character_start": 425,
+        "context": "Col William C, Jr., 24-25, 25«; illus., 23 McKinney, Capt William R., USN, 71 McMasters, Maj John J., 17 McMiUian, Lt James R., USN, illus., 143 McNamara, Secretary of Defense Robert S., 29-30, 65, 88; illus., 63 McNaughton, John T., 9, 29 McPartlin, LtCol CharlesE., Jr., 10, 10«, 11, 16, 18-19; illus., 18 Meeker, LtCol Ermine L. , 188 Mekong Delta, 157, 159« Merrell, Cpl Lowell H. (See also Camp Merrell), 172 Minh, Gen Duong Van, ARVN, v-vi Minh, Gen Tran Van, ARVN, 9 Moi River, 131 Monkey Mountain, 5, 17, 65, 130, 155, 163, 187 Monticello (LSD 35), 200 Montrose (APA 212), 106n, 200 Moore, Maj Marc A., 25n, 39, 159, 160n Morgan, Maj Pat, 16-17 Morrison, LtCol Gene W., 33 Mount McKinley (AGC 7), xiii, 7, 10-12, 24-25 Muir, LtCol Joseph E.,",
+        "status": "candidate; entity identity and historical claim require review"
+      }
+    }
+  ]
+}

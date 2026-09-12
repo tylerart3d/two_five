@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-unloading",
+  "title": "9th MEB general unloading completed",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-03-12",
+    "start": "1965-03-12",
+    "end": "1965-03-12",
+    "precision": "day"
+  },
+  "kind": "context",
+  "category": "supporting-context",
+  "units": [
+    "9th MEB"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-15"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "General unloading of the 9th MEB was completed on March 12. After a March 8–9 firefight between VC and Vietnamese troops north of RED Beach, the amphibious ships shifted anchorage toward the Song Han mouth; unloading then continued upriver. This is brigade-level logistical context, not a claim that each 3/9 company remained aboard until March 12."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "9th MEB",
+      "role": "subject",
+      "confidence": "explicit"
+    },
+    {
+      "unit": "BLT 3/9",
+      "role": "subordinate unit; context only",
+      "confidence": "contextual"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "doherty-december",
+  "title": "Doherty listed in the December roster",
+  "date": {
+    "label": "20 Dec 1965",
+    "start": "1965-12-20",
+    "end": "1965-12-20",
+    "precision": "record-date"
+  },
+  "kind": "roster-observation",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "doherty-december"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The "
+      },
+      {
+        "text": "December roster",
+        "source": 0
+      },
+      {
+        "text": " names First Lieutenant J. J. Doherty again."
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Migrated existing chapter content to a shared event record; no new historical extraction."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "leadership",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "timelineHidden": true
+}

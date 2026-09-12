@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "cc65-organization",
+  "title": "Report location, attachments and reporting period",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "label": "July–December 1965 report context",
+    "start": "1965-07-01",
+    "end": "1965-12-31",
+    "precision": "chapter-context"
+  },
+  "kind": "context",
+  "category": "context",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048065",
+      "anchorId": "CC65-ORGANIZATION"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The report lists no attachments and places the battalion at Camp Margarita, Camp Pendleton, California. Reporting period: July 1–December 31, 1965.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "The report location does not prove uninterrupted presence there throughout the reporting period."
+  ],
+  "relatedExistingEventIds": [
+    "camp-margarita"
+  ],
+  "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
+    }
+  ]
+}

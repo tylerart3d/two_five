@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-afloat",
+  "title": "3/9 embarked with the Seventh Fleet",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "early-year",
+    "start": null,
+    "end": null,
+    "precision": "early-year"
+  },
+  "kind": "context",
+  "category": "context",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-3"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "BLT 3/9 was afloat in the South China Sea from the beginning of 1965 and part of the two-BLT 9th MEB under Karch on January 22."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ]
+}

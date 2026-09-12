@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "lb65-strength",
+  "title": "BLT 3/9 strength recorded",
+  "visibility": "research_only",
+  "reviewStatus": "needs_review",
+  "chapterIds": [],
+  "proposedChapterIds": [
+    "rebirth-1965"
+  ],
+  "placementNote": "Pre-July predecessor/background material; chapter coverage must be deliberately decided before publication.",
+  "date": {
+    "label": "1965-03-23",
+    "start": "1965-03-23",
+    "end": "1965-03-23",
+    "precision": "record-date"
+  },
+  "kind": "event",
+  "category": "personnel",
+  "units": [
+    "3/9 (predecessor of returning 2/5)"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "usmc-history-1965-pcn19000307600",
+      "anchorId": "LB65-PAGE-235"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The March 23 brigade composition lists BLT 3/9 at 1,115. This is a reported strength snapshot, not a personnel-join event."
+      }
+    ]
+  ],
+  "notes": [
+    "Source references support the whole proposal; normalized OCR is not a human correction."
+  ],
+  "researchStatus": "Draft, text-based source review only",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Filed during 1965 book candidate audit; not published."
+    }
+  ],
+  "participants": [
+    {
+      "unit": "3/9",
+      "identity": "returning predecessor of 2/5",
+      "role": "subject",
+      "confidence": "text-supported"
+    }
+  ]
+}

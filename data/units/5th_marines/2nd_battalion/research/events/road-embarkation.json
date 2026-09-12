@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "road-embarkation",
+  "title": "Leaving Long Beach",
+  "date": {
+    "label": "7–10 Jan 1966",
+    "start": "1966-01-07",
+    "end": "1966-01-10",
+    "precision": "range"
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "ROAD-03"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Cargo loading began January 7 and finished January 8. Troops embarked January 9, and the ships sailed from Pier E at Long Beach on January 10.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Map destination is a contextual location view, not the exact position of each action."
+  ],
+  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "revisions": [
+    {
+      "date": "2026-09-07",
+      "note": "Added to the Road to Vietnam chapter from preserved OCR excerpts."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added timeline category and, where supported, contextual map destination."
+    },
+    {
+      "date": "2026-09-07",
+      "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    }
+  ],
+  "category": "movement",
+  "mapDestination": "long-beach-pier-e",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

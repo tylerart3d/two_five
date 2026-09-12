@@ -35,8 +35,11 @@ Do not treat model output as an independent historical source.
 ## Publication policy
 
 Use verified links to Texas Tech originals as the default for PDFs. This
-starter contains no imported PDFs, OCR corpus, research database, or historical
-claims. Add reviewed data through a deliberate publication workflow.
+repository now contains local research evidence and Markdown catalogs under
+data/. Original assets in _files/ directories are Git-ignored. The local proof
+serves one explicitly allowlisted source PDF; no PDFs are included in the public
+build. Add reviewed public data through a deliberate publication
+workflow; local import is not publication or historical verification.
 
 For future non-Texas-Tech sources, cite the actual originating source and record
 its rights; never attribute those materials to Texas Tech. Check publication
@@ -45,3 +48,12 @@ permission before including privately supplied recollections or materials.
 Preserve raw OCR unchanged. Keep corrections in a separate, reproducible layer.
 Missing records, uncertain coordinates, and unresolved identities must remain
 visible rather than being filled with invented certainty.
+
+## Footer emblem
+
+White Eagle, Globe and Anchor extracted from the official [Marines.com](https://www.marines.com/)
+[horizontal SVG logo](https://s7d6.scene7.com/is/content/marines/Marines_HorizontalLogo),
+accessed 2026-09-07. Removed the separate MARINES wordmark and cropped the SVG
+viewBox to the emblem. Transparent background, white paths; footer placement unchanged.
+Replaces the previous fine-line Wikimedia version. Original project code ownership
+notice does not apply to the Marine Corps emblem.
