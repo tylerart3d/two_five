@@ -463,3 +463,17 @@ Margarita chronology sentence from Pendleton's panel.
 - Expanded November 19 Princeton exercise with three sentences from deck-log page 39, retaining uncertainty about which flights carried 2/5.
 
 - Moved the three added Princeton shipboard sentences from chronology to the location panel, per user clarification.
+
+- Updated the 1965 narrative overhaul wording at Brent’s request.
+
+- Moved geographic background from 1965 narrative to Southern California location panel; added MCRD recruit-training context and official sources. Battalion-specific training remains in narrative.
+
+- Cataloged Pendleton 1965–1966 photo leads, separating date conflicts and unverified rights; no site ingestion.
+
+- M1 reviewed PDF photo leads: mess-hall page only references absent photos (excluded). Main-gate image on newspaper page 4, published May 12, 1961, cropped using model bounding box and added to local Pendleton album for review. Rights and exact capture date unverified. Metadata: PENDLETON_PHOTOS.json. Source PDFs and model responses preserved in ignored data/local/pendleton-photos.
+
+- Added user-supplied Hubina photo to local Pendleton album: poster identifies 1965; unit unconfirmed and rights unverified. Original bytes preserved with SHA-256 in PENDLETON_PHOTOS.json.
+
+- Added user-supplied MCRD aerial to local location album; date, photographer and rights unknown. Metadata in MCRD_PHOTOS.json; original image preserved locally with SHA-256.
+
+- Added MCRD rifle inspection photo, late summer 1960 per supplied caption; rights unverified. Original caption preserved in MCRD_PHOTOS.json without attributing its first-person recollection to Brent or extending its training duration to 1965–66.

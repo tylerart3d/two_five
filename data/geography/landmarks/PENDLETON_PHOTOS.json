@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Camp Pendleton main gate — published May 12, 1961",
+    "url": "/review-photos/pendleton-gate.png",
+    "source": "https://d34w7g4gy10iej.cloudfront.net/pubs/pdf_17062.pdf#page=4",
+    "credit": "Page credits photographs to GySgt. George Dick; individual attribution unconfirmed",
+    "rights": "Rights unverified",
+    "note": "Earlier-period reference. Exact photograph date unknown; not a confirmed 1965–66 view.",
+    "category": "period-context",
+    "extraction": {
+      "page": 4,
+      "bbox": [
+        0.09,
+        0.125,
+        0.44,
+        0.31
+      ],
+      "method": "M1 Qwen vision bounding box; PDF render crop",
+      "review": "Model reviewed; awaiting human review"
+    }
+  },
+  {
+    "title": "PFC William “Blinky” Hubina — Camp Pendleton, 1965 (poster identification)",
+    "url": "/review-photos/hubina-1965.jpg",
+    "source": "",
+    "credit": "Supplied by Brent from @williamdennissurfboards; photographer unknown",
+    "rights": "Rights unverified",
+    "note": "Name, place and year follow the supplied Instagram caption. Unit unconfirmed; no match in the partial Hotel roster.",
+    "category": "period-context",
+    "provenance": "User-supplied image and earlier screenshot of Instagram post dated November 10, 2023. Original post URL not supplied.",
+    "sha256": "85c8c747656df906a1bac5907bb60f50be1e585612fc3f97e3498438b871b425"
+  }
+]

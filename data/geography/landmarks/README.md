@@ -43,3 +43,13 @@ Princeton: [November 17–19 deck-log OCR review](USS_PRINCETON_LOG_REVIEW.md), 
 - Added three sourced helicopter photos to Princeton album: user-linked 1966 HMM-362 lift-off, 1960 HMM-261 deck preparation, and 1963 HMM-163 UH-34D. Dates, credits, rights statements and source links in USS_PRINCETON_HELICOPTER_PHOTOS.json. All period context.
 
 - Added Princeton November 1965 deck log to source reader, opening at PDF page 39 with page-only citation. Local PDF allowlisted explicitly; original NARA URL and SHA-256 recorded in USS_PRINCETON_SOURCE_ANCHORS.json.
+
+Southern California overview in ../places/CHAPTER_00_LOCATIONS.json now covers MCRD recruit training and Pendleton history, with source links; no individual attendance inferred.
+
+Pendleton: [1965–1966 photo leads](PENDLETON_PHOTO_RESEARCH.md), pending image and rights review.
+
+- M1 reviewed PDF photo leads: mess-hall page only references absent photos (excluded). Main-gate image on newspaper page 4, published May 12, 1961, cropped using model bounding box and added to local Pendleton album for review. Rights and exact capture date unverified. Metadata: PENDLETON_PHOTOS.json. Source PDFs and model responses preserved in ignored data/local/pendleton-photos.
+
+- Added user-supplied MCRD aerial to local location album; date, photographer and rights unknown. Metadata in MCRD_PHOTOS.json; original image preserved locally with SHA-256.
+
+- Added MCRD rifle inspection photo, late summer 1960 per supplied caption; rights unverified. Original caption preserved in MCRD_PHOTOS.json without attributing its first-person recollection to Brent or extending its training duration to 1965–66.

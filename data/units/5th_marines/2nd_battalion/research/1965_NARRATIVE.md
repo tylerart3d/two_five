@@ -14,7 +14,7 @@ Researched 2026-09-07. Editorial paragraphs with explicit source mappings, inclu
       ]
     },
     {
-      "text": "The change of name was part of a system in which a battalion arriving from California relieved an overseas battalion and exchanged its designation and mission. The official history describes the outward-bound 2/5 becoming 3/9 on Okinawa. Our returning battalion’s own chronology records the other side of that exchange: on 19 July 1965, 3/9 was redesignated 2/5, with McPartlin in command. It reached San Diego on 8 August. Most officers and men were then transferred to other units throughout the division. Rebirth, in this chapter, means a reorganization of an existing battalion, followed by the work of building its ranks again.",
+      "text": "The change of name was part of a system in which a battalion arriving from California relieved an overseas battalion and exchanged its designation and mission. The official history describes the outward-bound 2/5 becoming 3/9 on Okinawa. Our returning battalion’s own chronology records the other side of that exchange: on 19 July 1965, 3/9 was redesignated 2/5, with McPartlin in command. It reached San Diego on 8 August. Most officers and men were then transferred to other units throughout the division. The 2/5 went through a complete overhaul; the existing battalion was reorganized and its ranks rebuilt.",
       "sources": [
         2,
         3
@@ -40,10 +40,9 @@ Researched 2026-09-07. Editorial paragraphs with explicit source mappings, inclu
       ]
     },
     {
-      "text": "Camp Margarita, within Camp Pendleton, was the battalion’s California home in this period. Pendleton had been dedicated on 25 September 1942, after construction transformed a Southern California ranch into a Marine training base. It went on to serve as a training and staging ground for the Korean and Vietnam wars. For 2/5 in late 1965, training included a combined fire-support demonstration, a Golf platoon acting as the opposing force in an Army exercise, and helicopter movement from USS Princeton to Pendleton. But the commander’s summary also describes the limits: approximately half-strength personnel levels, Marines away at schools, and other commitments restricted the special training program begun in November.",
+      "text": "For 2/5 in late 1965, training included a combined fire-support demonstration, a Golf platoon acting as the opposing force in an Army exercise, and helicopter movement from USS Princeton to Pendleton. But the commander’s summary also describes the limits: approximately half-strength personnel levels, Marines away at schools, and other commitments restricted the special training program begun in November.",
       "sources": [
-        3,
-        4
+        3
       ]
     }
   ],
@@ -59,12 +58,6 @@ Researched 2026-09-07. Editorial paragraphs with explicit source mappings, inclu
       "title": "2/5 command chronology, July–December 1965 · Texas Tech archive",
       "url": "https://vva.vietnam.ttu.edu/repositories/2/digital_objects/223454",
       "note": "1201048065, pages 1–3; existing local vision OCR and source-anchor records."
-    },
-    {
-      "id": 4,
-      "title": "Camp Pendleton — official base history",
-      "url": "https://www.pendleton.marines.mil/About/History-and-Museums/%E2%81%A0",
-      "note": "Official Marine Corps base history; dedication and training role."
     },
     {
       "id": 5,

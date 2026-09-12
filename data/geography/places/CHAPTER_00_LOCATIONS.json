@@ -1,8 +1,21 @@
 {
   "region": {
     "name": "Southern California",
-    "description": "In the second half of 1965, 2/5 was based at Camp Margarita, Camp Pendleton. These months in Southern California brought reorganization, changes in leadership and training before the battalion moved overseas.",
-    "sources": [],
+    "description": "Southern California connected several stages of Marine life, from recruit training in San Diego to field exercises at Camp Pendleton and preparations for overseas service. In 1965, Marine Corps Recruit Depot San Diego was an established West Coast center for basic training, where civilians began their transition into Marines. Farther north, Camp Pendleton had served as a training and staging base since its dedication on 25 September 1942, through World War II, Korea and the Vietnam buildup. Camp Margarita, within Pendleton, was home to 2/5 during its reorganization in the second half of 1965.",
+    "sources": [
+      {
+        "title": "MCRD San Diego · Recruit Training Regiment history",
+        "url": "https://www.mcrdsd.marines.mil/Units/Subordinate-Units/Recruit-Training-Regiment/History-of-Recruit-Training-Regiment/"
+      },
+      {
+        "title": "Camp Pendleton · official history",
+        "url": "https://www.pendleton.marines.mil/About/"
+      },
+      {
+        "title": "2/5 command chronology · July–December 1965",
+        "url": "https://vva.vietnam.ttu.edu/repositories/2/digital_objects/223454"
+      }
+    ],
     "precision": "This regional view provides orientation, not a verified exercise route or historical embarkation berth."
   },
   "pendleton": {

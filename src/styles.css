@@ -284,3 +284,11 @@ h1{font-size:calc(68px + 2pt)}.dek{font-size:calc(18px + 2pt)}.instructions{marg
 .princeton-symbol.is-compact::before{content:'';position:absolute;left:74px;top:30px;width:12px;height:12px;border:2px solid #203e5b80;border-radius:50%;box-sizing:border-box}
 .princeton-symbol.is-compact::after{content:'';position:absolute;left:86px;top:36px;width:34px;border-top:1px solid #203e5b80}
 .princeton-symbol.is-compact span{white-space:nowrap}
+
+/* Keep Princeton's callout west of the coastal base labels. */
+.princeton-symbol.is-compact{padding-left:0;align-items:flex-end;width:68px}
+.princeton-symbol.is-compact::after{left:40px;width:34px}
+.princeton-symbol.is-compact span{position:absolute;right:34px;text-align:right}
+.princeton-symbol:not(.is-compact) span{position:absolute;right:calc(100% - 48px);top:22px;white-space:nowrap;text-align:right}
+.princeton-symbol:not(.is-compact) small{position:absolute;right:calc(100% - 48px);top:40px;white-space:nowrap;text-align:right}
+.princeton-symbol:not(.is-compact){position:relative}

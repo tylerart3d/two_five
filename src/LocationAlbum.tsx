@@ -22,7 +22,7 @@ export function LocationAlbum({photos, children}: {photos:Photo[]; children:Reac
   },[photos.length]);
   const step=(delta:number)=>setIndex(i=>(i+delta+photos.length)%photos.length);
   const close=()=>{dialog.current?.close();opener.current?.focus();};
-  const caption=photo && <figcaption><strong>{photo.title}</strong><p>{photo.note}</p><a href={photo.source} target="_blank" rel="noreferrer">{photo.credit}</a><span> · {photo.rights}</span><div aria-live="polite">{index+1} / {photos.length}</div></figcaption>;
+  const caption=photo && <figcaption><strong>{photo.title}</strong><p>{photo.note}</p>{photo.source ? <a href={photo.source} target="_blank" rel="noreferrer">{photo.credit}</a> : <span>{photo.credit}</span>}<span> · {photo.rights}</span><div aria-live="polite">{index+1} / {photos.length}</div></figcaption>;
   const arrows=<><button className="album-prev" aria-label="Previous photo" onClick={()=>step(-1)}>‹</button><button className="album-next" aria-label="Next photo" onClick={()=>step(1)}>›</button></>;
   return <>
     {photo ? <figure ref={album} className="location-album"><div className="album-image"><button ref={opener} className="album-open" aria-label="Open photo album" onClick={()=>dialog.current?.showModal()}><img src={photo.url} alt={photo.title}/></button>{arrows}</div>{caption}</figure> : null}
