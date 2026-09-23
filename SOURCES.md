@@ -58,6 +58,10 @@ viewBox to the emblem. Transparent background, white paths; footer placement unc
 Replaces the previous fine-line Wikimedia version. Original project code ownership
 notice does not apply to the Marine Corps emblem.
 
+## PDF digest fallback
+
+The PDF viewer uses `@noble/hashes` for SHA-256 when browser Web Crypto is unavailable, including direct Tailscale IP previews. Copyright (c) 2022 Paul Miller; MIT licensed. License: `public/licenses/noble-hashes.txt`. Project: https://github.com/paulmillr/noble-hashes. The PDF version comparison remains required on both hashing paths.
+
 ## Selective OCR publication
 
 See data/OCR_PUBLICATION.json for the exact public OCR allowlist and source trail. The initial record is an official USMC command chronology, assessed as government-authored text under [17 USC 105](https://www.copyright.gov/title17/92chap1.html#105). This does not declare all archive holdings public domain; retain the [Texas Tech rights notice](https://vietnam.ttu.edu/general/copyright.php) and review each additional item separately. The code ownership notice does not apply to underlying government text.

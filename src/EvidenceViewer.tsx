@@ -1,6 +1,7 @@
 import approved1965 from '../data/ocr-runs/approved-reading-copies/1201048065.json';
 import approved1966 from '../data/ocr-runs/approved-reading-copies/1201048066.json';
 import { PdfPage } from './PdfPage';
+import { pdfDigest } from './pdfDigest';
 import { useEffect, useRef, useState } from 'react';
 import { getDocument, GlobalWorkerOptions, type PDFDocumentProxy } from 'pdfjs-dist';
 import workerUrl from 'pdfjs-dist/build/pdf.worker.min.mjs?url';
@@ -47,8 +48,7 @@ export function EvidenceViewer({ anchor }: { anchor: Anchor }) {
         const response = await fetch(url, { signal: controller.signal });
         if (!response.ok) throw new Error(`Document request failed (${response.status}).`);
         const bytes = await response.arrayBuffer();
-        const digest = await crypto.subtle.digest('SHA-256', bytes);
-        const hash = [...new Uint8Array(digest)].map(n => n.toString(16).padStart(2,'0')).join('');
+        const hash = await pdfDigest(bytes);
         if (hash !== evidence.pdfSha256) throw new Error('This PDF differs from the version used for these highlights. Alignment must be reviewed.');
         if (stopped) return;
         task = getDocument({ data: new Uint8Array(bytes), wasmUrl: '/pdfjs/wasm/', standardFontDataUrl: '/pdfjs/standard_fonts/' });
