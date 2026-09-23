@@ -14,13 +14,13 @@ test('timeline arrows change chapter and source documents, and preserve deep lin
   await page.getByRole('button',{name:'Read the Source'}).click();
   await expect(page.locator('.pdf-viewport[aria-busy="false"]')).toBeVisible();
   await expect(page.locator('.citation-meta')).toContainText('1201048066');
-  await expect(page.locator('.viewer-tools')).toContainText('Page 3 / 8');
+  await expect(page.locator('.viewer-tools')).toContainText('Page 5 / 8');
   await page.getByRole('button',{name:/The Road to Vietnam/}).click();
   await page.locator('.timeline-event-list button').filter({hasText:'Arrival at Chu Lai'}).click();
   await expect(page.locator('.pdf-viewport[aria-busy="false"]')).toBeVisible();
   await expect(page.locator('.citation-meta')).toContainText('1201048068');
   await expect(page.locator('.viewer-tools')).toContainText('Page 2 / 78');
-  await expect(page.getByTestId('source-highlight')).toHaveCount(0);
+  await expect(page.getByTestId('source-highlight')).toBeVisible();
   await page.getByRole('button',{name:'Previous chapter',exact:true}).click();
   await expect(page.locator('h1')).toHaveText('Rebirth of the 2/5');
   await expect(page.locator('.source-window')).toHaveCount(0);

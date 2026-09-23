@@ -1,10 +1,10 @@
 import {test,expect} from '@playwright/test';
-test('cross-page source keeps both yellow regions and navigates between them',async({page})=>{
+test('cross-page source keeps all three yellow regions and navigates between them',async({page})=>{
  await page.goto('/#ROAD-07');
  await expect(page.locator('.pdf-viewport')).toHaveAttribute('aria-busy','false');
- await expect(page.locator('[data-pdf-page="5"] .source-highlight')).toHaveCount(1);
+ await expect(page.locator('[data-pdf-page="5"] .source-highlight')).toHaveCount(2);
  await expect(page.locator('[data-pdf-page="6"] .source-highlight')).toHaveCount(1);
- await page.getByRole('button',{name:'Passage 2 · page 6',exact:true}).click();
+ await page.getByRole('button',{name:'Passage 3 · page 6',exact:true}).click();
  await expect(page.locator('.viewer-tools')).toContainText('Page 6 /');
 });
 

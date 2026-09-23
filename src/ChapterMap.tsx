@@ -90,10 +90,12 @@ export function ChapterMap({ road=false, onSource, mapRequest, selectedEvent, on
     if(!host||!main)return;
     let observed:HTMLElement|null=null;
     const measure=()=>{const height=observed?.getBoundingClientRect().height;if(height&&height>0){host.style.setProperty('--timeline-height',height+'px');main.style.setProperty('--timeline-height',height+'px');}};
-    const resize=new ResizeObserver(measure);
+    let measureFrame=0;
+    const scheduleMeasure=()=>{cancelAnimationFrame(measureFrame);measureFrame=requestAnimationFrame(measure);};
+    const resize=new ResizeObserver(scheduleMeasure);
     const bind=()=>{const next=main.querySelector<HTMLElement>('.chapter-timeline');if(next!==observed){if(observed)resize.unobserve(observed);observed=next;if(next)resize.observe(next);}measure();};
     const mutations=new MutationObserver(bind);mutations.observe(main,{childList:true,subtree:true});bind();
-    return()=>{resize.disconnect();mutations.disconnect();};
+    return()=>{cancelAnimationFrame(measureFrame);resize.disconnect();mutations.disconnect();};
   },[]);
 
   useEffect(() => {
@@ -297,11 +299,12 @@ export function ChapterMap({ road=false, onSource, mapRequest, selectedEvent, on
     const panel = root?.querySelector<HTMLElement>('.map-place');
     if (!root || !setting || !panel) return;
     const update = () => panel.style.setProperty('--location-panel-top', Math.max(0, setting.getBoundingClientRect().bottom - root.getBoundingClientRect().top + 12) + 'px');
-    const observer = new ResizeObserver(update);
+    let layoutFrame=0;
+    const observer = new ResizeObserver(()=>{cancelAnimationFrame(layoutFrame);layoutFrame=requestAnimationFrame(update);});
     observer.observe(setting);
     observer.observe(root);
     update();
-    return () => { observer.disconnect(); panel.style.removeProperty('--location-panel-top'); };
+    return () => { cancelAnimationFrame(layoutFrame); observer.disconnect(); panel.style.removeProperty('--location-panel-top'); };
   }, [scope, road, selectedEvent]);
   function focusDestination(id: string, fromEvent=false) {
     if(!fromEvent) onLocationSelect?.();

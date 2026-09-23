@@ -19,10 +19,11 @@ export function LocationAlbum({photos, children}: {photos:Photo[]; children:Reac
     if(!photos.length || !panel || !map || !setting)return;
     const update=()=>panel.style.setProperty('--album-panel-top', (setting.getBoundingClientRect().bottom-map.getBoundingClientRect().top+12)+'px');
     panel.classList.add('has-photos');
-    const observer=new ResizeObserver(update);
+    let layoutFrame=0;
+    const observer=new ResizeObserver(()=>{cancelAnimationFrame(layoutFrame);layoutFrame=requestAnimationFrame(update);});
     observer.observe(setting);observer.observe(map);
     window.addEventListener('resize',update);update();
-    return ()=>{observer.disconnect();window.removeEventListener('resize',update);panel.classList.remove('has-photos');panel.style.removeProperty('--album-panel-top');};
+    return ()=>{cancelAnimationFrame(layoutFrame);observer.disconnect();window.removeEventListener('resize',update);panel.classList.remove('has-photos');panel.style.removeProperty('--album-panel-top');};
   },[photos.length]);
   const step=(delta:number)=>setIndex(i=>(i+delta+photos.length)%photos.length);
   const close=()=>{dialog.current?.close();opener.current?.focus();};

@@ -6,12 +6,12 @@ test('map opens first, focuses the camp and connects to the historical source', 
   await expect(page.getByRole('region', { name: '1965 chapter map', exact: true })).toBeVisible();
   await expect(page.locator('.evidence-panel')).toHaveCount(0);
   const before = await page.locator('.leaflet-control-scale-line').first().innerText();
-  await page.getByRole('button', { name: 'Find Camp Margarita' }).click();
+  await page.locator('.map-scopes').getByRole('button', { name: 'Go to Camp Margarita' }).click();
   await expect(page.locator('.leaflet-control-scale-line').first()).not.toHaveText(before);
-  await page.getByText('About this map & location', { exact: true }).click();
-  await expect(page.locator('.map-provenance')).toContainText('not a verified 1965');
   await page.getByRole('button', { name: 'Read the Source' }).click();
   await expect(page.locator('.viewer-tools')).toContainText('Page 1 / 3');
+  await page.getByText('Sources & map references', {exact:true}).click();
+  await expect(page.locator('.map-provenance')).toContainText('present-day geography');
   await expect(page.getByRole('dialog', {name:'Source evidence',exact:true})).toBeVisible();
   await page.keyboard.press('Escape');
   await expect(page.getByRole('dialog')).toHaveCount(0);
@@ -25,7 +25,7 @@ test('mobile map remains usable with unavailable tiles and keyboard controls', a
   await page.route(/(tile.openstreetmap.org|server.arcgisonline.com|tiles.stadiamaps.com)/, route => route.abort());
   await page.goto('/');
   await expect(page.locator('.map-error')).toBeVisible();
-  const button = page.getByRole('button', { name: 'Find Camp Margarita' });
+  const button = page.locator('.map-scopes').getByRole('button', { name: 'Go to Camp Margarita' });
   await button.focus(); await page.keyboard.press('Enter');
   await expect(button).toHaveAttribute('aria-pressed', 'true');
   await page.getByRole('button', { name: 'Read the Source', exact: false }).click();
@@ -38,13 +38,13 @@ test('mobile map remains usable with unavailable tiles and keyboard controls', a
  const stage = await page.locator('.map-stage').boundingBox();
  const map = await page.locator('.map-canvas').boundingBox();
  expect(map).toEqual(stage);
- await page.getByRole('button', {name:'Find Camp Margarita'}).click();
- await expect(page.getByRole('button', {name:'Find Camp Margarita'})).toHaveAttribute('aria-pressed','true');
+ await page.locator('.map-scopes').getByRole('button', {name:'Go to Camp Margarita'}).click();
+ await expect(page.locator('.map-scopes').getByRole('button', {name:'Go to Camp Margarita'})).toHaveAttribute('aria-pressed','true');
  await page.getByRole('button', {name:'Read the Source',exact:false}).click();
  await expect(page.locator('.map-canvas')).toBeVisible();
  await page.getByRole('button', {name:'Close source evidence',exact:true}).click();
  await expect(page.getByRole('dialog')).toHaveCount(0);
- await expect(page.getByRole('button', {name:'Find Camp Margarita'})).toHaveAttribute('aria-pressed','true');
+ await expect(page.locator('.map-scopes').getByRole('button', {name:'Go to Camp Margarita'})).toHaveAttribute('aria-pressed','true');
  expect(await page.locator('.story').evaluate(el=>getComputedStyle(el, '::before').backdropFilter)).toContain('blur');
  });
 
@@ -57,7 +57,7 @@ test('missing high resolution relief crops a parent tile and overzooms without u
   });
   await page.route('**/tiles.stadiamaps.com/**', route => route.fulfill({contentType:'image/svg+xml',body:'<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"/>'}));
   await page.goto('/');
-  await page.getByRole('button', {name:'Find Camp Margarita'}).click();
+  await page.locator('.map-scopes').getByRole('button', {name:'Go to Camp Margarita'}).click();
   await page.locator('.map-canvas').focus();
   for(let i=0;i<10;i++) await page.keyboard.press('Equal');
   await expect(page.locator('.leaflet-control-zoom')).toHaveCount(0);

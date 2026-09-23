@@ -7,7 +7,7 @@ test('JSON events preserve source references and chapter coverage',()=>{
   const chapter=read('chapters/rebirth-1965.json');
   const sources=[read('1965_SOURCE_ANCHORS.json'),...read('1966_ROAD_SOURCE_ANCHORS.json')];
   const records=readdirSync(base+'events').filter(f=>f.endsWith('.json')&&f!=='README.json').map(f=>read('events/'+f));
-  expect(records).toHaveLength(33);
+  expect(records).toHaveLength(97);
   expect(new Set(records.map(e=>e.id)).size).toBe(records.length);
   for(const event of records){
     expect(event.revisions.length).toBeGreaterThan(0);
@@ -19,21 +19,20 @@ test('JSON events preserve source references and chapter coverage',()=>{
   const membership=[chapter,read('chapters/road-1966.json')].flatMap(c=>c.sections.flatMap((s:any)=>s.eventIds));
   expect(membership.every((id:string)=>records.some(e=>e.id===id))).toBe(true);
   const timeline=chapter.timelineGroups.flatMap((g:any)=>g.eventIds);
-  expect(timeline).toHaveLength(20);
+  expect(new Set(timeline).size).toBe(timeline.length);
+  expect(timeline.every((id:string)=>records.some(e=>e.id===id))).toBe(true);
   expect(timeline).not.toContain('camp-margarita');
   expect(records.find(e=>e.id==='doherty-december').date.precision).toBe('record-date');
 });
 
 test('timeline opens the corresponding JSON event and its source',async({page})=>{
   await page.goto('/#map');
-  await page.getByRole('button',{name:/Rebirth of the 2/}).click();
-  await page.getByRole('button',{name:/17 Sep 1965/}).click();
-  const event=page.locator('[data-event-id="xo-september-17"]');
-  await expect(event).toHaveAttribute('open','');
-  await expect(event).toContainText('Bulger');
+  await page.locator('.timeline-list-toggle').click();
+  await page.locator('[data-timeline-event="xo-september-17-xo"] button').click();
+  await expect(page.getByRole('region',{name:'Selected timeline event'})).toContainText('Bulger');
   await expect(page.locator('.source-window')).toHaveCount(0);
   await page.getByRole('button',{name:'Read the Source'}).click();
-  await page.getByRole('button',{name:/17 Sep 1965/}).click();
   await expect(page).toHaveURL(/#xo-september-17$/);
   await expect(page.locator('.viewer-tools')).toContainText('Page 2 / 3');
+  await expect(page.getByTestId('source-highlight')).toBeVisible();
 });
