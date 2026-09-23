@@ -92,8 +92,18 @@ application model will be built separately.
 
 - [1965 staff and company leadership](units/5th_marines/2nd_battalion/research/1965_LEADERSHIP.md)
 
+- [1965 leadership photograph candidates](units/5th_marines/2nd_battalion/research/LEADERSHIP_PHOTO_CANDIDATES.md): first-pass online leads, identity evidence, rights status, and unresolved names; no photographs acquired or published.
+
 - [Rebirth narrative and web research](units/5th_marines/2nd_battalion/research/1965_NARRATIVE.md)
 
 - [1965 source alignment and model review status](units/5th_marines/2nd_battalion/research/1965_ALIGNMENT.md)
 - [Editable chronology event records and workflow](units/5th_marines/2nd_battalion/research/events/README.md)
 - [Next chapter outline: The Road to Vietnam](units/5th_marines/2nd_battalion/research/1966_ROAD_CHAPTER.md)
+
+## Versioned OCR
+
+An individual allowlist in [OCR_PUBLICATION.json](OCR_PUBLICATION.json) now tracks the raw July–December 1965 2/5 chronology OCR in its existing hierarchy. This is an exception to the general `_files/` exclusion above. Original bytes and page markers are preserved; Git text conversion is disabled for the file. Model/date metadata remain unknown rather than inferred. Other OCR, PDFs and local databases remain ignored. This does not change website ingestion. Agent and human corrections remain separate from immutable OCR.
+
+- [Personnel schema and command history](units/5th_marines/2nd_battalion/research/PERSONNEL.md)
+
+- [Active OCR versions and archive policy](ocr-runs/OCR_TRANSITION.md)

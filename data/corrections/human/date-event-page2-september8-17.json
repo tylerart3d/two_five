@@ -1,0 +1,42 @@
+{
+  "id": "human-date-event-page2-september8-17-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "page": 2,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "kind": "date-event-association",
+  "reason": "Brent confirmed the September 8, 16 and 17 date-to-event associations against the scan. This confirms associations only, not all transcription details.",
+  "associations": [
+    {
+      "anchorId": "command-september-8",
+      "date": "1965-09-08",
+      "event": "Catt replaces Ram as CO; Ram becomes XO",
+      "ocrStart": 3561,
+      "ocrEnd": 3785,
+      "originalReading": "8 SEPTEMBER 1965                  Captain C. H. RAM was relieved as Commanding\n                                  Officer by Major J. R. CATT.  Captain C. H. RAM\n                                  became the Executive Officer.",
+      "replacement": "8 SEPTEMBER 1965                  Captain C. H. RAM was relieved as Commanding\n                                  Officer by Major J. R. CATT.  Captain C. H. RAM\n                                  became the Executive Officer."
+    },
+    {
+      "anchorId": "seato-demonstration",
+      "date": "1965-09-16",
+      "event": "SEATO combined fire-support demonstration",
+      "ocrStart": 3787,
+      "ocrEnd": 4220,
+      "originalReading": "16 SEPTEMBER 1965                 SEATO DEMONSTRATION\n                                  A combined fire support exercise was conducted by\n                                  units of Regimental Landing Team Five for military\n                                  representatives of the Southeast Asia Treaty\n                                  Organization.  The Battalion was the ground maneuver\n                                  element.\n\n",
+      "replacement": "16 SEPTEMBER 1965                 SEATO DEMONSTRATION\n                                  A combined fire support exercise was conducted by\n                                  units of Regimental Landing Team Five for military\n                                  representatives of the Southeast Asia Treaty\n                                  Organization.  The Battalion was the ground maneuver\n                                  element.\n\n"
+    },
+    {
+      "anchorId": "xo-september-17",
+      "date": "1965-09-17",
+      "event": "Bulger replaces Ram as XO; Ram takes command of H&S Company",
+      "ocrStart": 4220,
+      "ocrEnd": 4459,
+      "originalReading": "17 SEPTEMBER 1965                 Captain C. H. RAM was relieved as Executive Officer\n                                  by Major T. E. BULGER.  Captain C. H. RAM became\n                                  the Commanding Officer, H&S Company.",
+      "replacement": "17 SEPTEMBER 1965                 Captain C. H. RAM was relieved as Executive Officer\n                                  by Major T. E. BULGER.  Captain C. H. RAM became\n                                  the Commanding Officer, H&S Company."
+    }
+  ]
+}

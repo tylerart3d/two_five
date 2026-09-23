@@ -1,13 +1,19 @@
 [
   {
     "title": "MCRD San Diego — aerial view",
-    "url": "/review-photos/mcrd-aerial.jpg",
+    "url": "/review-photos/mcrd-aerial.webp",
     "source": "",
     "credit": "Supplied by Brent; photographer and original source unknown",
     "rights": "Rights unverified",
     "note": "Identified as MCRD by Brent. Photograph date unknown.",
     "category": "period-context",
-    "sha256": "108ca595c079a72abf0da70cf3b6aeb35515cea102a3ee72d4273eba3f938686"
+    "sha256": "5a23e0c0f245a66e6b297cabf376dfac824b3b7d14583ebc0eb57095cf139817",
+    "previousImage": {
+      "url": "/review-photos/mcrd-aerial.jpg",
+      "sha256": "108ca595c079a72abf0da70cf3b6aeb35515cea102a3ee72d4273eba3f938686",
+      "localPath": "data/local/pendleton-photos/mcrd-aerial.jpg"
+    },
+    "replacementNote": "User supplied replacement on 2026-09-12; caption retained. Original image preserved locally. Processing history of replacement unknown."
   },
   {
     "title": "Company commander’s rifle inspection — San Diego, late summer 1960",

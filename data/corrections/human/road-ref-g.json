@@ -1,0 +1,18 @@
+{
+  "id": "human-road-ref-g-20260912",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "640d0378c6d72ae48eb31a9399039cf0f307798e4776b1819ed5f289259a903c",
+  "anchorId": "ROAD-REF-G",
+  "page": 1,
+  "originalReading": "(g) USS BELLE GROVE 140515Z January 1966",
+  "replacement": "(g) USS BELLE GROVE 1480358Z January 1966",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent selected Qwen’s literal 1480358Z reading after being shown the extra digit. Preserved as supplied, without normalization.",
+  "notes": [
+    "Seven-digit reading retained literally; no valid date-time value inferred."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "human-road-table-headings-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "0a33ff8a53f9e4c83d95490ea1704ad641942bfeb333c6ce5fbc170b608893d6",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0004.txt",
+  "page": 4,
+  "anchorId": "ROAD-LOAD-P4",
+  "ocrStart": 14,
+  "ocrEnd": 41,
+  "originalReading": "UNIT\nMANNING\nLEVEL\nON BOARD",
+  "replacement": "UNIT\nMANNING\nLEVEL\nON BOARD",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent visually confirmed the three column headings in order: UNIT | MANNING LEVEL | ON BOARD. Qwen correctly groups MANNING LEVEL; the normalized insert/delete of LEVEL is a reading-order difference, not a changed table value."
+}

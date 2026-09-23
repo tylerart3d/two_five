@@ -3,10 +3,12 @@
   "id": "road-kin-beach",
   "title": "A final amphibious exercise",
   "date": {
-    "label": "Before 8 Apr 1966",
+    "label": "Four days · Exact dates unknown; before April 8",
     "start": "1966-02-02",
     "end": "1966-04-08",
-    "precision": "before"
+    "precision": "before",
+    "boundsOnly": true,
+    "durationDays": 4
   },
   "kind": "event",
   "units": [
@@ -29,7 +31,8 @@
     ]
   ],
   "notes": [
-    "The date bounds are a navigation envelope only; exact exercise dates are not established."
+    "The date bounds are a navigation envelope only; exact exercise dates are not established.",
+    "Map destination uses Brent’s supplied Kin Beach reference point; exact historical landing position is unverified."
   ],
   "researchStatus": "Draft from existing OCR; page-only source reference.",
   "revisions": [
@@ -44,10 +47,25 @@
     {
       "date": "2026-09-07",
       "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-15",
+      "note": "Retained the reported four-day duration. Marked February–April bounds as an uncertainty window, excluded from timeline duration highlights and day-by-day activity selection."
+    },
+    {
+      "date": "2026-09-22",
+      "note": "Connected landing exercise to user-supplied Kin Beach point; no boundary inferred."
     }
   ],
   "category": "training",
   "chapterIds": [
     "road-1966"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  },
+  "mapDestination": "kin-beach"
 }

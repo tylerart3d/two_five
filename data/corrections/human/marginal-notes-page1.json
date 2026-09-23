@@ -1,0 +1,17 @@
+{
+  "id": "human-marginal-notes-page1-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "787fd09665e980247541f61b96f60bd6650fdecde2ed1547dfb9cfc254a381d0",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048065/page-0001.txt",
+  "page": 1,
+  "ocrStart": 1676,
+  "ocrEnd": 1767,
+  "originalReading": "[Handwritten marginal annotations: \"8/5\" at upper right; cursive \"Dec 1965\" at lower right]",
+  "replacement": "[Handwritten marginal annotations: \"2/5\" at upper right; \"Jul-Dec 65\" at lower right]",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent supplied both handwritten readings, correcting Qwen’s 8/5 and Dec 1965. The older OCR omitted these annotations; offsets identify the immutable Qwen page transcription."
+}

@@ -1,3 +1,12 @@
+# Leadership photograph research — 2026-09-13
+
+Added an editorial candidate inventory for the 1965 leadership tree: a
+caption-identified McPartlin group exposure, a later-life Waller II official
+publication photo lead, and a probable Doherty obituary portrait lead. Recorded
+source/image URLs, identity limits, rights status, and unresolved searches.
+No photographs downloaded, PDF scans inspected, OCR run, outreach sent, or
+website imagery changed. All candidates remain pending display review.
+
 # 5th Marines history: full-book OCR started — 2026-09-08
 
 At Brent's request, started all 85 PDF pages of *A Brief History of the 5th
@@ -477,3 +486,303 @@ Margarita chronology sentence from Pendleton's panel.
 - Added user-supplied MCRD aerial to local location album; date, photographer and rights unknown. Metadata in MCRD_PHOTOS.json; original image preserved locally with SHA-256.
 
 - Added MCRD rifle inspection photo, late summer 1960 per supplied caption; rights unverified. Original caption preserved in MCRD_PHOTOS.json without attributing its first-person recollection to Brent or extending its training duration to 1965–66.
+
+### 2026-09-12 — Selective Git OCR tracking
+
+Allowlisted immutable 1201048065 raw OCR with byte-preserving Git attributes and publication/source manifest. Initial 1966 candidates deferred because original online source verification remains pending. No source bytes changed, no PDFs exposed, and no site ingestion changed.
+
+### 2026-09-12 — MCRD aerial replacement
+
+Replaced the local album aerial with Brent’s supplied WebP; retained caption and unknown-date/rights status. Original JPEG remains local; both hashes recorded in MCRD_PHOTOS.json.
+
+### 2026-09-12 — Pendleton to Long Beach movement view
+
+Added editable location-panel account from existing OCR 1201048066, pages 3–8: personnel, three assigned Navy ships, cargo and loading constraints. Added illustrative curved route selected by Pendleton in the 1966 view; no road-route claim or new OCR.
+
+### 2026-09-12 — Movement location citations
+
+Linked movement text segments to OCR-page anchors in the shared chronology source viewer. Citations appear only in source-reading mode. Page-level anchors preserve raw OCR excerpts; precise highlight rectangles remain unaligned.
+
+### 2026-09-12 — Narrative source navigation
+
+Narrative source-mode passages expose their cited records in the shared viewer while retaining the narrative tab. Added the hash-verified official 1965 book as document-level access; printed-page alignment remains pending and is explicitly labeled.
+
+### 2026-09-12 — First alignment review completed
+
+Applied 31 valid model-located regions across the two chapters and Princeton log. Rejected an out-of-bounds, cross-page ROAD-07 proposal; retained unresolved transfer wording and all OCR disagreements in corrections/source-alignments/README.md. Original OCR untouched; book and narrower movement highlights remain pending.
+
+### 2026-09-12 — Human-confirmed transfer wording
+
+Brent confirmed “transferred to new commands” against PDF page 1. Recorded layer-3 correction with PDF/OCR hashes and original reading; updated derived citation, event and narrative. Original OCR and historical extraction snapshots remain unchanged.
+
+### 2026-09-12 — Human-confirmed ROAD-07 page span
+
+Brent confirmed the helicopter/LVT training passage continues from PDF page 5 onto page 6. Preserved raw OCR and recorded human page confirmation separately; no coordinate confirmation inferred.
+
+## 2026-09-12 — Princeton human verification
+- Recorded Brent’s confirmation of 0550 on log PDF page 39 in the human correction layer; preserved raw OCR and model output. Updated the derived excerpt and review notes.
+- Widened the watch-block highlight based on Brent’s screenshot, preserving the original rectangle and marking the geometry adjustment as agent-reviewed only.
+
+## 2026-09-12 — November 1 surname verification
+- Brent confirmed HERING on PDF page 2. Preserved raw OCR and agent proposal; added a layer-3 correction and updated the November 1 source excerpt and derived events. August passages were not included in this confirmation.
+
+## 2026-09-12 — Operation Tendertouch verification
+- Recorded Brent’s confirmation of TENDERTOUCH and JEFFERY on PDF page 3 as layer 3. Updated the derived excerpt, event and context; preserved raw OCR and agent proposals.
+
+## 2026-09-12 — November 5 surname verification
+- Recorded FAHRNI as Brent’s layer-3 correction on PDF page 3. Updated November 5 derived records; preserved original OCR and agent proposals.
+
+## 2026-09-12 — November 26 human verification
+- Recorded Brent’s confirmation of FAHRNI, HUGHES and highlight placement as layer 3. Updated the derived source excerpt and event; original OCR and model response remain unchanged.
+
+## 2026-09-12 — Training-program wording
+- Recorded Brent’s confirmation of “was implemented” on PDF page 1 as a layer-3 correction. Updated the derived source excerpt; raw OCR and model proposal remain unchanged.
+
+## 2026-09-12 — ROAD-09 message verification
+- Recorded Brent’s confirmation of message 230005Z as layer 3. Updated the derived source excerpt and annotated the preserved evidence extraction; original OCR and model proposal remain unchanged.
+
+## 2026-09-12 — Full 2/5 chronology OCR comparison
+- Queued 11 source files / 663 pages for independent Qwen transcription and document-level comparison. Raw OCR and human corrections remain intact. See ocr-runs/1965-1966-qwen.md.
+
+## Chapter 00 reference overlays
+- Added orange Los Angeles/San Diego dots and independently switchable freeway lines fading out at 20 miles. Modern Census geometry and display simplification documented in geography/places/CHAPTER_00_ROADS_CITIES.md.
+
+## Chapter 01 city references
+- Added Honolulu and Naha to Major Cities alongside the California city references, with Pacific-wrapped coordinates and source URLs in CHAPTER_01_CITIES.json.
+
+## Pacific label hierarchy
+- Added Hawaii and Okinawa overview titles with a zoom crossfade to Honolulu and Naha, sharing the Major Cities toggle.
+
+- Moved Pacific island titles north into ocean space. Created preliminary comparison review queue for the first three completed OCR documents.
+
+- 2026-09-12: Brent confirmed Qwen’s Captain H. T. WINSTON reading for the August 19 S-4 assignment (1201048065, PDF 2). Saved `corrections/human/winston-august19.json`; updated both linked source excerpts and the grouped/individual event displays. Raw OCR and agent output preserved; August Golf surname remains pending.
+
+- 2026-09-12: Brent confirmed D. H. HERING in the August 19 Golf assignment, PDF 2 of 1201048065. Added `corrections/human/hering-august19.json`, updated linked source excerpts and event records, preserving raw OCR, agent outputs, and the separate Winston correction.
+
+- 2026-09-12: Brent confirmed 98% mount-out supplies (operating stocks remain 93%), document 1201048066 PDF 5. Added `corrections/human/mount-out-98.json` and updated ROAD-LOAD-P5; original OCR and Qwen output retained.
+
+- 2026-09-12: Brent confirmed SSgt J. D. WYZSMIRSKI as advance-party Property NCO in 1201048066, PDF 8. Added `corrections/human/wyzsmirski-property-nco.json` and updated ROAD-LOAD-P8. Raw OCR and agent output preserved; other roster names remain separately reviewable.
+
+- 2026-09-12: Brent confirmed Corporal H. K. NOE, advance-party S-1 clerk, in 1201048066 PDF 8. Added `corrections/human/noe-s1-clerk.json` and updated ROAD-LOAD-P8, preserving original OCR, agent output, and the separate Property NCO correction.
+
+- 2026-09-12: Added page-only ROAD-ROSTER-S2 review anchor (1201048067, PDF 2) for HERENEZ / HEMENEZ comparison. No surname correction or highlight geometry assumed.
+
+- 2026-09-12: Brent confirmed Capt R. L. HEMENEZ, S-2 roster entry 4, in 1201048067 PDF 2. Added `corrections/human/hemenez-s2.json` and updated ROAD-ROSTER-S2. Original OCR and Qwen output retained; anchor remains page-only.
+
+- 2026-09-12: Added page-only ROAD-REF-C review anchor for reference (c), 1201048066 PDF 1. Message readings 172245Z / 172006Z remain unconfirmed.
+
+- 2026-09-12: Brent confirmed reference (c) message 172006Z, 1201048066 PDF 1. Added `corrections/human/road-ref-c.json` and updated ROAD-REF-C. Original OCR and Qwen output preserved.
+
+- 2026-09-12: Brent confirmed reference (d) message 302357Z, 1201048066 PDF 1. Added layer-3 `corrections/human/road-ref-d.json` and page-only ROAD-REF-D anchor. Both OCR versions preserved.
+
+- 2026-09-12: Brent confirmed reference (e) message 111900Z, 1201048066 PDF 1. Added layer-3 `corrections/human/road-ref-e.json` and page-only ROAD-REF-E anchor. Original OCR and Qwen output preserved.
+
+- 2026-09-12: Brent confirmed reference (f) message 110700Z, 1201048066 PDF 1. Added layer-3 `corrections/human/road-ref-f.json` and page-only ROAD-REF-F anchor. Original OCR and Qwen output preserved.
+
+- 2026-09-12: Brent selected Qwen’s literal 1480358Z for reference (g), 1201048066 PDF 1. Added layer-3 correction and ROAD-REF-G page anchor; retained the unusual digit count without normalization. Current comparison tally: Qwen 11, old OCR 0.
+
+- 2026-09-12: Brent confirmed reference (h) message number 180547Z, 1201048066 PDF 1. Added layer-3 `corrections/human/road-ref-h.json` and ROAD-REF-H page anchor. Command abbreviation remains unresolved; original OCR and Qwen output preserved.
+
+- 2026-09-13: Added Brent’s AI-enhanced Pendleton gate variant, preserving original image and metadata. Read the Sources now controls enhanced/original album display with an Enhanced Photos switch; enhanced images show Photo Enhanced.
+- 2026-09-13: Preserved 241 completed OCR pages and split remaining 422 into disjoint 211-page M1/workstation runs.
+
+- 2026-09-13: Restored original Pendleton gate photo exclusively; removed enhanced album variant and its serving route at Brent’s request. Existing caption and attribution retained.
+- 2026-09-13: Retrying three failed pages on workstation Qwen in separate raw run `data/local/ocr-retry-20260913-workstation`: 1201048068/47, 1201048069/79, 1201048071/5.
+
+- 2026-09-13: Compared 663 unique new OCR pages against hash-verified original OCR; counted 11,642 normalized token difference blocks. Method and limits recorded in ocr-runs/FULL_COMPARISON_COUNT.md; detailed comparisons remain local.
+
+- 2026-09-13: Saved human confirmation of September exercise wording in the 1965 narrative summary with immutable OCR offsets and a separate page-only anchor. Dated September 16 event retained unchanged.
+
+- 2026-09-13: Saved human confirmation of TENDERTOUCH in the 1965 PDF page 1 summary, with original OCR span, separate correction record, and page-only anchor. Raw OCR preserved.
+
+- 2026-09-13: Recorded layer-3 confirmation of ENCLOSURE (1) in 1965 PDF page 1 footer, anchored to the original OCR span. Raw OCR unchanged.
+
+- 2026-09-13: Recorded human readings of page 1 marginal notes, 2/5 and Jul-Dec 65, with hash and offsets into immutable Qwen output. Neither raw OCR version modified.
+
+- 2026-09-13: Saved page 2 human confirmations for ENCLOSURE (1) and UNCLASSIFIED stamp; original OCR and Qwen text unchanged.
+
+- 2026-09-13: Saved page 3 human confirmations for ENCLOSURE (1) and standalone page number 3, preserving both OCR runs.
+
+- 2026-09-13: Saved layer-3 confirmation of first three page 2 date/event associations with original OCR spans; raw text and separate name corrections preserved.
+
+- 2026-09-13: Saved layer-3 confirmation of September 8, 16 and 17 date/event associations, anchored to preserved original OCR spans.
+
+- 2026-09-13: Saved remaining page 2 date/event confirmations (September 18, September 22, November 1), preserving raw OCR and separate corrections.
+
+- 2026-09-13: Saved layer-3 date/event confirmations for the first three page 3 entries (November 2, 3–5, and 5), preserving raw OCR spans and separate name corrections.
+
+- 2026-09-13: Saved layer-3 date/event confirmations for November 19, 20 and 26, anchored to preserved original OCR spans.
+
+- 2026-09-13: Saved explicit December date/event confirmations and Brent’s rule for agent acceptance of routine chronological ordering without repeated human prompts.
+
+- 2026-09-13: Accounted for all 38 differences in 1201048065 in ocr-runs/1965_COMPARISON_RESOLUTION.md; explicit human readings separated from agent classification of reading-order changes.
+
+- 2026-09-13: Re-evaluated both narratives and all 67 editorial event/context records against approved OCR corrections; 53 records link applicable human corrections. Fixed stale source descriptions, strengthened narrative source mappings, updated training and supply prose, and rebuilt SQLite. Check/build passed; raw layers preserved. Audit: ocr-runs/APPROVED_OCR_CONTENT_AUDIT.md.
+
+# Narrative source highlights — 2026-09-13
+
+Added Qwen-aligned regions for transfers and the September exercise summary, dedicated official-history narrative anchors, and multi-page ROAD-07 highlighting. Narrative book links now target relevant passages rather than the document opening. Model geometry and response hashes are recorded in corrections/source-alignments/2026-09-13-narrative.json; human-approved readings and raw OCR remain unchanged.
+
+# Transfer entry note — 2026-09-13
+
+Removed the displayed August 8 positioning / missing-detail note from post-return-transfers at Brent’s request. Source records and OCR unchanged.
+
+# Leadership grouped by company — 2026-09-13
+
+Closer Look now separates battalion staff, H&S, Echo, Foxtrot, Golf and Hotel. Mixed assignment and roster entries are displayed as company-specific excerpts with their original event dates and source links. Underlying events remain intact. Removed obsolete staff-group warning that contradicted approved Winston/Fahrni/Hughes readings.
+
+# Remove duplicate Hotel section — 2026-09-13
+
+Removed the standalone Hotel Company section from Chapter 00 Closer Look. Doherty remains in the company leadership grouping; source event records are retained.
+
+# Interactive leadership tree — 2026-09-13
+
+Added a Leadership tab and draggable yellow timeline date marker. The 1965 leadership ledger derives dated appointments and explicit snapshots from existing cited events, with unknown roles before the earliest observation. Latest recorded holders are labeled by evidence date; December snapshots are not backdated. 1966 coverage remains unassembled. Initials are portrait placeholders; no unverified photos added.
+
+# Personnel schema and recorded history — 2026-09-13
+
+Preserved the ten 2_5_roster personnel fields in dated SQLite observations linked to stable person IDs and source events. Seeded 25 identities / 39 leadership observations from the existing approved-source editorial ledger; no legacy roster corpus imported. Selected officers now show their recorded role history and individual evidence links. See research/PERSONNEL.md for scope and limitations.
+
+# Confirmed Qwen transition — 2026-09-13
+
+Activated the three reviewed pages of 1201048065 as Qwen plus human corrections, with pinned hashes, reproducible reading copy, SQLite page storage and source-viewer access. Ten later documents remain pending approval. Old OCR archived byte-identically under gitignored data/local/ocr-archive; historical import copies remain locally. Removed stale Chapter 00 wording and duplicate location sentence. See ocr-runs/OCR_TRANSITION.md.
+
+# OCR cutoff review — 2026-09-13
+
+Triaged 1201048066 differences through January 8, 1966; preserved previous approvals and flagged unconfirmed references and date conflict. See ocr-runs/REVIEW_THROUGH_1966_01_08.md. No new human decisions recorded.
+
+# Reference (h) command — 2026-09-13
+
+Recorded Brent’s CINCPACFL correction against immutable Qwen page 1 and updated the selected source excerpt. Both raw OCR versions and prior message-number correction retained.
+
+# Reference (i) confirmation — 2026-09-13
+
+Saved Brent’s confirmation of COMPHIBPAC 182117Z against immutable Qwen page text. Updated source review status; raw OCR unchanged.
+
+# Reference (j) confirmation — 2026-09-13
+
+Recorded Brent’s CGFMFPAC 212011Z confirmation against Qwen page 1; original OCR preserved.
+
+# Reference (k) confirmation — 2026-09-13
+
+Saved Brent’s CGFMFPAC 190257Z confirmation against immutable Qwen page 1. Date inconsistency remains unresolved; original OCR unchanged.
+
+# Cover file number confirmation — 2026-09-13
+
+Saved Brent’s 0028-66 confirmation against Qwen page 1; raw OCR unchanged.
+
+# Sideways unit annotation — 2026-09-13
+
+Recorded Brent’s 2/5 correction to Qwen’s 8/5 on 1201048066 page 1. Original OCR preserved.
+
+# Cover dates confirmed — 2026-09-13
+
+Saved Brent’s confirmation of the rotated handwritten date range on 1201048066 page 1; raw OCR unchanged.
+
+# Footer correction — 2026-09-13
+
+Recorded Brent’s ENCLOSURE (1) correction against immutable Qwen page 8; raw OCR unchanged.
+
+# Activation time: searchable zeros — 2026-09-13
+
+Recorded Brent’s confirmation of slashed zeros as ordinary digits in 010001U on document 1201048066 PDF page 7. Updated the source anchor and review inventory; preserved raw OCR and scan bytes with a separate layer 3 normalization record.
+
+# Reference months human-confirmed — 2026-09-13
+
+Recorded Brent’s confirmation of December 1965 for reference (j) and January 1966 for reference (k), document 1201048066 PDF page 1. Added separate immutable-span human confirmation records; preserved original OCR and the unresolved cross-reference date mismatch.
+
+# Cover name confirmation — 2026-09-13
+
+Recorded Brent’s confirmation of ROBERT H. USKURAIT on document 1201048066 PDF page 1 against the immutable Qwen span. Original OCR unchanged.
+
+# Battalion stamp confirmation — 2026-09-13
+
+Recorded Brent’s accepted reading S&C # 0037-66 on document 1201048066 PDF page 1, preserving the raw Qwen span and the review rationale in a separate human confirmation.
+
+## Battalion stamp reopened — 2026-09-13
+
+Brent suggested the ambiguous middle character may be E. The earlier ampersand confirmation is withdrawn; road-cover-stamp.json is now needs-review and retains its prior decision history. S&C and SEC remain candidates, not confirmed readings. Raw OCR unchanged.
+
+## Battalion copy count confirmed — 2026-09-13
+
+Brent confirmed COPY 1 OF 5 on the lower-right stamp of document 1201048066 PDF page 1. Separate layer 3 record road-cover-copy-count.json preserves the immutable Qwen span. The S&C / SEC character above remains unresolved.
+
+## Regimental copy count confirmed — 2026-09-13
+
+Brent confirmed COPY NO. 1 OF 3 in the 5TH MAR S&C FILES box, document 1201048066 PDF page 1. Separate layer 3 record road-cover-regiment-copy-count.json preserves raw OCR.
+
+## Table headings confirmed — 2026-09-13
+
+Brent confirmed UNIT | MANNING LEVEL | ON BOARD on document 1201048066 PDF page 4. Layer 3 record road-table-headings.json confirms Qwen’s reading order without changing table values. This review pass is complete with the lower-right S&C / SEC stamp character unresolved and the December 30 / January reference inconsistency retained. Promotion of document 1201048066 to the active resolved reading copy remains a separate implementation step.
+
+## Source-first Chapter 00 coverage — 2026-09-13
+
+Audited both resolved command chronologies passage by passage through January 8. Added 19 event/activity records, included January 1 activation in Chapter 00, and added grouped deployment details to Closer Look. Timeline has 65 visible records, including existing granular command changes; that count is not a count of unique source passages. Chapter 00 now ends January 8. New anchors use verified PDF pages, without invented region coordinates. See SOURCE_FIRST_CH00_COVERAGE.md and its exact-span JSON companion under data/ocr-runs.
+
+1201048066 now resolves Qwen pages plus confirmed human corrections in descending immutable offset order. The ambiguous stamp is retained as an unresolved candidate, not applied as a confirmed correction. SQLite and the viewer use this reading copy. Older raw OCR remains archived locally; no source bytes changed.
+
+M1 source alignment 2026-09-14T06:17:55.396Z: 1201048066 PDF page 5, 6/6 new event highlights applied as layer 2 proposals; human review pending. Raw OCR unchanged. Run: data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z.
+
+M1 source alignment 2026-09-14T06:20:50.942Z: 1201048066 PDF page 7, 5/5 new event highlights applied as layer 2 proposals; human review pending. Raw OCR unchanged. Run: data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z.
+
+M1 source alignment 2026-09-14T06:23:58.852Z: 1201048066 PDF page 8, 3/3 new event highlights applied as layer 2 proposals; human review pending. Raw OCR unchanged. Run: data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z.
+
+M1 source alignment 2026-09-14T06:26:44.312Z: 1201048066 PDF page 4, 3/3 new event highlights applied as layer 2 proposals; human review pending. Raw OCR unchanged. Run: data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z.
+
+M1 source alignment 2026-09-14T06:33:27.063Z: 1201048066 PDF page 6, 3/3 new event highlights applied as layer 2 proposals; human review pending. Raw OCR unchanged. Run: data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z.
+
+M1 source alignment 2026-09-14T06:35:00.638Z: 1201048066 PDF page 2, 1/1 new event highlights applied as layer 2 proposals; human review pending. Raw OCR unchanged. Run: data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z.
+
+M1 source alignment 2026-09-14T06:36:38.212Z: 1201048066 PDF page 3, 1/1 new event highlights applied as layer 2 proposals; human review pending. Raw OCR unchanged. Run: data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z.
+
+## Chapter 00 highlights approved — 2026-09-14
+
+Brent approved all 22 newly aligned Chapter 00 event source regions. Preserved M1 proposal provenance and recorded exact approved rectangles in a separate layer 3 geometry review. Viewer now identifies these regions as human-confirmed.
+
+## Chapter 00 narrative ending — 2026-09-14
+
+Removed McPartlin’s biographical paragraph and incidental narrative mentions at Brent’s request. Added a closing paragraph about 534 enlisted arrivals December 20–January 8 and delayed supplies reaching Pendleton as late as January 7 during loading preparations. Linked personnel, supply, loading-plan and cargo-loading passages; did not imply deliveries continued after the ships sailed. Historical event and leadership records retained.
+
+## 2026-09-15 — Kin Beach exercise timeline
+
+Retained the reported four-day duration and existing uncertain date bounds. The event now explicitly labels the dates as unknown, before April 8; bounds-only events do not draw a duration bar or appear as ongoing activities during date scrubbing. Original OCR and sources unchanged.
+
+## 2026-09-22 — Long Beach Pier E location text
+
+Moved the cargo-loading, embarkation, sailing, and three Navy ships paragraph from Pendleton to Long Beach into the Long Beach Pier E location panel. Preserved ROAD-LOAD-P8, P7, and P6 citation anchors and added the panel to Pier E selection.
+
+## 2026-09-22 — Travel to Pearl Harbor
+
+Reframed the setting, location panel and timeline event around the January 10–18 crossing. Added elapsed duration, two-day harbor stay and cited shipboard training. Added linked NHHC ship background for Bexar, Mathews and Belle Grove, separate from voyage assertions. Map frames both endpoints with an illustrative connection. Details and source URLs are in geography/places/TRAVEL_TO_PEARL_HARBOR.json.
+
+## 2026-09-22 — Voyage photos and Chapter 1 leadership
+
+Added the three-image Pearl Harbor travel album with dates, credits, rights and context captions. Connected 22 February and 5 April roster snapshots (22 observations) to the leadership timeline, recorded role histories, PDF page anchors and SQLite personnel index; preserved prior-period observations, unknown January S-2 identity, and Marcum initials ambiguity. See 1966_LEADERSHIP.md and PEARL_HARBOR_VOYAGE_PHOTOS.json.
+
+The same review also connected the four dated March command changes, plus the January motor transport and March liaison observations (28 new observations in total).
+
+## 2026-09-22 — Okinawa travel and training panels
+
+Added TRAVEL_TO_CAMP_SCHWAB.json and CAMP_SCHWAB_TRAINING.json from existing chronology passages ROAD-03–08, ROAD-10 and ROAD-LOAD-P8. Voyage dates checked against approved 1201048066 reading copy, pages 5 and 8. Training uses existing sourced passages for 1201048067/68, without promoting pending OCR. Calendar spans distinguished from exact time at sea; arrival in Okinawa distinguished from arrival at camp. Added Pearl Harbor–Okinawa illustrative arrow and separate Camp Schwab training view.
+
+## 2026-09-22 — ROAD-07 wrapped highlight repair
+
+Split the page 5 helicopter/LVT passage into its initial partial line and following full-width lines; widened the page 6 continuation. Based on Brent’s browser screenshot, with previous geometry and model provenance retained in research/ROAD_07_HIGHLIGHT_REPAIR.json. Agent geometry correction remains pending human confirmation; source text and scans unchanged.
+
+## 2026-09-22 — Marcum initials note
+
+Added a note to D. R. Marcum’s recorded role history: D. R. and D. E. likely identify the same Echo Company commander, with an apparent typo in the originals. Requested by Brent. Links connect February 22 roster and March 18 command change; original readings and separate identity records preserved pending conclusive confirmation.
+
+## 2026-09-22 — Separate Okinawa training activities
+
+Split two broad training records into seven sourced course/exercise entries in the timeline and Closer Look. Retained existing event IDs for counterguerrilla and helicopter training. Added live firing, mine/demolition school, jungle lanes, LVT training and collective exercises. Known course durations are displayed; February–April bounds are navigation-only and no longer imply continuous activity. No exact dates invented.
+
+## 2026-09-22 — Explain BLT in the Chapter 1 narrative
+
+Expanded the first mention to Battalion Landing Team (BLT) and explained BLT 2/5 as the reinforced battalion with supporting units. Added the existing ROAD-LOAD-P4 attachment-table source to the paragraph.
+
+## 2026-09-22 — Kin Beach point
+
+Added user-supplied Google Maps place coordinates (26.4455625, 127.9433125) as a blue point, with no inferred boundary. Connected road-kin-beach to map destination. Point and label hide beyond the displayed 10-mile scale; exact 1966 landing position remains unverified.
+
+Kin Beach visibility updated at Brent’s request: hide beyond the displayed 5 km / 3 mi scale. Camera framing leaves space for the expanded timeline.

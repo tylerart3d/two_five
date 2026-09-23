@@ -111,3 +111,18 @@ Chapter 00 now has 45 entries; the full catalog contains 67 records including
 chronology summaries.
 
 Princeton exercise now includes a page-level ship-log source and shipboard sequence; specific 2/5 flight identification remains unresolved.
+
+## Approved OCR audit — September 13
+All 67 editorial records reviewed; `ocrReview` records the layer-2 audit scope and applicable layer-3 correction IDs. These IDs do not imply human approval of every word. Dates and source references validated; the SQLite index rebuilt. See data/ocr-runs/APPROVED_OCR_CONTENT_AUDIT.md for findings.
+
+September 13 editorial update: removed the displayed transfer-date positioning note from `post-return-transfers.json` at Brent’s request.
+
+September 13: Closer Look groups staff/company leadership by company using chapter presentation excerpts; original event records and timeline dates remain intact.
+
+September 13: removed the duplicate standalone Hotel Company presentation section. Doherty event records are retained; company leadership includes the August and December references.
+
+Leadership presentation: `../leadership-1965.json` maps dated appointments and roster observations to original event/source IDs. It powers the Leadership tab without adding timeline events.
+
+### Okinawa training breakdown — September 22, 2026
+
+ROAD-06 supports road-training (counterguerrilla), road-weapons-training, road-mine-demolition-school and road-jungle-lanes. ROAD-07 supports road-combined-training (helicopters) and road-lvt-training. ROAD-08 supports road-battalion-exercises. All use boundsOnly navigation windows; course durations do not establish calendar dates.

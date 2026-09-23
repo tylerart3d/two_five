@@ -43,7 +43,7 @@
     "Map destination is a contextual location view, not the exact position of each action.",
     "The narrative says mid-November; the detailed chronology supplies November 19. Company manning here is separate from the approximately 50% battalion strength reported for the special training program."
   ],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -74,5 +74,13 @@
   "mapDestination": "camp",
   "chapterIds": [
     "rebirth-1965"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page3-november19-26-20260913"
+    ]
+  }
 }

@@ -23,13 +23,13 @@
   "paragraphs": [
     [
       {
-        "text": "S-1: 1stLt T. Boyd; S-2: 1stLt E. A. Kratovil, Jr.; S-4: Capt H. C. Winch (unresolved OCR reading). Company commanders: H&S — 1stLt P. C. Rollins; Echo — 1stLt T. R. Minor; Foxtrot — 1stLt D. G. Winter; Golf — 1stLt D. H. Eering; Hotel — 1stLt J. J. Doherty.",
+        "text": "S-1: 1stLt T. Boyd; S-2: 1stLt E. A. Kratovil, Jr.; S-4: Capt H. T. Winston. Company commanders: H&S — 1stLt P. C. Rollins; Echo — 1stLt T. R. Minor; Foxtrot — 1stLt D. G. Winter; Golf — 1stLt D. H. Hering; Hotel — 1stLt J. J. Doherty.",
         "source": 0
       }
     ]
   ],
   "notes": [],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -46,11 +46,29 @@
     {
       "date": "2026-09-07",
       "note": "Retained as chronology summary; individual leadership actions now supply the timeline."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Brent confirmed Captain H. T. Winston as S-4; see layer-3 correction human-winston-august19-20260912. Other readings remain subject to review."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Brent confirmed D. H. Hering for the August 19 Golf assignment; layer-3 correction human-hering-august19-20260912."
     }
   ],
   "category": "leadership",
   "chapterIds": [
     "rebirth-1965"
   ],
-  "timelineHidden": true
+  "timelineHidden": true,
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page2-july-august-20260913",
+      "human-hering-august19-20260912",
+      "human-winston-august19-20260912"
+    ]
+  }
 }

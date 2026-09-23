@@ -35,7 +35,7 @@
     ]
   ],
   "notes": [
-    "Roster is an observation, not eleven appointment dates. November 26 names R.D. Burns at H&S; this roster reads R.D. Hughes. No intervening relief is recorded. S-4 also differs from August; transition date unknown. Preserve OCR names pending review."
+    "The roster records billet holders as of December 20; it does not establish their appointment dates."
   ],
   "researchStatus": "OCR-backed draft; not human verified; not approved for site inclusion.",
   "revisions": [
@@ -43,5 +43,11 @@
       "date": "2026-09-07",
       "note": "Source passage filed in research-only coverage audit; original OCR unchanged."
     }
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  }
 }

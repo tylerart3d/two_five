@@ -1,0 +1,35 @@
+{
+  "id": "human-road-cover-stamp-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "64f7c9e0130089da0d771aaf00caa6a314fe0152138a87733f53e48dcd8eec78",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0001.txt",
+  "page": 1,
+  "anchorId": "ROAD-COVER-NUMBER",
+  "ocrStart": 1246,
+  "ocrEnd": 1259,
+  "originalReading": "S&C # 0037-66",
+  "replacement": "S&C # 0037-66",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "needs-review",
+  "reason": "Brent reconsidered the accepted ampersand and suggested E. Earlier confirmation withdrawn pending review; replacement retains the raw Qwen candidate only, not an approved reading.",
+  "reviewHistory": [
+    {
+      "status": "human-confirmed",
+      "reason": "After distinguishing the lower-right battalion stamp from the separate 5TH MAR S&C FILES stamp, Brent accepted the ambiguous middle character as an ampersand. Accepted reading S&C # 0037-66 matches Qwen; earlier tentative SLC reading was reconsidered before recording a correction.",
+      "date": "2026-09-13"
+    },
+    {
+      "status": "needs-review",
+      "date": "2026-09-13",
+      "author": "Brent Tyler",
+      "reason": "Brent reopened the middle character, suggesting it may be E. Neither ampersand nor E is currently confirmed."
+    }
+  ],
+  "candidates": [
+    "S&C # 0037-66",
+    "SEC # 0037-66"
+  ]
+}

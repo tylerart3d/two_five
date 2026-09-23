@@ -1,0 +1,28 @@
+[
+  {
+    "anchorId": "AUDIT-ROAD-ATTACHMENTS-P3",
+    "page": 3,
+    "result": {
+      "id": "AUDIT-ROAD-ATTACHMENTS-P3",
+      "found": true,
+      "rect": [
+        0.16,
+        0.025,
+        0.68,
+        0.375
+      ],
+      "confidence": 0.95,
+      "visibleText": "DECLASSIFIED\n3. 2nd Plt, Company \"B\", 1st Recon Bn 2ndLt G.W. JONES\n4. 2nd Plt, Company \"B\", 1st Engineer 1stLt A.J. LECRONE\nBn\n5. 2nd Landing Support Plt, Company \"B\", 2ndLt F. ROSENBERG\n1st SP Bn\n6. 2nd Plt, Company \"B\", 7th MT Bn 1stLt A.J. BOCCUTI\n7. 2nd COLL & CL SEC (REIN), Company \"B\",\n1st MED Bn\n8. DET, 1st FSR",
+      "note": "Passage located from the top DECLASSIFIED header line through item 8 (DET, 1st FSR). Bounding box spans the widest lines (items 5 and 6) horizontally and the full vertical extent from the header to item 8."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "d88946134ccafbb0672e2cfe3ddad810b08a6a3e523cf6e12f8e8a07360aba96",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+    "confidence": 0.95,
+    "reviewStatus": "human review pending"
+  }
+]

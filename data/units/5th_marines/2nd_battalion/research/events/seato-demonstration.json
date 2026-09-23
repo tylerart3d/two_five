@@ -32,7 +32,7 @@
   "notes": [
     "The report does not identify the participating 2/5 companies or an exact demonstration site."
   ],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -44,5 +44,13 @@
     "rebirth-1965"
   ],
   "visibility": "site",
-  "reviewStatus": "needs_review"
+  "reviewStatus": "needs_review",
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page2-september8-17-20260913"
+    ]
+  }
 }

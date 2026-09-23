@@ -1,0 +1,17 @@
+{
+  "id": "human-road09-message-20260912",
+  "layer": 3,
+  "documentId": "1201048067",
+  "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+  "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+  "anchorId": "ROAD-09",
+  "page": 6,
+  "ocrStart": 9478,
+  "ocrEnd": 9701,
+  "originalReading": "CG 1st MARDIV (Rein) message 238952 activated BLT 2/5 to be\neffective 250001 March 1966.  The operational and administrative control\nof the BLT was shifted from RLT-5 to the 9th MAB on 300101 March 1966 by\nthe same message.",
+  "replacement": "CG 1st MARDIV (Rein) message 230005Z activated BLT 2/5 to be\neffective 250001 March 1966.  The operational and administrative control\nof the BLT was shifted from RLT-5 to the 9th MAB on 300101 March 1966 by\nthe same message.",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed Qwen’s 230005Z reading in command-and-control item D.1 on PDF page 6."
+}

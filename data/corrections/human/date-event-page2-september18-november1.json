@@ -1,0 +1,42 @@
+{
+  "id": "human-date-event-page2-september18-november1-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "page": 2,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "kind": "date-event-association",
+  "reason": "Brent confirmed these date-to-event associations against the scan. Association confirmation only; separate name corrections remain authoritative.",
+  "associations": [
+    {
+      "anchorId": "command-september-18",
+      "date": "1965-09-18",
+      "event": "Waller replaces Catt as CO; Catt becomes S-3",
+      "ocrStart": 4461,
+      "ocrEnd": 4680,
+      "originalReading": "18 SEPTEMBER 1965                 Major J. R. CATT was relieved as Commanding Officer\n                                  by Major L. W. T. WALLER, II.  Major J. R. CATT be-\n                                  came the S-3.",
+      "replacement": "18 SEPTEMBER 1965                 Major J. R. CATT was relieved as Commanding Officer\n                                  by Major L. W. T. WALLER, II.  Major J. R. CATT be-\n                                  came the S-3."
+    },
+    {
+      "anchorId": "s3-september-22",
+      "date": "1965-09-22",
+      "event": "Pape replaces Catt as S-3; Catt transfers out",
+      "ocrStart": 4682,
+      "ocrEnd": 4987,
+      "originalReading": "22 SEPTEMBER 1965                 Major J. R. CATT was relieved as the S-3 by Major\n                                  R. A. PAPE.  Major J. R. CATT was transferred out\n                                  of the Battalion.\n                                                                         UNCLASSIFIED",
+      "replacement": "22 SEPTEMBER 1965                 Major J. R. CATT was relieved as the S-3 by Major\n                                  R. A. PAPE.  Major J. R. CATT was transferred out\n                                  of the Battalion.\n                                                                         UNCLASSIFIED"
+    },
+    {
+      "anchorId": "staff-golf-november-1",
+      "date": "1965-11-01",
+      "event": "Slocum becomes S-2; Garrett replaces Hering as Golf CO",
+      "ocrStart": 4988,
+      "ocrEnd": 5234,
+      "originalReading": "1 NOVEMBER 1965                   Gunnery Sergeant J. J. SLOCUM was assigned as the\n                                  S-2.  First Lieutenant D. H. EERING was relieved as\n                                  CO, \"G\" Company, by Captain R. E. GARRETT.",
+      "replacement": "1 NOVEMBER 1965                   Gunnery Sergeant J. J. SLOCUM was assigned as the\n                                  S-2.  First Lieutenant D. H. EERING was relieved as\n                                  CO, \"G\" Company, by Captain R. E. GARRETT."
+    }
+  ]
+}

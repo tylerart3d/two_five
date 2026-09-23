@@ -10,13 +10,13 @@ Source: [NARA November 1965 deck log](https://catalog.archives.gov/id/173486702)
 | --- | --- | --- |
 | 35–36 | November 17, 1965 | 0913 anchored off Camp Pendleton; 0915 flight operations with four CH-46A helicopters. Page 36 completes the aircraft entry from page 35. |
 | 37–38 | November 18, 1965 | Initially anchored off Pendleton, underway about 0850 for a special operating area. 1446 flight operations with one UH-34 and four CH-46A aircraft. Page 38 continues the 1650 course entry and reports flight operations completed at 1800. |
-| 39–40 | November 19, 1965 | 0500 flight quarters; 0556 flight operations commenced. 0906–1120 ammunition transfer from USS Mount Baker, recorded as 193 tons. 1214–1215 launch of one UH-34D; 1510 recovery of one UH-34D. 1604 moored at Long Beach; page 40 completes the berth as Pier E, berth 124, U.S. Naval Station. |
+| 39–40 | November 19, 1965 | 0500 flight quarters; 0550 flight operations commenced. 0906–1120 ammunition transfer from USS Mount Baker, recorded as 193 tons. 1214–1215 launch of one UH-34D; 1510 recovery of one UH-34D. 1604 moored at Long Beach; page 40 completes the berth as Pier E, berth 124, U.S. Naval Station. |
 
 Times are as transcribed in the ship log, not converted to UTC. Zone notation needs verification.
 
 ## Relationship to the 2/5 exercise
 
-The existing battalion chronology identifies November 19 helicopter movement from Princeton to Camp Pendleton. The ship OCR independently places flight activity on that date within amphibious refresher training. These six pages do not explicitly name 2/5, Hotel Company, troop counts, or the landing destination of specific flights. Do not label 0556 as the confirmed 2/5 departure time or assign the noon UH-34D flight to that exercise.
+The existing battalion chronology identifies November 19 helicopter movement from Princeton to Camp Pendleton. The ship OCR independently places flight activity on that date within amphibious refresher training. These six pages do not explicitly name 2/5, Hotel Company, troop counts, or the landing destination of specific flights. Do not label 0550 as the confirmed 2/5 departure time or assign the noon UH-34D flight to that exercise.
 
 ## Position readings — candidates only
 
@@ -33,3 +33,5 @@ Watch headings and times are sometimes inconsistent (page 35 includes 07xx entri
 ## Next verification targets
 
 Recheck page 39 position table and 04–08 flight entry; page 35 anchoring bearings/ranges; page 40 Pier E/berth 124. Keep new OCR as a separate run and any proposed corrections separate from the original responses. No automatic event or site ingestion from this review.
+
+Human review: Brent confirmed 0550 on PDF page 39 (September 12, 2026). See `../../corrections/human/princeton-0550.json`; raw OCR remains unchanged.

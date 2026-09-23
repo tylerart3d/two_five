@@ -1,0 +1,15 @@
+{
+  "id": "human-hemenez-s2-20260912",
+  "layer": 3,
+  "documentId": "1201048067",
+  "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+  "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+  "anchorId": "ROAD-ROSTER-S2",
+  "page": 2,
+  "originalReading": "4. S-2 Capt R.L. HERENEZ",
+  "replacement": "4. S-2 Capt R.L. HEMENEZ",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed Hemenez for Capt R. L. HEMENEZ, S-2 roster entry 4 on PDF page 2. Name confirmation only; no highlight geometry approved."
+}

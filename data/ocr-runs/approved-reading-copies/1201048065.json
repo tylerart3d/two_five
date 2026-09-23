@@ -1,0 +1,146 @@
+{
+  "documentId": "1201048065",
+  "status": "confirmed-differences",
+  "review": "data/ocr-runs/1965_COMPARISON_RESOLUTION.md",
+  "scope": "All 38 normalized differences reviewed; unchanged characters not individually verified.",
+  "run": "data/local/ocr-1965-1966-qwen-20260912/1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "humanCorrections": [
+    {
+      "path": "data/corrections/human/1965-transfers.json",
+      "sha256": "f22ffcdafa3dddaa50ae3bd4574cd27587bfdac9e0aad0d4b3f86ccdf1b55199",
+      "id": "human-1965-transfers-20260912"
+    },
+    {
+      "path": "data/corrections/human/date-event-page2-july-august.json",
+      "sha256": "01a409afce32155d8d601ea409134181b27e056055a18ab3319cb3ee261caeef",
+      "id": "human-date-event-page2-july-august-20260913"
+    },
+    {
+      "path": "data/corrections/human/date-event-page2-september18-november1.json",
+      "sha256": "1e603cc3cc3c38eb5bd8f4f8f3ffa66360c66d4ae272a090b9ea79a525029542",
+      "id": "human-date-event-page2-september18-november1-20260913"
+    },
+    {
+      "path": "data/corrections/human/date-event-page2-september8-17.json",
+      "sha256": "e449ba5fee74989898499fc1c5e0eb32fcfdcfb183608d9a09f1fba4a50ba5f6",
+      "id": "human-date-event-page2-september8-17-20260913"
+    },
+    {
+      "path": "data/corrections/human/date-event-page3-december.json",
+      "sha256": "4e3e2170b3a1a8f867e279c91822f1618af0a26faed1008c5a2a98006d8811c6",
+      "id": "human-date-event-page3-december-20260913"
+    },
+    {
+      "path": "data/corrections/human/date-event-page3-november19-26.json",
+      "sha256": "d1a9e08869fa4b687e906cdc0c6e1ef9695b7568f077d7a2b0dfea1087c8365c",
+      "id": "human-date-event-page3-november19-26-20260913"
+    },
+    {
+      "path": "data/corrections/human/date-event-page3-november2-5.json",
+      "sha256": "e1e454be6ce374e9306bc4f1dfb31bc7bf6b0e81c2c3306acef27a6b0ffe22af",
+      "id": "human-date-event-page3-november2-5-20260913"
+    },
+    {
+      "path": "data/corrections/human/enclosure-page1.json",
+      "sha256": "05051739ba0feae048ec042b9bd1e391c5a81ab7112bbae09c4f5b4d535c120b",
+      "id": "human-enclosure-page1-20260913"
+    },
+    {
+      "path": "data/corrections/human/enclosure-page2.json",
+      "sha256": "ffe42b32d5fdafb69509381b2608b41237acefb61c6c86af8cc2a87147b79ca9",
+      "id": "human-enclosure-page2-20260913"
+    },
+    {
+      "path": "data/corrections/human/enclosure-page3.json",
+      "sha256": "e97ef41ad173f1dad6534e4980fcee2a0492d30beaa786be3b1e82a6c4063073",
+      "id": "human-enclosure-page3-20260913"
+    },
+    {
+      "path": "data/corrections/human/fahrni-hughes-november26.json",
+      "sha256": "aab694292a89138d7be23641074d60cbf97cc83baa069665a3611e714c11f13d",
+      "id": "human-fahrni-hughes-november26-20260912"
+    },
+    {
+      "path": "data/corrections/human/fahrni-november5.json",
+      "sha256": "0b480155e0a86e1bc3994e8eeec71944fe3ac59e665b88cd635d4b53a454fe21",
+      "id": "human-fahrni-november5-20260912"
+    },
+    {
+      "path": "data/corrections/human/hering-august19.json",
+      "sha256": "1fae9b49118b8779dc28091e02287f4e7a4f0af6bd852a63d701d706eb560cde",
+      "id": "human-hering-august19-20260912"
+    },
+    {
+      "path": "data/corrections/human/hering-november1.json",
+      "sha256": "03c539e5597cdfdea83315db053ed8195170360c9ae7f08fbf2a5629fc063246",
+      "id": "human-hering-november1-20260912"
+    },
+    {
+      "path": "data/corrections/human/marginal-notes-page1.json",
+      "sha256": "8ee410fe9a4ddc14f31c81c2ed8b7849bce1bd299d5ae06397f132c7ad3723b5",
+      "id": "human-marginal-notes-page1-20260913"
+    },
+    {
+      "path": "data/corrections/human/page3-standalone-number.json",
+      "sha256": "c09106a0b9781361bac2c4f83ebd4581ed9b7c40b5876868025c247d99f98390",
+      "id": "human-page3-standalone-number-20260913"
+    },
+    {
+      "path": "data/corrections/human/september-exercise-summary.json",
+      "sha256": "ff96748123e0a84956ab698d69e3c7eeee198a5087cf400b3f40ee4071f350aa",
+      "id": "human-september-summary-20260913"
+    },
+    {
+      "path": "data/corrections/human/tendertouch-jeffery.json",
+      "sha256": "92c197fc7f717cf7def603a9c604d6696689f9bf6ed53095b7a1e5f2c235b744",
+      "id": "human-tendertouch-jeffery-20260912"
+    },
+    {
+      "path": "data/corrections/human/tendertouch-narrative-summary.json",
+      "sha256": "f98d554dfbf1d24b3936670e1fac9ac1827fe178a4303dfc5e99f75052232f47",
+      "id": "human-tendertouch-summary-20260913"
+    },
+    {
+      "path": "data/corrections/human/training-implemented.json",
+      "sha256": "af6df02faf9f28b1ffdb4c3cc179cb146e5e625a6a26d8de061770c9bdf13945",
+      "id": "human-training-implemented-20260912"
+    },
+    {
+      "path": "data/corrections/human/unclassified-stamp-page2.json",
+      "sha256": "eec3e8c4b8fbd099a5218c4f7eb4461ca53e4378efb94ce1cad4283a26b6dff6",
+      "id": "human-unclassified-stamp-page2-20260913"
+    },
+    {
+      "path": "data/corrections/human/winston-august19.json",
+      "sha256": "088e01dd89fe6db49f8e818aebf94926471fc21b2b4c387a15250764d8ef80d9",
+      "id": "human-winston-august19-20260912"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "text": "DECLASSIFIED\n\nORGANIZATIONAL DATA\n\nI.  ATTACHMENTS.\n    1.  None\n\nII. LOCATION.\n    1.  Camp Margarita, MCB, Camp Pendleton, California\n\nIII. PERIOD COVERED BY REPORT.\n    1.  1 July 1965 - 31 December 1965.\n\nIV.  ASSIGNMENTS AS OF 20 DECEMBER 1965.\n    1.   CO       Lieutenant Colonel R.H. USKURAIT\n    2.   XO       Major L.W.T. WALLER II\n    3.   S-1      1stLt D.R. WEST\n    4.   S-2      Capt. A.H. MOORE\n    5.   S-3      Major R.A. PAPE\n    6.   S-4      Capt. H.T. WINSTON\n    7.   CO, H&S  Capt. R.D. HUGHES\n    8.   CO, E    1stLt D.E. MARCUM\n    9.   CO, F    Capt. R.A. HICKETHIER\n    10.  CO, G    Capt. J.F. O'ROURKE\n    11.  CO, H    1stLt J.J. DOHERTY\n\nCOMMANDER'S NARRATIVE SUMMARY\n\n    On 8 August 1965 the Second Battalion returned to the United States at\nSan Diego, California. The majority of officers and men were transferred\nto new commands. During September a Combined Fire Support Exercise was con-\nducted for military representatives of SEATO and this organization provided\nthe ground maneuver element. During early November 1965 a reinforced platoon\nfrom \"G\" Company participated as aggressors for the U.S. Army Operation\nTENDERTOUCH. During the middle of November 1965 this organization conducted\na PHIBLEX off the USS PRINCETON. Three rifle companies and elements of H&S\nCompany participated; however, companies were far below the manning level.\nOn 15 November 1965 the Regimental Landing Team-5 special training program\nwas implemented; however, due to personnel TAD to schools, commitments of\nhigher authority, and on board strength of approximately 50%, training was\nvery limited.\n\nUNCLASSIFIED\n\n+          ENCLOSURE (1)\nC-14-1\n\nDECLASSIFIED\n\n[Handwritten marginal annotations: \"2/5\" at upper right; \"Jul-Dec 65\" at lower right]",
+      "rawSha256": "787fd09665e980247541f61b96f60bd6650fdecde2ed1547dfb9cfc254a381d0",
+      "resolvedSha256": "c26acbca5db1787fdb7abb471622b7ae91377b169402f175bd3476e22eec344d",
+      "appliedHumanCorrections": [
+        "human-marginal-notes-page1-20260913"
+      ]
+    },
+    {
+      "page": 2,
+      "text": "DECLASSIFIED\n\nDETAILED CHRONOLOGY OF EVENTS\n\nDATE\n19 JULY 1965\n8 AUGUST 1965\n19 AUGUST 1965\n8 SEPTEMBER 1965\n16 SEPTEMBER 1965\n17 SEPTEMBER 1965\n18 SEPTEMBER 1965\n22 SEPTEMBER 1965\n1 NOVEMBER 1965\n\nEVENT\nThe Third Battalion, Ninth Marines was redesignated the Second Battalion, Fifth Marines. Lieutenant Colonel C. E. MC PARTLIN, Jr., was the Commanding Officer.\n\nThe Battalion returned to the United States, arriving at San Diego, California.\n\nLieutenant Colonel C. E. MC PARTLIN, Jr., was relieved as Commanding Officer by Captain C. H. RAM. The following billets were filled on this date:\n\nS-1: First Lieutenant T. BOYD\nS-2: First Lieutenant E. A. KRATOVIL, Jr.\nS-4: Captain H. T. WINSTON\nCO, H&SCo: First Lieutenant P. C. ROLLINS\nCO, \"E\"Co: First Lieutenant T. R. MINOR\nCO, \"F\"Co: First Lieutenant D. G. WINTER\nCO, \"G\"Co: First Lieutenant D. H. HERING\nCO, \"H\"Co: First Lieutenant J. J. DOHERTY\n\nCaptain C. H. RAM was relieved as Commanding Officer by Major J. R. CATT. Captain C. H. RAM became the Executive Officer.\n\nSEATO DEMONSTRATION\nA combined fire support exercise was conducted by units of Regimental Landing Team Five for military representatives of the Southeast Asia Treaty Organization. The Battalion was the ground maneuver element.\n\nCaptain C. H. RAM was relieved as Executive Officer by Major T. E. BULGER. Captain C. H. RAM became the Commanding Officer, H&S Company.\n\nMajor J. R. CATT was relieved as Commanding Officer by Major L. W. T. WALLER, II. Major J. R. CATT became the S-3.\n\nMajor J. R. CATT was relieved as the S-3 by Major R. A. PAPE. Major J. R. CATT was transferred out of the Battalion.\n\nGunnery Sergeant J. J. SLOCUM was assigned as the S-2. First Lieutenant D. H. HERING was relieved as CO, \"G\" Company, by Captain R. E. GARRETT.\n\n[stamp: UNCLASSIFIED]\n\nC-14-2\nENCLOSURE (1)\n\nDECLASSIFIED",
+      "rawSha256": "016eefdeabedde6ee6dbf41add4793f485ead0f0fefcfae0af7147cf6a9d3097",
+      "resolvedSha256": "016eefdeabedde6ee6dbf41add4793f485ead0f0fefcfae0af7147cf6a9d3097",
+      "appliedHumanCorrections": []
+    },
+    {
+      "page": 3,
+      "text": "DECLASSIFIED\n\nDATE\n2 NOVEMBER 1965\n3-5 NOVEMBER 1965\n5 NOVEMBER 1965\n19 NOVEMBER 1965\n20 NOVEMBER 1965\n26 NOVEMBER 1965\n1 DECEMBER 1965\n15 DECEMBER 1965\n20 DECEMBER 1965\n\nEVENT\nFirst Lieutenant D. G. WINTER was relieved as CO, \"F\" Company by First Lieutenant G. S. BURGETT.\n\nPARTICIPATED IN OPERATION TENDERTOUCH\nThe 1st Platoon (Rein), \"G\" Co, under the command of 2ndLt W. W. JEFFERY participated as aggressors in the U.S. Army Operation Tendertouch which was conducted by the 3rd Brigade, 5th Infantry Division (Mechanized), Fort Carson, Colorado, at Marine Corps Base, Camp Pendleton, California.\n\nCaptain C. H. RAM was relieved as CO, H&S Co, by Captain L. W. FAHRNI. Captain C. H. RAM was transferred out of the Battalion.\n\nCONDUCTED PHIBLEX\nThe Battalion conducted a PHIBLEX which was a movement by helicopter from the USS PRINCETON to Marine Corps Base, Camp Pendleton, California. Three (3) rifle companies and elements of H&S Co. participated, however, companies were at approximately 40% manning level.\n\nCaptain R. E. GARRETT was relieved as CO, \"G\" Co, by Captain J. F. O'ROURKE. Captain R. E. GARRETT was transferred out of the Battalion.\n\nCaptain L. W. FAHRNI was relieved as CO, H&S Co, by Captain R. D. HUGHES.\n\nMajor T. E. BULGER was relieved as Executive Officer by Major R. A. PAPE. Major T. E. BULGER was transferred out of the Battalion. First Lieutenant T. BOYD was relieved as S-1 by First Lieutenant D. R. WEST. First Lieutenant T. R. MINOR was relieved as CO, \"E\" Co, by First Lieutenant D. E. MARCUM. First Lieutenant T. R. MINOR was transferred out of the Battalion. First Lieutenant G. S. BURGETT was relieved as CO, \"F\" Co, by Captain R. A. HICKETHIER.\n\nGunnery Sergeant J. J. SLOCUM was relieved as S-2 by Captain A. H. MOORE.\n\nMajor L. W. T. WALLER, II, was relieved as Commanding Officer by Lieutenant Colonel R. H. USKURAIT. Major L. W. T. WALLER, II, became the Executive Officer. Major R. A. PAPE became the S-3.\n\n3\nC-14-3\nENCLOSURE (1)\n\nDECLASSIFIED",
+      "rawSha256": "2ed4ac3e13bdc597c36f92e0bc3c0718fc5e733e52db455d47e76257eaa213c3",
+      "resolvedSha256": "2ed4ac3e13bdc597c36f92e0bc3c0718fc5e733e52db455d47e76257eaa213c3",
+      "appliedHumanCorrections": []
+    }
+  ],
+  "unresolvedCorrections": []
+}

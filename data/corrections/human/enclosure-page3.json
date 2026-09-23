@@ -1,0 +1,16 @@
+{
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "page": 3,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "id": "human-enclosure-page3-20260913",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "ocrStart": 8707,
+  "ocrEnd": 8720,
+  "originalReading": "ENCLOSURE (4)",
+  "replacement": "ENCLOSURE (1)",
+  "reason": "Brent confirmed Qwen’s page 3 footer reading."
+}

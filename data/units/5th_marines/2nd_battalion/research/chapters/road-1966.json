@@ -40,10 +40,15 @@
       "id": "road-okinawa",
       "title": "TRAINING ON OKINAWA",
       "intro": "Camp Schwab and the Northern Training Area became the center of preparation.",
-      "note": "Battalion-wide and all-company statements do not establish individual Marines’ attendance.",
+      "note": "Course durations are recorded where known; exact dates and the order in which companies attended are not established.",
       "eventIds": [
         "road-training",
+        "road-weapons-training",
+        "road-mine-demolition-school",
+        "road-jungle-lanes",
         "road-combined-training",
+        "road-lvt-training",
+        "road-battalion-exercises",
         "road-reactivation",
         "road-control"
       ],
@@ -80,7 +85,12 @@
       "title": "TRAINING ON OKINAWA",
       "eventIds": [
         "road-training",
+        "road-weapons-training",
+        "road-mine-demolition-school",
+        "road-jungle-lanes",
         "road-combined-training",
+        "road-lvt-training",
+        "road-battalion-exercises",
         "road-reactivation",
         "road-control"
       ]

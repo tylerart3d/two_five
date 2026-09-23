@@ -1,0 +1,80 @@
+[
+  {
+    "anchorId": "AUDIT-ADVANCE-PARTY-ROSTER",
+    "page": 8,
+    "result": {
+      "id": "AUDIT-ADVANCE-PARTY-ROSTER",
+      "found": true,
+      "rect": [
+        0.145,
+        0.138,
+        0.725,
+        0.132
+      ],
+      "confidence": 0.97,
+      "visibleText": "BATTALION LANDING TEAM members on this party were: 1. Major R.A. PAPE Battalion S-3 Officer 2. 1stLt W.E. SMITH Battalion Motor Transport Officer 3. SSgt J.D. WYZSMIRSKI Property NCO 4. Corporal H.K. NOE S-1 Clerk",
+      "note": "Header line plus numbered list items 1-4 enclosed."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-CARGO-LOADING-JANUARY-7",
+    "page": 8,
+    "result": {
+      "id": "AUDIT-CARGO-LOADING-JANUARY-7",
+      "found": true,
+      "rect": [
+        0.145,
+        0.282,
+        0.705,
+        0.042
+      ],
+      "confidence": 0.97,
+      "visibleText": "7 January 1966 - BATTALION LANDING TEAM 2/5 commenced loading of cargo at Long Beach California, for movement to WESTPAC.",
+      "note": "Two-line passage with underlined date."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-CARGO-LOADED-JANUARY-8",
+    "page": 8,
+    "result": {
+      "id": "AUDIT-CARGO-LOADED-JANUARY-8",
+      "found": true,
+      "rect": [
+        0.145,
+        0.34,
+        0.475,
+        0.028
+      ],
+      "confidence": 0.97,
+      "visibleText": "8 January 1966 - Loading of cargo completed",
+      "note": "Single line with underlined date."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  }
+]

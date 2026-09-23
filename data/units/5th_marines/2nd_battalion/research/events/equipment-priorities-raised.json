@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "equipment-priorities-raised",
+  "title": "Equipment requisitions given higher priority",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1965-12-17",
+    "end": "1966-01-10",
+    "label": "Before embarkation · exact date unstated",
+    "precision": "approximate-range"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-EQUIPMENT-PRIORITIES-RAISED"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Equipment left in WESTPAC in July was still missing when the warning order arrived. Requisitions had been outstanding since August; messages raised their priority, releasing many of the missing items.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

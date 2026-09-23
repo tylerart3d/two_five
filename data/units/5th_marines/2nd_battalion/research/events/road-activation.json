@@ -18,6 +18,14 @@
     {
       "documentId": "1201048066",
       "anchorId": "ROAD-01"
+    },
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-ROAD-ACTIVATION"
+    },
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-ROAD-ATTACHMENTS-P3"
     }
   ],
   "paragraphs": [
@@ -25,6 +33,18 @@
       {
         "text": "The battalion landing team was activated on January 1, following its December 17 designation for planning.",
         "source": 0
+      }
+    ],
+    [
+      {
+        "text": "The attachment list records Battery E, 2/11 (Capt F. Bubenhoffer, Jr.) and 2nd Platoon, Company B, 1st Antitank Battalion (2ndLt W. D. Webster).",
+        "source": 1
+      }
+    ],
+    [
+      {
+        "text": "Other attachments were 2nd Platoon, Company B, 1st Reconnaissance Battalion (2ndLt G. W. Jones); 2nd Platoon, Company B, 1st Engineer Battalion (1stLt A. J. Lecrone); 2nd Landing Support Platoon, Company B, 1st Shore Party Battalion (2ndLt F. Rosenberg); 2nd Platoon, Company B, 7th Motor Transport Battalion (1stLt A. J. Boccuti); the reinforced 2nd collecting and clearing section, Company B, 1st Medical Battalion; and a 1st Force Service Regiment detachment.",
+        "source": 2
       }
     ]
   ],
@@ -46,6 +66,13 @@
   ],
   "category": "organization",
   "chapterIds": [
-    "road-1966"
-  ]
+    "road-1966",
+    "rebirth-1965"
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  }
 }

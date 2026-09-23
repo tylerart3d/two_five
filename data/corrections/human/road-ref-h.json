@@ -1,0 +1,15 @@
+{
+  "id": "human-road-ref-h-20260912",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "640d0378c6d72ae48eb31a9399039cf0f307798e4776b1819ed5f289259a903c",
+  "anchorId": "ROAD-REF-H",
+  "page": 1,
+  "originalReading": "(h) CINCPACLT 1804572 (NOTAL)",
+  "replacement": "(h) CINCPACLT 180547Z (NOTAL)",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent selected Qwen’s 180547Z message number for reference (h), PDF page 1. The command abbreviation was not presented for review and remains unconfirmed."
+}

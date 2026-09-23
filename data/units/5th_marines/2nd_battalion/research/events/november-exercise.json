@@ -15,7 +15,7 @@
     "3rd Brigade, 5th Infantry Division (Mechanized), U.S. Army"
   ],
   "people": [
-    "2ndLt W. W. Jaffke"
+    "2ndLt W. W. Jeffery"
   ],
   "locations": [],
   "sources": [
@@ -27,7 +27,7 @@
   "paragraphs": [
     [
       {
-        "text": "From 3–5 November, 1st Platoon (reinforced), Golf Company, under 2ndLt W. W. Jaffke, acted as the opposing force in an Army exercise at Camp Pendleton. The exercise was conducted by the 3rd Brigade, 5th Infantry Division (Mechanized), from Fort Carson, Colorado.",
+        "text": "From 3–5 November, 1st Platoon (reinforced), Golf Company, under 2ndLt W. W. Jeffery, acted as the opposing force in the Army’s Operation Tendertouch at Camp Pendleton. The exercise was conducted by the 3rd Brigade, 5th Infantry Division (Mechanized), from Fort Carson, Colorado.",
         "source": 0
       }
     ]
@@ -35,7 +35,7 @@
   "notes": [
     "Map destination is a contextual location view, not the exact position of each action."
   ],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -56,10 +56,15 @@
     {
       "date": "2026-09-08",
       "note": "Removed Where it fits in the story section at Brent’s request."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Applied Brent’s human-confirmed readings TENDERTOUCH and JEFFERY.",
+      "correctionId": "human-tendertouch-jeffery-20260912"
     }
   ],
   "context": {
-    "title": "The Army exercise",
+    "title": "Operation Tendertouch",
     "date": "3–5 November 1965 · Camp Pendleton",
     "prompt": "What was this exercise?",
     "sections": [
@@ -72,12 +77,20 @@
         "text": "The entry attributes the exercise to the U.S. Army’s 3rd Brigade, 5th Infantry Division (Mechanized), from Fort Carson, Colorado. It places the exercise at Camp Pendleton."
       }
     ],
-    "uncertainty": "Name under review: the existing transcription says “TIMBERTORCH”; another reading is “TENDERTOUCH.” Both are retained until the source is checked.",
     "source": 0
   },
   "category": "training",
   "mapDestination": "camp",
   "chapterIds": [
     "rebirth-1965"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page3-november2-5-20260913",
+      "human-tendertouch-jeffery-20260912"
+    ]
+  }
 }

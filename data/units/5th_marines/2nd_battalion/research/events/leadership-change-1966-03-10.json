@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "leadership-change-1966-03-10",
+  "title": "1stLt G. S. Burgett appointed Foxtrot",
+  "date": {
+    "label": "1966-03-10",
+    "start": "1966-03-10",
+    "end": "1966-03-10",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "leadership",
+  "chapterIds": [
+    "road-1966"
+  ],
+  "units": [
+    "2/5"
+  ],
+  "people": [
+    "person-g-s-burgett"
+  ],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-COMMAND-1966-03-10"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "1stLt G. S. Burgett became Foxtrot Company commander on 1966-03-10.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Derived from the dated command-change passage; original transcription retained."
+  ],
+  "researchStatus": "Existing OCR passage; page-linked, geometry pending.",
+  "revisions": [
+    {
+      "date": "2026-09-22",
+      "note": "Connected command change to Chapter 1 leadership and timeline."
+    }
+  ]
+}

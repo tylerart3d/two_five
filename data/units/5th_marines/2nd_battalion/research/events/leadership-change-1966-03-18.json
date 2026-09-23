@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "leadership-change-1966-03-18",
+  "title": "Capt J. S. Cooper appointed Echo",
+  "date": {
+    "label": "1966-03-18",
+    "start": "1966-03-18",
+    "end": "1966-03-18",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "leadership",
+  "chapterIds": [
+    "road-1966"
+  ],
+  "units": [
+    "2/5"
+  ],
+  "people": [
+    "person-j-s-cooper"
+  ],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-COMMAND-1966-03-18"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Capt J. S. Cooper became Echo Company commander on 1966-03-18.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Derived from the dated command-change passage; original transcription retained."
+  ],
+  "researchStatus": "Existing OCR passage; page-linked, geometry pending.",
+  "revisions": [
+    {
+      "date": "2026-09-22",
+      "note": "Connected command change to Chapter 1 leadership and timeline."
+    }
+  ]
+}

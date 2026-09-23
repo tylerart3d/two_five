@@ -53,3 +53,7 @@ Pendleton: [1965–1966 photo leads](PENDLETON_PHOTO_RESEARCH.md), pending image
 - Added user-supplied MCRD aerial to local location album; date, photographer and rights unknown. Metadata in MCRD_PHOTOS.json; original image preserved locally with SHA-256.
 
 - Added MCRD rifle inspection photo, late summer 1960 per supplied caption; rights unverified. Original caption preserved in MCRD_PHOTOS.json without attributing its first-person recollection to Brent or extending its training duration to 1965–66.
+
+MCRD aerial display updated September 12, 2026 with a user-supplied WebP; original JPEG preserved locally and replacement provenance recorded in MCRD_PHOTOS.json.
+
+[Pendleton to Long Beach movement](../places/PENDLETON_TO_LONG_BEACH.json) documents January 1966 embarkation; arrow is illustrative.

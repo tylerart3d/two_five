@@ -1,0 +1,132 @@
+[
+  {
+    "anchorId": "AUDIT-DEPLOYMENT-DIRECTED-DECEMBER-18",
+    "page": 7,
+    "result": {
+      "id": "AUDIT-DEPLOYMENT-DIRECTED-DECEMBER-18",
+      "found": true,
+      "rect": [
+        0.16,
+        0.395,
+        0.65,
+        0.078
+      ],
+      "confidence": 0.97,
+      "visibleText": "18 December 1965 - Reference (h) directed the deployment of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC in shipping designated by COMPHIBPAC.",
+      "note": "Three-line entry under COMMAND CHRONOLOGY; leftmost start at underlined date, rightmost extent on second line."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-SHIPPING-DESIGNATED-DECEMBER-18",
+    "page": 7,
+    "result": {
+      "id": "AUDIT-SHIPPING-DESIGNATED-DECEMBER-18",
+      "found": true,
+      "rect": [
+        0.16,
+        0.48,
+        0.71,
+        0.1
+      ],
+      "confidence": 0.97,
+      "visibleText": "18 December 1965 - Reference (i) designated the shipping required for execution of movement of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC. The ships designated were the USS BEXAR (APA-237), USS BELLE GROVE (LSD-2), and USS MATHEWS (AKA-96).",
+      "note": "Four-line entry; full paragraph enclosed from date line through ship list."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-DEPLOYMENT-ORDERS-DECEMBER-21",
+    "page": 7,
+    "result": {
+      "id": "AUDIT-DEPLOYMENT-ORDERS-DECEMBER-21",
+      "found": true,
+      "rect": [
+        0.16,
+        0.71,
+        0.7,
+        0.05
+      ],
+      "confidence": 0.97,
+      "visibleText": "21 December 1965 - Reference (j) issued the deployment orders for BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC.",
+      "note": "Two-line entry fully enclosed."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-ACTIVATION-DIRECTED-DECEMBER-30",
+    "page": 7,
+    "result": {
+      "id": "AUDIT-ACTIVATION-DIRECTED-DECEMBER-30",
+      "found": true,
+      "rect": [
+        0.16,
+        0.765,
+        0.7,
+        0.05
+      ],
+      "confidence": 0.96,
+      "visibleText": "30 December 1965 - Reference (k) directed BATTALION LANDING TEAM 2/5 to be activated as of Ø1ØØØ1U January 1966.",
+      "note": "Two-line entry; activation time appears struck/overwritten in scan as Ø1ØØØ1U."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-ADVANCE-PARTY-JANUARY-6",
+    "page": 7,
+    "result": {
+      "id": "AUDIT-ADVANCE-PARTY-JANUARY-6",
+      "found": true,
+      "rect": [
+        0.16,
+        0.82,
+        0.66,
+        0.05
+      ],
+      "confidence": 0.97,
+      "visibleText": "6 January 1966 - The REGIMENTAL LANDING TEAM-5 advance party departed CONUS via air transportation for WESTPAC.",
+      "note": "Two-line entry fully enclosed."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  }
+]

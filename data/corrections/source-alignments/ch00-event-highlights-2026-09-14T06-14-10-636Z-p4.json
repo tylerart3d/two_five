@@ -1,0 +1,80 @@
+[
+  {
+    "anchorId": "AUDIT-S2-OFFICER-JANUARY-3",
+    "page": 4,
+    "result": {
+      "id": "AUDIT-S2-OFFICER-JANUARY-3",
+      "found": true,
+      "rect": [
+        0.16,
+        0.755,
+        0.68,
+        0.045
+      ],
+      "confidence": 0.97,
+      "visibleText": "B. S-2. Our present S-2 Officer and S-2 Chief were not assigned until 3 January 1966 and 5 January 1966 respectively.",
+      "note": "Entire B. S-2 paragraph enclosed (two lines); leftmost 'assigned' to rightmost 'respectively.'"
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-S2-CHIEF-JANUARY-5",
+    "page": 4,
+    "result": {
+      "id": "AUDIT-S2-CHIEF-JANUARY-5",
+      "found": true,
+      "rect": [
+        0.16,
+        0.755,
+        0.68,
+        0.045
+      ],
+      "confidence": 0.97,
+      "visibleText": "B. S-2. Our present S-2 Officer and S-2 Chief were not assigned until 3 January 1966 and 5 January 1966 respectively.",
+      "note": "Same B. S-2 paragraph as AUDIT-S2-OFFICER-JANUARY-3; both dates appear in this single passage."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-PREDEPARTURE-TRAINING",
+    "page": 4,
+    "result": {
+      "id": "AUDIT-PREDEPARTURE-TRAINING",
+      "found": true,
+      "rect": [
+        0.16,
+        0.815,
+        0.65,
+        0.07
+      ],
+      "confidence": 0.96,
+      "visibleText": "C. S-3. From 19 December 1965 until embarkation on 10 January 1966, training had been limited to MOS training, marksmanship requalification and some field work.",
+      "note": "Encloses the three lines matching the quote (from 'C. S-3.' through 'some field work.'); the following sentence 'Of necessity...' is outside the quoted passage."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  }
+]

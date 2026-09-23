@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "leadership-roster-1966-02-22",
+  "title": "Battalion leadership roster · 22 February",
+  "date": {
+    "label": "22 February 1966",
+    "start": "1966-02-22",
+    "end": "1966-02-22",
+    "precision": "record"
+  },
+  "kind": "leadership-record",
+  "timelineHidden": true,
+  "chapterIds": [
+    "road-1966"
+  ],
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The roster records the battalion staff and company commanders as of 22 February 1966.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Roster date confirms the position, not its starting date."
+  ],
+  "researchStatus": "Derived from existing OCR with applicable human corrections; page-linked, geometry pending.",
+  "revisions": [
+    {
+      "date": "2026-09-22",
+      "note": "Connected roster to the Chapter 1 leadership tree."
+    }
+  ]
+}

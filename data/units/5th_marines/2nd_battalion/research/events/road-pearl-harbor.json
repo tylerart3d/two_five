@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "id": "road-pearl-harbor",
-  "title": "A stop at Pearl Harbor",
+  "title": "Travel to Pearl Harbor",
   "date": {
-    "label": "18–20 Jan 1966",
-    "start": "1966-01-18",
-    "end": "1966-01-20",
+    "label": "10–18 Jan 1966 · Eight-day crossing",
+    "start": "1966-01-10",
+    "end": "1966-01-18",
     "precision": "range"
   },
   "kind": "event",
@@ -23,13 +23,14 @@
   "paragraphs": [
     [
       {
-        "text": "The landing team arrived at Pearl Harbor on January 18 and departed for Okinawa on January 20.",
+        "text": "The ships sailed from Pier E at Long Beach on January 10, 1966, and the landing team reached Pearl Harbor on January 18. The first Pacific crossing took eight elapsed days. After two days in Hawaii, the landing team departed for Okinawa on January 20.",
         "source": 0
       }
     ]
   ],
   "notes": [
-    "Map destination is a contextual location view, not the exact position of each action."
+    "Map destination is a contextual location view, not the exact position of each action.",
+    "Eight-day crossing and two-day stop calculated from recorded calendar dates; exact times are not given."
   ],
   "researchStatus": "Draft from existing OCR; page-only source reference.",
   "revisions": [
@@ -44,11 +45,21 @@
     {
       "date": "2026-09-07",
       "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-22",
+      "note": "Reframed as the voyage to Pearl Harbor, January 10–18; retained January 18–20 stop in the text."
     }
   ],
   "category": "movement",
   "mapDestination": "pearl-harbor",
   "chapterIds": [
     "road-1966"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  }
 }

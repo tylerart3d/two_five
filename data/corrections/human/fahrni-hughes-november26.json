@@ -1,0 +1,23 @@
+{
+  "id": "human-fahrni-hughes-november26-20260912",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "anchorId": "hs-november-26",
+  "page": 3,
+  "ocrStart": 7248,
+  "ocrEnd": 7389,
+  "originalReading": "26 NOVEMBER 1965                  Captain L. W. PARENTI was relieved as CO, H&S Co, by\n                                  Captain R. D. BURNS.",
+  "replacement": "26 NOVEMBER 1965                  Captain L. W. FAHRNI was relieved as CO, H&S Co, by\n                                  Captain R. D. HUGHES.",
+  "rect": [
+    0.15,
+    0.575,
+    0.75,
+    0.025
+  ],
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed FAHRNI relieved by Captain R. D. HUGHES and that the highlighted region covers the November 26 entry."
+}

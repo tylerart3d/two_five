@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "equipment-requisitions-august",
+  "title": "Equipment requisitions outstanding since August",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "start": "1965-08-01",
+    "end": "1965-08-31",
+    "label": "August 1965 · day unstated",
+    "precision": "month"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-EQUIPMENT-REQUISITIONS-AUGUST"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Equipment requisitions had been on order since August. Their priority was later raised when deployment preparations accelerated.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

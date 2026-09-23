@@ -1,0 +1,21 @@
+import { test, expect } from '@playwright/test';
+test('scrolling away from a citation survives footer reflow and fit changes', async ({page}) => {
+ await page.goto('/#camp-margarita');
+ const port=page.locator('.pdf-viewport');
+ await expect(port).toHaveAttribute('aria-busy','false');
+ await page.waitForTimeout(800);
+ await port.evaluate(el=>{const sheets=el.querySelectorAll<HTMLElement>('.pdf-sheet'); el.scrollTop=sheets[0].offsetHeight+16+sheets[1].offsetHeight*.3;});
+ await expect(page.locator('.viewer-tools')).toContainText('Page 2 / 3');
+ await expect(page.getByRole('button',{name:'Return to cited page 1',exact:true})).toBeVisible();
+ await page.waitForTimeout(700);
+ await expect(page.locator('.viewer-tools')).toContainText('Page 2 / 3');
+ expect(await port.evaluate(el=>el.scrollTop)).toBeGreaterThan(500);
+ await page.getByRole('button',{name:'Fit height',exact:true}).click();
+ await page.waitForTimeout(300);
+ await expect(page.locator('.viewer-tools')).toContainText('Page 2 / 3');
+ await page.getByRole('button',{name:'Fit width',exact:true}).click();
+ await page.waitForTimeout(300);
+ await expect(page.locator('.viewer-tools')).toContainText('Page 2 / 3');
+ await page.getByRole('button',{name:'Return to cited page 1',exact:true}).click();
+ await expect(page.locator('.viewer-tools')).toContainText('Page 1 / 3');
+});

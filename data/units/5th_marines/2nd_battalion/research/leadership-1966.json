@@ -1,0 +1,287 @@
+{
+  "chapterId": "road-1966",
+  "coverageEnd": "1966-04-13",
+  "entries": [
+    {
+      "date": "1966-01-06",
+      "role": "Motor transport",
+      "name": "1stLt W. E. Smith",
+      "personId": "person-w-e-smith",
+      "kind": "snapshot",
+      "eventId": "advance-party-january-6",
+      "anchorId": "AUDIT-ADVANCE-PARTY-ROSTER"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "CO",
+      "name": "LtCol R. H. Uskurait",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-r-h-uskurait"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "XO",
+      "name": "Maj L. W. T. Waller II",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-l-w-t-waller-ii"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "S-1",
+      "name": "1stLt D. R. West",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-d-r-west"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "S-2",
+      "name": "Capt R. L. Hemenez",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-r-l-hemenez"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "S-3",
+      "name": "Maj R. A. Pape",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-r-a-pape"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "S-4",
+      "name": "Capt H. T. Winston",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-h-t-winston"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "H&S",
+      "name": "Capt R. D. Hughes",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-r-d-hughes"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "Echo",
+      "name": "1stLt D. R. Marcum",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-d-r-marcum"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "Foxtrot",
+      "name": "Capt R. A. Hickethier",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-r-a-hickethier"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "Golf",
+      "name": "Capt J. F. O’Rourke",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-j-f-o-rourke"
+    },
+    {
+      "date": "1966-02-22",
+      "role": "Hotel",
+      "name": "1stLt J. J. Doherty",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-02-22",
+      "eventId": "leadership-roster-1966-02-22",
+      "personId": "person-j-j-doherty"
+    },
+    {
+      "date": "1966-03-04",
+      "role": "S-1",
+      "name": "1stLt W. M. Kay",
+      "personId": "person-w-m-kay",
+      "kind": "appointment",
+      "eventId": "leadership-change-1966-03-04",
+      "anchorId": "ROAD-COMMAND-1966-03-04"
+    },
+    {
+      "date": "1966-03-10",
+      "role": "Foxtrot",
+      "name": "1stLt G. S. Burgett",
+      "personId": "person-g-s-burgett",
+      "kind": "appointment",
+      "eventId": "leadership-change-1966-03-10",
+      "anchorId": "ROAD-COMMAND-1966-03-10"
+    },
+    {
+      "date": "1966-03-14",
+      "role": "Motor transport",
+      "name": "1stLt A. J. Bocutti",
+      "personId": "person-a-j-bocutti",
+      "kind": "appointment",
+      "eventId": "leadership-change-1966-03-14",
+      "anchorId": "ROAD-COMMAND-1966-03-14"
+    },
+    {
+      "date": "1966-03-18",
+      "role": "Echo",
+      "name": "Capt J. S. Cooper",
+      "personId": "person-j-s-cooper",
+      "kind": "appointment",
+      "eventId": "leadership-change-1966-03-18",
+      "anchorId": "ROAD-COMMAND-1966-03-18"
+    },
+    {
+      "date": "1966-03-18",
+      "role": "Liaison",
+      "name": "1stLt D. E. Marcum",
+      "personId": "person-d-e-marcum",
+      "kind": "appointment",
+      "eventId": "leadership-change-1966-03-18",
+      "anchorId": "ROAD-COMMAND-1966-03-18"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "CO",
+      "name": "LtCol R. H. Uskurait",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-r-h-uskurait"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "XO",
+      "name": "Maj L. W. T. Waller II",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-l-w-t-waller-ii"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "S-1",
+      "name": "1stLt W. M. Kay",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-w-m-kay"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "S-2",
+      "name": "Capt R. L. Hemenez",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-r-l-hemenez"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "S-3",
+      "name": "Maj R. A. Pape",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-r-a-pape"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "S-4",
+      "name": "Capt H. T. Winston",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-h-t-winston"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "H&S",
+      "name": "Capt R. D. Hughes",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-r-d-hughes"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "Echo",
+      "name": "Capt J. S. Cooper",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-j-s-cooper"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "Foxtrot",
+      "name": "1stLt G. S. Burgett",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-g-s-burgett"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "Golf",
+      "name": "Capt J. F. O’Rourke",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-j-f-o-rourke"
+    },
+    {
+      "date": "1966-04-05",
+      "role": "Hotel",
+      "name": "1stLt J. J. Doherty",
+      "kind": "snapshot",
+      "anchorId": "ROAD-LEADERSHIP-1966-04-05",
+      "eventId": "leadership-roster-1966-04-05",
+      "personId": "person-j-j-doherty"
+    }
+  ],
+  "gaps": [
+    {
+      "role": "S-2",
+      "start": "1966-01-03",
+      "end": "1966-02-21",
+      "eventId": "s2-officer-january-3",
+      "anchorId": "AUDIT-S2-OFFICER-JANUARY-3",
+      "note": "New S-2 officer assigned January 3; this passage does not name him. Hemenez is shown only from the February 22 roster."
+    }
+  ],
+  "personNotes": [
+    {
+      "personId": "person-d-r-marcum",
+      "text": "D. R. Marcum and D. E. Marcum likely refer to the same officer. The February 22 roster lists D. R. Marcum as Echo Company commander; the March 18 change of command names D. E. Marcum as the outgoing commander. The differing initials appear in the original documents and likely reflect a typographical error.",
+      "status": "Probable identity match; not conclusively confirmed",
+      "author": "Brent Tyler / Codex",
+      "date": "2026-09-22",
+      "sources": [
+        {
+          "label": "February 22 roster",
+          "anchorId": "ROAD-LEADERSHIP-1966-02-22"
+        },
+        {
+          "label": "March 18 change of command",
+          "anchorId": "ROAD-COMMAND-1966-03-18"
+        }
+      ]
+    }
+  ]
+}

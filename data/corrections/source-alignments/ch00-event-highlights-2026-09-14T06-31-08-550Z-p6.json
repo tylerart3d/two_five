@@ -1,0 +1,80 @@
+[
+  {
+    "anchorId": "AUDIT-LATE-SUPPLIES-JANUARY-7",
+    "page": 6,
+    "result": {
+      "id": "AUDIT-LATE-SUPPLIES-JANUARY-7",
+      "found": true,
+      "rect": [
+        0.15,
+        0.64,
+        0.75,
+        0.075
+      ],
+      "confidence": 0.97,
+      "visibleText": "These changes were due to the fact that supplies back ordered for this organization were still arriving at Camp Pendleton as late as 7 January 1966.",
+      "note": "Three lines; last line continues with 'Cargo ordered for other 1st Marine Division units' on same line as 'January 1966.'"
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-MOUNTOUT-BLOCKS-ORDERED",
+    "page": 6,
+    "result": {
+      "id": "AUDIT-MOUNTOUT-BLOCKS-ORDERED",
+      "found": true,
+      "rect": [
+        0.15,
+        0.145,
+        0.73,
+        0.25
+      ],
+      "confidence": 0.97,
+      "visibleText": "The following mount-out blocks were ordered, embarked, and in some cases packed, which were not previously held by this organization. These were: (1). 30 day class I (2). 30 day 1st through 3rd echelon class II spares (3). 30 day dry cells (4). 4 day class III (5). 30 day class IV (6). 30 day class V",
+      "note": "Includes introductory sentence and full enumerated list (1)-(6)."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-COMBAT-LOADING-PLANS",
+    "page": 6,
+    "result": {
+      "id": "AUDIT-COMBAT-LOADING-PLANS",
+      "found": true,
+      "rect": [
+        0.15,
+        0.405,
+        0.73,
+        0.37
+      ],
+      "confidence": 0.97,
+      "visibleText": "At the time the Battalion received the warning order, the embarkation Officer was on leave. Several minor difficulties were encountered during the embarkation planning due to lack of experience of the embarkation team and the relatively short notice given. As directed by the warning order, the ships were combat loaded. This presented numerous embarkation problems, as the exact cargo load was not known early in the planning stages, and was changed several times after loading plans were completed. These changes were due to the fact that supplies back ordered for this organization were still arriving at Camp Pendleton as late as 7 January 1966. Cargo ordered for other 1st Marine Division units was ordered loaded on a space available basis, thereby complicating embarkation procedures.",
+      "note": "Entire paragraph from 'At the time' through 'embarkation procedures.'"
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+    "confidence": 0.97,
+    "reviewStatus": "human review pending"
+  }
+]

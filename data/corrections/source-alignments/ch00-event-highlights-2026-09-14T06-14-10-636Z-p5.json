@@ -1,0 +1,158 @@
+[
+  {
+    "anchorId": "AUDIT-EQUIPMENT-PRIORITIES-RAISED",
+    "page": 5,
+    "result": {
+      "id": "AUDIT-EQUIPMENT-PRIORITIES-RAISED",
+      "found": true,
+      "rect": [
+        0.145,
+        0.515,
+        0.76,
+        0.08
+      ],
+      "confidence": 0.96,
+      "visibleText": "Priorities on requisitions were upgraded by messages since they had been on order since August 1965.",
+      "note": "Sentence begins mid-line after 'the Battalion received the warning order.' and ends mid-line at 'August 1965.'; full lines enclosed."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-GENERATOR-REPLACED",
+    "page": 5,
+    "result": {
+      "id": "AUDIT-GENERATOR-REPLACED",
+      "found": true,
+      "rect": [
+        0.145,
+        0.755,
+        0.76,
+        0.05
+      ],
+      "confidence": 0.96,
+      "visibleText": "A PU-348 generator previously invoiced to REGIMENTAL LANDING TEAM-1 was replaced with a PU-239.",
+      "note": "Begins mid-line after 'Mess Pans.' and ends mid-line before 'Nineteen'; full lines enclosed."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-TRAILERS-RECEIVED",
+    "page": 5,
+    "result": {
+      "id": "AUDIT-TRAILERS-RECEIVED",
+      "found": true,
+      "rect": [
+        0.145,
+        0.785,
+        0.76,
+        0.05
+      ],
+      "confidence": 0.96,
+      "visibleText": "Nineteen new M-416-B-1 trailers were received by this organization.",
+      "note": "Begins mid-line after 'PU-239.' and ends at line end; full lines enclosed."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-ADDITIONAL-STOCKS-ORDERED",
+    "page": 5,
+    "result": {
+      "id": "AUDIT-ADDITIONAL-STOCKS-ORDERED",
+      "found": true,
+      "rect": [
+        0.145,
+        0.905,
+        0.76,
+        0.05
+      ],
+      "confidence": 0.96,
+      "visibleText": "An additional 30 days operating stock was ordered. Eighty percent of these requisitions were filled prior to embarkation.",
+      "note": "Spans two full lines at bottom of page."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-EQUIPMENT-LEFT-WESTPAC",
+    "page": 5,
+    "result": {
+      "id": "AUDIT-EQUIPMENT-LEFT-WESTPAC",
+      "found": true,
+      "rect": [
+        0.145,
+        0.455,
+        0.76,
+        0.08
+      ],
+      "confidence": 0.96,
+      "visibleText": "Several items of supplies and individual equipment that were left in WESTPAC by this organization in July 1965 were missing when the Battalion received the warning order.",
+      "note": "Begins at start of paragraph under C. S-4. and ends mid-line before 'Priorities on requisitions'; full lines enclosed."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  },
+  {
+    "anchorId": "AUDIT-EQUIPMENT-REQUISITIONS-AUGUST",
+    "page": 5,
+    "result": {
+      "id": "AUDIT-EQUIPMENT-REQUISITIONS-AUGUST",
+      "found": true,
+      "rect": [
+        0.145,
+        0.515,
+        0.76,
+        0.08
+      ],
+      "confidence": 0.96,
+      "visibleText": "Priorities on requisitions were upgraded by messages since they had been on order since August 1965.",
+      "note": "Duplicate of PRIORITIES-RAISED target; same passage located."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+    "confidence": 0.96,
+    "reviewStatus": "human review pending"
+  }
+]

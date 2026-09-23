@@ -3,7 +3,7 @@
   "id": "rebirth-1965",
   "title": "Rebirth of the 2/5",
   "subtitle": "From 3/9 to 2/5. Reorganization, leadership, and training.",
-  "dateLabel": "July—December",
+  "dateLabel": "July 1965–8 January 1966",
   "year": 1965,
   "months": [
     "JUL",
@@ -11,7 +11,8 @@
     "SEP",
     "OCT",
     "NOV",
-    "DEC"
+    "DEC",
+    "JAN"
   ],
   "narrative": "1965_NARRATIVE.md",
   "sections": [
@@ -48,7 +49,9 @@
         "hs-november-26",
         "assignments-december-1",
         "s2-december-15",
-        "assignments-roster-december"
+        "assignments-roster-december",
+        "s2-officer-january-3",
+        "s2-chief-january-5"
       ],
       "groups": [
         {
@@ -60,7 +63,7 @@
             "command-september-18",
             "command-december-20"
           ],
-          "note": "Names transcribed from existing OCR; these spellings await review."
+          "note": ""
         },
         {
           "id": "staff-company-leadership",
@@ -76,21 +79,152 @@
             "hs-november-26",
             "assignments-december-1",
             "s2-december-15",
-            "assignments-roster-december"
+            "assignments-roster-december",
+            "s2-officer-january-3",
+            "s2-chief-january-5"
           ],
-          "note": "Names are OCR transcriptions awaiting review. The August S-4 reading is unresolved. The November H&S entry names Burns, while the December roster names Hughes; a replacement date is not established."
+          "note": "",
+          "subgroups": [
+            {
+              "title": "Battalion staff",
+              "entries": [
+                {
+                  "eventId": "assignments-august",
+                  "text": "S-1: 1stLt T. Boyd; S-2: 1stLt E. A. Kratovil, Jr.; S-4: Capt H. T. Winston."
+                },
+                {
+                  "eventId": "xo-september-17",
+                  "text": "Maj T. E. Bulger relieved Capt C. H. Ram as executive officer."
+                },
+                {
+                  "eventId": "s3-september-22",
+                  "text": "Maj R. A. Pape relieved Maj J. R. Catt as S-3. Catt transferred out of the battalion."
+                },
+                {
+                  "eventId": "staff-golf-november-1",
+                  "text": "GySgt J. J. Slocum was assigned as S-2."
+                },
+                {
+                  "eventId": "assignments-december-1",
+                  "text": "Maj R. A. Pape relieved Maj T. E. Bulger as executive officer; Bulger transferred out. 1stLt D. R. West relieved 1stLt T. Boyd as S-1."
+                },
+                {
+                  "eventId": "s2-december-15",
+                  "text": "Capt A. H. Moore relieved GySgt J. J. Slocum as S-2."
+                },
+                {
+                  "eventId": "assignments-roster-december",
+                  "text": "Roster: CO R.H. Uskurait; XO L.W.T. Waller II; S-1 D.R. West; S-2 A.H. Moore; S-3 R.A. Pape; S-4 H.T. Winston"
+                },
+                {
+                  "eventId": "s2-officer-january-3",
+                  "text": "The report records the S-2 officer’s assignment on January 3. It gives the date here without naming the officer."
+                },
+                {
+                  "eventId": "s2-chief-january-5",
+                  "text": "The S-2 chief was assigned on January 5, two days after the S-2 officer."
+                }
+              ]
+            },
+            {
+              "title": "Headquarters & Service Company",
+              "entries": [
+                {
+                  "eventId": "assignments-august",
+                  "text": "H&S — 1stLt P. C. Rollins"
+                },
+                {
+                  "eventId": "xo-september-17",
+                  "text": "Ram became commanding officer of H&S Company."
+                },
+                {
+                  "eventId": "hs-november-5",
+                  "text": "Capt L. W. Fahrni relieved Capt C. H. Ram as H&S Company commander. Ram transferred out of the battalion."
+                },
+                {
+                  "eventId": "hs-november-26",
+                  "text": "Capt R. D. Hughes relieved Capt L. W. Fahrni as H&S Company commander."
+                },
+                {
+                  "eventId": "assignments-roster-december",
+                  "text": "Roster: H&S R.D. Hughes"
+                }
+              ]
+            },
+            {
+              "title": "Echo Company",
+              "entries": [
+                {
+                  "eventId": "assignments-august",
+                  "text": "Echo — 1stLt T. R. Minor"
+                },
+                {
+                  "eventId": "assignments-december-1",
+                  "text": "1stLt D. E. Marcum relieved 1stLt T. R. Minor as Echo commander; Minor transferred out."
+                },
+                {
+                  "eventId": "assignments-roster-december",
+                  "text": "Roster: Echo D.E. Marcum"
+                }
+              ]
+            },
+            {
+              "title": "Foxtrot Company",
+              "entries": [
+                {
+                  "eventId": "assignments-august",
+                  "text": "Foxtrot — 1stLt D. G. Winter"
+                },
+                {
+                  "eventId": "foxtrot-november-2",
+                  "text": "1stLt G. S. Burgett relieved 1stLt D. G. Winter as Foxtrot Company commander."
+                },
+                {
+                  "eventId": "assignments-december-1",
+                  "text": "Capt R. A. Hickethier relieved 1stLt G. S. Burgett as Foxtrot commander."
+                },
+                {
+                  "eventId": "assignments-roster-december",
+                  "text": "Roster: Foxtrot R.A. Hickethier"
+                }
+              ]
+            },
+            {
+              "title": "Golf Company",
+              "entries": [
+                {
+                  "eventId": "assignments-august",
+                  "text": "Golf — 1stLt D. H. Hering"
+                },
+                {
+                  "eventId": "staff-golf-november-1",
+                  "text": "Capt R. E. Garrett relieved 1stLt D. H. Hering as Golf Company commander."
+                },
+                {
+                  "eventId": "golf-november-20",
+                  "text": "Capt J. F. O’Rourke relieved Capt R. E. Garrett as Golf Company commander. Garrett transferred out of the battalion."
+                },
+                {
+                  "eventId": "assignments-roster-december",
+                  "text": "Roster: Golf J.F. O’Rourke"
+                }
+              ]
+            },
+            {
+              "title": "Hotel Company",
+              "entries": [
+                {
+                  "eventId": "assignments-august",
+                  "text": "Hotel — 1stLt J. J. Doherty."
+                },
+                {
+                  "eventId": "assignments-roster-december",
+                  "text": "Roster: Hotel J.J. Doherty."
+                }
+              ]
+            }
+          ]
         }
-      ]
-    },
-    {
-      "id": "hotel-leadership",
-      "title": "HOTEL COMPANY",
-      "intro": "",
-      "collapsible": false,
-      "note": "",
-      "eventIds": [
-        "doherty-august",
-        "doherty-december"
       ]
     },
     {
@@ -100,11 +234,88 @@
       "collapsible": false,
       "note": "",
       "eventIds": [
-        "camp-margarita",
         "seato-demonstration",
         "november-exercise",
         "special-training-november",
-        "princeton-exercise"
+        "princeton-exercise",
+        "predeparture-training"
+      ]
+    },
+    {
+      "id": "deployment-preparation",
+      "title": "PREPARING TO DEPART",
+      "intro": "",
+      "note": "",
+      "collapsible": false,
+      "eventIds": [
+        "blt-planning-december",
+        "deployment-directed-december-18",
+        "shipping-designated-december-18",
+        "deployment-orders-december-21",
+        "activation-directed-december-30",
+        "road-activation",
+        "deployment-personnel-buildup",
+        "late-supplies-january-7",
+        "equipment-priorities-raised",
+        "generator-replaced",
+        "trailers-received",
+        "additional-stocks-ordered",
+        "mountout-blocks-ordered",
+        "combat-loading-plans",
+        "advance-party-january-6",
+        "cargo-loading-january-7",
+        "cargo-loaded-january-8",
+        "equipment-left-westpac",
+        "equipment-requisitions-august"
+      ],
+      "groups": [
+        {
+          "id": "deployment-orders",
+          "title": "Orders and organization",
+          "eventIds": [
+            "blt-planning-december",
+            "deployment-directed-december-18",
+            "shipping-designated-december-18",
+            "deployment-orders-december-21",
+            "activation-directed-december-30",
+            "road-activation"
+          ],
+          "note": ""
+        },
+        {
+          "id": "deployment-personnel",
+          "title": "Building the landing team",
+          "eventIds": [
+            "deployment-personnel-buildup"
+          ],
+          "note": ""
+        },
+        {
+          "id": "deployment-equipment",
+          "title": "Equipment and loading preparations",
+          "eventIds": [
+            "equipment-left-westpac",
+            "equipment-requisitions-august",
+            "late-supplies-january-7",
+            "equipment-priorities-raised",
+            "generator-replaced",
+            "trailers-received",
+            "additional-stocks-ordered",
+            "mountout-blocks-ordered",
+            "combat-loading-plans"
+          ],
+          "note": ""
+        },
+        {
+          "id": "deployment-loading",
+          "title": "Advance party and cargo loading",
+          "eventIds": [
+            "advance-party-january-6",
+            "cargo-loading-january-7",
+            "cargo-loaded-january-8"
+          ],
+          "note": ""
+        }
       ]
     }
   ],
@@ -146,5 +357,5 @@
     }
   ],
   "dateStart": "1965-07-01",
-  "dateEnd": "1965-12-31"
+  "dateEnd": "1966-01-08"
 }

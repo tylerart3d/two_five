@@ -1,0 +1,17 @@
+{
+  "id": "human-tendertouch-summary-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "anchorId": "tendertouch-narrative-summary",
+  "page": 1,
+  "ocrStart": 1314,
+  "ocrEnd": 1446,
+  "originalReading": "During early November 1965 a reinforced platoon\nfrom \"G\" Company participated as aggressors for the U.S. Army Operation\nTIMBERTORCH.",
+  "replacement": "During early November 1965 a reinforced platoon\nfrom \"G\" Company participated as aggressors for the U.S. Army Operation\nTENDERTOUCH.",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed TENDERTOUCH in the page 1 commander’s summary. This records the occurrence separately from the earlier page 3 confirmation."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "human-date-event-page3-december-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "page": 3,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "kind": "date-event-association",
+  "reason": "Brent explicitly confirmed December 1, 15 and 20 date-to-event associations. Separate transcription corrections remain authoritative.",
+  "associations": [
+    {
+      "anchorId": "assignments-december-1",
+      "date": "1965-12-01",
+      "event": "Pape becomes XO; West S-1; Marcum Echo CO; Hickethier Foxtrot CO",
+      "ocrStart": 7391,
+      "ocrEnd": 8159,
+      "originalReading": "1 DECEMBER 1965                   Major T. E. BULGER was relieved as Executive Officer\n                                  by Major R. A. PAPE.  Major T. E. BULGER was trans-\n                                  ferred out of the Battalion.  First Lieutenant T.\n                                  BOYD was relieved as S-1 by First Lieutenant D. R.\n                                  WEST.  First Lieutenant T. R. MINOR was relieved as\n                                  CO, \"E\" Co, by First Lieutenant D. E. MARCUM.  First\n                                  Lieutenant T. R. MINOR was transferred out of the\n                                  Battalion.  First Lieutenant G. S. BURGETT was re-\n                                  lieved as CO, \"F\" Co, by Captain R. A. HICKETHIER.",
+      "replacement": "1 DECEMBER 1965                   Major T. E. BULGER was relieved as Executive Officer\n                                  by Major R. A. PAPE.  Major T. E. BULGER was trans-\n                                  ferred out of the Battalion.  First Lieutenant T.\n                                  BOYD was relieved as S-1 by First Lieutenant D. R.\n                                  WEST.  First Lieutenant T. R. MINOR was relieved as\n                                  CO, \"E\" Co, by First Lieutenant D. E. MARCUM.  First\n                                  Lieutenant T. R. MINOR was transferred out of the\n                                  Battalion.  First Lieutenant G. S. BURGETT was re-\n                                  lieved as CO, \"F\" Co, by Captain R. A. HICKETHIER."
+    },
+    {
+      "anchorId": "s2-december-15",
+      "date": "1965-12-15",
+      "event": "Moore replaces Slocum as S-2",
+      "ocrStart": 8161,
+      "ocrEnd": 8302,
+      "originalReading": "15 DECEMBER 1965                  Gunnery Sergeant J. J. SLOCUM was relieved as S-2\n                                  by Captain A. H. MOORE.",
+      "replacement": "15 DECEMBER 1965                  Gunnery Sergeant J. J. SLOCUM was relieved as S-2\n                                  by Captain A. H. MOORE."
+    },
+    {
+      "anchorId": "command-december-20",
+      "date": "1965-12-20",
+      "event": "Uskurait becomes CO; Waller XO; Pape S-3",
+      "ocrStart": 8304,
+      "ocrEnd": 8632,
+      "originalReading": "20 DECEMBER 1965                  Major L. W. T. WALLER, II, was relieved as Commanding\n                                  Officer by Lieutenant Colonel R. H. USKURAIT.\n                                  Major L. W. T. WALLER, II, became the Executive Of-\n                                  ficer.  Major R. A. PAPE became the S-3.",
+      "replacement": "20 DECEMBER 1965                  Major L. W. T. WALLER, II, was relieved as Commanding\n                                  Officer by Lieutenant Colonel R. H. USKURAIT.\n                                  Major L. W. T. WALLER, II, became the Executive Of-\n                                  ficer.  Major R. A. PAPE became the S-3."
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "documents": [
+    {
+      "documentId": "1201048065",
+      "status": "confirmed-differences",
+      "review": "data/ocr-runs/1965_COMPARISON_RESOLUTION.md",
+      "scope": "All 38 normalized differences reviewed; unchanged characters not individually verified.",
+      "run": "data/local/ocr-1965-1966-qwen-20260912/1201048065",
+      "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+      "humanCorrections": [
+        {
+          "path": "data/corrections/human/1965-transfers.json",
+          "sha256": "f22ffcdafa3dddaa50ae3bd4574cd27587bfdac9e0aad0d4b3f86ccdf1b55199",
+          "id": "human-1965-transfers-20260912"
+        },
+        {
+          "path": "data/corrections/human/date-event-page2-july-august.json",
+          "sha256": "01a409afce32155d8d601ea409134181b27e056055a18ab3319cb3ee261caeef",
+          "id": "human-date-event-page2-july-august-20260913"
+        },
+        {
+          "path": "data/corrections/human/date-event-page2-september18-november1.json",
+          "sha256": "1e603cc3cc3c38eb5bd8f4f8f3ffa66360c66d4ae272a090b9ea79a525029542",
+          "id": "human-date-event-page2-september18-november1-20260913"
+        },
+        {
+          "path": "data/corrections/human/date-event-page2-september8-17.json",
+          "sha256": "e449ba5fee74989898499fc1c5e0eb32fcfdcfb183608d9a09f1fba4a50ba5f6",
+          "id": "human-date-event-page2-september8-17-20260913"
+        },
+        {
+          "path": "data/corrections/human/date-event-page3-december.json",
+          "sha256": "4e3e2170b3a1a8f867e279c91822f1618af0a26faed1008c5a2a98006d8811c6",
+          "id": "human-date-event-page3-december-20260913"
+        },
+        {
+          "path": "data/corrections/human/date-event-page3-november19-26.json",
+          "sha256": "d1a9e08869fa4b687e906cdc0c6e1ef9695b7568f077d7a2b0dfea1087c8365c",
+          "id": "human-date-event-page3-november19-26-20260913"
+        },
+        {
+          "path": "data/corrections/human/date-event-page3-november2-5.json",
+          "sha256": "e1e454be6ce374e9306bc4f1dfb31bc7bf6b0e81c2c3306acef27a6b0ffe22af",
+          "id": "human-date-event-page3-november2-5-20260913"
+        },
+        {
+          "path": "data/corrections/human/enclosure-page1.json",
+          "sha256": "05051739ba0feae048ec042b9bd1e391c5a81ab7112bbae09c4f5b4d535c120b",
+          "id": "human-enclosure-page1-20260913"
+        },
+        {
+          "path": "data/corrections/human/enclosure-page2.json",
+          "sha256": "ffe42b32d5fdafb69509381b2608b41237acefb61c6c86af8cc2a87147b79ca9",
+          "id": "human-enclosure-page2-20260913"
+        },
+        {
+          "path": "data/corrections/human/enclosure-page3.json",
+          "sha256": "e97ef41ad173f1dad6534e4980fcee2a0492d30beaa786be3b1e82a6c4063073",
+          "id": "human-enclosure-page3-20260913"
+        },
+        {
+          "path": "data/corrections/human/fahrni-hughes-november26.json",
+          "sha256": "aab694292a89138d7be23641074d60cbf97cc83baa069665a3611e714c11f13d",
+          "id": "human-fahrni-hughes-november26-20260912"
+        },
+        {
+          "path": "data/corrections/human/fahrni-november5.json",
+          "sha256": "0b480155e0a86e1bc3994e8eeec71944fe3ac59e665b88cd635d4b53a454fe21",
+          "id": "human-fahrni-november5-20260912"
+        },
+        {
+          "path": "data/corrections/human/hering-august19.json",
+          "sha256": "1fae9b49118b8779dc28091e02287f4e7a4f0af6bd852a63d701d706eb560cde",
+          "id": "human-hering-august19-20260912"
+        },
+        {
+          "path": "data/corrections/human/hering-november1.json",
+          "sha256": "03c539e5597cdfdea83315db053ed8195170360c9ae7f08fbf2a5629fc063246",
+          "id": "human-hering-november1-20260912"
+        },
+        {
+          "path": "data/corrections/human/marginal-notes-page1.json",
+          "sha256": "8ee410fe9a4ddc14f31c81c2ed8b7849bce1bd299d5ae06397f132c7ad3723b5",
+          "id": "human-marginal-notes-page1-20260913"
+        },
+        {
+          "path": "data/corrections/human/page3-standalone-number.json",
+          "sha256": "c09106a0b9781361bac2c4f83ebd4581ed9b7c40b5876868025c247d99f98390",
+          "id": "human-page3-standalone-number-20260913"
+        },
+        {
+          "path": "data/corrections/human/september-exercise-summary.json",
+          "sha256": "ff96748123e0a84956ab698d69e3c7eeee198a5087cf400b3f40ee4071f350aa",
+          "id": "human-september-summary-20260913"
+        },
+        {
+          "path": "data/corrections/human/tendertouch-jeffery.json",
+          "sha256": "92c197fc7f717cf7def603a9c604d6696689f9bf6ed53095b7a1e5f2c235b744",
+          "id": "human-tendertouch-jeffery-20260912"
+        },
+        {
+          "path": "data/corrections/human/tendertouch-narrative-summary.json",
+          "sha256": "f98d554dfbf1d24b3936670e1fac9ac1827fe178a4303dfc5e99f75052232f47",
+          "id": "human-tendertouch-summary-20260913"
+        },
+        {
+          "path": "data/corrections/human/training-implemented.json",
+          "sha256": "af6df02faf9f28b1ffdb4c3cc179cb146e5e625a6a26d8de061770c9bdf13945",
+          "id": "human-training-implemented-20260912"
+        },
+        {
+          "path": "data/corrections/human/unclassified-stamp-page2.json",
+          "sha256": "eec3e8c4b8fbd099a5218c4f7eb4461ca53e4378efb94ce1cad4283a26b6dff6",
+          "id": "human-unclassified-stamp-page2-20260913"
+        },
+        {
+          "path": "data/corrections/human/winston-august19.json",
+          "sha256": "088e01dd89fe6db49f8e818aebf94926471fc21b2b4c387a15250764d8ef80d9",
+          "id": "human-winston-august19-20260912"
+        }
+      ],
+      "pages": [
+        {
+          "page": 1,
+          "sha256": "787fd09665e980247541f61b96f60bd6650fdecde2ed1547dfb9cfc254a381d0"
+        },
+        {
+          "page": 2,
+          "sha256": "016eefdeabedde6ee6dbf41add4793f485ead0f0fefcfae0af7147cf6a9d3097"
+        },
+        {
+          "page": 3,
+          "sha256": "2ed4ac3e13bdc597c36f92e0bc3c0718fc5e733e52db455d47e76257eaa213c3"
+        }
+      ]
+    },
+    {
+      "documentId": "1201048066",
+      "status": "reviewed-with-exceptions",
+      "review": "data/ocr-runs/REVIEW_THROUGH_1966_01_08.md",
+      "scope": "Reviewed comparison and human corrections; S&C / SEC stamp remains uncertain. Source date inconsistency retained. Unchanged characters are not individually human verified.",
+      "run": "data/local/ocr-1965-1966-qwen-20260912/1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "humanCorrections": [
+        {
+          "path": "data/corrections/human/mount-out-98.json",
+          "sha256": "f18fa83eb0fdba3943fa7365bcc2e0794146d71172beb6471e50e131e307bc36",
+          "id": "human-mount-out-98-20260912"
+        },
+        {
+          "path": "data/corrections/human/noe-s1-clerk.json",
+          "sha256": "e41dd9285633842029f6fbd4c7dd116b7fce59bd91cdda27834c9ebb04225ccf",
+          "id": "human-noe-s1-clerk-20260912"
+        },
+        {
+          "path": "data/corrections/human/road-activation-time.json",
+          "sha256": "baf03e6bcbe33bcc28bcda532d7fba31f1a35cbaf26b6e2dd692eba10889faa2",
+          "id": "human-road-activation-time-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-cover-annotation.json",
+          "sha256": "2dc4eef8c896ef1b034e1d0d0be66319201b46a6506418e1b60cb2efe2272b76",
+          "id": "human-road-cover-annotation-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-cover-copy-count.json",
+          "sha256": "5f35c2d5fc1779a0bc27cb1e46c0b5ee0e18c7dca77e677e97cf135aae865fdc",
+          "id": "human-road-cover-copy-count-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-cover-dates.json",
+          "sha256": "230276e3023fe39b5551b04042f95f2688044a005918d97fc04d4e1445c9bb92",
+          "id": "human-road-cover-dates-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-cover-number.json",
+          "sha256": "fba89c41f49ba127a609ae9c1acea2f33c1eb7acef5d9ccd84b730d341451b44",
+          "id": "human-road-cover-number-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-cover-regiment-copy-count.json",
+          "sha256": "c296d48ee661ee763fac29a4312029651bd219ad35cdcad7960272998554956d",
+          "id": "human-road-cover-regiment-copy-count-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-cover-signature.json",
+          "sha256": "ca5f5575a3eab0cad12fcbc8cb791a52364e71f95ee79b046f619ac289b823bf",
+          "id": "human-road-cover-signature-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-cover-stamp.json",
+          "sha256": "7e9c3f0504ca8289de415a8ef4bd09863cae4aca5b831eebd45a5645c0ddfa60",
+          "id": "human-road-cover-stamp-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-p8-footer.json",
+          "sha256": "353762922e8f6899cdf6737d4438b5e0c03342f123e4e9dee63f0605c9c4357c",
+          "id": "human-road-p8-footer-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-ref-c.json",
+          "sha256": "aa92cd57b12056b3c3b047eb1a97895b5bc2b392c4458a01ff5c914f7d7b5279",
+          "id": "human-road-ref-c-20260912"
+        },
+        {
+          "path": "data/corrections/human/road-ref-d.json",
+          "sha256": "e40dd02eb806cdd642700c0e2bfdd5135f0d7b4c73f990224d2a19e80fc24a5c",
+          "id": "human-road-ref-d-20260912"
+        },
+        {
+          "path": "data/corrections/human/road-ref-e.json",
+          "sha256": "412212388a99d51f0419593961df42258066c9956fc066810a6473c6b9130953",
+          "id": "human-road-ref-e-20260912"
+        },
+        {
+          "path": "data/corrections/human/road-ref-f.json",
+          "sha256": "a754323d93933db1b42d3bfe9237e3951ecb4b5475b1517149ee7d068e5b7a3c",
+          "id": "human-road-ref-f-20260912"
+        },
+        {
+          "path": "data/corrections/human/road-ref-g.json",
+          "sha256": "7eb84d2cdd0b4783029d502cb64a429c946d049edbd65cafbbb0eb44806693ce",
+          "id": "human-road-ref-g-20260912"
+        },
+        {
+          "path": "data/corrections/human/road-ref-h-command.json",
+          "sha256": "79c551b383014d581214c6e334fbe29e72fcae6d5a279ed7637c27f3b364f491",
+          "id": "human-road-ref-h-command-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-ref-h.json",
+          "sha256": "11bf331a7b752970ac4894cc4f3fe40b3b67a1029de4529adcd81c0985a6cb7e",
+          "id": "human-road-ref-h-20260912"
+        },
+        {
+          "path": "data/corrections/human/road-ref-i.json",
+          "sha256": "ba58f61e24d97d8b63bac1516de2d221a04c357c3c5b7b6acabd9fad3f84adcb",
+          "id": "human-road-ref-i-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-ref-j-date.json",
+          "sha256": "f865727f74b3b58de4bf750f01a751d49bfd0a6d4ffa12fd13aa90fc38a90b2e",
+          "id": "human-road-ref-j-date-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-ref-j.json",
+          "sha256": "3c0d9664320f07a5ffd19a7fbc2afc9306711840eee0bb71fbd34043706ab21f",
+          "id": "human-road-ref-j-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-ref-k-date.json",
+          "sha256": "8787d9f1c12c68f4e40358c4943fb4cc92292f4492dc1d643478fa156ef4a027",
+          "id": "human-road-ref-k-date-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-ref-k.json",
+          "sha256": "1522b016c0dd51e300df3cbd483dc5a564e7a45a4e5e0c6fc3487947b8968ea5",
+          "id": "human-road-ref-k-20260913"
+        },
+        {
+          "path": "data/corrections/human/road-table-headings.json",
+          "sha256": "f6437b983717d16b0b04c3cd8a1f8425331cb3d8850413fef76f0fa4310ffe5a",
+          "id": "human-road-table-headings-20260913"
+        },
+        {
+          "path": "data/corrections/human/wyzsmirski-property-nco.json",
+          "sha256": "05c56496122fe2c6bc1ea623de094c750d934dd8d1646ff2146595fb190647cb",
+          "id": "human-wyzsmirski-property-nco-20260912"
+        }
+      ],
+      "pages": [
+        {
+          "page": 1,
+          "sha256": "64f7c9e0130089da0d771aaf00caa6a314fe0152138a87733f53e48dcd8eec78"
+        },
+        {
+          "page": 2,
+          "sha256": "c14c700ab6fd6b78010d5195884bfc2b1fabb5a5f0fe5092227efbc74efef5be"
+        },
+        {
+          "page": 3,
+          "sha256": "a84c20c28f1dfd6be782f303e1b84c1e38d4f561a6bf40f6c3ccfa002a767799"
+        },
+        {
+          "page": 4,
+          "sha256": "0a33ff8a53f9e4c83d95490ea1704ad641942bfeb333c6ce5fbc170b608893d6"
+        },
+        {
+          "page": 5,
+          "sha256": "0deda49aaf7938db8a23d2aab5f12aa339e79636e7fd563e987b941927073fe5"
+        },
+        {
+          "page": 6,
+          "sha256": "23eaf187b02b011dd5d625bd21415af20afc45854ea296d5bd1e76d354a12d2b"
+        },
+        {
+          "page": 7,
+          "sha256": "1b6f3363164c037ce8bc7902c687fba1e1975c3606a0dcb97f2836be61a6fea0"
+        },
+        {
+          "page": 8,
+          "sha256": "6dff90789eb7a3fc81ca1696850e97a936f236f62df8bd93dda4e161d1355ec7"
+        }
+      ]
+    }
+  ],
+  "pendingDocumentIds": [
+    "1201048067",
+    "1201048068",
+    "1201048069",
+    "1201048070",
+    "1201048071",
+    "1201048072",
+    "1201048073",
+    "1201048074",
+    "1201048075"
+  ]
+}

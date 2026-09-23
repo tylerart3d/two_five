@@ -1,0 +1,18 @@
+{
+  "id": "human-road-cover-copy-count-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "64f7c9e0130089da0d771aaf00caa6a314fe0152138a87733f53e48dcd8eec78",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0001.txt",
+  "page": 1,
+  "anchorId": "ROAD-COVER-NUMBER",
+  "ocrStart": 1260,
+  "ocrEnd": 1271,
+  "originalReading": "COPY 1 OF 5",
+  "replacement": "COPY 1 OF 5",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent visually confirmed COPY 1 OF 5 beneath 0037-66 on the lower-right battalion stamp. This confirmation does not resolve the ambiguous character in the stamp line above."
+}

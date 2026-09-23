@@ -1,3 +1,5 @@
+import {resolveApprovedOcr} from './resolve-approved-ocr.mjs';
+import {buildPersonnel} from './build-personnel-db.mjs';
 import {DatabaseSync} from 'node:sqlite';
 import {readFileSync,readdirSync,mkdirSync,renameSync,existsSync,unlinkSync} from 'node:fs';
 import {createHash} from 'node:crypto';
@@ -6,6 +8,7 @@ const root=resolve(import.meta.dirname,'..');
 const research=join(root,'data/units/5th_marines/2nd_battalion/research');
 const parse=path=>{const raw=readFileSync(path,'utf8');if(path.endsWith('.json'))return {record:JSON.parse(raw),sha:createHash('sha256').update(raw).digest('hex')};const match=raw.match(/```json\s*([\s\S]*?)```/);if(!match)throw Error(`Missing record ${path}`);return {record:JSON.parse(match[1]),sha:createHash('sha256').update(raw).digest('hex')};};
 const records=folder=>readdirSync(join(research,folder)).filter(n=>n.endsWith('.json')).map(n=>({...parse(join(research,folder,n)),path:`data/units/5th_marines/2nd_battalion/research/${folder}/${n}`}));
+const approvedOcr=resolveApprovedOcr();
 const chapters=records('chapters'),events=records('events');
 const book=parse(join(research,'LANDING_BUILDUP_1965_EXTRACTIONS.md')).record;
 const sources=[parse('data/geography/landmarks/USS_PRINCETON_SOURCE_ANCHORS.json').record,parse(join(research,'1965_SOURCE_ANCHORS.json')).record,...parse(join(research,'1966_ROAD_SOURCE_ANCHORS.json')).record];
@@ -34,6 +37,9 @@ try {
  }
  for(const a of book.assertions)db.prepare('INSERT INTO research_assertions VALUES(?,?,?,?)').run(a.id,book.source_id,JSON.stringify({...a,ocrSha256:book.ocr_sha256}),a.status);
  for(const [index,lead] of book.candidate_hits.entries())db.prepare('INSERT INTO research_leads VALUES(?,?,?,?,?,?)').run(`LB65-LEAD-${String(index+1).padStart(3,'0')}`,book.source_id,lead.category,lead.printed_page_label??null,JSON.stringify({...lead,ocrXmlSha256:book.ocr_xml_sha256}),lead.status);
+ db.exec('CREATE TABLE ocr_reading_pages(document_id TEXT REFERENCES documents(id),page INTEGER,text TEXT NOT NULL,raw_sha256 TEXT NOT NULL,resolved_sha256 TEXT NOT NULL,PRIMARY KEY(document_id,page));');
+ for(const doc of approvedOcr)for(const p of doc.pages)db.prepare('INSERT INTO ocr_reading_pages VALUES(?,?,?,?,?)').run(doc.documentId,p.page,p.text,p.rawSha256,p.resolvedSha256);
+ buildPersonnel(db,research);
  db.exec('COMMIT');
  if(db.prepare('PRAGMA integrity_check').get().integrity_check!=='ok')throw Error('SQLite integrity failed');
  console.log(db.prepare("SELECT chapter_id,COUNT(*) AS dated_events FROM event_chapters JOIN events ON events.id=event_id WHERE kind!='location-context' AND COALESCE(json_extract(record_json,'$.timelineHidden'),0)=0 GROUP BY chapter_id").all());

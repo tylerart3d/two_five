@@ -1,4 +1,4 @@
-# H&S: Parenti → Burns
+# H&S: Fahrni → Hughes
 
 Editable event record. Source text and scan alignment remain in the referenced source-anchor record.
 

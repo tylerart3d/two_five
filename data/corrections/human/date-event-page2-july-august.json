@@ -1,0 +1,42 @@
+{
+  "id": "human-date-event-page2-july-august-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "page": 2,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "kind": "date-event-association",
+  "reason": "Brent confirmed the three date-to-event associations after comparison with the scan. No new confirmation of other wording or names is implied; existing separate corrections remain authoritative.",
+  "associations": [
+    {
+      "anchorId": "redesignation",
+      "date": "1965-07-19",
+      "event": "3/9 redesignated 2/5",
+      "ocrStart": 2276,
+      "ocrEnd": 2573,
+      "originalReading": "19 JULY 1965                      The Third Battalion, Ninth Marines was redesignated\n                                  the Second Battalion, Fifth Marines.  Lieutenant\n                                  Colonel C. E. MC PARTLIN, Jr., was the Commanding\n                                  Officer.\n\n",
+      "replacement": "19 JULY 1965                      The Third Battalion, Ninth Marines was redesignated\n                                  the Second Battalion, Fifth Marines.  Lieutenant\n                                  Colonel C. E. MC PARTLIN, Jr., was the Commanding\n                                  Officer.\n\n"
+    },
+    {
+      "anchorId": "return-san-diego",
+      "date": "1965-08-08",
+      "event": "Battalion returns to San Diego",
+      "ocrStart": 2573,
+      "ocrEnd": 2722,
+      "originalReading": "8 AUGUST 1965                     The Battalion returned to the United States, arriv-\n                                  ing at San Diego, California.",
+      "replacement": "8 AUGUST 1965                     The Battalion returned to the United States, arriv-\n                                  ing at San Diego, California."
+    },
+    {
+      "anchorId": "assignments-august",
+      "date": "1965-08-19",
+      "event": "McPartlin relieved by Ram; staff and company assignments",
+      "ocrStart": 2724,
+      "ocrEnd": 3559,
+      "originalReading": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. C. WINCH\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. EERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
+      "replacement": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. C. WINCH\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. EERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY"
+    }
+  ]
+}

@@ -100,16 +100,33 @@
     },
     {
       "id": "november-exercise",
-      "label": "Operation name under review",
+      "label": "Operation Tendertouch",
       "kind": "Training exercise · 3–5 November",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
-      "quote": "3-5 NOVEMBER 1965                 PARTICIPATED IN OPERATION TIMBERTORCH\n                                  The 1st Platoon (Rein), \"G\" Co, under the command\n                                  of 2ndLt W. W. JAFFKE participated as aggressors\n                                  in the U.S. Army Operation Timbertorch which was\n                                  conducted by the 3rd Brigade, 5th Infantry Divi-\n                                  sion (Mechanized), Fort Carson, Colorado, at Marine\n                                  Corps Base, Camp Pendleton, California.",
+      "rect": [
+        0.15,
+        0.22,
+        0.75,
+        0.11
+      ],
+      "quote": "3-5 NOVEMBER 1965                 PARTICIPATED IN OPERATION TENDERTOUCH\n                                  The 1st Platoon (Rein), \"G\" Co, under the command\n                                  of 2ndLt W. W. JEFFERY participated as aggressors\n                                  in the U.S. Army Operation Tendertouch which was\n                                  conducted by the 3rd Brigade, 5th Infantry Divi-\n                                  sion (Mechanized), Fort Carson, Colorado, at Marine\n                                  Corps Base, Camp Pendleton, California.",
       "claim": "The existing transcription records a reinforced platoon from Golf Company participating as aggressors in an Army exercise at Camp Pendleton, 3–5 November 1965. The exercise name remains unresolved.",
       "ocrStart": 5681,
       "ocrEnd": 6245,
-      "alignment": "Page located from existing transcription; precise region awaits local-model alignment. No new PDF inspection performed."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Passage located, but the document reads OPERATION TENDERTOUCH and 2ndLt W. W. JEFFERY, not 'Timbertorch'/'JAFFKE' as in the quote; the exercise name in the document is Tendertouch.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.85,
+        "reviewStatus": "agent-validated; human review pending"
+      },
+      "rawQuote": "3-5 NOVEMBER 1965                 PARTICIPATED IN OPERATION TIMBERTORCH\n                                  The 1st Platoon (Rein), \"G\" Co, under the command\n                                  of 2ndLt W. W. JAFFKE participated as aggressors\n                                  in the U.S. Army Operation Timbertorch which was\n                                  conducted by the 3rd Brigade, 5th Infantry Divi-\n                                  sion (Mechanized), Fort Carson, Colorado, at Marine\n                                  Corps Base, Camp Pendleton, California.",
+      "correctionId": "human-tendertouch-jeffery-20260912"
     },
     {
       "id": "return-san-diego",
@@ -142,12 +159,18 @@
         0.540618,
         0.042778
       ],
-      "quote": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. C. WINCH\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. EERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
+      "quote": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. T. WINSTON\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. HERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
       "claim": "The OCR records Lieutenant Colonel C. E. McPartlin, Jr., being relieved as commanding officer by Captain C. H. Ram.",
       "ocrStart": 2724,
       "ocrEnd": 3559,
       "alignment": "Model-aligned passage region (Gemma4-12B-Q4 via AgentRelay, 2026-09-07); scan-region matching, not human visual review. See 1965_ALIGNMENT.md.",
-      "alignmentMethod": "model"
+      "alignmentMethod": "model",
+      "rawQuote": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. C. WINCH\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. EERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
+      "correctionId": "human-winston-august19-20260912",
+      "correctionIds": [
+        "human-winston-august19-20260912",
+        "human-hering-august19-20260912"
+      ]
     },
     {
       "id": "command-september-8",
@@ -193,12 +216,27 @@
       "kind": "Event · OCR transcription",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
+      "rect": [
+        0.15,
+        0.805,
+        0.75,
+        0.06
+      ],
       "quote": "20 DECEMBER 1965                  Major L. W. T. WALLER, II, was relieved as Commanding\n                                  Officer by Lieutenant Colonel R. H. USKURAIT.\n                                  Major L. W. T. WALLER, II, became the Executive Of-\n                                  ficer.  Major R. A. PAPE became the S-3.",
       "claim": "The OCR records Lieutenant Colonel R. H. Uskurait succeeding Major L. W. T. Waller, II, as commanding officer; Waller became executive officer and Major R. A. Pape became S-3.",
       "ocrStart": 8304,
       "ocrEnd": 8632,
-      "alignment": "Page reference from existing OCR page markers; names await review. No visual alignment performed."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Matches the document text.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "assignments-august",
@@ -212,12 +250,18 @@
         0.540618,
         0.173889
       ],
-      "quote": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. C. WINCH\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. EERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
-      "claim": "S-1: 1stLt T. Boyd; S-2: 1stLt E. A. Kratovil, Jr.; S-4: Capt H. C. Winch (unresolved OCR reading). Company commanders: H&S — 1stLt P. C. Rollins; Echo — 1stLt T. R. Minor; Foxtrot — 1stLt D. G. Winter; Golf — 1stLt D. H. Eering; Hotel — 1stLt J. J. Doherty.",
+      "quote": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. T. WINSTON\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. HERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
+      "claim": "S-1: 1stLt T. Boyd; S-2: 1stLt E. A. Kratovil, Jr.; S-4: Capt H. T. Winston. Company commanders: H&S — 1stLt P. C. Rollins; Echo — 1stLt T. R. Minor; Foxtrot — 1stLt D. G. Winter; Golf — 1stLt D. H. Hering; Hotel — 1stLt J. J. Doherty.",
       "ocrStart": 2724,
       "ocrEnd": 3559,
       "alignment": "Model-aligned passage region (Gemma4-12B-Q4 via AgentRelay, 2026-09-07); scan-region matching, not human visual review. See 1965_ALIGNMENT.md.",
-      "alignmentMethod": "model"
+      "alignmentMethod": "model",
+      "rawQuote": "19 AUGUST 1965                    Lieutenant Colonel C. E. MC PARTLIN, Jr., was re-\n                                  lieved as Commanding Officer by Captain C. H. RAM.\n                                  The following billets were filled on this date:\n\n                                  S-1:    First Lieutenant T. BOYD\n                                  S-2:    First Lieutenant E. A. KRATOVIL, Jr.\n                                  S-4:    Captain H. C. WINCH\n                                  CO, H&SCo: First Lieutenant P. C. ROLLINS\n                                  CO, \"E\"Co: First Lieutenant T. R. MINOR\n                                  CO, \"F\"Co: First Lieutenant D. G. WINTER\n                                  CO, \"G\"Co: First Lieutenant D. H. EERING\n                                  CO, \"H\"Co: First Lieutenant J. J. DOHERTY",
+      "correctionId": "human-winston-august19-20260912",
+      "correctionIds": [
+        "human-winston-august19-20260912",
+        "human-hering-august19-20260912"
+      ]
     },
     {
       "id": "xo-september-17",
@@ -244,12 +288,27 @@
       "kind": "Leadership · OCR transcription",
       "page": 2,
       "pageLabel": "C-14-2",
-      "rect": null,
+      "rect": [
+        0.155,
+        0.788,
+        0.72,
+        0.042
+      ],
       "quote": "22 SEPTEMBER 1965                 Major J. R. CATT was relieved as the S-3 by Major\n                                  R. A. PAPE.  Major J. R. CATT was transferred out\n                                  of the Battalion.\n                                                                         UNCLASSIFIED",
       "claim": "Maj R. A. Pape relieved Maj J. R. Catt as S-3. Catt transferred out of the battalion.",
       "ocrStart": 4682,
       "ocrEnd": 4987,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Date in left DATE column; body text in EVENT column. An 'UNCLASSIFIED' rubber stamp overlaps the right end of this passage (covering 'out' and the trailing word).",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "7541e9865f3c84ab198b138c2bbc29f644b86937398549c3864ab4b32e429f23",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "staff-golf-november-1",
@@ -257,12 +316,29 @@
       "kind": "Leadership · OCR transcription",
       "page": 2,
       "pageLabel": "C-14-2",
-      "rect": null,
-      "quote": "1 NOVEMBER 1965                   Gunnery Sergeant J. J. SLOCUM was assigned as the\n                                  S-2.  First Lieutenant D. H. EERING was relieved as\n                                  CO, \"G\" Company, by Captain R. E. GARRETT.",
-      "claim": "GySgt J. J. Slocum was assigned as S-2. Capt R. E. Garrett relieved 1stLt D. H. Eering as Golf Company commander.",
+      "rect": [
+        0.155,
+        0.848,
+        0.725,
+        0.042
+      ],
+      "quote": "1 NOVEMBER 1965                   Gunnery Sergeant J. J. SLOCUM was assigned as the\n                                  S-2.  First Lieutenant D. H. HERING was relieved as\n                                  CO, \"G\" Company, by Captain R. E. GARRETT.",
+      "claim": "GySgt J. J. Slocum was assigned as S-2. Capt R. E. Garrett relieved 1stLt D. H. Hering as Golf Company commander.",
       "ocrStart": 4988,
       "ocrEnd": 5234,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Page OCR renders the officer's surname as 'HERING' (not 'EERING' as in the quote); otherwise matches. Date in left column, body in EVENT column.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "7541e9865f3c84ab198b138c2bbc29f644b86937398549c3864ab4b32e429f23",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      },
+      "rawQuote": "1 NOVEMBER 1965                   Gunnery Sergeant J. J. SLOCUM was assigned as the\n                                  S-2.  First Lieutenant D. H. EERING was relieved as\n                                  CO, \"G\" Company, by Captain R. E. GARRETT.",
+      "correctionId": "human-hering-november1-20260912"
     },
     {
       "id": "foxtrot-november-2",
@@ -270,25 +346,57 @@
       "kind": "Leadership · OCR transcription",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
+      "rect": [
+        0.15,
+        0.18,
+        0.75,
+        0.025
+      ],
       "quote": "2 NOVEMBER 1965                   First Lieutenant D. G. WINTER was relieved as CO,\n                                  \"F\" Company by First Lieutenant G. S. BURGETT.",
       "claim": "1stLt G. S. Burgett relieved 1stLt D. G. Winter as Foxtrot Company commander.",
       "ocrStart": 5515,
       "ocrEnd": 5679,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Matches the document text.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "hs-november-5",
-      "label": "H&S: Ram → Parenti",
+      "label": "H&S: Ram → Fahrni",
       "kind": "Leadership · OCR transcription",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
-      "quote": "5 NOVEMBER 1965                   Captain C. H. RAM was relieved as CO, H&S Co, by\n                                  Captain L. W. PARENTI.  Captain C. H. RAM was trans-\n                                  ferred out of the Battalion.",
-      "claim": "Capt L. W. Parenti relieved Capt C. H. Ram as H&S Company commander. Ram transferred out of the battalion.",
+      "rect": [
+        0.15,
+        0.345,
+        0.75,
+        0.04
+      ],
+      "quote": "5 NOVEMBER 1965                   Captain C. H. RAM was relieved as CO, H&S Co, by\n                                  Captain L. W. FAHRNI.  Captain C. H. RAM was trans-\n                                  ferred out of the Battalion.",
+      "claim": "Capt L. W. Fahrni relieved Capt C. H. Ram as H&S Company commander. Ram transferred out of the battalion.",
       "ocrStart": 6247,
       "ocrEnd": 6479,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Passage located, but the document names Captain L. W. FAHRNI as the relieving officer, not 'PARENTI' as in the quote.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.85,
+        "reviewStatus": "agent-validated; human review pending"
+      },
+      "rawQuote": "5 NOVEMBER 1965                   Captain C. H. RAM was relieved as CO, H&S Co, by\n                                  Captain L. W. PARENTI.  Captain C. H. RAM was trans-\n                                  ferred out of the Battalion.",
+      "correctionId": "human-fahrni-november5-20260912"
     },
     {
       "id": "golf-november-20",
@@ -296,25 +404,57 @@
       "kind": "Leadership · OCR transcription",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
+      "rect": [
+        0.15,
+        0.515,
+        0.75,
+        0.045
+      ],
       "quote": "20 NOVEMBER 1965                  Captain R. E. GARRETT was relieved as CO, \"G\" Co, by\n                                  Captain J. F. O'ROURKE.  Captain R. E. GARRETT was\n                                  transferred out of the Battalion.",
       "claim": "Capt J. F. O’Rourke relieved Capt R. E. Garrett as Golf Company commander. Garrett transferred out of the battalion.",
       "ocrStart": 7007,
       "ocrEnd": 7246,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Matches the document text.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "hs-november-26",
-      "label": "H&S: Parenti → Burns",
+      "label": "H&S: Fahrni → Hughes",
       "kind": "Leadership · OCR transcription",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
-      "quote": "26 NOVEMBER 1965                  Captain L. W. PARENTI was relieved as CO, H&S Co, by\n                                  Captain R. D. BURNS.",
-      "claim": "Capt R. D. Burns relieved Capt L. W. Parenti as H&S Company commander.",
+      "rect": [
+        0.15,
+        0.575,
+        0.75,
+        0.025
+      ],
+      "quote": "26 NOVEMBER 1965                  Captain L. W. FAHRNI was relieved as CO, H&S Co, by\n                                  Captain R. D. HUGHES.",
+      "claim": "Capt R. D. Hughes relieved Capt L. W. Fahrni as H&S Company commander.",
       "ocrStart": 7248,
       "ocrEnd": 7389,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Brent Tyler confirmed this highlighted region and the FAHRNI / HUGHES readings on September 12, 2026.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.85,
+        "reviewStatus": "human-confirmed"
+      },
+      "rawQuote": "26 NOVEMBER 1965                  Captain L. W. PARENTI was relieved as CO, H&S Co, by\n                                  Captain R. D. BURNS.",
+      "correctionId": "human-fahrni-hughes-november26-20260912"
     },
     {
       "id": "assignments-december-1",
@@ -322,12 +462,27 @@
       "kind": "Leadership · OCR transcription",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
+      "rect": [
+        0.15,
+        0.615,
+        0.75,
+        0.135
+      ],
       "quote": "1 DECEMBER 1965                   Major T. E. BULGER was relieved as Executive Officer\n                                  by Major R. A. PAPE.  Major T. E. BULGER was trans-\n                                  ferred out of the Battalion.  First Lieutenant T.\n                                  BOYD was relieved as S-1 by First Lieutenant D. R.\n                                  WEST.  First Lieutenant T. R. MINOR was relieved as\n                                  CO, \"E\" Co, by First Lieutenant D. E. MARCUM.  First\n                                  Lieutenant T. R. MINOR was transferred out of the\n                                  Battalion.  First Lieutenant G. S. BURGETT was re-\n                                  lieved as CO, \"F\" Co, by Captain R. A. HICKETHIER.",
       "claim": "Maj R. A. Pape relieved Maj T. E. Bulger as executive officer; Bulger transferred out. 1stLt D. R. West relieved 1stLt T. Boyd as S-1. 1stLt D. E. Marcum relieved 1stLt T. R. Minor as Echo commander; Minor transferred out. Capt R. A. Hickethier relieved 1stLt G. S. Burgett as Foxtrot commander.",
       "ocrStart": 7391,
       "ocrEnd": 8159,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Matches the document text.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "s2-december-15",
@@ -335,12 +490,27 @@
       "kind": "Leadership · OCR transcription",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
+      "rect": [
+        0.15,
+        0.76,
+        0.75,
+        0.03
+      ],
       "quote": "15 DECEMBER 1965                  Gunnery Sergeant J. J. SLOCUM was relieved as S-2\n                                  by Captain A. H. MOORE.",
       "claim": "Capt A. H. Moore relieved GySgt J. J. Slocum as S-2.",
       "ocrStart": 8161,
       "ocrEnd": 8302,
-      "alignment": "Page reference from existing OCR. Personnel names await review; no new page alignment."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Matches the document text.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "assignments-roster-december",
@@ -348,12 +518,27 @@
       "kind": "Roster",
       "page": 1,
       "pageLabel": "C-14-1",
-      "rect": null,
+      "rect": [
+        0.155,
+        0.368,
+        0.555,
+        0.19
+      ],
       "quote": "IV.      ASSIGNMENTS AS OF 20 DECEMBER 1965.\n\n         1.   CO              Lieutenant Colonel R.H. USKURAIT\n         2.   XO              Major L.W.T. WALLER  II\n         3.   S-1             1stLt D.R. WEST\n         4.   S-2             Capt A.H. MOORE\n         5.   S-3             Major R.A. PAPE\n         6.   S-4             Capt. H.T. WINSTON\n         7.   CO, H&S         Capt. R.D. HUGHES\n         8.   CO,  E          1stLt D.E. MARCUM\n         9.   CO,  F          Capt. R.A. HICKETHIER\n        10.   CO,  G          Capt. J.F. O'ROURKE\n        11.   CO,  H          1stLt J.J. DOHERTY\n\n",
       "claim": "Eleven recorded billet assignments; not appointment dates.",
       "ocrStart": 317,
       "ocrEnd": 915,
-      "alignment": "Page-only exact OCR byte span; no verified highlight."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Section IV heading plus the eleven numbered billet assignments (1–11) match the quote verbatim; these are assignments as of 20 Dec 1965, not appointment dates.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "0468eaff74edfb442d29066a7960a9049af517b94ef43c9679770438956bf19c",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "seato-demonstration",
@@ -361,12 +546,27 @@
       "kind": "Training passage",
       "page": 2,
       "pageLabel": "C-14-2",
-      "rect": null,
+      "rect": [
+        0.155,
+        0.57,
+        0.735,
+        0.085
+      ],
       "quote": "16 SEPTEMBER 1965                 SEATO DEMONSTRATION\n                                  A combined fire support exercise was conducted by\n                                  units of Regimental Landing Team Five for military\n                                  representatives of the Southeast Asia Treaty\n                                  Organization.  The Battalion was the ground maneuver\n                                  element.\n\n",
       "claim": "2/5 provided the ground maneuver element for an RLT-5 combined fire-support exercise.",
       "ocrStart": 3787,
       "ocrEnd": 4220,
-      "alignment": "Exact immutable OCR byte span; page-only citation, no verified region."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Date in left DATE column; underlined heading 'SEATO DEMONSTRATION' plus body paragraph in EVENT column.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "7541e9865f3c84ab198b138c2bbc29f644b86937398549c3864ab4b32e429f23",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "special-training-november",
@@ -374,12 +574,29 @@
       "kind": "Training passage",
       "page": 1,
       "pageLabel": "C-14-1",
-      "rect": null,
-      "quote": "On 15 November 1965 the Regimental Landing Team-5 special training program\nwas inaugurated however, due to personnel TAD to schools, commitments of\nhigher authority, and on board strength of approximately 50%, training was\nvery limited.\n\n",
+      "rect": [
+        0.155,
+        0.755,
+        0.7,
+        0.06
+      ],
+      "quote": "On 15 November 1965 the Regimental Landing Team-5 special training program\nwas implemented however, due to personnel TAD to schools, commitments of\nhigher authority, and on board strength of approximately 50%, training was\nvery limited.\n\n",
       "claim": "Program began November 15; school TAD, commitments and approximately half-strength limited training.",
       "ocrStart": 1661,
       "ocrEnd": 1899,
-      "alignment": "Exact immutable OCR byte span; page-only citation, no verified region."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Passage located in the Commander's Narrative Summary. Page wording reads 'was implemented' where the quote says 'was inaugurated'; content otherwise matches (Nov 15 start, school TAD, higher-authority commitments, ~50% strength limiting training).",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "0468eaff74edfb442d29066a7960a9049af517b94ef43c9679770438956bf19c",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.9,
+        "reviewStatus": "agent-validated; human review pending"
+      },
+      "rawQuote": "On 15 November 1965 the Regimental Landing Team-5 special training program\nwas inaugurated however, due to personnel TAD to schools, commitments of\nhigher authority, and on board strength of approximately 50%, training was\nvery limited.\n\n",
+      "correctionId": "human-training-implemented-20260912"
     },
     {
       "id": "princeton-participants",
@@ -387,12 +604,27 @@
       "kind": "Training passage",
       "page": 3,
       "pageLabel": "C-14-3",
-      "rect": null,
+      "rect": [
+        0.15,
+        0.4,
+        0.75,
+        0.1
+      ],
       "quote": "19 NOVEMBER 1965                  CONDUCTED PHIBLEX\n                                  The Battalion conducted a PHIBLEX which was a move-\n                                  ment by helicopter from the USS PRINCETON to Marine\n                                  Corps Base, Camp Pendleton, California.  Three (3)\n                                  rifle companies and elements of H&S Co. participated,\n                                  however, companies were at approximately 40% manning\n                                  level.\n\n",
       "claim": "Three rifle companies and H&S elements; approximately 40% company manning.",
       "ocrStart": 6481,
       "ocrEnd": 7007,
-      "alignment": "Exact immutable OCR byte span; page-only citation, no verified region."
+      "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Matches the document text.",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-12",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27",
+        "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+        "confidence": 0.95,
+        "reviewStatus": "agent-validated; human review pending"
+      }
     },
     {
       "id": "post-return-transfers",
@@ -400,12 +632,74 @@
       "kind": "Personnel summary",
       "page": 1,
       "pageLabel": "C-14-1",
-      "rect": null,
-      "quote": "The majority of officers and men were transferred\nto various units throughout the Division.  ",
-      "claim": "After the return to San Diego, the majority of officers and men were transferred to other units throughout the division. No individual dates or numerical total are given.",
+      "rect": [
+        0.155,
+        0.638,
+        0.69,
+        0.028
+      ],
+      "quote": "The majority of officers and men were transferred to new commands.",
+      "claim": "After the return to San Diego, the majority of officers and men were transferred to new commands. No individual dates or numerical total are given.",
       "ocrStart": 1074,
       "ocrEnd": 1167,
-      "alignment": "Exact OCR byte span; no verified highlight."
+      "alignment": "Qwen passage geometry, human review pending. Wording retains existing human correction. Proposal: data/local/narrative-alignment-20260913/1201048065-p1-proposals.json",
+      "rawQuote": "The majority of officers and men were transferred\nto various units throughout the Division.  ",
+      "correctionId": "human-1965-transfers-20260912",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-13",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "58926028a3dd08a46741ea45060ea2ed5c8873add447ac469236d7eeca54544e",
+        "run": "data/local/narrative-alignment-20260913/",
+        "reviewStatus": "model-aligned; human geometry review pending"
+      }
+    },
+    {
+      "id": "september-exercise-summary",
+      "label": "September exercise · narrative summary",
+      "kind": "Chronology summary",
+      "page": 1,
+      "pageLabel": "C-14-1",
+      "rect": [
+        0.155,
+        0.653,
+        0.715,
+        0.042
+      ],
+      "rawQuote": "On 16 September a demonstration was con-\nducted for military representatives of SEATO and this organization provided\nthe ground maneuver element.",
+      "quote": "During September a Combined Fire Support Exercise was conducted for military representatives of SEATO and this organization provided the ground maneuver element.",
+      "ocrStart": 1167,
+      "ocrEnd": 1312,
+      "correctionId": "human-september-summary-20260913",
+      "claim": "The commander’s summary describes a combined fire support exercise during September for SEATO representatives, with the battalion providing the ground maneuver element.",
+      "alignment": "Qwen passage geometry, human review pending. Wording retains existing human correction. Proposal: data/local/narrative-alignment-20260913/1201048065-p1-proposals.json",
+      "alignmentMethod": "model",
+      "alignmentProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-13",
+        "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+        "responseSha256": "58926028a3dd08a46741ea45060ea2ed5c8873add447ac469236d7eeca54544e",
+        "run": "data/local/narrative-alignment-20260913/",
+        "reviewStatus": "model-aligned; human geometry review pending"
+      }
+    },
+    {
+      "id": "tendertouch-narrative-summary",
+      "label": "Operation Tendertouch · narrative summary",
+      "kind": "Chronology summary",
+      "page": 1,
+      "pageLabel": "C-14-1",
+      "rect": null,
+      "rawQuote": "During early November 1965 a reinforced platoon\nfrom \"G\" Company participated as aggressors for the U.S. Army Operation\nTIMBERTORCH.",
+      "quote": "During early November 1965 a reinforced platoon\nfrom \"G\" Company participated as aggressors for the U.S. Army Operation\nTENDERTOUCH.",
+      "ocrStart": 1314,
+      "ocrEnd": 1446,
+      "correctionId": "human-tendertouch-summary-20260913",
+      "claim": "The commander’s summary records a reinforced Golf Company platoon serving as aggressors in Operation Tendertouch during early November 1965.",
+      "alignment": "Page reference only; operation name human-confirmed, precise highlight not yet aligned."
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "deployment-directed-december-18",
+  "title": "Deployment to WESTPAC directed",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1965-12-18",
+    "end": "1965-12-18",
+    "label": "18 Dec 1965",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "organization",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-DEPLOYMENT-DIRECTED-DECEMBER-18"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "On December 18, the landing team was directed to deploy from the continental United States to the Western Pacific in shipping designated by COMPHIBPAC.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

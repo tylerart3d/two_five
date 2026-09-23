@@ -1,0 +1,28 @@
+[
+  {
+    "anchorId": "AUDIT-ROAD-ACTIVATION",
+    "page": 2,
+    "result": {
+      "id": "AUDIT-ROAD-ACTIVATION",
+      "found": true,
+      "rect": [
+        0.155,
+        0.812,
+        0.705,
+        0.162
+      ],
+      "confidence": 0.93,
+      "visibleText": "ASSIGNMENTS OF ATTACHMENTS FOR PERIOD 1 JANUARY 1966 TO 2 FEBRUARY 1966. 1. Btry \"E\", 2/11 Capt F. BUBENHOFFER, JR. 2. 2nd Plt, Company \"B\", 1st AT Bn 2ndLt W.D. WEBSTER 1 ENCLOSURE (1) DECLASSIFIED",
+      "note": "Passage located at lower portion of page: heading line 'ASSIGNMENTS OF ATTACHMENTS FOR PERIOD 1 JANUARY 1966 TO 2 FEBRUARY 1966.' through items 1 and 2, page number '1' with 'ENCLOSURE (1)', and bottom 'DECLASSIFIED' stamp. Rectangle encloses all lines from leftmost heading start to rightmost name end."
+    },
+    "status": "model-aligned",
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-14",
+    "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+    "responseSha256": "c71388d6c9565ab79ffe0c1a6c6fc54229bbb6454f764d6f54d2918a0892886a",
+    "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+    "confidence": 0.93,
+    "reviewStatus": "human review pending"
+  }
+]

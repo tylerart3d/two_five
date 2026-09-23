@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "cargo-loaded-january-8",
+  "title": "Cargo loading completed",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1966-01-08",
+    "end": "1966-01-08",
+    "label": "8 Jan 1966",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "movement",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-CARGO-LOADED-JANUARY-8"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Cargo loading was completed on January 8.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ],
+  "mapDestination": "long-beach-pier-e"
+}

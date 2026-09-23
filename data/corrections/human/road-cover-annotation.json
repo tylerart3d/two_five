@@ -1,0 +1,18 @@
+{
+  "id": "human-road-cover-annotation-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "64f7c9e0130089da0d771aaf00caa6a314fe0152138a87733f53e48dcd8eec78",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0001.txt",
+  "page": 1,
+  "anchorId": "ROAD-COVER-ANNOTATION",
+  "ocrStart": 1449,
+  "ocrEnd": 1522,
+  "originalReading": "[Handwritten marginal annotation, right of reference (c), rotated: \"8/5\"]",
+  "replacement": "[Handwritten marginal annotation, right of reference (c), rotated: \"2/5\"]",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent read the sideways annotation as 2/5, correcting Qwen’s 8/5. Old OCR omitted this annotation."
+}

@@ -1,0 +1,495 @@
+{
+  "id": "human-ch00-highlight-review-20260914",
+  "layer": 3,
+  "author": "Brent Tyler",
+  "date": "2026-09-14",
+  "status": "human-confirmed",
+  "scope": "Chapter 00 source highlight geometry; does not change OCR readings or resolve historical inconsistencies.",
+  "userStatement": "the timeline highlights all look good for chapter 00",
+  "targets": [
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-DEPLOYMENT-DIRECTED-DECEMBER-18",
+      "page": 7,
+      "rect": [
+        0.16,
+        0.395,
+        0.65,
+        0.078
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-SHIPPING-DESIGNATED-DECEMBER-18",
+      "page": 7,
+      "rect": [
+        0.16,
+        0.48,
+        0.71,
+        0.1
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-DEPLOYMENT-ORDERS-DECEMBER-21",
+      "page": 7,
+      "rect": [
+        0.16,
+        0.71,
+        0.7,
+        0.05
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-ACTIVATION-DIRECTED-DECEMBER-30",
+      "page": 7,
+      "rect": [
+        0.16,
+        0.765,
+        0.7,
+        0.05
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-S2-OFFICER-JANUARY-3",
+      "page": 4,
+      "rect": [
+        0.16,
+        0.755,
+        0.68,
+        0.045
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-S2-CHIEF-JANUARY-5",
+      "page": 4,
+      "rect": [
+        0.16,
+        0.755,
+        0.68,
+        0.045
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-ADVANCE-PARTY-JANUARY-6",
+      "page": 7,
+      "rect": [
+        0.16,
+        0.82,
+        0.66,
+        0.05
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-ADVANCE-PARTY-ROSTER",
+      "page": 8,
+      "rect": [
+        0.145,
+        0.138,
+        0.725,
+        0.132
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-CARGO-LOADING-JANUARY-7",
+      "page": 8,
+      "rect": [
+        0.145,
+        0.282,
+        0.705,
+        0.042
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-CARGO-LOADED-JANUARY-8",
+      "page": 8,
+      "rect": [
+        0.145,
+        0.34,
+        0.475,
+        0.028
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-LATE-SUPPLIES-JANUARY-7",
+      "page": 6,
+      "rect": [
+        0.15,
+        0.64,
+        0.75,
+        0.075
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-EQUIPMENT-PRIORITIES-RAISED",
+      "page": 5,
+      "rect": [
+        0.145,
+        0.515,
+        0.76,
+        0.08
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-GENERATOR-REPLACED",
+      "page": 5,
+      "rect": [
+        0.145,
+        0.755,
+        0.76,
+        0.05
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-TRAILERS-RECEIVED",
+      "page": 5,
+      "rect": [
+        0.145,
+        0.785,
+        0.76,
+        0.05
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-ADDITIONAL-STOCKS-ORDERED",
+      "page": 5,
+      "rect": [
+        0.145,
+        0.905,
+        0.76,
+        0.05
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-MOUNTOUT-BLOCKS-ORDERED",
+      "page": 6,
+      "rect": [
+        0.15,
+        0.145,
+        0.73,
+        0.25
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-COMBAT-LOADING-PLANS",
+      "page": 6,
+      "rect": [
+        0.15,
+        0.405,
+        0.73,
+        0.37
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+        "confidence": 0.97,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-PREDEPARTURE-TRAINING",
+      "page": 4,
+      "rect": [
+        0.16,
+        0.815,
+        0.65,
+        0.07
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-ROAD-ACTIVATION",
+      "page": 2,
+      "rect": [
+        0.155,
+        0.812,
+        0.705,
+        0.162
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "c71388d6c9565ab79ffe0c1a6c6fc54229bbb6454f764d6f54d2918a0892886a",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+        "confidence": 0.93,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-ROAD-ATTACHMENTS-P3",
+      "page": 3,
+      "rect": [
+        0.16,
+        0.025,
+        0.68,
+        0.375
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "d88946134ccafbb0672e2cfe3ddad810b08a6a3e523cf6e12f8e8a07360aba96",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+        "confidence": 0.95,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-EQUIPMENT-LEFT-WESTPAC",
+      "page": 5,
+      "rect": [
+        0.145,
+        0.455,
+        0.76,
+        0.08
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    },
+    {
+      "documentId": "1201048066",
+      "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+      "anchorId": "AUDIT-EQUIPMENT-REQUISITIONS-AUGUST",
+      "page": 5,
+      "rect": [
+        0.145,
+        0.515,
+        0.76,
+        0.08
+      ],
+      "modelProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-14",
+        "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+        "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+        "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+        "confidence": 0.96,
+        "reviewStatus": "human review pending"
+      }
+    }
+  ]
+}

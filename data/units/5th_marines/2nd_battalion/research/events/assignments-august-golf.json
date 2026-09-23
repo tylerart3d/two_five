@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "assignments-august-golf",
-  "title": "D. H. Eering assigned Golf commander",
+  "title": "D. H. Hering assigned Golf commander",
   "date": {
     "label": "19 Aug 1965",
     "start": "1965-08-19",
@@ -23,17 +23,21 @@
   "paragraphs": [
     [
       {
-        "text": "D. H. Eering assigned Golf commander.",
+        "text": "D. H. Hering assigned Golf commander.",
         "source": 0
       }
     ]
   ],
   "notes": [],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
       "note": "Split a source-backed grouped entry into an individual action; original summary and citation retained."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Brent confirmed D. H. Hering for the August 19 Golf assignment; layer-3 correction human-hering-august19-20260912."
     }
   ],
   "category": "leadership",
@@ -41,5 +45,15 @@
     "rebirth-1965"
   ],
   "timelineHidden": false,
-  "chronologyEventId": "assignments-august"
+  "chronologyEventId": "assignments-august",
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page2-july-august-20260913",
+      "human-hering-august19-20260912",
+      "human-winston-august19-20260912"
+    ]
+  }
 }

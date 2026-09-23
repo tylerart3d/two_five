@@ -1,0 +1,45 @@
+{
+  "id": "human-date-event-page3-november2-5-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "page": 3,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "kind": "date-event-association",
+  "reason": "Brent confirmed these three date-to-event associations against the scan. Association confirmation only; separate spelling corrections remain authoritative.",
+  "associations": [
+    {
+      "anchorId": "foxtrot-november-2",
+      "startDate": "1965-11-02",
+      "endDate": "1965-11-02",
+      "event": "Burgett replaces Winter as Foxtrot CO",
+      "ocrStart": 5515,
+      "ocrEnd": 5679,
+      "originalReading": "2 NOVEMBER 1965                   First Lieutenant D. G. WINTER was relieved as CO,\n                                  \"F\" Company by First Lieutenant G. S. BURGETT.",
+      "replacement": "2 NOVEMBER 1965                   First Lieutenant D. G. WINTER was relieved as CO,\n                                  \"F\" Company by First Lieutenant G. S. BURGETT."
+    },
+    {
+      "anchorId": "november-exercise",
+      "startDate": "1965-11-03",
+      "endDate": "1965-11-05",
+      "event": "Reinforced Golf platoon participates in Operation Tendertouch",
+      "ocrStart": 5681,
+      "ocrEnd": 6245,
+      "originalReading": "3-5 NOVEMBER 1965                 PARTICIPATED IN OPERATION TIMBERTORCH\n                                  The 1st Platoon (Rein), \"G\" Co, under the command\n                                  of 2ndLt W. W. JAFFKE participated as aggressors\n                                  in the U.S. Army Operation Timbertorch which was\n                                  conducted by the 3rd Brigade, 5th Infantry Divi-\n                                  sion (Mechanized), Fort Carson, Colorado, at Marine\n                                  Corps Base, Camp Pendleton, California.",
+      "replacement": "3-5 NOVEMBER 1965                 PARTICIPATED IN OPERATION TIMBERTORCH\n                                  The 1st Platoon (Rein), \"G\" Co, under the command\n                                  of 2ndLt W. W. JAFFKE participated as aggressors\n                                  in the U.S. Army Operation Timbertorch which was\n                                  conducted by the 3rd Brigade, 5th Infantry Divi-\n                                  sion (Mechanized), Fort Carson, Colorado, at Marine\n                                  Corps Base, Camp Pendleton, California."
+    },
+    {
+      "anchorId": "hs-november-5",
+      "startDate": "1965-11-05",
+      "endDate": "1965-11-05",
+      "event": "Fahrni replaces Ram as H&S CO; Ram transfers out",
+      "ocrStart": 6247,
+      "ocrEnd": 6479,
+      "originalReading": "5 NOVEMBER 1965                   Captain C. H. RAM was relieved as CO, H&S Co, by\n                                  Captain L. W. PARENTI.  Captain C. H. RAM was trans-\n                                  ferred out of the Battalion.",
+      "replacement": "5 NOVEMBER 1965                   Captain C. H. RAM was relieved as CO, H&S Co, by\n                                  Captain L. W. PARENTI.  Captain C. H. RAM was trans-\n                                  ferred out of the Battalion."
+    }
+  ]
+}

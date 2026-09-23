@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "generator-replaced",
+  "title": "PU-239 replaces a PU-348 generator",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1965-12-17",
+    "end": "1966-01-10",
+    "label": "Before embarkation · exact date unstated",
+    "precision": "approximate-range"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-GENERATOR-REPLACED"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "A PU-348 generator previously invoiced to RLT-1 was replaced with a PU-239. The report does not give the replacement date.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

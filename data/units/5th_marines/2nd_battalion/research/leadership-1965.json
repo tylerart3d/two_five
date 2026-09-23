@@ -1,0 +1,357 @@
+{
+  "chapterId": "rebirth-1965",
+  "coverageEnd": "1965-12-31",
+  "entries": [
+    {
+      "date": "1965-07-19",
+      "role": "CO",
+      "name": "LtCol C. E. McPartlin Jr.",
+      "kind": "snapshot",
+      "anchorId": "redesignation",
+      "eventId": "redesignation",
+      "personId": "person-c-e-mcpartlin-jr"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "CO",
+      "name": "Capt C. H. Ram",
+      "kind": "appointment",
+      "anchorId": "command-august",
+      "eventId": "command-august",
+      "personId": "person-c-h-ram"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "S-1",
+      "name": "1stLt T. Boyd",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-t-boyd"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "S-2",
+      "name": "1stLt E. A. Kratovil Jr.",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-e-a-kratovil-jr"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "S-4",
+      "name": "Capt H. T. Winston",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-h-t-winston"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "H&S",
+      "name": "1stLt P. C. Rollins",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-p-c-rollins"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "Echo",
+      "name": "1stLt T. R. Minor",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-t-r-minor"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "Foxtrot",
+      "name": "1stLt D. G. Winter",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-d-g-winter"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "Golf",
+      "name": "1stLt D. H. Hering",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-d-h-hering"
+    },
+    {
+      "date": "1965-08-19",
+      "role": "Hotel",
+      "name": "1stLt J. J. Doherty",
+      "kind": "snapshot",
+      "anchorId": "assignments-august",
+      "eventId": "assignments-august",
+      "personId": "person-j-j-doherty"
+    },
+    {
+      "date": "1965-09-08",
+      "role": "CO",
+      "name": "Maj J. R. Catt",
+      "kind": "appointment",
+      "anchorId": "command-september-8",
+      "eventId": "command-september-8",
+      "personId": "person-j-r-catt"
+    },
+    {
+      "date": "1965-09-08",
+      "role": "XO",
+      "name": "Capt C. H. Ram",
+      "kind": "appointment",
+      "anchorId": "command-september-8",
+      "eventId": "command-september-8",
+      "personId": "person-c-h-ram"
+    },
+    {
+      "date": "1965-09-17",
+      "role": "XO",
+      "name": "Maj T. E. Bulger",
+      "kind": "appointment",
+      "anchorId": "xo-september-17",
+      "eventId": "xo-september-17",
+      "personId": "person-t-e-bulger"
+    },
+    {
+      "date": "1965-09-17",
+      "role": "H&S",
+      "name": "Capt C. H. Ram",
+      "kind": "appointment",
+      "anchorId": "xo-september-17",
+      "eventId": "xo-september-17",
+      "personId": "person-c-h-ram"
+    },
+    {
+      "date": "1965-09-18",
+      "role": "CO",
+      "name": "Maj L. W. T. Waller II",
+      "kind": "appointment",
+      "anchorId": "command-september-18",
+      "eventId": "command-september-18",
+      "personId": "person-l-w-t-waller-ii"
+    },
+    {
+      "date": "1965-09-18",
+      "role": "S-3",
+      "name": "Maj J. R. Catt",
+      "kind": "appointment",
+      "anchorId": "command-september-18",
+      "eventId": "command-september-18",
+      "personId": "person-j-r-catt"
+    },
+    {
+      "date": "1965-09-22",
+      "role": "S-3",
+      "name": "Maj R. A. Pape",
+      "kind": "appointment",
+      "anchorId": "s3-september-22",
+      "eventId": "s3-september-22",
+      "personId": "person-r-a-pape"
+    },
+    {
+      "date": "1965-11-01",
+      "role": "S-2",
+      "name": "GySgt J. J. Slocum",
+      "kind": "appointment",
+      "anchorId": "staff-golf-november-1",
+      "eventId": "staff-golf-november-1",
+      "personId": "person-j-j-slocum"
+    },
+    {
+      "date": "1965-11-01",
+      "role": "Golf",
+      "name": "Capt R. E. Garrett",
+      "kind": "appointment",
+      "anchorId": "staff-golf-november-1",
+      "eventId": "staff-golf-november-1",
+      "personId": "person-r-e-garrett"
+    },
+    {
+      "date": "1965-11-02",
+      "role": "Foxtrot",
+      "name": "1stLt G. S. Burgett",
+      "kind": "appointment",
+      "anchorId": "foxtrot-november-2",
+      "eventId": "foxtrot-november-2",
+      "personId": "person-g-s-burgett"
+    },
+    {
+      "date": "1965-11-05",
+      "role": "H&S",
+      "name": "Capt L. W. Fahrni",
+      "kind": "appointment",
+      "anchorId": "hs-november-5",
+      "eventId": "hs-november-5",
+      "personId": "person-l-w-fahrni"
+    },
+    {
+      "date": "1965-11-20",
+      "role": "Golf",
+      "name": "Capt J. F. O’Rourke",
+      "kind": "appointment",
+      "anchorId": "golf-november-20",
+      "eventId": "golf-november-20",
+      "personId": "person-j-f-o-rourke"
+    },
+    {
+      "date": "1965-11-26",
+      "role": "H&S",
+      "name": "Capt R. D. Hughes",
+      "kind": "appointment",
+      "anchorId": "hs-november-26",
+      "eventId": "hs-november-26",
+      "personId": "person-r-d-hughes"
+    },
+    {
+      "date": "1965-12-01",
+      "role": "XO",
+      "name": "Maj R. A. Pape",
+      "kind": "appointment",
+      "anchorId": "assignments-december-1",
+      "eventId": "assignments-december-1",
+      "personId": "person-r-a-pape"
+    },
+    {
+      "date": "1965-12-01",
+      "role": "S-1",
+      "name": "1stLt D. R. West",
+      "kind": "appointment",
+      "anchorId": "assignments-december-1",
+      "eventId": "assignments-december-1",
+      "personId": "person-d-r-west"
+    },
+    {
+      "date": "1965-12-01",
+      "role": "Echo",
+      "name": "1stLt D. E. Marcum",
+      "kind": "appointment",
+      "anchorId": "assignments-december-1",
+      "eventId": "assignments-december-1",
+      "personId": "person-d-e-marcum"
+    },
+    {
+      "date": "1965-12-01",
+      "role": "Foxtrot",
+      "name": "Capt R. A. Hickethier",
+      "kind": "appointment",
+      "anchorId": "assignments-december-1",
+      "eventId": "assignments-december-1",
+      "personId": "person-r-a-hickethier"
+    },
+    {
+      "date": "1965-12-15",
+      "role": "S-2",
+      "name": "Capt A. H. Moore",
+      "kind": "appointment",
+      "anchorId": "s2-december-15",
+      "eventId": "s2-december-15",
+      "personId": "person-a-h-moore"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "CO",
+      "name": "LtCol R. H. Uskurait",
+      "kind": "appointment",
+      "anchorId": "command-december-20",
+      "eventId": "command-december-20",
+      "personId": "person-r-h-uskurait"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "XO",
+      "name": "Maj L. W. T. Waller II",
+      "kind": "appointment",
+      "anchorId": "command-december-20",
+      "eventId": "command-december-20",
+      "personId": "person-l-w-t-waller-ii"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "S-3",
+      "name": "Maj R. A. Pape",
+      "kind": "appointment",
+      "anchorId": "command-december-20",
+      "eventId": "command-december-20",
+      "personId": "person-r-a-pape"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "S-1",
+      "name": "1stLt D. R. West",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-d-r-west"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "S-2",
+      "name": "Capt A. H. Moore",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-a-h-moore"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "S-4",
+      "name": "Capt H. T. Winston",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-h-t-winston"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "H&S",
+      "name": "Capt R. D. Hughes",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-r-d-hughes"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "Echo",
+      "name": "1stLt D. E. Marcum",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-d-e-marcum"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "Foxtrot",
+      "name": "Capt R. A. Hickethier",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-r-a-hickethier"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "Golf",
+      "name": "Capt J. F. O’Rourke",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-j-f-o-rourke"
+    },
+    {
+      "date": "1965-12-20",
+      "role": "Hotel",
+      "name": "1stLt J. J. Doherty",
+      "kind": "snapshot",
+      "anchorId": "assignments-roster-december",
+      "eventId": "assignments-roster-december",
+      "personId": "person-j-j-doherty"
+    }
+  ]
+}

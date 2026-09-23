@@ -1,0 +1,136 @@
+{
+  "id": "book-1965",
+  "title": "The Landing and the Buildup, 1965",
+  "unit": "History and Museums Division, HQMC",
+  "pdfSha256": "d0d7a1a2aa017e58f6306f7c5ea8c1e81d5659045ae3cbf1bb2d5ee18c8da385",
+  "ocrSha256": "",
+  "pageCount": 280,
+  "originalPdfUrl": "https://www.marines.mil/Portals/1/Publications/U.S.%20Marines%20in%20Vietnam_The%20Landing%20and%20the%20Buildup%201965%20%20PCN%2019000307600.pdf",
+  "anchors": [
+    {
+      "id": "BOOK-1965-INTRO",
+      "label": "1965 official history · document",
+      "kind": "Book",
+      "page": 1,
+      "pageLabel": "Document opening; passage alignment pending",
+      "rect": null,
+      "quote": "",
+      "claim": "Narrative references printed pages 10–11, 55 and 117. Their official-PDF page locations are not yet verified.",
+      "ocrStart": 0,
+      "ocrEnd": 0,
+      "alignment": "Document-level access only; not a verified passage highlight."
+    },
+    {
+      "id": "BOOK-1965-MCPARTLIN",
+      "label": "McPartlin biography",
+      "kind": "Book passage",
+      "page": 26,
+      "pageLabel": "Printed page 10 · PDF page 26",
+      "rect": [
+        0.535,
+        0.861,
+        0.395,
+        0.055
+      ],
+      "quote": "* Lieutenant Colonel McPartlin had enlisted in the Marine Corps in 1932. A first sergeant at the outbreak of World War II, he was commissioned a second lieutenant in 1942. He saw combat in both World War II and Korea.",
+      "claim": "McPartlin biography: enlistment, commission and prior combat service.",
+      "ocrStart": 0,
+      "ocrEnd": 0,
+      "alignmentMethod": "model",
+      "alignment": "Qwen identified printed page and footnote geometry; human region review pending.",
+      "alignmentProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-13",
+        "pdfSha256": "d0d7a1a2aa017e58f6306f7c5ea8c1e81d5659045ae3cbf1bb2d5ee18c8da385",
+        "responseSha256": "7d2ef500d32c68b8cc743c64c97b3ef99f1fe2578c64c4a1067ce3d8966fdea8",
+        "run": "data/local/narrative-alignment-20260913/",
+        "reviewStatus": "model-aligned; human geometry review pending"
+      }
+    },
+    {
+      "id": "BOOK-1965-ROTATION",
+      "label": "Battalion transplacement system",
+      "kind": "Book passage",
+      "page": 71,
+      "pageLabel": "Printed page 55 · PDF page 71",
+      "rect": [
+        0.062,
+        0.785,
+        0.392,
+        0.132
+      ],
+      "quote": "* 2/7 was substituted for 3/9 to go into Vietnam because the latter battalion had just arrived on Okinawa from the U.S. under the battalion transplacement system. Under this system, a battalion from the 1st Marine Division in California relieved a battalion of the 3d Marine Division in the Western Pacific, exchanging designation and mission. Thus the 2d Battalion, 5th Marines when it arrived in Okinawa at the end of June became the 3d Battalion, 9th Marines. In the movement of the 7th Marines battalions there was no change in designation since they actually reinforced the 3d Marine Division.",
+      "claim": "Battalions exchanged designations and missions under the transplacement system.",
+      "ocrStart": 0,
+      "ocrEnd": 0,
+      "alignmentMethod": "model",
+      "alignment": "Qwen located the footnote and printed page number; human geometry review pending.",
+      "alignmentProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-13",
+        "pdfSha256": "d0d7a1a2aa017e58f6306f7c5ea8c1e81d5659045ae3cbf1bb2d5ee18c8da385",
+        "responseSha256": "918a785fe7991e248a2f0a16c95a49590bcf01113a40a9c5a2b9147567190996",
+        "run": "data/local/narrative-alignment-20260913/",
+        "reviewStatus": "model-aligned; human geometry review pending"
+      }
+    },
+    {
+      "id": "BOOK-1965-REPLACEMENTS",
+      "label": "Redeployment and individual replacements",
+      "kind": "Book passage",
+      "page": 133,
+      "pageLabel": "Printed page 117 · PDF page 133",
+      "rect": null,
+      "regions": [
+        {
+          "page": 133,
+          "rect": [
+            0.025,
+            0.79,
+            0.405,
+            0.13
+          ]
+        },
+        {
+          "page": 133,
+          "rect": [
+            0.482,
+            0.113,
+            0.386,
+            0.209
+          ]
+        },
+        {
+          "page": 133,
+          "rect": [
+            0.482,
+            0.325,
+            0.386,
+            0.14
+          ]
+        }
+      ],
+      "quote": "The reinforcement of III MAF during this period caused continuing realinement and readjustment of personnel and units in the Western Pacific. On 24 August, the 1st Marine Division, under Major General Lewis J. Fields, established its CP on Okinawa, as did the 1st Marines. Only one regiment of the division, the 5th Marines, remained at Camp Pendleton. As noted earlier, one battalion of the 1st\n\nMarines, Lieutenant Colonel Hanifin's 2d Battalion, relieved BLT 3/7 as the SLF battalion of the Seventh Fleet, and at the end of August Lieutenant Colonel Bodley's 3d Battalion rejoined its parent regiment, the 7th Marines, at Chu Lai. At the same time, Lieutenant Colonel Donald V. McCloskey's 1st Battalion, 1st Marines arrived at Da Nang and relieved the 1st Battalion, 3d Marines, which returned to the United States. Another battalion from the United States, the 3d Battalion, 5th Marines, was moved to Okinawa to become the new 1st Battalion, 3d Marines. This relief ended the intertheater battalion transplacement system.\n\nThe end of the battalion rotation between East Pac and West Pac caused the institution of an individual personnel replacement system for all units of III MAF. Under the designator Operation MIXMASTER, Marines in Vietnam were transferred between units so that everyone in each unit would not have the same overseas tour expiration date. This homogenization process involved thousands of Marines and took place over several months.*",
+      "claim": "End of intertheater battalion rotation and introduction of individual replacements.",
+      "ocrStart": 0,
+      "ocrEnd": 0,
+      "alignmentMethod": "model",
+      "alignment": "Qwen identified printed page 117 and passage regions; human geometry review pending.",
+      "alignmentProvenance": {
+        "layer": 2,
+        "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+        "date": "2026-09-13",
+        "pdfSha256": "d0d7a1a2aa017e58f6306f7c5ea8c1e81d5659045ae3cbf1bb2d5ee18c8da385",
+        "responseSha256": "c93d683fd66977f6d453faff5c5af120186cd2af30877420cc4ea11ddd3b3720",
+        "response": "data/local/narrative-alignment-20260913/book-1965-p133-response.json",
+        "reviewStatus": "model-aligned; human geometry review pending",
+        "additionalResponse": {
+          "response": "data/local/narrative-alignment-20260913/book-1965-p133-pendleton-recheck-response.json",
+          "responseSha256": "3e89e01e5bc07bab95c42f2378ee38322273a70e013c890f3cc8cb786cf307e1"
+        }
+      }
+    }
+  ]
+}

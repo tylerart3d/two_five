@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "hs-november-5",
-  "title": "H&S: Ram → Parenti",
+  "title": "H&S: Ram → Fahrni",
   "date": {
     "label": "5 Nov 1965",
     "start": "1965-11-05",
@@ -23,13 +23,13 @@
   "paragraphs": [
     [
       {
-        "text": "Capt L. W. Parenti relieved Capt C. H. Ram as H&S Company commander. Ram transferred out of the battalion.",
+        "text": "Capt L. W. Fahrni relieved Capt C. H. Ram as H&S Company commander. Ram transferred out of the battalion.",
         "source": 0
       }
     ]
   ],
   "notes": [],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -46,11 +46,25 @@
     {
       "date": "2026-09-07",
       "note": "Retained as chronology summary; individual leadership actions now supply the timeline."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Applied Brent’s human-confirmed FAHRNI reading for November 5.",
+      "correctionId": "human-fahrni-november5-20260912"
     }
   ],
   "category": "leadership",
   "chapterIds": [
     "rebirth-1965"
   ],
-  "timelineHidden": true
+  "timelineHidden": true,
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page3-november2-5-20260913",
+      "human-fahrni-november5-20260912"
+    ]
+  }
 }

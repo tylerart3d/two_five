@@ -1,3 +1,4 @@
+throw new Error('Retired legacy OCR audit. Use approved-reading-copies/1201048065.json; its column reading order requires the preserved date/event associations.');
 // Research-only audit. Never writes to the site's events/ directory.
 import {readFileSync,writeFileSync,mkdirSync,readdirSync} from 'node:fs';
 import {createHash} from 'node:crypto';

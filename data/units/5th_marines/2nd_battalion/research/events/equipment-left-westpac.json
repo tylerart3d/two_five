@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "equipment-left-westpac",
+  "title": "Equipment left in WESTPAC",
+  "chapterIds": [
+    "rebirth-1965"
+  ],
+  "date": {
+    "start": "1965-07-01",
+    "end": "1965-07-31",
+    "label": "July 1965 · day unstated",
+    "precision": "month"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-EQUIPMENT-LEFT-WESTPAC"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The battalion left supplies and individual equipment in WESTPAC in July. Some of those items were still missing when the deployment warning order arrived.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

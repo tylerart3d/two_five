@@ -127,3 +127,6 @@ Existing, non-archived vision OCR only. No new OCR or PDF inspection. Offsets ar
   }
 ]
 ```
+
+## Human correction — September 12, 2026
+ROAD-09: Brent confirmed message **230005Z**, superseding **238952** in the preserved extraction above. The website excerpt applies `data/corrections/human/road09-message.json`; original OCR remains unchanged.

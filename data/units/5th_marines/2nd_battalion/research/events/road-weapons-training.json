@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "road-weapons-training",
+  "title": "Day and night live firing",
+  "date": {
+    "label": "Exact dates unknown · Feb–early Apr; dates unspecified",
+    "start": "1966-02-02",
+    "end": "1966-04-05",
+    "precision": "within",
+    "boundsOnly": true
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-06"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "All units conducted day and night live-fire exercises, practiced night-firing techniques, and received instruction and practical training with the sniper scope.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "February 2–April 5 is a navigation window, not a continuous activity or an exact course schedule.",
+    "Locations are stated only where the cited passage identifies them."
+  ],
+  "researchStatus": "Editorial split of existing sourced training passages; exact course dates not established.",
+  "revisions": [
+    {
+      "date": "2026-09-22",
+      "note": "Separated training activities and known durations; reporting bounds excluded from continuous timeline highlighting."
+    }
+  ],
+  "category": "training",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

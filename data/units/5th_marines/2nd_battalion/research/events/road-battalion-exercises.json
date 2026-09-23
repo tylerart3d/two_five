@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "road-battalion-exercises",
+  "title": "Command-post and battalion field exercises",
+  "date": {
+    "label": "Three-day field exercise; command-post dates unknown · Feb–early Apr; dates unspecified",
+    "start": "1966-02-02",
+    "end": "1966-04-05",
+    "precision": "within",
+    "boundsOnly": true
+  },
+  "kind": "event",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-08"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The battalion and attached units conducted two command-post exercises and a three-day battalion field exercise. The source does not identify exact dates or the locations of these exercises.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "February 2–April 5 is a navigation window, not a continuous activity or an exact course schedule.",
+    "Locations are stated only where the cited passage identifies them."
+  ],
+  "researchStatus": "Editorial split of existing sourced training passages; exact course dates not established.",
+  "revisions": [
+    {
+      "date": "2026-09-22",
+      "note": "Separated training activities and known durations; reporting bounds excluded from continuous timeline highlighting."
+    }
+  ],
+  "category": "training",
+  "chapterIds": [
+    "road-1966"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "human-road-activation-time-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "1b6f3363164c037ce8bc7902c687fba1e1975c3606a0dcb97f2836be61a6fea0",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0007.txt",
+  "page": 7,
+  "anchorId": "ROAD-ACTIVATION-TIME",
+  "ocrStart": 1258,
+  "ocrEnd": 1265,
+  "originalReading": "Ø1ØØØ1U",
+  "replacement": "010001U",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent visually confirmed the slashed characters are zeros and requested ordinary zeros for readability and searching. Preserve the raw Qwen glyphs; no time-zone conversion or change to the date-time group."
+}

@@ -23,7 +23,7 @@
   "paragraphs": [
     [
       {
-        "text": "Lieutenant Colonel C. E. McPartlin, Jr., being relieved as commanding officer by Captain C. H. Ram.",
+        "text": "Lieutenant Colonel C. E. McPartlin, Jr., was relieved as commanding officer by Captain C. H. Ram.",
         "source": 0
       }
     ]
@@ -47,5 +47,11 @@
   "category": "leadership",
   "chapterIds": [
     "rebirth-1965"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  }
 }

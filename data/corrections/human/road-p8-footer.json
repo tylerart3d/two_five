@@ -1,0 +1,18 @@
+{
+  "id": "human-road-p8-footer-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "6dff90789eb7a3fc81ca1696850e97a936f236f62df8bd93dda4e161d1355ec7",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0008.txt",
+  "page": 8,
+  "anchorId": "ROAD-P8-FOOTER",
+  "ocrStart": 1373,
+  "ocrEnd": 1386,
+  "originalReading": "ENCLOSERE (1)",
+  "replacement": "ENCLOSURE (1)",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed ENCLOSURE (1), correcting Qwen ENCLOSERE (1) and matching the older OCR."
+}

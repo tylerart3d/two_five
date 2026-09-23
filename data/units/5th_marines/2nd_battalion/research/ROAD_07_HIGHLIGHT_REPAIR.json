@@ -1,0 +1,74 @@
+{
+  "id": "agent-road07-wrap-20260922",
+  "layer": 2,
+  "documentId": "1201048067",
+  "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+  "anchorId": "ROAD-07",
+  "date": "2026-09-22",
+  "author": "Codex",
+  "basis": "User-supplied browser annotation screenshot for ROAD-07. Corrects line wrapping visible in the screenshot using the existing normalized region coordinates as reference; no new PDF inspection or OCR.",
+  "reason": "Page 5 continuation lines extend back to the left text margin, outside the previous single rectangle. Page 6 continuation also needs the full line width.",
+  "previous": {
+    "regions": [
+      {
+        "page": 5,
+        "rect": [
+          0.46,
+          0.845,
+          0.42,
+          0.08
+        ]
+      },
+      {
+        "page": 6,
+        "rect": [
+          0.12,
+          0.115,
+          0.69,
+          0.05
+        ]
+      }
+    ],
+    "alignment": "Brent confirmed PDF pages 5–6; Qwen multi-page regions retained from data/local/alignment-2026-09-12T20-39-57-164Z/road07-cross-page-response.json. Region geometry awaits human review.",
+    "alignmentMethod": "model",
+    "alignmentProvenance": {
+      "layer": 2,
+      "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+      "date": "2026-09-13",
+      "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+      "responseSha256": "f7dfac66bd626ec312dce5455f48ce8dad59c84c5b0333831404e83b320004af",
+      "response": "data/local/alignment-2026-09-12T20-39-57-164Z/road07-cross-page-response.json",
+      "reviewStatus": "model-aligned; human geometry review pending"
+    }
+  },
+  "regions": [
+    {
+      "page": 5,
+      "rect": [
+        0.46,
+        0.845,
+        0.44,
+        0.025
+      ]
+    },
+    {
+      "page": 5,
+      "rect": [
+        0.12,
+        0.872,
+        0.78,
+        0.053
+      ]
+    },
+    {
+      "page": 6,
+      "rect": [
+        0.12,
+        0.115,
+        0.78,
+        0.05
+      ]
+    }
+  ],
+  "reviewStatus": "Agent-adjusted from user screenshot; user confirmation pending"
+}

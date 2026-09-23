@@ -1,4 +1,4 @@
-# H&S: Ram → Parenti
+# H&S: Ram → Fahrni
 
 Editable event record. Source text and scan alignment remain in the referenced source-anchor record.
 

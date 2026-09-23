@@ -1,0 +1,18 @@
+{
+  "id": "human-road-ref-h-command-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "64f7c9e0130089da0d771aaf00caa6a314fe0152138a87733f53e48dcd8eec78",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0001.txt",
+  "page": 1,
+  "anchorId": "ROAD-REF-H",
+  "ocrStart": 638,
+  "ocrEnd": 646,
+  "originalReading": "CINCACFL",
+  "replacement": "CINCPACFL",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent supplied CINCPACFL while reviewing reference (h), correcting both the old CINCPACLT and Qwen CINCACFL readings. Prior confirmed 180547Z retained."
+}

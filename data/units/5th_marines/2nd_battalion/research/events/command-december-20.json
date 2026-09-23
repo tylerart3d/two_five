@@ -23,13 +23,13 @@
   "paragraphs": [
     [
       {
-        "text": "Lieutenant Colonel R. H. Uskurait succeeding Major L. W. T. Waller, II, as commanding officer; Waller became executive officer and Major R. A. Pape became S-3.",
+        "text": "Lieutenant Colonel R. H. Uskurait succeeded Major L. W. T. Waller, II, as commanding officer; Waller became executive officer and Major R. A. Pape became S-3.",
         "source": 0
       }
     ]
   ],
   "notes": [],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -52,5 +52,13 @@
   "chapterIds": [
     "rebirth-1965"
   ],
-  "timelineHidden": true
+  "timelineHidden": true,
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page3-december-20260913"
+    ]
+  }
 }

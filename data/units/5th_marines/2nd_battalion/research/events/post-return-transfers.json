@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "post-return-transfers",
-  "title": "Majority of returning personnel transferred within the division",
+  "title": "Majority of returning personnel transferred to new commands",
   "visibility": "site",
   "reviewStatus": "needs_review",
   "chapterIds": [
@@ -29,15 +29,13 @@
   "paragraphs": [
     [
       {
-        "text": "After the return to San Diego, the majority of officers and men were transferred to other units throughout the division. No individual dates or numerical total are given.",
+        "text": "After the return to San Diego, the majority of officers and men were transferred to new commands.",
         "source": 0
       }
     ]
   ],
-  "notes": [
-    "August 8 is the return date used to position this entry, not a documented transfer date. The source gives no end date, named recipients, individual destinations or numerical total."
-  ],
-  "researchStatus": "Existing OCR; aggregate statement, precise dates unresolved.",
+  "notes": [],
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -46,6 +44,18 @@
     {
       "date": "2026-09-07",
       "note": "Added to Chapter 00 with an open end; timeline marker uses earliest bound only."
+    },
+    {
+      "date": "2026-09-13",
+      "note": "Removed the displayed transfer-date and missing-detail note at Brent’s request."
     }
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-1965-transfers-20260912"
+    ]
+  }
 }

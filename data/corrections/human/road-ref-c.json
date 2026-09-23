@@ -1,0 +1,15 @@
+{
+  "id": "human-road-ref-c-20260912",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "640d0378c6d72ae48eb31a9399039cf0f307798e4776b1819ed5f289259a903c",
+  "anchorId": "ROAD-REF-C",
+  "page": 1,
+  "originalReading": "(c) CG 1st MarDiv (Rein)(Rear) 172245Z December 1965",
+  "replacement": "(c) CG 1st MarDiv (Rein)(Rear) 172006Z December 1965",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed Qwen’s 172006Z reading for reference (c) on PDF page 1. Other reference messages remain unconfirmed."
+}

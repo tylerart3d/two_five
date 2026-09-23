@@ -103,3 +103,7 @@ Validate page alignment, highlight placement at several zoom levels, source
 attribution, a repeated-name occurrence, and behavior when the remote source is
 unavailable. Approximate or absent anchors should visibly fall back to the
 correct page or excerpt rather than a misleading highlight.
+
+## Default timeline selection behavior
+
+All chapters use the shared timeline selection handler. Clicking an event keeps the expanded timeline open and fills the location panel with its date, title and description, including events without a Closer Look section. Known map destinations trigger map navigation; events without a mapped destination keep the map in place. In source mode the same selection opens its source anchor and existing PDF highlight regions. Page-only anchors still open their documented page; geometry must be aligned before they can display a highlight. Switching source mode on retains the selected event. New chapters inherit this behavior. Covered by tests/timeline-selection.spec.ts.

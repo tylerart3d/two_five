@@ -1,0 +1,41 @@
+{
+  "title": "Travel to Pearl Harbor",
+  "paragraphs": [
+    [
+      {
+        "text": "The ships sailed from Pier E at Long Beach on January 10, 1966, and the landing team reached Pearl Harbor on January 18. The first Pacific crossing took eight elapsed days. After two days in Hawaii, the landing team departed for Okinawa on January 20.",
+        "anchorId": "ROAD-03"
+      }
+    ],
+    [
+      {
+        "text": "During the sea passage, the Marines continued formal instruction and physical training. Classroom subjects included general military topics, Vietnam orientation and landmine warfare. The chronology describes this training for the voyage as a whole, without a daily schedule for the Hawaii leg.",
+        "anchorId": "ROAD-04"
+      }
+    ]
+  ],
+  "ships": [
+    {
+      "name": "USS Bexar (APA-237)",
+      "text": "A Haskell-class attack transport, commissioned in October 1945. At 455 feet long, she had a listed troop capacity of 1,561. That figure describes the ship’s capacity, not the number of 2/5 Marines carried on this voyage.",
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/bexar-i.html"
+    },
+    {
+      "name": "USS Mathews (AKA-96)",
+      "text": "An Andromeda-class attack cargo ship, commissioned in March 1945. About 459 feet long, she had already carried military cargo and passengers to Okinawa during World War II.",
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/m/mathews.html"
+    },
+    {
+      "name": "USS Belle Grove (LSD-2)",
+      "text": "An Ashland-class dock landing ship, commissioned in August 1943. About 458 feet long, she had carried troops and landing craft during the Pacific campaigns of World War II.",
+      "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/b/belle-grove-i.html"
+    }
+  ],
+  "sourceId": "1201048066",
+  "pages": [
+    5,
+    8
+  ],
+  "precision": "The line connects Long Beach and Pearl Harbor for orientation; it is not a reconstructed ship track. Durations are calendar-date differences; departure and arrival times are not given.",
+  "retrieved": "2026-09-22"
+}

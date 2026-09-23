@@ -1,0 +1,17 @@
+{
+  "id": "human-fahrni-november5-20260912",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "anchorId": "hs-november-5",
+  "page": 3,
+  "ocrStart": 6247,
+  "ocrEnd": 6479,
+  "originalReading": "5 NOVEMBER 1965                   Captain C. H. RAM was relieved as CO, H&S Co, by\n                                  Captain L. W. PARENTI.  Captain C. H. RAM was trans-\n                                  ferred out of the Battalion.",
+  "replacement": "5 NOVEMBER 1965                   Captain C. H. RAM was relieved as CO, H&S Co, by\n                                  Captain L. W. FAHRNI.  Captain C. H. RAM was trans-\n                                  ferred out of the Battalion.",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed FAHRNI for the November 5 entry on PDF page 3."
+}

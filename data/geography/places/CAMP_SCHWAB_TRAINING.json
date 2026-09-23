@@ -1,0 +1,72 @@
+{
+  "title": "Camp Schwab, Okinawa",
+  "paragraphs": [
+    [
+      {
+        "text": "Training began as soon as the battalion arrived on Okinawa on February 2. Field training and live firing replaced the limitations of shipboard instruction. Crew-served weapons personnel completed a one-week school, and most Marines fired their assigned weapons to establish battle sights.",
+        "anchorId": "ROAD-04"
+      }
+    ],
+    [
+      {
+        "text": "Through late February, March and early April, the battalion trained intensively while gathering supplies for Vietnam. Its commander reported that personnel strength had stabilized and the units had become more cohesive.",
+        "anchorId": "ROAD-05"
+      }
+    ]
+  ],
+  "training": [
+    {
+      "title": "Helicopters and amphibious vehicles",
+      "text": "Each rifle company received a day of intensive helicopter training in the Camp Schwab and Northern Training Areas. All units practiced procedures and combat employment of landing vehicles, tracked (LVTs), in the Camp Schwab area.",
+      "anchorId": "ROAD-07"
+    },
+    {
+      "title": "Counterguerrilla school",
+      "text": "Each company spent eight days in the Northern Training Area, combining classroom instruction and patrolling with a two-day guerrilla exercise.",
+      "anchorId": "ROAD-06"
+    },
+    {
+      "title": "Weapons and night firing",
+      "text": "Units conducted day and night live-fire exercises, practiced night-firing techniques, and learned to use the sniper scope.",
+      "anchorId": "ROAD-06"
+    },
+    {
+      "title": "Mines, demolitions and jungle lanes",
+      "text": "Two days at Land Mine and Demolition School and another day on jungle lanes emphasized skills and lessons relevant to Vietnam.",
+      "anchorId": "ROAD-06"
+    },
+    {
+      "title": "Working as a battalion",
+      "text": "The battalion and its attachments conducted two command-post exercises and a three-day battalion field exercise.",
+      "anchorId": "ROAD-08"
+    },
+    {
+      "title": "Amphibious rehearsal",
+      "text": "Before departing Okinawa, the landing team conducted a four-day amphibious landing exercise at Kin Beach. The chronology does not supply its exact dates.",
+      "anchorId": "ROAD-10"
+    }
+  ],
+  "precision": "This rundown covers the Okinawa training program. Helicopter and LVT work is explicitly connected to Camp Schwab; counterguerrilla school was in the Northern Training Area and the amphibious exercise was at Kin Beach. Other course locations are not specified in these passages. Map boundaries are modern geographic references.",
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "documentId": "1201048067",
+      "pages": [
+        3,
+        5,
+        6
+      ]
+    },
+    {
+      "documentId": "1201048068",
+      "pages": [
+        2
+      ]
+    }
+  ]
+}

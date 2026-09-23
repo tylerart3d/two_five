@@ -13,12 +13,27 @@
         "kind": "Chronology passage",
         "page": 3,
         "pageLabel": "OCR page 3",
-        "rect": null,
+        "rect": [
+          0.16,
+          0.54,
+          0.71,
+          0.125
+        ],
         "quote": "On 17 December 1965  reference (c), designated\n2nd Battalion, 5th Marines a BATTALION LANDING TEAM for planning\npurposes.  Preparation for deployment by the Battalion and\nattachments commenced prior to this date.  Reference (d),\nactivated the BATTALION LANDING TEAM on 1 January 1966.",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 4074,
         "ocrEnd": 4358,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Located within paragraph 1 of COMMANDERS NARRATIVE SUMMARY, beginning mid-line at 'On 17 December 1965' and ending at '1 January 1966.'",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "1383a52b0df9fb36154474c5073e0b3e260558e238c81469a3821991eb383cb8",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       },
       {
         "id": "ROAD-02",
@@ -26,12 +41,27 @@
         "kind": "Chronology passage",
         "page": 3,
         "pageLabel": "OCR page 3",
-        "rect": null,
+        "rect": [
+          0.16,
+          0.74,
+          0.74,
+          0.165
+        ],
         "quote": "The organization was below fifty percent deployable\nstrength on 17 December 1965.  During the period of 20 December\n1965 to 8 January 1966, the Battalion joined 534 enlisted Marines\nand percentage wise, our attachments had done similarly.  When\nBATTALION LANDING TEAM 2/5 embarked on 9 January 1966, the manning\nlevel and on-board strength was as follows:",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 4493,
         "ocrEnd": 4848,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Located as sub-paragraph A (S-1) following paragraph 2.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "1383a52b0df9fb36154474c5073e0b3e260558e238c81469a3821991eb383cb8",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       },
       {
         "id": "ROAD-03",
@@ -39,12 +69,27 @@
         "kind": "Chronology passage",
         "page": 8,
         "pageLabel": "OCR page 8",
-        "rect": null,
+        "rect": [
+          0.14,
+          0.28,
+          0.78,
+          0.53
+        ],
         "quote": "7 January 1966 - BATTALION LANDING TEAM 2/5 commenced loading of\ncargo at Long Beach California, for movement to WESTPAC.\n\n8 January 1966 - Loading of cargo completed\n\n9 January 1966 -Troops of BATTALION LANDING TEAM 2/5 embarked on\nships.\n\n10 January 1966 - Ships sailed from pier \"E\" at Long Beach, California\nbound for Okinawa via Pearl Harbor, Hawaii.  BATTALION LANDING\nTEAM 2/5 came under operational control of Fleet Marine Force, Pacific.\n\n18 January 1966 - BATTALION LANDING TEAM 2/5 arrived at Pearl Harbor,\nHawaii.\n\n20 January 1966 - BATTALION LANDING TEAM 2/5 departed Pearl Harbor,\nHawaii, bound for Okinawa.\n\n2 February 1966 - BATTALION LANDING TEAM 2/5 arrived in Okinawa.\nAttached units aboard the USS BEXAR were detached to parent units\nat Okinawa.  Second Battalion Fifth Marines came under operational\nand administrative control of First Marine Division (Rein).\n\n4 February 1966 - USS MATHEWS (AKA-96) and USS BELLE GROVE (LSD-2)\narrived in Okinawa.  Attached units aboard these ships were detached\nto parent units.\n\n",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 11792,
         "ocrEnd": 12828,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Chronology excerpt from 7 January 1966 through the 4 February 1966 entry.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "bdeed104b1291ad1fbe978d5110ff387dd74413169eb5e1312647dbf29d69953",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       },
       {
         "id": "ROAD-04",
@@ -52,12 +97,1289 @@
         "kind": "Chronology passage",
         "page": 5,
         "pageLabel": "OCR page 5",
-        "rect": null,
+        "rect": [
+          0.143,
+          0.138,
+          0.712,
+          0.272
+        ],
         "quote": "Training aboard ship was limited to formal instruction and\nphysical training.  Formal instruction was accomplished on\ngeneral military type subjects, Viet Nam orientation, and\nLandmine Warfare.  Training began upon arrival on Okinawa on\n2 February 1966, all units are accomplishing field training and\nfield firing.  Crew served weapons personnel have completed a one\nweek organizational level school, and the majority of personnel\nhave fired their T/O weapon for battle sights.  The first rifle\ncompany is undergoing Counterguerrilla Warfare School in the\nnorthern training area which is scheduled for all units.",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 6432,
         "ocrEnd": 7044,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Paragraph located in upper body of page, immediately below the DECLASSIFIED header.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "b9591102731cf112d509def99ee81e84e87f293eb04e6e8e12c43108f80c87d8",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
+      },
+      {
+        "id": "ROAD-LOAD-P3",
+        "label": "Embarkation record · page 3",
+        "kind": "Chronology passage",
+        "page": 3,
+        "pageLabel": "OCR page 3",
+        "rect": [
+          0.1,
+          0.14,
+          0.8,
+          0.765
+        ],
+        "quote": "DECLASSIFIED\n\n\n      3.  2nd Plt, Company \"B\", 1st Recon Bn    2ndLt G.W. JONES\n      4.  2nd Plt, Company \"B\", 1st Engineer    1stLt A.J. LECRONE\n          Bn\n      5.  2nd Landing Support Plt, Company \"B\",  2ndLt F. ROSENBERG\n          1st SP Bn\n      6.  2nd Plt, Company \"B\", 7th MT Bn       1stLt A.J. BOCCUTI\n      7.  2nd COLL & CL SEC (REIN), Company \"B\",\n          1st MED Bn\n      8.  DET, 1st FSR\n\n                     COMMANDERS NARRATIVE SUMMARY\n\n1.  The Second Battalion, Fifth Marines was reactivated on 8\nAugust 1965 at Camp Pendleton, California, after a WESTPAC\ndeployment which included duty in Viet Nam as Third Battalion,\nNinth Marines.  On 17 December 1965  reference (c), designated\n2nd Battalion, 5th Marines a BATTALION LANDING TEAM for planning\npurposes.  Preparation for deployment by the Battalion and\nattachments commenced prior to this date.  Reference (d),\nactivated the BATTALION LANDING TEAM on 1 January 1966.\n\n2.  The following are the major problem areas encountered from\n17 December 1965 until embarkation on 9 January 1966.\n\n     A.  S-1.  The organization was below fifty percent deployable\nstrength on 17 December 1965.  During the period of 20 December\n1965 to 8 January 1966, the Battalion joined 534 enlisted Marines\nand percentage wise, our attachments had done similarly.  When\nBATTALION LANDING TEAM 2/5 embarked on 9 January 1966, the manning\nlevel and on-board strength was as follows:\n\n                                    2         ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "claim": "Supporting embarkation record for the movement location panel.",
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Whole-page body text enclosed from unit list item 3 through end of sub-paragraph A, excluding top DECLASSIFIED header and bottom page number/ENCLOSURE/DECLASSIFIED footer.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "1383a52b0df9fb36154474c5073e0b3e260558e238c81469a3821991eb383cb8",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.96,
+          "reviewStatus": "agent-validated; human review pending"
+        }
+      },
+      {
+        "id": "ROAD-LOAD-P4",
+        "label": "Embarkation record · page 4",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "OCR page 4",
+        "rect": [
+          0.14,
+          0.025,
+          0.74,
+          0.945
+        ],
+        "quote": "DECLASSIFIED\n\n\nUNIT                          MANNING          ON BOARD\n                              LEVEL\n\n2nd Bn (Rein) 5th Marines     1119             1134\n\nBattery \"E\" (Rein), 2nd Bn    124              124\n11 Marines\n\n2nd Plt (Rein), Company \"B\",   20               20\n1st AT Bn\n\n2nd Plt (Rein), Company \"B\",   23               23\n1st Recon Bn\n\n2nd Plt (Rein), Company \"B\",   46               45\n1st Engineer Bn\n\n2nd Landing Support Plt (Rein) 50               42\nCompany \"B\", 1st SP Bn\n\n2nd Plt (Rein) Company \"B\"     34               34\n7th MT Bn\n\n2nd COLL & CL SEC (Rein)        8                8\nCompany \"B\", 1st MED Bn\n\nDET, 1st FSR                   16               16\n\nTOTALS                        1440             1446\n\nUpon debarkation and in accordance with reference (d), BATTALION\nLANDING TEAM 2/5 was deactivated and the attached units were\ndetached to parent units on Okinawa.\n\n     B.  S-2.  Our present S-2 Officer and S-2 Chief were not\nassigned until 3 January 1966 and 5 January 1966 respectively.\n\n     C.  S-3.  From 19 December 1965 until embarkation on\n10 January 1966, training had been limited to MOS training,\nmarksmanship requalification and some field work.  Of necessity,\non occasion, training took a back seat to materiel and equipment\nreadiness and embarkation.     3              ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "claim": "Supporting embarkation record for the movement location panel.",
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Whole-page body quote spanning from top DECLASSIFIED header through the unit/manning table and S-2/S-3 paragraphs to the bottom DECLASSIFIED footer; matches the scanned page text.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "5453af0d7bd18edafef84b847a2aa0ed36737a991672f094068c5de4cf1070ba",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
+      },
+      {
+        "id": "ROAD-LOAD-P5",
+        "label": "Embarkation record · page 5",
+        "kind": "Chronology passage",
+        "page": 5,
+        "pageLabel": "OCR page 5",
+        "rect": [
+          0.143,
+          0.138,
+          0.757,
+          0.792
+        ],
+        "quote": "DECLASSIFIED\n\n\nTraining aboard ship was limited to formal instruction and\nphysical training.  Formal instruction was accomplished on\ngeneral military type subjects, Viet Nam orientation, and\nLandmine Warfare.  Training began upon arrival on Okinawa on\n2 February 1966, all units are accomplishing field training and\nfield firing.  Crew served weapons personnel have completed a one\nweek organizational level school, and the majority of personnel\nhave fired their T/O weapon for battle sights.  The first rifle\ncompany is undergoing Counterguerrilla Warfare School in the\nnorthern training area which is scheduled for all units.\n\n     C.  S-4.  (SUPPLIES, EQUIPMENT, AND EMBARKATION)\n\nSeveral items of supplies and individual equipment that were left\nin WESTPAC by this organization in July 1965 were missing when\nthe Battalion received the warning order.  Priorities on requisitions\nwere upgraded by messages since they had been on order since\nAugust 1965.  Priorities generated by the warning order released\nmany of these items, but this organization was still short some\nitems of 782 gear upon embarkation.  The BATTALION LANDING TEAM\nhad 93% of its operating stocks and 98% of its mount out.  All\nshortages were non-essential combat equipment items.  They were:\nSniperscope Batteries, Suspender Straps, Tent Pins, Bayonet\nScabbards, and Mess Pans.  A PU-348 generator previously invoiced\nto REGIMENTAL LANDING TEAM-1 was replaced with a PU-239.  Nineteen\nnew M-416-B-1 trailers were received by this organization.\nHowever, due to the fact that no spare parts were available for the\nnew trailers, both the M-416-B-1 and M-100 trailers were embarked.\nAn additional 30 days operating stock was ordered.  Eighty percent\nof these requisitions were filled prior to embarkation.\n                              4               ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "claim": "Supporting embarkation record for the movement location panel.",
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Whole-page body quote spanning the training paragraph through the S-4 supplies paragraph; header/footer DECLASSIFIED markers excluded from the bounding rectangle.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "b9591102731cf112d509def99ee81e84e87f293eb04e6e8e12c43108f80c87d8",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.96,
+          "reviewStatus": "agent-validated; human review pending"
+        },
+        "rawQuote": "DECLASSIFIED\n\n\nTraining aboard ship was limited to formal instruction and\nphysical training.  Formal instruction was accomplished on\ngeneral military type subjects, Viet Nam orientation, and\nLandmine Warfare.  Training began upon arrival on Okinawa on\n2 February 1966, all units are accomplishing field training and\nfield firing.  Crew served weapons personnel have completed a one\nweek organizational level school, and the majority of personnel\nhave fired their T/O weapon for battle sights.  The first rifle\ncompany is undergoing Counterguerrilla Warfare School in the\nnorthern training area which is scheduled for all units.\n\n     C.  S-4.  (SUPPLIES, EQUIPMENT, AND EMBARKATION)\n\nSeveral items of supplies and individual equipment that were left\nin WESTPAC by this organization in July 1965 were missing when\nthe Battalion received the warning order.  Priorities on requisitions\nwere upgraded by messages since they had been on order since\nAugust 1965.  Priorities generated by the warning order released\nmany of these items, but this organization was still short some\nitems of 782 gear upon embarkation.  The BATTALION LANDING TEAM\nhad 93% of its operating stocks and 93% of its mount out.  All\nshortages were non-essential combat equipment items.  They were:\nSniperscope Batteries, Suspender Straps, Tent Pins, Bayonet\nScabbards, and Mess Pans.  A PU-348 generator previously invoiced\nto REGIMENTAL LANDING TEAM-1 was replaced with a PU-239.  Nineteen\nnew M-416-B-1 trailers were received by this organization.\nHowever, due to the fact that no spare parts were available for the\nnew trailers, both the M-416-B-1 and M-100 trailers were embarked.\nAn additional 30 days operating stock was ordered.  Eighty percent\nof these requisitions were filled prior to embarkation.\n                              4               ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "correctionId": "human-mount-out-98-20260912"
+      },
+      {
+        "id": "ROAD-LOAD-P6",
+        "label": "Embarkation record · page 6",
+        "kind": "Chronology passage",
+        "page": 6,
+        "pageLabel": "OCR page 6",
+        "rect": [
+          0.145,
+          0.145,
+          0.755,
+          0.775
+        ],
+        "quote": "DECLASSIFIED\n\n\nThe following mount-out blocks were ordered, embarked, and in\nsome cases packed, which were not previously held by this\norganization.  These were:\n\n     (1).  30 day class I\n     (2).  30 day 1st through 3rd echelon class II spares\n     (3).  30 day dry cells\n     (4).  4 day class III\n     (5).  30 day class IV\n     (6).  30 day class V\n\nAt the time the Battalion received the warning order, the\nembarkation Officer was on leave.  Several minor difficulties\nwere encountered during the embarkation planning due to lack of\nexperience of the embarkation team and the relatively short notice\ngiven.  As directed by the warning order, the ships were combat\nloaded.  This presented numerous embarkation problems, as the\nexact cargo load was not known early in the planning stages, and\nwas changed several times after loading plans were completed.\nThese changes were due to the fact that supplies back ordered for\nthis organization were still arriving at Camp Pendleton as late as 7\nJanuary 1966.  Cargo ordered for other 1st Marine Division units\nwas ordered loaded on a space available basis, thereby complicating\nembarkation procedures.\n\nThe BATTALION LANDING TEAM S-4 Officer and S-4 chief were left\nbehind to secure the camp and upon completion, flew to Okinawa to\nmake arrangements for our debarkation there.  References (e), (f),\nand (g) were sailing reports from the USS BEXAR (APA-237), USS\nMATHEWS (AKA-96) and USS BELLE GROVE (LSD-2) respectively.  These\n                              5               ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "claim": "Supporting embarkation record for the movement location panel.",
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Body text of the page matches the quote; the leading/trailing DECLASSIFIED markers and the page footer '5 ENCLOSURE (1)' are header/footer elements excluded from the bounding rectangle per whole-page quote rule.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "c84bb697d73d7561c5a49baf8ba1ed83fc926474e0f81457a6512275b5f3aefc",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
+      },
+      {
+        "id": "ROAD-LOAD-P7",
+        "label": "Embarkation record · page 7",
+        "kind": "Chronology passage",
+        "page": 7,
+        "pageLabel": "OCR page 7",
+        "rect": [
+          0.155,
+          0.148,
+          0.77,
+          0.72
+        ],
+        "quote": "DECLASSIFIED\n\n\nmessages indicate the distribution of material, vehicles, and\npersonnel throughout the ships.  It should be noted that Company\n\"H&S\", 3rd Amtrac Battalion was not attached to the BATTALION\nLANDING TEAM but was embarked aboard the LSD for transportation\npurposes only.\n\n                        COMMAND CHRONOLOGY\n\n17 December 1965 - Reference (c) activated BATTALION LANDING TEAM\n2/5 for planning purposes.\n\n18 December 1965 - Reference (h) directed the deployment of\nBATTALION LANDING TEAM 2/5 from CONUS to WESTPAC in shipping\ndesignated by COMPHIBPAC.\n\n18 December 1965 - Reference (i) designated the shipping required\nfor execution of movement of BATTALION LANDING TEAM 2/5 from CONUS\nto WESTPAC.  The ships designated were the USS BEXAR (APA-237),\nUSS BELLE GROVE (LSD-2), and USS MATHEWS (AKA-96).\n\n20 December 1965 - LTCOL R.H. USKURAIT relieved Major L.W.T. WALLER II\nas Commanding Officer of Second Battalion, Fifth Marines.  Major\nWALLER assumed the duties as Battalion Executive Officer replacing\nMajor R.A. PAPE who assumed the duties of S-3 Officer.\n\n21 December 1965 - Reference (j) issued the deployment orders for\nBATTALION LANDING TEAM 2/5 from CONUS to WESTPAC.\n\n30 December 1965 - Reference (k) directed BATTALION LANDING TEAM\n2/5 to be activated as of 010001U January 1966.\n\n6 January 1966 - The REGIMENTAL LANDING TEAM-5 advance party\ndeparted CONUS via air transportation for WESTPAC.\n\n                              6               ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "claim": "Supporting embarkation record for the movement location panel.",
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Body text block located; top and bottom DECLASSIFIED headers/footers and the page number / ENCLOSURE (1) line excluded per whole-page quote rule.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "16158365ff5cf23fb4b455cddfb2a25b1f7330c262a3043e3e501c177aaab3ba",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.95,
+          "reviewStatus": "agent-validated; human review pending"
+        }
+      },
+      {
+        "id": "ROAD-LOAD-P8",
+        "label": "Embarkation record · page 8",
+        "kind": "Chronology passage",
+        "page": 8,
+        "pageLabel": "OCR page 8",
+        "rect": [
+          0.14,
+          0.13,
+          0.78,
+          0.79
+        ],
+        "quote": "DECLASSIFIED\n\n\nBATTALION LANDING TEAM members on this party were:\n1.  Major R.A. PAPE          Battalion S-3 Officer\n2.  1stLt W.E. SMITH         Battalion Motor Transport Officer\n3.  SSgt J.D. WYZSMIRSKI    Property NCO\n4.  Corporal H.K. NOE        S-1 Clerk\n\n7 January 1966 - BATTALION LANDING TEAM 2/5 commenced loading of\ncargo at Long Beach California, for movement to WESTPAC.\n\n8 January 1966 - Loading of cargo completed\n\n9 January 1966 -Troops of BATTALION LANDING TEAM 2/5 embarked on\nships.\n\n10 January 1966 - Ships sailed from pier \"E\" at Long Beach, California\nbound for Okinawa via Pearl Harbor, Hawaii.  BATTALION LANDING\nTEAM 2/5 came under operational control of Fleet Marine Force, Pacific.\n\n18 January 1966 - BATTALION LANDING TEAM 2/5 arrived at Pearl Harbor,\nHawaii.\n\n20 January 1966 - BATTALION LANDING TEAM 2/5 departed Pearl Harbor,\nHawaii, bound for Okinawa.\n\n2 February 1966 - BATTALION LANDING TEAM 2/5 arrived in Okinawa.\nAttached units aboard the USS BEXAR were detached to parent units\nat Okinawa.  Second Battalion Fifth Marines came under operational\nand administrative control of First Marine Division (Rein).\n\n4 February 1966 - USS MATHEWS (AKA-96) and USS BELLE GROVE (LSD-2)\narrived in Okinawa.  Attached units aboard these ships were detached\nto parent units.\n\n5 February 1966 - Second Battalion Fifth Marines came under\noperational and administrative control of Fifth Marines.\n                              7               ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "claim": "Supporting embarkation record for the movement location panel.",
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Member list plus full chronology through 5 February 1966 and the page/enclosure footer line; top DECLASSIFIED header excluded as header.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "bdeed104b1291ad1fbe978d5110ff387dd74413169eb5e1312647dbf29d69953",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.96,
+          "reviewStatus": "agent-validated; human review pending"
+        },
+        "rawQuote": "DECLASSIFIED\n\n\nBATTALION LANDING TEAM members on this party were:\n1.  Major R.A. PAPE          Battalion S-3 Officer\n2.  1stLt W.E. SMITH         Battalion Motor Transport Officer\n3.  SSgt J.D. WYSHMIRKSKI    Property NCO\n4.  Corporal H.K. MOE        S-1 Clerk\n\n7 January 1966 - BATTALION LANDING TEAM 2/5 commenced loading of\ncargo at Long Beach California, for movement to WESTPAC.\n\n8 January 1966 - Loading of cargo completed\n\n9 January 1966 -Troops of BATTALION LANDING TEAM 2/5 embarked on\nships.\n\n10 January 1966 - Ships sailed from pier \"E\" at Long Beach, California\nbound for Okinawa via Pearl Harbor, Hawaii.  BATTALION LANDING\nTEAM 2/5 came under operational control of Fleet Marine Force, Pacific.\n\n18 January 1966 - BATTALION LANDING TEAM 2/5 arrived at Pearl Harbor,\nHawaii.\n\n20 January 1966 - BATTALION LANDING TEAM 2/5 departed Pearl Harbor,\nHawaii, bound for Okinawa.\n\n2 February 1966 - BATTALION LANDING TEAM 2/5 arrived in Okinawa.\nAttached units aboard the USS BEXAR were detached to parent units\nat Okinawa.  Second Battalion Fifth Marines came under operational\nand administrative control of First Marine Division (Rein).\n\n4 February 1966 - USS MATHEWS (AKA-96) and USS BELLE GROVE (LSD-2)\narrived in Okinawa.  Attached units aboard these ships were detached\nto parent units.\n\n5 February 1966 - Second Battalion Fifth Marines came under\noperational and administrative control of Fifth Marines.\n                              7               ENCLOSURE (1)\n\n                              DECLASSIFIED",
+        "correctionId": "human-wyzsmirski-property-nco-20260912",
+        "correctionIds": [
+          "human-wyzsmirski-property-nco-20260912",
+          "human-noe-s1-clerk-20260912"
+        ]
+      },
+      {
+        "id": "ROAD-REF-C",
+        "label": "Reference (c) message number",
+        "kind": "OCR comparison review",
+        "page": 1,
+        "pageLabel": "PDF page 1",
+        "rect": null,
+        "quote": "(c) CG 1st MarDiv (Rein)(Rear) 172006Z December 1965",
+        "claim": "Reference (c) identifies CG 1st MarDiv (Rein)(Rear) message 172006Z December 1965; date-time group confirmed by Brent.",
+        "alignment": "Page reference only, based on page-separated OCR; no passage coordinates verified.",
+        "rawQuote": "(c) CG 1st MarDiv (Rein)(Rear) 172245Z December 1965",
+        "correctionId": "human-road-ref-c-20260912"
+      },
+      {
+        "id": "ROAD-REF-D",
+        "label": "Reference (d) message number",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1",
+        "rect": null,
+        "rawQuote": "(d) CG 1st MarDiv (Rein) (Rear) 3023572 December 1965",
+        "quote": "(d) CG 1st MarDiv (Rein) (Rear) 302357Z December 1965",
+        "correctionId": "human-road-ref-d-20260912",
+        "claim": "Reference (d) identifies message 302357Z December 1965; final character confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified."
+      },
+      {
+        "id": "ROAD-REF-E",
+        "label": "Reference (e) message number",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1",
+        "rect": null,
+        "rawQuote": "(e) Embarkation Team Commander USS BEXAR (APA-237)\n111942Z",
+        "quote": "(e) Embarkation Team Commander USS BEXAR (APA-237)\n111900Z",
+        "correctionId": "human-road-ref-e-20260912",
+        "claim": "Reference (e) identifies the USS Bexar embarkation team commander message 111900Z; date-time group confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified."
+      },
+      {
+        "id": "ROAD-REF-F",
+        "label": "Reference (f) message number",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1",
+        "rect": null,
+        "rawQuote": "(f) Embarkation Team Commander ALFA 110738Z January 1966",
+        "quote": "(f) Embarkation Team Commander ALFA 110700Z January 1966",
+        "correctionId": "human-road-ref-f-20260912",
+        "claim": "Reference (f) identifies Embarkation Team Commander ALFA message 110700Z January 1966; date-time group confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified."
+      },
+      {
+        "id": "ROAD-REF-G",
+        "label": "Reference (g) message number",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1",
+        "rect": null,
+        "rawQuote": "(g) USS BELLE GROVE 140515Z January 1966",
+        "quote": "(g) USS BELLE GROVE 1480358Z January 1966",
+        "correctionId": "human-road-ref-g-20260912",
+        "claim": "Reference (g) names USS Belle Grove. Brent selected the literal reading 1480358Z; no date-time normalization inferred.",
+        "alignment": "Page reference only; no passage coordinates verified."
+      },
+      {
+        "id": "ROAD-REF-H",
+        "label": "Reference (h) message number",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1",
+        "rect": null,
+        "rawQuote": "(h) CINCPACLT 1804572 (NOTAL)",
+        "quote": "(h) CINCPACFL 180547Z (NOTAL)",
+        "correctionId": "human-road-ref-h-20260912",
+        "claim": "Reference (h): CINCPACFL 180547Z, command abbreviation and message number confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionIds": [
+          "human-road-ref-h-20260912",
+          "human-road-ref-h-command-20260913"
+        ]
+      },
+      {
+        "id": "ROAD-REF-I",
+        "label": "Reference (i)",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1 · reference (i)",
+        "rect": null,
+        "rawQuote": "(i) COMHIBPAC 1821172 (NOTAL)",
+        "quote": "(i) COMPHIBPAC 182117Z (NOTAL)",
+        "claim": "Reference (i): COMPHIBPAC 182117Z, confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-ref-i-20260913"
+      },
+      {
+        "id": "ROAD-REF-J",
+        "label": "Reference (j)",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1 · reference (j)",
+        "rect": null,
+        "rawQuote": "(j) CGFMFPAC 2120112 December 1965",
+        "quote": "(j) CGFMFPAC 212011Z December 1965",
+        "claim": "Reference (j): CGFMFPAC 212011Z, confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-ref-j-20260913"
+      },
+      {
+        "id": "ROAD-REF-K",
+        "label": "Reference (k)",
+        "kind": "Reference message",
+        "page": 1,
+        "pageLabel": "PDF page 1 · reference (k)",
+        "rect": null,
+        "rawQuote": "(k) CGFMFPAC 1502572 January 1966",
+        "quote": "(k) CGFMFPAC 190257Z January 1966",
+        "claim": "Reference (k): CGFMFPAC 190257Z confirmed by Brent. The printed January date and December 30 cross-reference remain an unresolved source inconsistency.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-ref-k-20260913"
+      },
+      {
+        "id": "ROAD-COVER-NUMBER",
+        "label": "Cover file number",
+        "kind": "Document metadata",
+        "page": 1,
+        "pageLabel": "PDF page 1 · below the signature",
+        "rect": null,
+        "rawQuote": "0038",
+        "quote": "0028-66",
+        "claim": "Cover file number 0028-66 confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-cover-number-20260913"
+      },
+      {
+        "id": "ROAD-COVER-ANNOTATION",
+        "label": "Handwritten unit annotation",
+        "kind": "Document metadata",
+        "page": 1,
+        "pageLabel": "PDF page 1 · handwritten note beside reference (c)",
+        "rect": null,
+        "quote": "2/5",
+        "claim": "Brent confirmed the sideways handwritten annotation as 2/5.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-cover-annotation-20260913"
+      },
+      {
+        "id": "ROAD-COVER-DATES",
+        "label": "Handwritten date annotation",
+        "kind": "Document metadata",
+        "page": 1,
+        "pageLabel": "PDF page 1 · rotated note along right edge",
+        "rect": null,
+        "quote": "17 Dec 65 - 22 Feb 66",
+        "claim": "Handwritten date range 17 Dec 65 – 22 Feb 66 confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-cover-dates-20260913"
+      },
+      {
+        "id": "ROAD-P8-FOOTER",
+        "label": "Page 8 footer",
+        "kind": "Document metadata",
+        "page": 8,
+        "pageLabel": "PDF page 8 · footer",
+        "rect": null,
+        "rawQuote": "ENCLOSURE (1)",
+        "quote": "ENCLOSURE (1)",
+        "claim": "Footer spelling ENCLOSURE (1) confirmed by Brent.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-p8-footer-20260913"
+      },
+      {
+        "id": "ROAD-ACTIVATION-TIME",
+        "label": "Activation time in December 30 entry",
+        "kind": "Date-time group",
+        "page": 7,
+        "pageLabel": "PDF page 7 · December 30 entry",
+        "rect": null,
+        "rawQuote": "010001U January 1966",
+        "quote": "010001U January 1966",
+        "claim": "Human-confirmed zeros, normalized to ordinary digits for reading and searching. Raw Qwen transcription preserved.",
+        "alignment": "Page reference only; no passage coordinates verified.",
+        "correctionId": "human-road-activation-time-20260913"
+      },
+      {
+        "id": "AUDIT-DEPLOYMENT-DIRECTED-DECEMBER-18",
+        "label": "deployment directed december 18",
+        "kind": "Chronology passage",
+        "page": 7,
+        "pageLabel": "PDF page 7",
+        "rect": [
+          0.16,
+          0.395,
+          0.65,
+          0.078
+        ],
+        "quote": "18 December 1965 - Reference (h) directed the deployment of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC in shipping designated by COMPHIBPAC.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 7,
+          "resolvedSha256": "d820d7734d259875b937a8c11e00230ea11ef725290660597316820f34762b6d",
+          "start": 396,
+          "end": 542,
+          "quote": "18 December 1965 - Reference (h) directed the deployment of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC in shipping designated by COMPHIBPAC."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-SHIPPING-DESIGNATED-DECEMBER-18",
+        "label": "shipping designated december 18",
+        "kind": "Chronology passage",
+        "page": 7,
+        "pageLabel": "PDF page 7",
+        "rect": [
+          0.16,
+          0.48,
+          0.71,
+          0.1
+        ],
+        "quote": "18 December 1965 - Reference (i) designated the shipping required for execution of movement of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC. The ships designated were the USS BEXAR (APA-237), USS BELLE GROVE (LSD-2), and USS MATHEWS (AKA-96).",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 7,
+          "resolvedSha256": "d820d7734d259875b937a8c11e00230ea11ef725290660597316820f34762b6d",
+          "start": 544,
+          "end": 790,
+          "quote": "18 December 1965 - Reference (i) designated the shipping required for execution of movement of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC. The ships designated were the USS BEXAR (APA-237), USS BELLE GROVE (LSD-2), and USS MATHEWS (AKA-96)."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-DEPLOYMENT-ORDERS-DECEMBER-21",
+        "label": "deployment orders december 21",
+        "kind": "Chronology passage",
+        "page": 7,
+        "pageLabel": "PDF page 7",
+        "rect": [
+          0.16,
+          0.71,
+          0.7,
+          0.05
+        ],
+        "quote": "21 December 1965 - Reference (j) issued the deployment orders for BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 7,
+          "resolvedSha256": "d820d7734d259875b937a8c11e00230ea11ef725290660597316820f34762b6d",
+          "start": 1050,
+          "end": 1165,
+          "quote": "21 December 1965 - Reference (j) issued the deployment orders for BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-ACTIVATION-DIRECTED-DECEMBER-30",
+        "label": "activation directed december 30",
+        "kind": "Chronology passage",
+        "page": 7,
+        "pageLabel": "PDF page 7",
+        "rect": [
+          0.16,
+          0.765,
+          0.7,
+          0.05
+        ],
+        "quote": "30 December 1965 - Reference (k) directed BATTALION LANDING TEAM 2/5 to be activated as of 010001U January 1966.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections. The entry cites reference (k), dated January 1966 on PDF page 1; this source inconsistency is preserved.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 7,
+          "resolvedSha256": "d820d7734d259875b937a8c11e00230ea11ef725290660597316820f34762b6d",
+          "start": 1167,
+          "end": 1279,
+          "quote": "30 December 1965 - Reference (k) directed BATTALION LANDING TEAM 2/5 to be activated as of 010001U January 1966."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-S2-OFFICER-JANUARY-3",
+        "label": "s2 officer january 3",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "PDF page 4",
+        "rect": [
+          0.16,
+          0.755,
+          0.68,
+          0.045
+        ],
+        "quote": "B. S-2. Our present S-2 Officer and S-2 Chief were not\nassigned until 3 January 1966 and 5 January 1966 respectively.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 4,
+          "resolvedSha256": "0a33ff8a53f9e4c83d95490ea1704ad641942bfeb333c6ce5fbc170b608893d6",
+          "start": 623,
+          "end": 740,
+          "quote": "B. S-2. Our present S-2 Officer and S-2 Chief were not\nassigned until 3 January 1966 and 5 January 1966 respectively."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-S2-CHIEF-JANUARY-5",
+        "label": "s2 chief january 5",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "PDF page 4",
+        "rect": [
+          0.16,
+          0.755,
+          0.68,
+          0.045
+        ],
+        "quote": "B. S-2. Our present S-2 Officer and S-2 Chief were not\nassigned until 3 January 1966 and 5 January 1966 respectively.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 4,
+          "resolvedSha256": "0a33ff8a53f9e4c83d95490ea1704ad641942bfeb333c6ce5fbc170b608893d6",
+          "start": 623,
+          "end": 740,
+          "quote": "B. S-2. Our present S-2 Officer and S-2 Chief were not\nassigned until 3 January 1966 and 5 January 1966 respectively."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-ADVANCE-PARTY-JANUARY-6",
+        "label": "advance party january 6",
+        "kind": "Chronology passage",
+        "page": 7,
+        "pageLabel": "PDF page 7",
+        "rect": [
+          0.16,
+          0.82,
+          0.66,
+          0.05
+        ],
+        "quote": "6 January 1966 - The REGIMENTAL LANDING TEAM-5 advance party departed CONUS via air transportation for WESTPAC.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 7,
+          "resolvedSha256": "d820d7734d259875b937a8c11e00230ea11ef725290660597316820f34762b6d",
+          "start": 1281,
+          "end": 1392,
+          "quote": "6 January 1966 - The REGIMENTAL LANDING TEAM-5 advance party departed CONUS via air transportation for WESTPAC."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "64a2f52120cf78e88065265ce095678d2a2f5ad5c6d51c407725583c5b8d9c15",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-ADVANCE-PARTY-ROSTER",
+        "label": "advance party roster",
+        "kind": "Chronology passage",
+        "page": 8,
+        "pageLabel": "PDF page 8",
+        "rect": [
+          0.145,
+          0.138,
+          0.725,
+          0.132
+        ],
+        "quote": "BATTALION LANDING TEAM members on this party were:\n1. Major R.A. PAPE Battalion S-3 Officer\n2. 1stLt W.E. SMITH Battalion Motor Transport Officer\n3. SSgt J.D. WYZSMIRSKI Property NCO\n4. Corporal H.K. NOE S-1 Clerk",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 8,
+          "resolvedSha256": "26b8e4a01d8049d6694077ce29b2acddf772c10988eb9e6ead08fa09ee1b17f9",
+          "start": 14,
+          "end": 227,
+          "quote": "BATTALION LANDING TEAM members on this party were:\n1. Major R.A. PAPE Battalion S-3 Officer\n2. 1stLt W.E. SMITH Battalion Motor Transport Officer\n3. SSgt J.D. WYZSMIRSKI Property NCO\n4. Corporal H.K. NOE S-1 Clerk"
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-CARGO-LOADING-JANUARY-7",
+        "label": "cargo loading january 7",
+        "kind": "Chronology passage",
+        "page": 8,
+        "pageLabel": "PDF page 8",
+        "rect": [
+          0.145,
+          0.282,
+          0.705,
+          0.042
+        ],
+        "quote": "7 January 1966 - BATTALION LANDING TEAM 2/5 commenced loading of\ncargo at Long Beach California, for movement to WESTPAC.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 8,
+          "resolvedSha256": "26b8e4a01d8049d6694077ce29b2acddf772c10988eb9e6ead08fa09ee1b17f9",
+          "start": 228,
+          "end": 349,
+          "quote": "7 January 1966 - BATTALION LANDING TEAM 2/5 commenced loading of\ncargo at Long Beach California, for movement to WESTPAC."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-CARGO-LOADED-JANUARY-8",
+        "label": "cargo loaded january 8",
+        "kind": "Chronology passage",
+        "page": 8,
+        "pageLabel": "PDF page 8",
+        "rect": [
+          0.145,
+          0.34,
+          0.475,
+          0.028
+        ],
+        "quote": "8 January 1966 - Loading of cargo completed",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 8,
+          "resolvedSha256": "26b8e4a01d8049d6694077ce29b2acddf772c10988eb9e6ead08fa09ee1b17f9",
+          "start": 350,
+          "end": 393,
+          "quote": "8 January 1966 - Loading of cargo completed"
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "d506579fd303ffdce5531d8df44d0767a4c165133088b1c79782a8dc37a431f1",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-LATE-SUPPLIES-JANUARY-7",
+        "label": "late supplies january 7",
+        "kind": "Chronology passage",
+        "page": 6,
+        "pageLabel": "PDF page 6",
+        "rect": [
+          0.15,
+          0.64,
+          0.75,
+          0.075
+        ],
+        "quote": "These changes were due to the fact that supplies back ordered for\nthis organization were still arriving at Camp Pendleton as late as 7\nJanuary 1966.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 6,
+          "resolvedSha256": "23eaf187b02b011dd5d625bd21415af20afc45854ea296d5bd1e76d354a12d2b",
+          "start": 841,
+          "end": 989,
+          "quote": "These changes were due to the fact that supplies back ordered for\nthis organization were still arriving at Camp Pendleton as late as 7\nJanuary 1966."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-EQUIPMENT-PRIORITIES-RAISED",
+        "label": "equipment priorities raised",
+        "kind": "Chronology passage",
+        "page": 5,
+        "pageLabel": "PDF page 5",
+        "rect": [
+          0.145,
+          0.515,
+          0.76,
+          0.08
+        ],
+        "quote": "Priorities on requisitions were upgraded by messages since they had been on order since August 1965.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 5,
+          "resolvedSha256": "0deda49aaf7938db8a23d2aab5f12aa339e79636e7fd563e987b941927073fe5",
+          "start": 843,
+          "end": 943,
+          "quote": "Priorities on requisitions were upgraded by messages since they had been on order since August 1965."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-GENERATOR-REPLACED",
+        "label": "generator replaced",
+        "kind": "Chronology passage",
+        "page": 5,
+        "pageLabel": "PDF page 5",
+        "rect": [
+          0.145,
+          0.755,
+          0.76,
+          0.05
+        ],
+        "quote": "A PU-348 generator previously invoiced to REGIMENTAL LANDING TEAM-1 was replaced with a PU-239.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 5,
+          "resolvedSha256": "0deda49aaf7938db8a23d2aab5f12aa339e79636e7fd563e987b941927073fe5",
+          "start": 1334,
+          "end": 1429,
+          "quote": "A PU-348 generator previously invoiced to REGIMENTAL LANDING TEAM-1 was replaced with a PU-239."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-TRAILERS-RECEIVED",
+        "label": "trailers received",
+        "kind": "Chronology passage",
+        "page": 5,
+        "pageLabel": "PDF page 5",
+        "rect": [
+          0.145,
+          0.785,
+          0.76,
+          0.05
+        ],
+        "quote": "Nineteen new M-416-B-1 trailers were received by this organization.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 5,
+          "resolvedSha256": "0deda49aaf7938db8a23d2aab5f12aa339e79636e7fd563e987b941927073fe5",
+          "start": 1430,
+          "end": 1497,
+          "quote": "Nineteen new M-416-B-1 trailers were received by this organization."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-ADDITIONAL-STOCKS-ORDERED",
+        "label": "additional stocks ordered",
+        "kind": "Chronology passage",
+        "page": 5,
+        "pageLabel": "PDF page 5",
+        "rect": [
+          0.145,
+          0.905,
+          0.76,
+          0.05
+        ],
+        "quote": "An additional 30 days operating stock was ordered. Eighty percent of these requisitions were filled prior to embarkation.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 5,
+          "resolvedSha256": "0deda49aaf7938db8a23d2aab5f12aa339e79636e7fd563e987b941927073fe5",
+          "start": 1633,
+          "end": 1754,
+          "quote": "An additional 30 days operating stock was ordered. Eighty percent of these requisitions were filled prior to embarkation."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-MOUNTOUT-BLOCKS-ORDERED",
+        "label": "mountout blocks ordered",
+        "kind": "Chronology passage",
+        "page": 6,
+        "pageLabel": "PDF page 6",
+        "rect": [
+          0.15,
+          0.145,
+          0.73,
+          0.25
+        ],
+        "quote": "The following mount-out blocks were ordered, embarked, and in\nsome cases packed, which were not previously held by this\norganization. These were:\n    (1). 30 day class I\n    (2). 30 day 1st through 3rd echelon class II spares\n    (3). 30 day dry cells\n    (4). 4 day class III\n    (5). 30 day class IV\n    (6). 30 day class V",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 6,
+          "resolvedSha256": "23eaf187b02b011dd5d625bd21415af20afc45854ea296d5bd1e76d354a12d2b",
+          "start": 14,
+          "end": 339,
+          "quote": "The following mount-out blocks were ordered, embarked, and in\nsome cases packed, which were not previously held by this\norganization. These were:\n    (1). 30 day class I\n    (2). 30 day 1st through 3rd echelon class II spares\n    (3). 30 day dry cells\n    (4). 4 day class III\n    (5). 30 day class IV\n    (6). 30 day class V"
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-COMBAT-LOADING-PLANS",
+        "label": "combat loading plans",
+        "kind": "Chronology passage",
+        "page": 6,
+        "pageLabel": "PDF page 6",
+        "rect": [
+          0.15,
+          0.405,
+          0.73,
+          0.37
+        ],
+        "quote": "At the time the Battalion received the warning order, the\nembarkation Officer was on leave. Several minor difficulties\nwere encountered during the embarkation planning due to lack of\nexperience of the embarkation team and the relatively short notice\ngiven. As directed by the warning order, the ships were combat\nloaded. This presented numerous embarkation problems, as the\nexact cargo load was not known early in the planning stages, and\nwas changed several times after loading plans were completed.\nThese changes were due to the fact that supplies back ordered for\nthis organization were still arriving at Camp Pendleton as late as 7\nJanuary 1966. Cargo ordered for other 1st Marine Division units\nwas ordered loaded on a space available basis, thereby complicating\nembarkation procedures.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 6,
+          "resolvedSha256": "23eaf187b02b011dd5d625bd21415af20afc45854ea296d5bd1e76d354a12d2b",
+          "start": 340,
+          "end": 1131,
+          "quote": "At the time the Battalion received the warning order, the\nembarkation Officer was on leave. Several minor difficulties\nwere encountered during the embarkation planning due to lack of\nexperience of the embarkation team and the relatively short notice\ngiven. As directed by the warning order, the ships were combat\nloaded. This presented numerous embarkation problems, as the\nexact cargo load was not known early in the planning stages, and\nwas changed several times after loading plans were completed.\nThese changes were due to the fact that supplies back ordered for\nthis organization were still arriving at Camp Pendleton as late as 7\nJanuary 1966. Cargo ordered for other 1st Marine Division units\nwas ordered loaded on a space available basis, thereby complicating\nembarkation procedures."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "a22ebda098906002b4039476cd1fd8544681aee9af0d739fd143614d834227db",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+          "confidence": 0.97,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-PREDEPARTURE-TRAINING",
+        "label": "predeparture training",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "PDF page 4",
+        "rect": [
+          0.16,
+          0.815,
+          0.65,
+          0.07
+        ],
+        "quote": "C. S-3. From 19 December 1965 until embarkation on\n10 January 1966, training had been limited to MOS training,\nmarksmanship requalification and some field work.",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 4,
+          "resolvedSha256": "0a33ff8a53f9e4c83d95490ea1704ad641942bfeb333c6ce5fbc170b608893d6",
+          "start": 741,
+          "end": 901,
+          "quote": "C. S-3. From 19 December 1965 until embarkation on\n10 January 1966, training had been limited to MOS training,\nmarksmanship requalification and some field work."
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "0bba506485a0c65c3c762f74a59e5f3c47daebd8c80e7740ab58a4d301077738",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-ROAD-ACTIVATION",
+        "label": "road activation",
+        "kind": "Chronology passage",
+        "page": 2,
+        "pageLabel": "PDF page 2",
+        "rect": [
+          0.155,
+          0.812,
+          0.705,
+          0.162
+        ],
+        "quote": " FOR PERIOD 1 JANUARY 1966 TO 2\nFEBRUARY 1966.\n    1.  Btry \"E\", 2/11          Capt F. BUBENHOFFER, JR.\n    2.  2nd Plt, Company \"B\", 1st AT Bn    2ndLt W.D. WEBSTER\n                    1          ENCLOSURE (1)\n\nDECLASSIFIED",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 2,
+          "resolvedSha256": "c14c700ab6fd6b78010d5195884bfc2b1fabb5a5f0fe5092227efbc74efef5be",
+          "start": 1001,
+          "end": 1225,
+          "quote": " FOR PERIOD 1 JANUARY 1966 TO 2\nFEBRUARY 1966.\n    1.  Btry \"E\", 2/11          Capt F. BUBENHOFFER, JR.\n    2.  2nd Plt, Company \"B\", 1st AT Bn    2ndLt W.D. WEBSTER\n                    1          ENCLOSURE (1)\n\nDECLASSIFIED"
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "c71388d6c9565ab79ffe0c1a6c6fc54229bbb6454f764d6f54d2918a0892886a",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+          "confidence": 0.93,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-ROAD-ATTACHMENTS-P3",
+        "label": "road activation",
+        "kind": "Chronology passage",
+        "page": 3,
+        "pageLabel": "PDF page 3",
+        "rect": [
+          0.16,
+          0.025,
+          0.68,
+          0.375
+        ],
+        "quote": "DECLASSIFIED\n\n3. 2nd Plt, Company \"B\", 1st Recon Bn 2ndLt G.W. JONES\n4. 2nd Plt, Company \"B\", 1st Engineer 1stLt A.J. LECRONE\nBn\n5. 2nd Landing Support Plt, Company \"B\", 2ndLt F. ROSENBERG\n1st SP Bn\n6. 2nd Plt, Company \"B\", 7th MT Bn 1stLt A.J. BOCCUTI\n7. 2nd COLL & CL SEC (REIN), Company \"B\",\n1st MED Bn\n8. DET, 1st FSR\n\n",
+        "claim": "Source-first extraction from resolved Qwen and human corrections.",
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 3,
+          "resolvedSha256": "a84c20c28f1dfd6be782f303e1b84c1e38d4f561a6bf40f6c3ccfa002a767799",
+          "start": 0,
+          "end": 323,
+          "quote": "DECLASSIFIED\n\n3. 2nd Plt, Company \"B\", 1st Recon Bn 2ndLt G.W. JONES\n4. 2nd Plt, Company \"B\", 1st Engineer 1stLt A.J. LECRONE\nBn\n5. 2nd Landing Support Plt, Company \"B\", 2ndLt F. ROSENBERG\n1st SP Bn\n6. 2nd Plt, Company \"B\", 7th MT Bn 1stLt A.J. BOCCUTI\n7. 2nd COLL & CL SEC (REIN), Company \"B\",\n1st MED Bn\n8. DET, 1st FSR\n\n"
+        },
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "d88946134ccafbb0672e2cfe3ddad810b08a6a3e523cf6e12f8e8a07360aba96",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-31-08-550Z",
+          "confidence": 0.95,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-EQUIPMENT-LEFT-WESTPAC",
+        "label": "Equipment left in WESTPAC",
+        "kind": "Chronology passage",
+        "page": 5,
+        "pageLabel": "PDF page 5",
+        "rect": [
+          0.145,
+          0.455,
+          0.76,
+          0.08
+        ],
+        "quote": "Several items of supplies and individual equipment that were left in WESTPAC by this organization in July 1965 were missing when the Battalion received the warning order.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 5,
+          "resolvedSha256": "0deda49aaf7938db8a23d2aab5f12aa339e79636e7fd563e987b941927073fe5",
+          "start": 672,
+          "end": 842,
+          "quote": "Several items of supplies and individual equipment that were left in WESTPAC by this organization in July 1965 were missing when the Battalion received the warning order."
+        },
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "AUDIT-EQUIPMENT-REQUISITIONS-AUGUST",
+        "label": "Equipment requisitions outstanding since August",
+        "kind": "Chronology passage",
+        "page": 5,
+        "pageLabel": "PDF page 5",
+        "rect": [
+          0.145,
+          0.515,
+          0.76,
+          0.08
+        ],
+        "quote": "Priorities on requisitions were upgraded by messages since they had been on order since August 1965.",
+        "resolvedOcr": {
+          "documentId": "1201048066",
+          "page": 5,
+          "resolvedSha256": "0deda49aaf7938db8a23d2aab5f12aa339e79636e7fd563e987b941927073fe5",
+          "start": 843,
+          "end": 943,
+          "quote": "Priorities on requisitions were upgraded by messages since they had been on order since August 1965."
+        },
+        "alignment": "M1 Qwen highlight reviewed and approved by Brent Tyler on 2026-09-14.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "layer": 2,
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-14",
+          "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+          "responseSha256": "fa53969732b1a9cdc5f7b200b8c4c67ca0c8bc30194f6cf46d64e8c8965cd9f0",
+          "run": "data/local/ch00-event-highlights-2026-09-14T06-14-10-636Z",
+          "confidence": 0.96,
+          "reviewStatus": "human review pending"
+        },
+        "alignmentReview": {
+          "status": "human-confirmed",
+          "author": "Brent Tyler",
+          "date": "2026-09-14",
+          "record": "human-ch00-highlight-review-20260914"
+        }
+      },
+      {
+        "id": "ROAD-LEADERSHIP-1966-02-22",
+        "label": "Battalion leadership · 22 February 1966",
+        "kind": "Chronology passage",
+        "page": 2,
+        "pageLabel": "PDF page 2",
+        "quote": "III. BATTALION ASSIGNMENTS AS OF 22 FEBRUARY 1966.\n    1.  CO              Lieutenant Colonel R.H. USKURAIT\n    2.  XO              Major L.W.T. WALLER II\n    3.  S-1             1stLt D.R. WEST\n    4.  S-2             Capt R.L. HEMENEZ\n    5.  S-3             Major R.A. PAPE\n    6.  S-4             Capt H.T. WINSTON\n    7.  CO, Company \"H&S\"  Capt R.D. HUGHES\n    8.  CO, Company \"E\"    1stLt D.R. MARCUM\n    9.  CO, Company \"F\"    Capt R.A. HICKETHIER\n    10. CO, Company \"G\"    Capt J.F. O'ROURKE\n    11. CO, Company \"H\"    1stLt J.J. DOHERTY",
+        "claim": "Roster snapshot as of 22 February 1966; not appointment dates.",
+        "alignment": "Page reference; passage highlight not yet aligned.",
+        "provenance": {
+          "readingCopy": "data/ocr-runs/approved-reading-copies/1201048066.json",
+          "resolvedSha256": "c14c700ab6fd6b78010d5195884bfc2b1fabb5a5f0fe5092227efbc74efef5be"
+        }
       }
     ]
   },
@@ -75,12 +1397,27 @@
         "kind": "Chronology passage",
         "page": 3,
         "pageLabel": "OCR page 3",
-        "rect": null,
+        "rect": [
+          0.14,
+          0.32,
+          0.78,
+          0.39
+        ],
         "quote": "As covered in the last command chronology report, this battalion\narrived on Okinawa on 2 February 1966 and we immediately began an\nextensive training program.  The period of 23 February 1966 to 5\nApril 1966 was a period of maximum training of units within the 2nd\nBattalion, 5th Marines and the accumulation of supplies needed for\nViet Nam.  The personnel situation stabilized within the battalion and\nthe degree of unit cohesiveness within the units increased significant-\nly.  There were essentially no problems in obtaining support from all\nagencies concerned with the training syllabus.  Although several\nproblems were encountered by the supply and embarkation section, they\nwere relatively minor.  The Battalion Landing Team, which was activated\non 25 March 1966, is trained to a high degree of readiness; the morale\nof the Officers and men is high, and we are trained, ready, and eager\nto become a part of the military force in Viet Nam.",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 3464,
         "ocrEnd": 4407,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Located under the 'COMMANDERS NARRATIVE SUMMARY' heading; body paragraph matches the quote (minor OCR artifacts 'encounterdd' and hyphenated 'significant-ly' present).",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+          "responseSha256": "3d21b29ee2c364830889029dbb1b3573e9611e3ea576a6ba3c4f856ecd925881",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       },
       {
         "id": "ROAD-06",
@@ -88,12 +1425,27 @@
         "kind": "Chronology passage",
         "page": 5,
         "pageLabel": "OCR page 5",
-        "rect": null,
+        "rect": [
+          0.12,
+          0.19,
+          0.82,
+          0.27
+        ],
         "quote": "From 22 February 1966 until embarkation the 2nd Battalion, 5th\nMarines has conducted extensive field training and field firing.  Each\ncompany spent eight days attending Counter-Guerrilla Warfare School in\nthe Northern Training Area of Okinawa where formal instruction, patrolling,\nand a two day guerrilla problem was conducted.  All units fired both\nday and night live firexs using night firing techniques.  Units also\nreceived instruction and application in the use of the sniper scope.  A\ntwo day period of instruction at Land Mine and Demolition School plus one\ndays instruction at the Jungle Lanes impressed personnel on the current\ntrends and tips for Viet Nam.",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 6826,
         "ocrEnd": 7492,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Paragraph 1 under heading 'C. TRAINING' on page 4; matches quote verbatim (including OCR artifact 'firexs').",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+          "responseSha256": "fd55ada7b6de5185644a73172c1bd974b9a1c22afd68ec38b2e754b695cc741d",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       },
       {
         "id": "ROAD-07",
@@ -106,7 +1458,50 @@
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 8461,
         "ocrEnd": 8920,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Page 5 first partial line and next two full-width lines are highlighted separately; page 6 continuation widened. Adjusted from user-supplied screenshot; user confirmation pending.",
+        "confirmedPages": [
+          5,
+          6
+        ],
+        "pageConfirmationId": "human-road07-pages-20260912",
+        "regions": [
+          {
+            "page": 5,
+            "rect": [
+              0.46,
+              0.845,
+              0.44,
+              0.025
+            ]
+          },
+          {
+            "page": 5,
+            "rect": [
+              0.12,
+              0.872,
+              0.78,
+              0.053
+            ]
+          },
+          {
+            "page": 6,
+            "rect": [
+              0.12,
+              0.115,
+              0.78,
+              0.05
+            ]
+          }
+        ],
+        "alignmentMethod": "manual",
+        "alignmentProvenance": {
+          "layer": 2,
+          "author": "Codex",
+          "date": "2026-09-22",
+          "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+          "record": "data/units/5th_marines/2nd_battalion/research/ROAD_07_HIGHLIGHT_REPAIR.json",
+          "reviewStatus": "agent-adjusted; human geometry review pending"
+        }
       },
       {
         "id": "ROAD-08",
@@ -114,12 +1509,27 @@
         "kind": "Chronology passage",
         "page": 6,
         "pageLabel": "OCR page 6",
-        "rect": null,
+        "rect": [
+          0.125,
+          0.265,
+          0.795,
+          0.078
+        ],
         "quote": "The battalion, with attached units, conducted two command post\nexercises and a three day battalion field exercise which were beneficial\nto all concerned.",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 9130,
         "ocrEnd": 9283,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Item 6 paragraph matches the quote verbatim.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+          "responseSha256": "6f54faf60c459a705e204ca7bdbc6e9c4d514b29e9f4db27515de13cf8893dd7",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       },
       {
         "id": "ROAD-09",
@@ -127,12 +1537,123 @@
         "kind": "Chronology passage",
         "page": 6,
         "pageLabel": "OCR page 6",
-        "rect": null,
-        "quote": "CG 1st MARDIV (Rein) message 238952 activated BLT 2/5 to be\neffective 250001 March 1966.  The operational and administrative control\nof the BLT was shifted from RLT-5 to the 9th MAB on 300101 March 1966 by\nthe same message.",
+        "rect": [
+          0.125,
+          0.465,
+          0.8,
+          0.105
+        ],
+        "quote": "CG 1st MARDIV (Rein) message 230005Z activated BLT 2/5 to be\neffective 250001 March 1966.  The operational and administrative control\nof the BLT was shifted from RLT-5 to the 9th MAB on 300101 March 1966 by\nthe same message.",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 9478,
         "ocrEnd": 9701,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Item D.1 matches the quote; message number rendered as 230005Z in scan vs 238952 in quote (OCR/typographic variant), passage otherwise identical.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+          "responseSha256": "6f54faf60c459a705e204ca7bdbc6e9c4d514b29e9f4db27515de13cf8893dd7",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.96,
+          "reviewStatus": "agent-validated; human review pending"
+        },
+        "rawQuote": "CG 1st MARDIV (Rein) message 238952 activated BLT 2/5 to be\neffective 250001 March 1966.  The operational and administrative control\nof the BLT was shifted from RLT-5 to the 9th MAB on 300101 March 1966 by\nthe same message.",
+        "correctionId": "human-road09-message-20260912"
+      },
+      {
+        "id": "ROAD-ROSTER-S2",
+        "label": "S-2 roster reading review",
+        "kind": "OCR comparison review",
+        "page": 2,
+        "pageLabel": "PDF page 2",
+        "rect": null,
+        "quote": "4. S-2 Capt R.L. HEMENEZ",
+        "claim": "The roster lists Capt R. L. Hemenez as S-2. Surname confirmed by Brent against the scan.",
+        "alignment": "Page reference only, based on the page-separated Qwen run; no passage coordinates verified.",
+        "rawQuote": "4. S-2 Capt R.L. HERENEZ",
+        "correctionId": "human-hemenez-s2-20260912"
+      },
+      {
+        "id": "ROAD-LEADERSHIP-1966-04-05",
+        "label": "Battalion leadership · 5 April 1966",
+        "kind": "Chronology passage",
+        "page": 2,
+        "pageLabel": "PDF page 2",
+        "quote": "III.  BATTALION ASSIGNMENTS AS OF 5 APRIL 1966\n\n         1.  CO                   Lieutenant Colonel R.H. USKURAIT\n         2.  XO                   Major L.W.T. WALLER II\n         3.  S-1                  1stLt W.M. KAY\n         4.  S-2                  Capt R.L. HEMENEZ\n         5.  S-3                  Major R.A. PAPE\n         6.  S-4                  Capt H.T. WINSTON\n         7.  CO, Company H&S      Capt R.D. HUGHES\n         8.  CO, Company E        Capt J.S. COOPER\n         9.  CO, Company F        1stLt G.S. BURGETT\n        10.  CO, Company G        Capt J.F. O'ROURKE\n        11.  CO, Company H        1stLt J.J. DOHERTY",
+        "claim": "Roster snapshot as of 5 April 1966; not appointment dates.",
+        "alignment": "Page reference; passage highlight not yet aligned.",
+        "provenance": {
+          "ocrPath": "data/units/5th_marines/2nd_battalion/chronologies/_files/1201048067_vision_ocr.txt",
+          "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+          "humanCorrectionIds": [
+            "human-hemenez-s2-20260912"
+          ]
+        }
+      },
+      {
+        "id": "ROAD-COMMAND-1966-03-04",
+        "label": "S-1 appointment · 1966-03-04",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "PDF page 4",
+        "quote": "On 4 March 1966, 1stLt W.M. KAY became the S-1 Officer\nrelieving 1stLt D.R. WEST who was transferred from the battalion.",
+        "claim": "Dated command change.",
+        "alignment": "Page reference; passage highlight not yet aligned.",
+        "provenance": {
+          "ocrPath": "data/units/5th_marines/2nd_battalion/chronologies/_files/1201048067_vision_ocr.txt",
+          "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+          "start": 4959,
+          "end": 5079
+        }
+      },
+      {
+        "id": "ROAD-COMMAND-1966-03-10",
+        "label": "Foxtrot appointment · 1966-03-10",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "PDF page 4",
+        "quote": "On 10 March 1966, Capt R.A. HICKETHER, Commanding Officer\nof Company F, was transferred to the 9th MAB and 1stLt G.S. BURGETT\npreviously the Executive Officer became Commanding Officer of Company F.",
+        "claim": "Dated command change.",
+        "alignment": "Page reference; passage highlight not yet aligned.",
+        "provenance": {
+          "ocrPath": "data/units/5th_marines/2nd_battalion/chronologies/_files/1201048067_vision_ocr.txt",
+          "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+          "start": 5098,
+          "end": 5296
+        }
+      },
+      {
+        "id": "ROAD-COMMAND-1966-03-14",
+        "label": "Motor transport appointment · 1966-03-14",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "PDF page 4",
+        "quote": "On 14 March 1966, 1stLt A.J. BOCUTTI joined the battalion\nas Motor Transport Officer replacing 1stLt W.E. SMITH who was trans-\nferred.",
+        "claim": "Dated command change.",
+        "alignment": "Page reference; passage highlight not yet aligned.",
+        "provenance": {
+          "ocrPath": "data/units/5th_marines/2nd_battalion/chronologies/_files/1201048067_vision_ocr.txt",
+          "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+          "start": 5315,
+          "end": 5449
+        }
+      },
+      {
+        "id": "ROAD-COMMAND-1966-03-18",
+        "label": "Echo appointment · 1966-03-18",
+        "kind": "Chronology passage",
+        "page": 4,
+        "pageLabel": "PDF page 4",
+        "quote": "On 18 March 1966, Capt J.S. COOPER joined the battalion\nand was assigned as the Commanding Officer of Company E replacing\n1stLt D.E. MARCUM who was assigned to H&S Company for duty as\nLiaison Officer with the S-3 section.",
+        "claim": "Dated command change.",
+        "alignment": "Page reference; passage highlight not yet aligned.",
+        "provenance": {
+          "ocrPath": "data/units/5th_marines/2nd_battalion/chronologies/_files/1201048067_vision_ocr.txt",
+          "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+          "start": 5468,
+          "end": 5689
+        }
       }
     ]
   },
@@ -150,12 +1671,27 @@
         "kind": "Chronology passage",
         "page": 2,
         "pageLabel": "OCR page 2",
-        "rect": null,
+        "rect": [
+          0.152,
+          0.125,
+          0.702,
+          0.115
+        ],
         "quote": "Prior to this reporting period, BLT 2/5 conducted a four\r\nday amphibious landing exercise at Kin Beach, Okinawa.  BLT\r\n2/5 departed Okinawa for Chu Lai, Vietnam on 8 April 1966\r\nand arrived on 13 April 1966.  After debarkation, the BLT was\r\ndissolved.  All combat support and combat service support units\r\nreturned to OPCON/ADCON of their parent commands.  On 14 April\r\nthe OPCON/ADCON shifted from CG 1st Marine Division to the CO,\r\n1st Marines.",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 1270,
         "ocrEnd": 1716,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. First body paragraph of the Commander's Narrative Summary; matches quote verbatim.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "caf24e0c57f910a6f7e3e4b9e142c68a50efea00bc2503374375d5483d63e5f5",
+          "responseSha256": "29aa01ff6531c14dd35c4ddf4a230a35329abb214a39d4e9457a836c9fea8e38",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.97,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       },
       {
         "id": "ROAD-11",
@@ -163,12 +1699,27 @@
         "kind": "Chronology passage",
         "page": 2,
         "pageLabel": "OCR page 2",
-        "rect": null,
+        "rect": [
+          0.152,
+          0.255,
+          0.702,
+          0.052
+        ],
         "quote": "The 2nd Battalion, 5th Marines was assigned the former TAOR\r\nof the 2nd Battalion, 4th Marines on Hill 69 relieving them\r\nof responsibility for the TAOR at 1200, 14 April 1966.  Trans-\r\n",
         "claim": "Existing command chronology excerpt.",
         "ocrStart": 1725,
         "ocrEnd": 1911,
-        "alignment": "Extracted from existing vision OCR; page marker not visually verified; no highlight alignment; original online URL verification pending."
+        "alignment": "Located by M1 Qwen vision; normalized page coordinates validated. Human review pending. Opening lines of second paragraph; quote ends at the hyphenated line break 'Trans-'.",
+        "alignmentMethod": "model",
+        "alignmentProvenance": {
+          "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+          "date": "2026-09-12",
+          "pdfSha256": "caf24e0c57f910a6f7e3e4b9e142c68a50efea00bc2503374375d5483d63e5f5",
+          "responseSha256": "29aa01ff6531c14dd35c4ddf4a230a35329abb214a39d4e9457a836c9fea8e38",
+          "run": "data/local/alignment-2026-09-12T20-39-57-164Z",
+          "confidence": 0.96,
+          "reviewStatus": "agent-validated; human review pending"
+        }
       }
     ]
   }

@@ -1,0 +1,157 @@
+[
+  {
+    "anchorId": "post-return-transfers",
+    "documentId": "1201048065",
+    "page": 1,
+    "original": null,
+    "replacement": [
+      0.155,
+      0.638,
+      0.69,
+      0.028
+    ],
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-13",
+    "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+    "responseSha256": "58926028a3dd08a46741ea45060ea2ed5c8873add447ac469236d7eeca54544e",
+    "run": "data/local/narrative-alignment-20260913/",
+    "reviewStatus": "model-aligned; human geometry review pending"
+  },
+  {
+    "anchorId": "september-exercise-summary",
+    "documentId": "1201048065",
+    "page": 1,
+    "original": null,
+    "replacement": [
+      0.155,
+      0.653,
+      0.715,
+      0.042
+    ],
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-13",
+    "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+    "responseSha256": "58926028a3dd08a46741ea45060ea2ed5c8873add447ac469236d7eeca54544e",
+    "run": "data/local/narrative-alignment-20260913/",
+    "reviewStatus": "model-aligned; human geometry review pending"
+  },
+  {
+    "anchorId": "BOOK-1965-MCPARTLIN",
+    "documentId": "book-1965",
+    "page": 26,
+    "original": null,
+    "replacement": [
+      0.535,
+      0.861,
+      0.395,
+      0.055
+    ],
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-13",
+    "pdfSha256": "d0d7a1a2aa017e58f6306f7c5ea8c1e81d5659045ae3cbf1bb2d5ee18c8da385",
+    "responseSha256": "7d2ef500d32c68b8cc743c64c97b3ef99f1fe2578c64c4a1067ce3d8966fdea8",
+    "run": "data/local/narrative-alignment-20260913/",
+    "reviewStatus": "model-aligned; human geometry review pending"
+  },
+  {
+    "anchorId": "BOOK-1965-ROTATION",
+    "documentId": "book-1965",
+    "page": 71,
+    "original": null,
+    "replacement": [
+      0.062,
+      0.785,
+      0.392,
+      0.132
+    ],
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-13",
+    "pdfSha256": "d0d7a1a2aa017e58f6306f7c5ea8c1e81d5659045ae3cbf1bb2d5ee18c8da385",
+    "responseSha256": "918a785fe7991e248a2f0a16c95a49590bcf01113a40a9c5a2b9147567190996",
+    "run": "data/local/narrative-alignment-20260913/",
+    "reviewStatus": "model-aligned; human geometry review pending"
+  },
+  {
+    "anchorId": "ROAD-07",
+    "documentId": "1201048067",
+    "page": 5,
+    "original": null,
+    "replacement": [
+      {
+        "page": 5,
+        "rect": [
+          0.46,
+          0.845,
+          0.42,
+          0.08
+        ]
+      },
+      {
+        "page": 6,
+        "rect": [
+          0.12,
+          0.115,
+          0.69,
+          0.05
+        ]
+      }
+    ],
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-13",
+    "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+    "responseSha256": "f7dfac66bd626ec312dce5455f48ce8dad59c84c5b0333831404e83b320004af",
+    "response": "data/local/alignment-2026-09-12T20-39-57-164Z/road07-cross-page-response.json",
+    "reviewStatus": "model-aligned; human geometry review pending"
+  },
+  {
+    "anchorId": "BOOK-1965-REPLACEMENTS",
+    "documentId": "book-1965",
+    "page": 133,
+    "original": null,
+    "replacement": [
+      {
+        "page": 133,
+        "rect": [
+          0.025,
+          0.79,
+          0.405,
+          0.13
+        ]
+      },
+      {
+        "page": 133,
+        "rect": [
+          0.482,
+          0.113,
+          0.386,
+          0.209
+        ]
+      },
+      {
+        "page": 133,
+        "rect": [
+          0.482,
+          0.325,
+          0.386,
+          0.14
+        ]
+      }
+    ],
+    "layer": 2,
+    "model": "m1-pro/qwen3.8-flash-next-iq4xs",
+    "date": "2026-09-13",
+    "pdfSha256": "d0d7a1a2aa017e58f6306f7c5ea8c1e81d5659045ae3cbf1bb2d5ee18c8da385",
+    "responseSha256": "c93d683fd66977f6d453faff5c5af120186cd2af30877420cc4ea11ddd3b3720",
+    "response": "data/local/narrative-alignment-20260913/book-1965-p133-response.json",
+    "reviewStatus": "model-aligned; human geometry review pending",
+    "additionalResponse": {
+      "response": "data/local/narrative-alignment-20260913/book-1965-p133-pendleton-recheck-response.json",
+      "responseSha256": "3e89e01e5bc07bab95c42f2378ee38322273a70e013c890f3cc8cb786cf307e1"
+    }
+  }
+]

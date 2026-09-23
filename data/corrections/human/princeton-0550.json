@@ -1,0 +1,16 @@
+{
+  "id": "human-princeton-0550-20260912",
+  "layer": 3,
+  "documentId": "princeton-1965-11",
+  "pdfSha256": "b57ee13a8b9936f77a6d4f2b34ef72f963a946d3eb1e4f018566a1cc82f7778f",
+  "ocrSha256": "3eb2bb38b118497e64bfcbe3628725de1b0d8cad7f8b0f19ed5eadaabe178c25",
+  "anchorId": "princeton-deck-log",
+  "page": 39,
+  "location": "04-08 watch, commencement of flight operations",
+  "originalReading": "0556",
+  "replacement": "0550",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "User inspected the scan and confirmed 0550, while noting the highlight did not span the whole watch entry."
+}

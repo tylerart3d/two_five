@@ -1,0 +1,25 @@
+{
+  "policy": "Individual allowlist; no blanket publication of local research.",
+  "records": [
+    {
+      "id": "1201048065",
+      "path": "data/units/5th_marines/2nd_battalion/chronologies/_files/1201048065_vision_ocr.txt",
+      "layer": 1,
+      "title": "Command chronology · July–December 1965",
+      "unit": "2nd Battalion, 5th Marines",
+      "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+      "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+      "originalItemUrl": "https://vva.vietnam.ttu.edu/repositories/2/digital_objects/223454",
+      "originalPdfUrl": "https://vva.vietnam.ttu.edu/images.php?img=/images/1201/1201048065.pdf",
+      "ocrModel": null,
+      "ocrDate": null,
+      "reviewDate": "2026-09-12",
+      "basis": "Official USMC command chronology; government-authored operational record. 17 USC 105. Archive attribution retained; no rights claimed in the underlying government text.",
+      "status": "Raw OCR, not a verified transcription; original model and processing date unknown. Corrections remain separate."
+    }
+  ],
+  "deferred": [
+    "1966 reports: original online source verification pending",
+    "Books, private material, images and remaining OCR: individual publication review required"
+  ]
+}

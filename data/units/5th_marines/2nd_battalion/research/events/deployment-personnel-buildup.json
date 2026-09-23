@@ -24,7 +24,7 @@
   "paragraphs": [
     [
       {
-        "text": "Across this reporting interval, the battalion joined 534 enlisted Marines. The source does not give a daily breakdown; the total must not be attributed solely to December.",
+        "text": "On December 17, the battalion was below half its deployable strength. Between December 20 and January 8, it joined 534 enlisted Marines; the attached units underwent a similar proportional buildup.",
         "source": 0
       }
     ]
@@ -44,5 +44,11 @@
   "chapterIds": [
     "rebirth-1965",
     "road-1966"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  }
 }

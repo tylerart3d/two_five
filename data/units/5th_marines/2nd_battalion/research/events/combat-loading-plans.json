@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "combat-loading-plans",
+  "title": "Combat-loading plans repeatedly revised",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1965-12-17",
+    "end": "1966-01-10",
+    "label": "Before embarkation · exact date unstated",
+    "precision": "approximate-range"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-COMBAT-LOADING-PLANS"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The warning order required combat loading. The embarkation officer was on leave when it arrived, and the team faced short notice and limited experience. Cargo totals changed after loading plans were completed; supplies for other 1st Marine Division units also had to be accommodated when space allowed.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

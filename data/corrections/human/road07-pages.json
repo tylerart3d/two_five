@@ -1,0 +1,19 @@
+{
+  "id": "human-road07-pages-20260912",
+  "layer": 3,
+  "documentId": "1201048067",
+  "pdfSha256": "ea9541c943ffe677389dcfef6ef759e23b06e185418f27d5a3f389c09df67ce0",
+  "ocrSha256": "2e2b85cc59842a2c3636d9e5eb33da771b8d54d162d81e4527c5d8e78fd175c4",
+  "anchorId": "ROAD-07",
+  "pages": [
+    5,
+    6
+  ],
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed page span",
+  "confirmation": "Passage begins near bottom of PDF page 5 with All letter companies received and continues on PDF page 6 with area for all units.",
+  "originalReading": "All letter companies received one days\nintensified training in the use of Helicopters in the Camp Schwab and\nNorthern Training Areas.  LVT training was conducted in the Camp Schwab\n\n                                     4               ENCLOSURE (1)\n\n                              DECLASSIFIED\n\n\n[Page 6]\n\n                              DECLASSIFIED\n\n\narea for all units.  The training included procedures for, and\napplication of the LVT's in combat operations.",
+  "replacement": null,
+  "reason": "User visually confirmed the cross-page passage. No wording or bounding coordinates corrected."
+}

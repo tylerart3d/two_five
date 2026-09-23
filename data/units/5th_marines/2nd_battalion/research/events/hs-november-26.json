@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "hs-november-26",
-  "title": "H&S: Parenti → Burns",
+  "title": "H&S: Fahrni → Hughes",
   "date": {
     "label": "26 Nov 1965",
     "start": "1965-11-26",
@@ -23,13 +23,13 @@
   "paragraphs": [
     [
       {
-        "text": "Capt R. D. Burns relieved Capt L. W. Parenti as H&S Company commander.",
+        "text": "Capt R. D. Hughes relieved Capt L. W. Fahrni as H&S Company commander.",
         "source": 0
       }
     ]
   ],
   "notes": [],
-  "researchStatus": "Existing OCR; historical readings remain subject to review.",
+  "researchStatus": "Reviewed against approved OCR corrections; see ocrReview for the human-confirmed scope. Other transcription and location limits remain.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -42,10 +42,24 @@
     {
       "date": "2026-09-07",
       "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-12",
+      "note": "Applied Brent’s confirmed FAHRNI and HUGHES readings.",
+      "correctionId": "human-fahrni-hughes-november26-20260912"
     }
   ],
   "category": "leadership",
   "chapterIds": [
     "rebirth-1965"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-date-event-page3-november19-26-20260913",
+      "human-fahrni-hughes-november26-20260912"
+    ]
+  }
 }

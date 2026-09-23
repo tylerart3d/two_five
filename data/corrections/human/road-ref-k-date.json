@@ -1,0 +1,18 @@
+{
+  "id": "human-road-ref-k-date-20260913",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "64f7c9e0130089da0d771aaf00caa6a314fe0152138a87733f53e48dcd8eec78",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048066/page-0001.txt",
+  "page": 1,
+  "anchorId": "ROAD-REF-K",
+  "ocrStart": 750,
+  "ocrEnd": 762,
+  "originalReading": "January 1966",
+  "replacement": "January 1966",
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "reason": "Brent visually confirmed reference (k) reads January 1966. Preserve the printed month and year; this does not resolve the December 30 entry citing January reference (k)."
+}

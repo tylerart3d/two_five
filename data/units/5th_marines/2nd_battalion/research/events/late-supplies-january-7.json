@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "late-supplies-january-7",
+  "title": "Back-ordered supplies still arriving",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1966-01-07",
+    "end": "1966-01-07",
+    "label": "As late as 7 Jan 1966",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-LATE-SUPPLIES-JANUARY-7"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Back-ordered supplies were still arriving at Camp Pendleton as late as January 7, forcing changes to completed loading plans.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

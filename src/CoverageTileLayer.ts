@@ -9,6 +9,8 @@ export class CoverageTileLayer extends L.TileLayer {
   createTile(coords: L.Coords, done: L.DoneCallback): HTMLElement {
     const tile = document.createElement('div');
     tile.style.overflow = 'hidden';
+    // TileLayer inspects complete when retiring old zoom levels.
+    Object.defineProperty(tile, 'complete', { get: () => img.complete && img.naturalWidth > 0 });
     const img = document.createElement('img');
     img.alt = '';
     img.setAttribute('role', 'presentation');

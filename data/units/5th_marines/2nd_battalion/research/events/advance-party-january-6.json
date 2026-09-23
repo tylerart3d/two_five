@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "advance-party-january-6",
+  "title": "Advance party departs for WESTPAC",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1966-01-06",
+    "end": "1966-01-06",
+    "label": "6 Jan 1966",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "movement",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-ADVANCE-PARTY-JANUARY-6"
+    },
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-ADVANCE-PARTY-ROSTER"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The RLT-5 advance party departed the continental United States by air for the Western Pacific on January 6.",
+        "source": 0
+      }
+    ],
+    [
+      {
+        "text": "BLT 2/5’s members were Maj R. A. Pape, battalion S-3; 1stLt W. E. Smith, motor transport officer; SSgt J. D. WYZSMIRSKI, property NCO; and Cpl H. K. NOE, S-1 clerk.",
+        "source": 1
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

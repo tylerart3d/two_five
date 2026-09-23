@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "leadership-change-1966-03-14",
+  "title": "1stLt A. J. Bocutti appointed Motor transport",
+  "date": {
+    "label": "1966-03-14",
+    "start": "1966-03-14",
+    "end": "1966-03-14",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "leadership",
+  "chapterIds": [
+    "road-1966"
+  ],
+  "units": [
+    "2/5"
+  ],
+  "people": [
+    "person-a-j-bocutti"
+  ],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048067",
+      "anchorId": "ROAD-COMMAND-1966-03-14"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "1stLt A. J. Bocutti became motor transport officer on 1966-03-14.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [
+    "Derived from the dated command-change passage; original transcription retained."
+  ],
+  "researchStatus": "Existing OCR passage; page-linked, geometry pending.",
+  "revisions": [
+    {
+      "date": "2026-09-22",
+      "note": "Connected command change to Chapter 1 leadership and timeline."
+    }
+  ]
+}

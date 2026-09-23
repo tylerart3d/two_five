@@ -1,0 +1,17 @@
+{
+  "id": "human-training-implemented-20260912",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "anchorId": "special-training-november",
+  "page": 1,
+  "ocrStart": 1661,
+  "ocrEnd": 1899,
+  "originalReading": "On 15 November 1965 the Regimental Landing Team-5 special training program\nwas inaugurated however, due to personnel TAD to schools, commitments of\nhigher authority, and on board strength of approximately 50%, training was\nvery limited.\n\n",
+  "replacement": "On 15 November 1965 the Regimental Landing Team-5 special training program\nwas implemented however, due to personnel TAD to schools, commitments of\nhigher authority, and on board strength of approximately 50%, training was\nvery limited.\n\n",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent confirmed was implemented in the November 15 training paragraph on PDF page 1."
+}

@@ -1,0 +1,21 @@
+{
+  "precision": "Approximate city reference points, not historical boundaries.",
+  "cities": [
+    {
+      "name": "Honolulu",
+      "position": [
+        21.30694,
+        -157.85833
+      ],
+      "source": "https://ungegn.un.org/dashboard/cities/details?id=396"
+    },
+    {
+      "name": "Naha",
+      "position": [
+        26.212222,
+        127.679167
+      ],
+      "source": "https://www.wikidata.org/wiki/Q181966"
+    }
+  ]
+}

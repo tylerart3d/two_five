@@ -3,7 +3,7 @@ import { documents } from './evidence';
 import roadRaw from '../data/units/5th_marines/2nd_battalion/research/chapters/road-1966.json?raw';
 export interface EventRecord {
   schemaVersion: number; id: string; title: string; chapterIds:string[];
-  date: {label: string; start: string; end: string | null; precision: string};
+  date: {label: string; start: string; end: string | null; precision: string; boundsOnly?: boolean; durationDays?: number};
   category?: string; mapDestination?: string; timelineHidden?: boolean; chronologyEventId?: string;
   kind: string; units: string[]; people: string[]; locations: string[];
   sources: {documentId: string; anchorId: string}[];
@@ -14,7 +14,7 @@ export interface EventRecord {
 export interface Chapter {
   schemaVersion: number; id: string; title: string; subtitle: string; showEventDates?: boolean;
   dateStart:string; dateEnd:string; dateLabel: string; year: number; months: string[]; narrative: string;
-  sections: {id: string; title: string; intro: string; note: string; collapsible: boolean; eventIds: string[]; groups?: {id:string;title:string;eventIds:string[];note:string}[]}[];
+  sections: {id: string; title: string; intro: string; note: string; collapsible: boolean; eventIds: string[]; groups?: {id:string;title:string;eventIds:string[];note:string;subgroups?: {title:string;entries:{eventId:string;text:string}[]}[]}[]}[];
   timelineGroups: {title: string; eventIds: string[]}[];
 }
 function parse<T>(raw: string, path: string): T {

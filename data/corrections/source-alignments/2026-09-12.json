@@ -1,0 +1,299 @@
+[
+  {
+    "documentId": "1201048065",
+    "page": 1,
+    "anchorId": "assignments-roster-december",
+    "status": "model-aligned; human review pending",
+    "note": "Section IV heading plus the eleven numbered billet assignments (1–11) match the quote verbatim; these are assignments as of 20 Dec 1965, not appointment dates.",
+    "visibleText": "IV. ASSIGNMENTS AS OF 20 DECEMBER 1965. 1. CO Lieutenant Colonel R.H. USKURAIT 2. XO Major L.W.T. WALLER II 3. S-1 1stLt D.R. WEST 4. S-2 Capt. A.H. MOORE 5. S-3 Major R.A. PAPE 6. S-4 Capt. H.T. WINSTON 7. CO, H&S Capt. R.D. HUGHES 8. CO, E 1stLt D.E. MARCUM 9. CO, F Capt. R.A. HICKETHIER 10. CO, G Capt. J.F. O'ROURKE 11. CO, H 1stLt J.J. DOHERTY",
+    "responseSha256": "0468eaff74edfb442d29066a7960a9049af517b94ef43c9679770438956bf19c"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 1,
+    "anchorId": "special-training-november",
+    "status": "model-aligned; human review pending",
+    "note": "Passage located in the Commander's Narrative Summary. Page wording reads 'was implemented' where the quote says 'was inaugurated'; content otherwise matches (Nov 15 start, school TAD, higher-authority commitments, ~50% strength limiting training).",
+    "visibleText": "On 15 November 1965 the Regimental Landing Team-5 special training program was implemented; however, due to personnel TAD to schools, commitments of higher authority, and on board strength of approximately 50%, training was very limited.",
+    "responseSha256": "0468eaff74edfb442d29066a7960a9049af517b94ef43c9679770438956bf19c"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 1,
+    "anchorId": "post-return-transfers",
+    "status": "needs review",
+    "note": "The quoted phrase 'to various units throughout the Division' does not appear on this page. The page instead states the majority 'were transferred to new commands.' The quoted passage as given is therefore not present verbatim.",
+    "visibleText": "The majority of officers and men were transferred to new commands.",
+    "responseSha256": "0468eaff74edfb442d29066a7960a9049af517b94ef43c9679770438956bf19c"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 2,
+    "anchorId": "s3-september-22",
+    "status": "model-aligned; human review pending",
+    "note": "Date in left DATE column; body text in EVENT column. An 'UNCLASSIFIED' rubber stamp overlaps the right end of this passage (covering 'out' and the trailing word).",
+    "visibleText": "22 SEPTEMBER 1965    Major J. R. CATT was relieved as the S-3 by Major R. A. PAPE. Major J. R. CATT was transferred out of the Battalion.",
+    "responseSha256": "7541e9865f3c84ab198b138c2bbc29f644b86937398549c3864ab4b32e429f23"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 2,
+    "anchorId": "staff-golf-november-1",
+    "status": "model-aligned; human review pending",
+    "note": "Page OCR renders the officer's surname as 'HERING' (not 'EERING' as in the quote); otherwise matches. Date in left column, body in EVENT column.",
+    "visibleText": "1 NOVEMBER 1965    Gunnery Sergeant J. J. SLOCUM was assigned as the S-2. First Lieutenant D. H. HERING was relieved as CO, \"G\" Company, by Captain R. E. GARRETT.",
+    "responseSha256": "7541e9865f3c84ab198b138c2bbc29f644b86937398549c3864ab4b32e429f23"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 2,
+    "anchorId": "seato-demonstration",
+    "status": "model-aligned; human review pending",
+    "note": "Date in left DATE column; underlined heading 'SEATO DEMONSTRATION' plus body paragraph in EVENT column.",
+    "visibleText": "16 SEPTEMBER 1965    SEATO DEMONSTRATION  A combined fire support exercise was conducted by units of Regimental Landing Team Five for military representatives of the Southeast Asia Treaty Organization. The Battalion was the ground maneuver element.",
+    "responseSha256": "7541e9865f3c84ab198b138c2bbc29f644b86937398549c3864ab4b32e429f23"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "november-exercise",
+    "status": "model-aligned; human review pending",
+    "note": "Passage located, but the document reads OPERATION TENDERTOUCH and 2ndLt W. W. JEFFERY, not 'Timbertorch'/'JAFFKE' as in the quote; the exercise name in the document is Tendertouch.",
+    "visibleText": "3-5 NOVEMBER 1965  PARTICIPATED IN OPERATION TENDERTOUCH  The 1st Platoon (Rein), \"G\" Co, under the command of 2ndLt W. W. JEFFERY participated as aggressors in the U.S. Army Operation Tendertouch which was conducted by the 3rd Brigade, 5th Infantry Division (Mechanized), Fort Carson, Colorado, at Marine Corps Base, Camp Pendleton, California.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "command-december-20",
+    "status": "model-aligned; human review pending",
+    "note": "Matches the document text.",
+    "visibleText": "20 DECEMBER 1965  Major L. W. T. WALLER, II, was relieved as Commanding Officer by Lieutenant Colonel R. H. USKURAIT. Major L. W. T. WALLER, II, became the Executive Officer. Major R. A. PAPE became the S-3.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "foxtrot-november-2",
+    "status": "model-aligned; human review pending",
+    "note": "Matches the document text.",
+    "visibleText": "2 NOVEMBER 1965  First Lieutenant D. G. WINTER was relieved as CO, \"F\" Company by First Lieutenant G. S. BURGETT.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "hs-november-5",
+    "status": "model-aligned; human review pending",
+    "note": "Passage located, but the document names Captain L. W. FAHRNI as the relieving officer, not 'PARENTI' as in the quote.",
+    "visibleText": "5 NOVEMBER 1965  Captain C. H. RAM was relieved as CO, H&S Co, by Captain L. W. FAHRNI. Captain C. H. RAM was transferred out of the Battalion.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "golf-november-20",
+    "status": "model-aligned; human review pending",
+    "note": "Matches the document text.",
+    "visibleText": "20 NOVEMBER 1965  Captain R. E. GARRETT was relieved as CO, \"G\" Co, by Captain J. F. O'ROURKE. Captain R. E. GARRETT was transferred out of the Battalion.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "hs-november-26",
+    "status": "model-aligned; human review pending",
+    "note": "Passage located, but the document reads FAHRNI relieved by HUGHES, not 'PARENTI'/'BURNS' as in the quote.",
+    "visibleText": "26 NOVEMBER 1965  Captain L. W. FAHRNI was relieved as CO, H&S Co, by Captain R. D. HUGHES.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "assignments-december-1",
+    "status": "model-aligned; human review pending",
+    "note": "Matches the document text.",
+    "visibleText": "1 DECEMBER 1965  Major T. E. BULGER was relieved as Executive Officer by Major R. A. PAPE. Major T. E. BULGER was transferred out of the Battalion. First Lieutenant T. BOYD was relieved as S-1 by First Lieutenant D. R. WEST. First Lieutenant T. R. MINOR was relieved as CO, \"E\" Co, by First Lieutenant D. E. MARCUM. First Lieutenant T. R. MINOR was transferred out of the Battalion. First Lieutenant G. S. BURGETT was relieved as CO, \"F\" Co, by Captain R. A. HICKETHIER.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "s2-december-15",
+    "status": "model-aligned; human review pending",
+    "note": "Matches the document text.",
+    "visibleText": "15 DECEMBER 1965  Gunnery Sergeant J. J. SLOCUM was relieved as S-2 by Captain A. H. MOORE.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048065",
+    "page": 3,
+    "anchorId": "princeton-participants",
+    "status": "model-aligned; human review pending",
+    "note": "Matches the document text.",
+    "visibleText": "19 NOVEMBER 1965  CONDUCTED PHIBLEX  The Battalion conducted a PHIBLEX which was a movement by helicopter from the USS PRINCETON to Marine Corps Base, Camp Pendleton, California. Three (3) rifle companies and elements of H&S Co. participated, however, companies were at approximately 40% manning level.",
+    "responseSha256": "e7c70976742887ef8a7034135f1e8e9612640fc18022ce9419bf1e48e67b7d27"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 3,
+    "anchorId": "ROAD-01",
+    "status": "model-aligned; human review pending",
+    "note": "Located within paragraph 1 of COMMANDERS NARRATIVE SUMMARY, beginning mid-line at 'On 17 December 1965' and ending at '1 January 1966.'",
+    "visibleText": "On 17 December 1965 reference (c), designated 2nd Battalion, 5th Marines a BATTALION LANDING TEAM for planning purposes. Preparation for deployment by the Battalion and attachments commenced prior to this date. Reference (d), activated the BATTALION LANDING TEAM on 1 January 1966.",
+    "responseSha256": "1383a52b0df9fb36154474c5073e0b3e260558e238c81469a3821991eb383cb8"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 3,
+    "anchorId": "ROAD-02",
+    "status": "model-aligned; human review pending",
+    "note": "Located as sub-paragraph A (S-1) following paragraph 2.",
+    "visibleText": "A. S-1. The organization was below fifty percent deployable strength on 17 December 1965. During the period of 20 December 1965 to 8 January 1966, the Battalion joined 534 enlisted Marines and percentage wise, our attachments had done similarly. When BATTALION LANDING TEAM 2/5 embarked on 9 January 1966, the manning level and on-board strength was as follows:",
+    "responseSha256": "1383a52b0df9fb36154474c5073e0b3e260558e238c81469a3821991eb383cb8"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 3,
+    "anchorId": "ROAD-LOAD-P3",
+    "status": "model-aligned; human review pending",
+    "note": "Whole-page body text enclosed from unit list item 3 through end of sub-paragraph A, excluding top DECLASSIFIED header and bottom page number/ENCLOSURE/DECLASSIFIED footer.",
+    "visibleText": "3. 2nd Plt, Company \"B\", 1st Recon Bn 2ndLt G.W. JONES 4. 2nd Plt, Company \"B\", 1st Engineer Bn 1stLt A.J. LECRONE 5. 2nd Landing Support Plt, Company \"B\", 1st SP Bn 2ndLt F. ROSENBERG 6. 2nd Plt, Company \"B\", 7th MT Bn 1stLt A.J. BOCCUTI 7. 2nd COLL & CL SEC (REIN), Company \"B\", 1st MED Bn 8. DET, 1st FSR COMMANDERS NARRATIVE SUMMARY 1. The Second Battalion, Fifth Marines was reactivated on 8 August 1965 at Camp Pendleton, California, after a WESTPAC deployment which included duty in Viet Nam as Third Battalion, Ninth Marines. On 17 December 1965 reference (c), designated 2nd Battalion, 5th Marines a BATTALION LANDING TEAM for planning purposes. Preparation for deployment by the Battalion and attachments commenced prior to this date. Reference (d), activated the BATTALION LANDING TEAM on 1 January 1966. 2. The following are the major problem areas encountered from 17 December 1965 until embarkation on 9 January 1966. A. S-1. The organization was below fifty percent deployable strength on 17 December 1965. During the period of 20 December 1965 to 8 January 1966, the Battalion joined 534 enlisted Marines and percentage wise, our attachments had done similarly. When BATTALION LANDING TEAM 2/5 embarked on 9 January 1966, the manning level and on-board strength was as follows:",
+    "responseSha256": "1383a52b0df9fb36154474c5073e0b3e260558e238c81469a3821991eb383cb8"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 4,
+    "anchorId": "ROAD-LOAD-P4",
+    "status": "model-aligned; human review pending",
+    "note": "Whole-page body quote spanning from top DECLASSIFIED header through the unit/manning table and S-2/S-3 paragraphs to the bottom DECLASSIFIED footer; matches the scanned page text.",
+    "visibleText": "DECLASSIFIED ... UNIT MANNING LEVEL ON BOARD ... 2nd Bn (Rein) 5th Marines 1119 1134 ... TOTALS 1440 1446 ... Upon debarkation ... B. S-2 ... C. S-3 ... readiness and embarkation. 3 ENCLOSURE (1) DECLASSIFIED",
+    "responseSha256": "5453af0d7bd18edafef84b847a2aa0ed36737a991672f094068c5de4cf1070ba"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 5,
+    "anchorId": "ROAD-04",
+    "status": "model-aligned; human review pending",
+    "note": "Paragraph located in upper body of page, immediately below the DECLASSIFIED header.",
+    "visibleText": "Training aboard ship was limited to formal instruction and physical training. Formal instruction was accomplished on general military type subjects, Viet Nam orientation, and Landmine Warfare. Training began upon arrival on Okinawa on 2 February 1966, all units are accomplishing field training and field firing. Crew served weapons personnel have completed a one week organizational level school, and the majority of personnel have fired their T/O weapon for battle sights. The first rifle company is undergoing Counterguerrilla Warfare School in the northern training area which is scheduled for all units.",
+    "responseSha256": "b9591102731cf112d509def99ee81e84e87f293eb04e6e8e12c43108f80c87d8"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 5,
+    "anchorId": "ROAD-LOAD-P5",
+    "status": "model-aligned; human review pending",
+    "note": "Whole-page body quote spanning the training paragraph through the S-4 supplies paragraph; header/footer DECLASSIFIED markers excluded from the bounding rectangle.",
+    "visibleText": "Training aboard ship was limited to formal instruction and physical training. ... C. S-4. (SUPPLIES, EQUIPMENT, AND EMBARKATION) Several items of supplies and individual equipment that were left in WESTPAC by this organization in July 1965 were missing when the Battalion received the warning order. ... Eighty percent of these requisitions were filled prior to embarkation.",
+    "responseSha256": "b9591102731cf112d509def99ee81e84e87f293eb04e6e8e12c43108f80c87d8"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 6,
+    "anchorId": "ROAD-LOAD-P6",
+    "status": "model-aligned; human review pending",
+    "note": "Body text of the page matches the quote; the leading/trailing DECLASSIFIED markers and the page footer '5 ENCLOSURE (1)' are header/footer elements excluded from the bounding rectangle per whole-page quote rule.",
+    "visibleText": "The following mount-out blocks were ordered, embarked, and in some cases packed, which were not previously held by this organization. These were: (1). 30 day class I (2). 30 day 1st through 3rd echelon class II spares (3). 30 day dry cells (4). 4 day class III (5). 30 day class IV (6). 30 day class V At the time the Battalion received the warning order, the embarkation Officer was on leave. Several minor difficulties were encountered during the embarkation planning due to lack of experience of the embarkation team and the relatively short notice given. As directed by the warning order, the ships were combat loaded. This presented numerous embarkation problems, as the exact cargo load was not known early in the planning stages, and was changed several times after loading plans were completed. These changes were due to the fact that supplies back ordered for this organization were still arriving at Camp Pendleton as late as 7 January 1966. Cargo ordered for other 1st Marine Division units was ordered loaded on a space available basis, thereby complicating embarkation procedures. The BATTALION LANDING TEAM S-4 Officer and S-4 chief were left behind to secure the camp and upon completion, flew to Okinawa to make arrangements for our debarkation there. References (e), (f), and (g) were sailing reports from the USS BEXAR (APA-237), USS MATHEWS (AKA-96) and USS BELLE GROVE (LSD-2) respectively. These",
+    "responseSha256": "c84bb697d73d7561c5a49baf8ba1ed83fc926474e0f81457a6512275b5f3aefc"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 7,
+    "anchorId": "ROAD-LOAD-P7",
+    "status": "model-aligned; human review pending",
+    "note": "Body text block located; top and bottom DECLASSIFIED headers/footers and the page number / ENCLOSURE (1) line excluded per whole-page quote rule.",
+    "visibleText": "messages indicate the distribution of material, vehicles, and personnel throughout the ships. It should be noted that Company \"H&S\", 3rd Amtrac Battalion was not attached to the BATTALION LANDING TEAM but was embarked aboard the LSD for transportation purposes only. COMMAND CHRONOLOGY 17 December 1965 - Reference (c) activated BATTALION LANDING TEAM 2/5 for planning purposes. 18 December 1965 - Reference (h) directed the deployment of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC in shipping designated by COMPHIBPAC. 18 December 1965 - Reference (i) designated the shipping required for execution of movement of BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC. The ships designated were the USS BEXAR (APA-237), USS BELLE GROVE (LSD-2), and USS MATHEWS (AKA-96). 20 December 1965 - LTCOL R.H. USKURAIT relieved Major L.W.T. WALLER II as Commanding Officer of Second Battalion, Fifth Marines. Major WALLER assumed the duties as Battalion Executive Officer replacing Major R.A. PAPE who assumed the duties of S-3 Officer. 21 December 1965 - Reference (j) issued the deployment orders for BATTALION LANDING TEAM 2/5 from CONUS to WESTPAC. 30 December 1965 - Reference (k) directed BATTALION LANDING TEAM 2/5 to be activated as of 010001U January 1966. 6 January 1966 - The REGIMENTAL LANDING TEAM-5 advance party departed CONUS via air transportation for WESTPAC.",
+    "responseSha256": "16158365ff5cf23fb4b455cddfb2a25b1f7330c262a3043e3e501c177aaab3ba"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 8,
+    "anchorId": "ROAD-03",
+    "status": "model-aligned; human review pending",
+    "note": "Chronology excerpt from 7 January 1966 through the 4 February 1966 entry.",
+    "visibleText": "7 January 1966 - BATTALION LANDING TEAM 2/5 commenced loading of cargo at Long Beach California, for movement to WESTPAC. 8 January 1966 - Loading of cargo completed 9 January 1966 -Troops of BATTALION LANDING TEAM 2/5 embarked on ships. 10 January 1966 - Ships sailed from pier \"E\" at Long Beach, California bound for Okinawa via Pearl Harbor, Hawaii. BATTALION LANDING TEAM 2/5 came under operational control of Fleet Marine Force, Pacific. 18 January 1966 - BATTALION LANDING TEAM 2/5 arrived at Pearl Harbor, Hawaii. 20 January 1966 - BATTALION LANDING TEAM 2/5 departed Pearl Harbor, Hawaii, bound for Okinawa. 2 February 1966 - BATTALION LANDING TEAM 2/5 arrived in Okinawa. Attached units aboard the USS BEXAR were detached to parent units at Okinawa. Second Battalion Fifth Marines came under operational and administrative control of First Marine Division (Rein). 4 February 1966 - USS MATHEWS (AKA-96) and USS BELLE GROVE (LSD-2) arrived in Okinawa. Attached units aboard these ships were detached to parent units.",
+    "responseSha256": "bdeed104b1291ad1fbe978d5110ff387dd74413169eb5e1312647dbf29d69953"
+  },
+  {
+    "documentId": "1201048066",
+    "page": 8,
+    "anchorId": "ROAD-LOAD-P8",
+    "status": "model-aligned; human review pending",
+    "note": "Member list plus full chronology through 5 February 1966 and the page/enclosure footer line; top DECLASSIFIED header excluded as header.",
+    "visibleText": "BATTALION LANDING TEAM members on this party were: 1. Major R.A. PAPE Battalion S-3 Officer 2. 1stLt W.E. SMITH Battalion Motor Transport Officer 3. SSgt J.D. WYZSMIRKSKI Property NCO 4. Corporal H.K. NOE S-1 Clerk 7 January 1966 ... 5 February 1966 - Second Battalion Fifth Marines came under operational and administrative control of Fifth Marines. 7 ENCLOSURE (1)",
+    "responseSha256": "bdeed104b1291ad1fbe978d5110ff387dd74413169eb5e1312647dbf29d69953"
+  },
+  {
+    "documentId": "1201048067",
+    "page": 3,
+    "anchorId": "ROAD-05",
+    "status": "model-aligned; human review pending",
+    "note": "Located under the 'COMMANDERS NARRATIVE SUMMARY' heading; body paragraph matches the quote (minor OCR artifacts 'encounterdd' and hyphenated 'significant-ly' present).",
+    "visibleText": "As covered in the last command chronology report, this battalion arrived on Okinawa on 2 February 1966 and we immediately began an extensive training program. The period of 23 February 1966 to 5 April 1966 was a period of maximum training of units within the 2nd Battalion, 5th Marines and the accumulation of supplies needed for Viet Nam. The personnel situation stabilized within the battalion and the degree of unit cohesiveness within the units increased significantly. There were essentially no problems in obtaining support from all agencies concerned with the training syllabus. Although several problems were encountered by the supply and embarkation section, they were relatively minor. The Battalion Landing Team, which was activated on 25 March 1966, is trained to a high degree of readiness; the morale of the Officers and men is high, and we are trained, ready, and eager to become a part of the military force in Viet Nam.",
+    "responseSha256": "3d21b29ee2c364830889029dbb1b3573e9611e3ea576a6ba3c4f856ecd925881"
+  },
+  {
+    "documentId": "1201048067",
+    "page": 5,
+    "anchorId": "ROAD-06",
+    "status": "model-aligned; human review pending",
+    "note": "Paragraph 1 under heading 'C. TRAINING' on page 4; matches quote verbatim (including OCR artifact 'firexs').",
+    "visibleText": "1. From 22 February 1966 until embarkation the 2nd Battalion, 5th Marines has conducted extensive field training and field firing. Each company spent eight days attending Counter-Guerrilla Warfare School in the Northern Training Area of Okinawa where formal instruction, patrolling, and a two day guerrilla problem was conducted. All units fired both day and night live firexs using night firing techniques. Units also received instruction and application in the use of the sniper scope. A two day period of instruction at Land Mine and Demolition School plus one days instruction at the Jungle Lanes impressed personnel on the current trends and tips for Viet Nam.",
+    "responseSha256": "fd55ada7b6de5185644a73172c1bd974b9a1c22afd68ec38b2e754b695cc741d"
+  },
+  {
+    "documentId": "1201048067",
+    "page": 5,
+    "anchorId": "ROAD-07",
+    "status": "needs review",
+    "note": "Partial match: quote begins mid-line at bottom of page 4 and continues onto the next page ('area for all units. The training included procedures for, and application of the LVT's in combat operations.'), which is not present on this page. Embedded page marker '[Page 6]' and 'ENCLOSURE (1)' in the quote are not on this page.",
+    "visibleText": "All letter companies received one days intensified training in the use of Helicopters in the Camp Schwab and Northern Training Areas. LVT training was conducted in the Camp Schwab",
+    "responseSha256": "fd55ada7b6de5185644a73172c1bd974b9a1c22afd68ec38b2e754b695cc741d"
+  },
+  {
+    "documentId": "1201048067",
+    "page": 6,
+    "anchorId": "ROAD-08",
+    "status": "model-aligned; human review pending",
+    "note": "Item 6 paragraph matches the quote verbatim.",
+    "visibleText": "6. The battalion, with attached units, conducted two command post exercises and a three day battalion field exercise which were beneficial to all concerned.",
+    "responseSha256": "6f54faf60c459a705e204ca7bdbc6e9c4d514b29e9f4db27515de13cf8893dd7"
+  },
+  {
+    "documentId": "1201048067",
+    "page": 6,
+    "anchorId": "ROAD-09",
+    "status": "model-aligned; human review pending",
+    "note": "Item D.1 matches the quote; message number rendered as 230005Z in scan vs 238952 in quote (OCR/typographic variant), passage otherwise identical.",
+    "visibleText": "D. COMMAND AND CONTROL 1. CG 1st MARDIV (Rein) message 230005Z activated BLT 2/5 to be effective 250001 March 1966. The operational and administrative control of the BLT was shifted from RLT-5 to the 9th MAB on 300101 March 1966 by the same message.",
+    "responseSha256": "6f54faf60c459a705e204ca7bdbc6e9c4d514b29e9f4db27515de13cf8893dd7"
+  },
+  {
+    "documentId": "1201048068",
+    "page": 2,
+    "anchorId": "ROAD-10",
+    "status": "model-aligned; human review pending",
+    "note": "First body paragraph of the Commander's Narrative Summary; matches quote verbatim.",
+    "visibleText": "Prior to this reporting period, BLT 2/5 conducted a four day amphibious landing exercise at Kin Beach, Okinawa. BLT 2/5 departed Okinawa for Chu Lai, Vietnam on 8 April 1966 and arrived on 13 April 1966. After debarkation, the BLT was dissolved. All combat support and combat service support units returned to OPCON/ADCON of their parent commands. On 14 April the OPCON/ADCON shifted from CG 1st Marine Division to the CO, 1st Marines.",
+    "responseSha256": "29aa01ff6531c14dd35c4ddf4a230a35329abb214a39d4e9457a836c9fea8e38"
+  },
+  {
+    "documentId": "1201048068",
+    "page": 2,
+    "anchorId": "ROAD-11",
+    "status": "model-aligned; human review pending",
+    "note": "Opening lines of second paragraph; quote ends at the hyphenated line break 'Trans-'.",
+    "visibleText": "The 2nd Battalion, 5th Marines was assigned the former TAOR of the 2nd Battalion, 4th Marines on Hill 69 relieving them of responsibility for the TAOR at 1200, 14 April 1966. Trans-",
+    "responseSha256": "29aa01ff6531c14dd35c4ddf4a230a35329abb214a39d4e9457a836c9fea8e38"
+  },
+  {
+    "documentId": "princeton-1965-11",
+    "page": 39,
+    "anchorId": "princeton-deck-log",
+    "status": "model-aligned; human review pending",
+    "note": "Empty quote resolved to the 04-08 watch block of the USS PRINCETON (LPH-5) Deck Log Remarks Sheet dated FRIDAY 19 NOVEMBER 1965. Contains the '0500 FLIGHT QUARTERS' entry and the flight-operations commencement entry (written as '0550 COMMENCED FLIGHT OPERATIONS', not 0556). Page header date '19 NOVEMBER 1965' confirms the November 19 log. No 0556 timestamp appears; closest match is 0550.",
+    "visibleText": "04-08 STEAMING AS BEFORE 0400 SE 090(T) 0500 FLIGHT QUARTERS. 0529 SE 115(T). 0530 EXERCISED THE CREW AT GENERAL QUARTERS. SET MATERIAL CONDITION ZEBRA. COMMENCED STEAMING ON VARIOUS COURSES AT VARIOUS SPEEDS FOR FLIGHT OPERATIONS. 0550 COMMENCED FLIGHT OPERATIONS. 0726 SECURED FROM GENERAL QUARTERS. SET MATERIAL CONDITION YOKE. 0728 COURSE 245(T) SPEED 16 KNOTS. 0743 SE 242(T) * 0624 OBSERVED SUNRISE.",
+    "responseSha256": "3c2faee131eff453fc1aa4a3713e49f09ca413b9a11d3f99a97abdb5a724cfee"
+  }
+]

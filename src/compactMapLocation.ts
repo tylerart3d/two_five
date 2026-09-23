@@ -1,7 +1,9 @@
+import {fadeBoundaryInterior} from './boundaryFade';
 import L from 'leaflet';
 
 /** Substitute a legible callout when both projected boundary dimensions are <20px. */
 export function compactMapLocation(map: L.Map, group: L.LayerGroup, polygon: L.Polygon, label: L.Marker, name: string, color: string, lane = 0, subAreas?: L.LayerGroup, onFocus?: () => void) {
+  fadeBoundaryInterior(map,polygon);
   const originalIcon = label.options.icon!;
   const position = label.getLatLng();
   const circle = L.circleMarker(position, {
@@ -12,7 +14,7 @@ export function compactMapLocation(map: L.Map, group: L.LayerGroup, polygon: L.P
   const text = document.createElement(onFocus ? 'button' : 'span');
   if (text instanceof HTMLButtonElement) {
     text.type = 'button';
-    text.setAttribute('aria-label', `Find ${name} on map`);
+    text.setAttribute('aria-label', `Go to ${name}`);
     text.addEventListener('click', event => { event.stopPropagation(); onFocus?.(); });
     L.DomEvent.disableClickPropagation(text);
   }
@@ -85,7 +87,7 @@ export function compactMapLocation(map: L.Map, group: L.LayerGroup, polygon: L.P
 export function mapPointCallout(map: L.Map, group: L.LayerGroup, position: L.LatLngExpression, name: string, lane = 0, onSelect?:()=>void) {
   const origin = L.latLng(position), color = '#3b4a32';
   L.circleMarker(origin, {radius:6,color,weight:2,opacity:.5,fill:false,interactive:false,className:'route-location-circle'}).addTo(group);
-  const text=document.createElement(onSelect?'button':'span'); if(onSelect){(text as HTMLButtonElement).type='button';text.addEventListener('click',onSelect);text.setAttribute('aria-label',`Find ${name}`);} text.className='compact-location-text'; text.textContent=name.toUpperCase(); text.style.color=color;
+  const text=document.createElement(onSelect?'button':'span'); if(onSelect){(text as HTMLButtonElement).type='button';text.addEventListener('click',onSelect);text.setAttribute('aria-label',`Go to ${name}`);} text.className='compact-location-text'; text.textContent=name.toUpperCase(); text.style.color=color;
   const label=L.marker(origin,{icon:L.divIcon({className:'compact-location-label',html:text,iconSize:[230,32],iconAnchor:[0,16]}),interactive:false,keyboard:false}).addTo(group);
   const line=L.polyline([],{color,weight:1,opacity:.5,interactive:false}).addTo(group);
   const update=()=>{

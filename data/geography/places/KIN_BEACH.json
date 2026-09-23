@@ -1,0 +1,13 @@
+{
+  "name": "Kin Beach",
+  "coordinates": [
+    26.4455625,
+    127.9433125
+  ],
+  "source": "https://www.google.com/maps/search/?api=1&query=26.4455625,127.9433125",
+  "coordinateBasis": "Place coordinates from the Google Maps link supplied by Brent, 2026-09-22.",
+  "precision": "User-selected modern reference point for Kin Beach. No usable boundary retrieved; this marker is not an exact 1966 landing position or a beach perimeter.",
+  "anchorId": "ROAD-10",
+  "description": "Before departure from Okinawa, BLT 2/5 conducted a four-day amphibious landing exercise at Kin Beach. The chronology does not give the exact exercise dates.",
+  "hideBeyondScaleMiles": 3
+}

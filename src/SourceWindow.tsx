@@ -1,8 +1,10 @@
+import { useEnhancedPhotos, setEnhancedPhotos } from './photoPreferences';
 import { useLayoutEffect, useRef, useState } from 'react';
 import { EvidenceViewer } from './EvidenceViewer';
 import { documentFor, documents, type Anchor } from './evidence';
 
 export function SourceWindow({ anchor, origin, onClose }: { anchor: Anchor; origin: HTMLElement | null; onClose: () => void }) {
+  const enhancedPhotos=useEnhancedPhotos();
   const [activeAnchor,setActiveAnchor] = useState(anchor);
   useLayoutEffect(()=>setActiveAnchor(anchor),[anchor]);
   const dialog = useRef<HTMLDialogElement>(null);
@@ -45,6 +47,7 @@ export function SourceWindow({ anchor, origin, onClose }: { anchor: Anchor; orig
   return <dialog ref={dialog} className="source-window" aria-label="Source evidence" onCancel={e => { e.preventDefault(); void close(); }}>
     <div className="source-window-bar"><span>ORIGINAL RECORD · SOURCE EVIDENCE</span><button autoFocus onClick={() => void close()} aria-label="Close source evidence">Close ×</button></div>
     <label className="source-document-picker">Source <select value={documentFor(activeAnchor).id} onChange={e=>setActiveAnchor(documents.find(doc=>doc.id===e.target.value)!.anchors[0])}>{documents.map(doc=><option key={doc.id} value={doc.id}>{doc.title}</option>)}</select></label>
+    <label style={{padding:"0 18px 10px", display:"flex", gap:8, alignItems:"center"}}><input type="checkbox" role="switch" checked={enhancedPhotos} onChange={e=>setEnhancedPhotos(e.target.checked)}/>Enhanced Photos</label>
     <EvidenceViewer key={documentFor(activeAnchor).id} anchor={activeAnchor} />
   </dialog>;
 }

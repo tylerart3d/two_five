@@ -1,0 +1,15 @@
+{
+  "id": "human-road-ref-e-20260912",
+  "layer": 3,
+  "documentId": "1201048066",
+  "pdfSha256": "35e90fb1d7bfd2fb199265832335e9d4e9ad8032292ef71774d31acf5a90ead0",
+  "ocrSha256": "640d0378c6d72ae48eb31a9399039cf0f307798e4776b1819ed5f289259a903c",
+  "anchorId": "ROAD-REF-E",
+  "page": 1,
+  "originalReading": "(e) Embarkation Team Commander USS BEXAR (APA-237)\n111942Z",
+  "replacement": "(e) Embarkation Team Commander USS BEXAR (APA-237)\n111900Z",
+  "author": "Brent Tyler",
+  "date": "2026-09-12",
+  "status": "human-confirmed",
+  "reason": "Brent selected Qwen’s 111900Z reading for reference (e), PDF page 1. Confirmation limited to this message."
+}

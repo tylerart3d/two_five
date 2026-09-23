@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "trailers-received",
+  "title": "Nineteen new trailers received",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1965-12-17",
+    "end": "1966-01-10",
+    "label": "Before embarkation · exact date unstated",
+    "precision": "approximate-range"
+  },
+  "kind": "event",
+  "category": "logistics",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-TRAILERS-RECEIVED"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "The battalion received nineteen new M-416-B-1 trailers. With no spare parts available for them, planners retained both the new trailers and the older M-100s for embarkation.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

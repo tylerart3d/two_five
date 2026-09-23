@@ -28,3 +28,5 @@ source_documents/
 *.sqlite-wal
 *.tgz
 *.zip
+
+# Raw OCR is local-only; approved derived reading copies live in data/ocr-runs/.

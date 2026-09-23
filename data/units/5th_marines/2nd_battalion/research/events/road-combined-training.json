@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "road-combined-training",
-  "title": "Helicopters and amphibious vehicles",
+  "title": "Helicopter training",
   "date": {
-    "label": "Feb–early Apr 1966",
+    "label": "One day per rifle company · Feb–early Apr; dates unspecified",
     "start": "1966-02-02",
     "end": "1966-04-05",
-    "precision": "range"
+    "precision": "within",
+    "boundsOnly": true,
+    "durationDays": 1
   },
   "kind": "event",
   "units": [
@@ -23,15 +25,16 @@
   "paragraphs": [
     [
       {
-        "text": "All letter companies received intensified helicopter training in the Camp Schwab and Northern Training Areas. All units received LVT training, covering the vehicles’ use in combat operations.",
+        "text": "Each rifle company received one day of intensive helicopter training in the Camp Schwab and Northern Training Areas.",
         "source": 0
       }
     ]
   ],
   "notes": [
-    "Individual company training dates remain to be established."
+    "February 2–April 5 is a navigation window, not a continuous activity or an exact course schedule.",
+    "Locations are stated only where the cited passage identifies them."
   ],
-  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "researchStatus": "Editorial split of existing sourced training passages; exact course dates not established.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -44,10 +47,23 @@
     {
       "date": "2026-09-07",
       "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-22",
+      "note": "Separated training activities and known durations; reporting bounds excluded from continuous timeline highlighting."
     }
   ],
   "category": "training",
   "chapterIds": [
     "road-1966"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": [
+      "human-road07-pages-20260912"
+    ]
+  },
+  "mapDestination": "schwab"
 }

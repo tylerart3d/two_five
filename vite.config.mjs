@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import { createReadStream } from 'node:fs';
 import { stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
-const allowed = new Set(['1201048065','1201048066','1201048067','1201048068','princeton-1965-11']);
+const allowed = new Set(['1201048065','1201048066','1201048067','1201048068','princeton-1965-11','book-1965']);
 export default defineConfig({
   server: { fs: { deny: ['.env', '.env.*', '**/.git/**', '**/_files/**', '**/data/local/**'] } },
   plugins: [{ name: 'local-evidence-proof', configureServer(server) {
@@ -17,9 +17,9 @@ export default defineConfig({
         const stream=createReadStream(fileURLToPath(new URL('./data/local/pendleton-photos/hubina-1965.jpg',import.meta.url)));
         stream.on('error',()=>{res.statusCode=404;res.end();});stream.pipe(res);return;
       }
-      if(req.url?.split('?')[0]==='/review-photos/mcrd-aerial.jpg'){
-        res.setHeader('Content-Type','image/jpeg');
-        const stream=createReadStream(fileURLToPath(new URL('./data/local/pendleton-photos/mcrd-aerial.jpg',import.meta.url)));
+      if(req.url?.split('?')[0]==='/review-photos/mcrd-aerial.webp'){
+        res.setHeader('Content-Type','image/webp');
+        const stream=createReadStream(fileURLToPath(new URL('./data/local/pendleton-photos/mcrd-aerial.webp',import.meta.url)));
         stream.on('error',()=>{res.statusCode=404;res.end();});stream.pipe(res);return;
       }
       if(req.url?.split('?')[0]==='/review-photos/mcrd-inspection-1960.jpg'){
@@ -29,7 +29,7 @@ export default defineConfig({
       }
       const id = req.url?.split('?')[0].match(/^\/evidence\/([a-z0-9-]+)\.pdf$/)?.[1];
       if (!id || !allowed.has(id)) return next();
-      const file = id === 'princeton-1965-11' ? fileURLToPath(new URL('./data/local/princeton-1965-11/original.pdf', import.meta.url)) : fileURLToPath(new URL(`./data/units/5th_marines/2nd_battalion/chronologies/_files/${id}.pdf`, import.meta.url));
+      const file = id === 'book-1965' ? fileURLToPath(new URL('./data/shared/official_histories/_files/landing_buildup_1965/official.pdf', import.meta.url)) : id === 'princeton-1965-11' ? fileURLToPath(new URL('./data/local/princeton-1965-11/original.pdf', import.meta.url)) : fileURLToPath(new URL(`./data/units/5th_marines/2nd_battalion/chronologies/_files/${id}.pdf`, import.meta.url));
       if (req.method !== 'GET' && req.method !== 'HEAD') { res.statusCode = 405; res.end(); return; }
       try {
         const info = await stat(file);

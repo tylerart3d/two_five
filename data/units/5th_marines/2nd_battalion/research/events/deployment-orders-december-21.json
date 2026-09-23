@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "deployment-orders-december-21",
+  "title": "Deployment orders issued",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1965-12-21",
+    "end": "1965-12-21",
+    "label": "21 Dec 1965",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "organization",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-DEPLOYMENT-ORDERS-DECEMBER-21"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "Deployment orders for BLT 2/5 were issued on December 21.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

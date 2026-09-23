@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "road-training",
-  "title": "Training at Camp Schwab",
+  "title": "Counterguerrilla warfare school",
   "date": {
-    "label": "Feb–early Apr 1966",
+    "label": "Eight days per company · Feb–early Apr; dates unspecified",
     "start": "1966-02-02",
     "end": "1966-04-05",
-    "precision": "range"
+    "precision": "within",
+    "boundsOnly": true,
+    "durationDays": 8
   },
   "kind": "event",
   "units": [
@@ -23,16 +25,16 @@
   "paragraphs": [
     [
       {
-        "text": "Each company spent eight days at the Counter-Guerrilla Warfare School in Okinawa’s Northern Training Area. The program included patrolling, a two-day guerrilla problem, day and night live firing, landmine and demolition instruction, and jungle lanes.",
+        "text": "Each company spent eight days at Counter-Guerrilla Warfare School in Okinawa’s Northern Training Area. Classroom instruction and patrolling culminated in a two-day guerrilla exercise.",
         "source": 0
       }
     ]
   ],
   "notes": [
-    "Individual company training dates remain to be established.",
-    "Map destination is a contextual location view, not the exact position of each action."
+    "February 2–April 5 is a navigation window, not a continuous activity or an exact course schedule.",
+    "Locations are stated only where the cited passage identifies them."
   ],
-  "researchStatus": "Draft from existing OCR; page-only source reference.",
+  "researchStatus": "Editorial split of existing sourced training passages; exact course dates not established.",
   "revisions": [
     {
       "date": "2026-09-07",
@@ -45,11 +47,20 @@
     {
       "date": "2026-09-07",
       "note": "Added explicit chapter tags; overlapping periods may belong to multiple chapters."
+    },
+    {
+      "date": "2026-09-22",
+      "note": "Separated training activities and known durations; reporting bounds excluded from continuous timeline highlighting."
     }
   ],
   "category": "training",
-  "mapDestination": "schwab",
   "chapterIds": [
     "road-1966"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  }
 }

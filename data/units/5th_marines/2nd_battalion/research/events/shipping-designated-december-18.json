@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "shipping-designated-december-18",
+  "title": "Bexar, Belle Grove and Mathews designated",
+  "chapterIds": [
+    "rebirth-1965",
+    "road-1966"
+  ],
+  "date": {
+    "start": "1965-12-18",
+    "end": "1965-12-18",
+    "label": "18 Dec 1965",
+    "precision": "day"
+  },
+  "kind": "event",
+  "category": "movement",
+  "units": [
+    "2/5"
+  ],
+  "people": [],
+  "locations": [],
+  "sources": [
+    {
+      "documentId": "1201048066",
+      "anchorId": "AUDIT-SHIPPING-DESIGNATED-DECEMBER-18"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "text": "USS Bexar (APA-237), USS Belle Grove (LSD-2), and USS Mathews (AKA-96) were designated to carry BLT 2/5 to the Western Pacific.",
+        "source": 0
+      }
+    ]
+  ],
+  "notes": [],
+  "researchStatus": "Agent-extracted from resolved Qwen with human corrections; extraction is not a new human confirmation.",
+  "revisions": [
+    {
+      "date": "2026-09-13",
+      "note": "Source-first coverage audit through January 8; dates and source wording preserved."
+    }
+  ]
+}

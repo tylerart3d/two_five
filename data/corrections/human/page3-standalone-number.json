@@ -1,0 +1,17 @@
+{
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "page": 3,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "id": "human-page3-standalone-number-20260913",
+  "ocrFile": "data/local/ocr-1965-1966-qwen-20260912/1201048065/page-0003.txt",
+  "ocrSha256": "2ed4ac3e13bdc597c36f92e0bc3c0718fc5e733e52db455d47e76257eaa213c3",
+  "ocrStart": 1949,
+  "ocrEnd": 1950,
+  "originalReading": "3",
+  "replacement": "3",
+  "reason": "Brent confirmed the standalone 3 above C-14-3 reported by Qwen, omitted by the older OCR."
+}

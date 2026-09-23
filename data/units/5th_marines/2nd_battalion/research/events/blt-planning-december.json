@@ -24,7 +24,7 @@
   "paragraphs": [
     [
       {
-        "text": "The battalion was designated a battalion landing team for planning purposes on 17 December. Activation followed on 1 January 1966.",
+        "text": "Preparation by the battalion and its attachments had already begun when 2/5 was designated a battalion landing team for planning on December 17. Activation followed on January 1.",
         "source": 0
       }
     ]
@@ -43,5 +43,11 @@
   ],
   "chapterIds": [
     "rebirth-1965"
-  ]
+  ],
+  "ocrReview": {
+    "date": "2026-09-13",
+    "layer": 2,
+    "scope": "Re-evaluated against existing cited passages and human-approved OCR corrections; unreviewed new OCR not promoted.",
+    "humanCorrectionIds": []
+  }
 }

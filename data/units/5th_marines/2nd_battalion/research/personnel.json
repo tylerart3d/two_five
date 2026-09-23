@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "people": [
+    {
+      "id": "person-c-e-mcpartlin-jr",
+      "name": "C. E. McPartlin Jr.",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-c-h-ram",
+      "name": "C. H. Ram",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-t-boyd",
+      "name": "T. Boyd",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-e-a-kratovil-jr",
+      "name": "E. A. Kratovil Jr.",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-h-t-winston",
+      "name": "H. T. Winston",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-p-c-rollins",
+      "name": "P. C. Rollins",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-t-r-minor",
+      "name": "T. R. Minor",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-d-g-winter",
+      "name": "D. G. Winter",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-d-h-hering",
+      "name": "D. H. Hering",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-j-j-doherty",
+      "name": "J. J. Doherty",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-j-r-catt",
+      "name": "J. R. Catt",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-t-e-bulger",
+      "name": "T. E. Bulger",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-l-w-t-waller-ii",
+      "name": "L. W. T. Waller II",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-r-a-pape",
+      "name": "R. A. Pape",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-j-j-slocum",
+      "name": "J. J. Slocum",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-r-e-garrett",
+      "name": "R. E. Garrett",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-g-s-burgett",
+      "name": "G. S. Burgett",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-l-w-fahrni",
+      "name": "L. W. Fahrni",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-j-f-o-rourke",
+      "name": "J. F. O’Rourke",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-r-d-hughes",
+      "name": "R. D. Hughes",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-d-r-west",
+      "name": "D. R. West",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-d-e-marcum",
+      "name": "D. E. Marcum",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-r-a-hickethier",
+      "name": "R. A. Hickethier",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-a-h-moore",
+      "name": "A. H. Moore",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-r-h-uskurait",
+      "name": "R. H. Uskurait",
+      "identityStatus": "linked within cited 1965 command records; not matched to legacy roster"
+    },
+    {
+      "id": "person-r-l-hemenez",
+      "name": "R. L. Hemenez",
+      "identityStatus": "Linked within cited 1966 command rosters; not matched to legacy roster."
+    },
+    {
+      "id": "person-d-r-marcum",
+      "name": "D. R. Marcum",
+      "identityStatus": "Separate source reading D. R.; identity link to 1965 D. E. Marcum remains unconfirmed."
+    },
+    {
+      "id": "person-w-m-kay",
+      "name": "W. M. Kay",
+      "identityStatus": "Linked within cited 1966 command rosters; not matched to legacy roster."
+    },
+    {
+      "id": "person-j-s-cooper",
+      "name": "J. S. Cooper",
+      "identityStatus": "Linked within cited 1966 command rosters; not matched to legacy roster."
+    },
+    {
+      "id": "person-a-j-bocutti",
+      "name": "A. J. Bocutti",
+      "identityStatus": "Named in the March 14, 1966 command change."
+    },
+    {
+      "id": "person-w-e-smith",
+      "name": "W. E. Smith",
+      "identityStatus": "Named in approved January 6 advance-party roster."
+    }
+  ]
+}

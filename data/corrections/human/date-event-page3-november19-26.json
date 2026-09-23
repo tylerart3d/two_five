@@ -1,0 +1,42 @@
+{
+  "id": "human-date-event-page3-november19-26-20260913",
+  "layer": 3,
+  "documentId": "1201048065",
+  "pdfSha256": "96b682a91c088a43e9964cb7a4e8e64440ea0e0c312d0162b06fd0a866f2c931",
+  "ocrSha256": "4453506614c66926eb8e0f48ee3850abfc2227af091c3bfa12ab52a76b1ff42d",
+  "page": 3,
+  "author": "Brent Tyler",
+  "date": "2026-09-13",
+  "status": "human-confirmed",
+  "kind": "date-event-association",
+  "reason": "Brent confirmed November 19, 20 and 26 date-to-event associations against the scan. Separate transcription corrections remain authoritative.",
+  "associations": [
+    {
+      "anchorId": "princeton-exercise",
+      "date": "1965-11-19",
+      "event": "Helicopter landing exercise from USS Princeton to Pendleton",
+      "ocrStart": 6481,
+      "ocrEnd": 7007,
+      "originalReading": "19 NOVEMBER 1965                  CONDUCTED PHIBLEX\n                                  The Battalion conducted a PHIBLEX which was a move-\n                                  ment by helicopter from the USS PRINCETON to Marine\n                                  Corps Base, Camp Pendleton, California.  Three (3)\n                                  rifle companies and elements of H&S Co. participated,\n                                  however, companies were at approximately 40% manning\n                                  level.\n\n",
+      "replacement": "19 NOVEMBER 1965                  CONDUCTED PHIBLEX\n                                  The Battalion conducted a PHIBLEX which was a move-\n                                  ment by helicopter from the USS PRINCETON to Marine\n                                  Corps Base, Camp Pendleton, California.  Three (3)\n                                  rifle companies and elements of H&S Co. participated,\n                                  however, companies were at approximately 40% manning\n                                  level.\n\n"
+    },
+    {
+      "anchorId": "golf-november-20",
+      "date": "1965-11-20",
+      "event": "O’Rourke replaces Garrett as Golf CO; Garrett transfers out",
+      "ocrStart": 7007,
+      "ocrEnd": 7246,
+      "originalReading": "20 NOVEMBER 1965                  Captain R. E. GARRETT was relieved as CO, \"G\" Co, by\n                                  Captain J. F. O'ROURKE.  Captain R. E. GARRETT was\n                                  transferred out of the Battalion.",
+      "replacement": "20 NOVEMBER 1965                  Captain R. E. GARRETT was relieved as CO, \"G\" Co, by\n                                  Captain J. F. O'ROURKE.  Captain R. E. GARRETT was\n                                  transferred out of the Battalion."
+    },
+    {
+      "anchorId": "hs-november-26",
+      "date": "1965-11-26",
+      "event": "Hughes replaces Fahrni as H&S CO",
+      "ocrStart": 7248,
+      "ocrEnd": 7389,
+      "originalReading": "26 NOVEMBER 1965                  Captain L. W. PARENTI was relieved as CO, H&S Co, by\n                                  Captain R. D. BURNS.",
+      "replacement": "26 NOVEMBER 1965                  Captain L. W. PARENTI was relieved as CO, H&S Co, by\n                                  Captain R. D. BURNS."
+    }
+  ]
+}
