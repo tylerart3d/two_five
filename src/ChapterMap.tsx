@@ -104,7 +104,7 @@ export function ChapterMap({ road=false, onSource, mapRequest, selectedEvent, on
     map.current = instance;
     const tile = (url: string, attribution: string, opacity = 1) => {
       const esri = url.includes('arcgisonline.com');
-      const maxNativeZoom = url.includes('World_Hillshade') ? 16 : url.includes('stadiamaps') ? 20 : 19;
+      const maxNativeZoom = url.includes('World_Hillshade') ? 16 : 19;
       // Keep recently viewed neighbors and reuse the current zoom during flights.
       // Independent fades in the two-layer terrain blend cause brightness pulses.
       const options = { maxZoom: 22, maxNativeZoom, attribution, opacity,
@@ -113,17 +113,16 @@ export function ChapterMap({ road=false, onSource, mapRequest, selectedEvent, on
       return layer.on('tileerror', () => setTileError(true));
     };
     const reliefUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/Elevation/World_Hillshade/MapServer/tile/{z}/{y}/{x}';
-    const terrainUrl = 'https://tiles.stadiamaps.com/tiles/stamen_terrain_background/{z}/{x}/{y}.png';
-    const terrainCredit = '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a> &copy; <a href="https://stamen.com/">Stamen Design</a> &copy; <a href="https://www.openmaptiles.org/">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>';
+    const streetUrl = import.meta.env.DEV ? '/map-tiles/osm/{z}/{x}/{y}.png' : 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+    const streetCredit = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>';
     const layers = {
-      'Terrain + Water': L.layerGroup([tile(reliefUrl, 'Esri, USGS'), tile(terrainUrl, terrainCredit, 0.4)]),
-      'Terrain Only': tile(terrainUrl, terrainCredit),
+      'Relief + Streets': L.layerGroup([tile(reliefUrl, 'Esri, USGS'), tile(streetUrl, streetCredit, 0.4)]),
       'Relief (Hillshade)': tile(reliefUrl, 'Esri, USGS'),
       'Relief (Dark)': tile('https://server.arcgisonline.com/ArcGIS/rest/services/Elevation/World_Hillshade_Dark/MapServer/tile/{z}/{y}/{x}', 'Esri, USGS'),
       'Satellite': tile('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', 'Esri, Maxar, Earthstar Geographics'),
-      'Street Map': tile('https://tile.openstreetmap.org/{z}/{x}/{y}.png', '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>')
+      'Street Map': tile(streetUrl, streetCredit)
     };
-    layers['Terrain + Water'].addTo(instance);
+    layers['Relief + Streets'].addTo(instance);
     const layerControl = L.control.layers(layers, {}, { position: 'bottomright' }).addTo(instance);
     layersControl.current = layerControl;
     legend.current!.append(layerControl.getContainer()!);
@@ -377,7 +376,6 @@ export function ChapterMap({ road=false, onSource, mapRequest, selectedEvent, on
     </div>}
   </section>;
 }
-
 
 
 

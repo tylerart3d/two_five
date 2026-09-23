@@ -1,5 +1,9 @@
 import { test, expect } from '@playwright/test';
 
+test.beforeEach(async ({page}) => {
+  await page.route('**/map-tiles/osm/**', route => route.fulfill({contentType:'image/svg+xml',body:'<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"/>'}));
+});
+
 test('map opens first, focuses the camp and connects to the historical source', async ({ page }) => {
   await page.emulateMedia({ reducedMotion: 'reduce' });
   await page.goto('/');
@@ -22,7 +26,7 @@ test('map opens first, focuses the camp and connects to the historical source', 
 test('mobile map remains usable with unavailable tiles and keyboard controls', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.emulateMedia({ reducedMotion: 'reduce' });
-  await page.route(/(tile.openstreetmap.org|server.arcgisonline.com|tiles.stadiamaps.com)/, route => route.abort());
+  await page.route(/(map-tiles\/osm|tile.openstreetmap.org|server.arcgisonline.com)/, route => route.abort());
   await page.goto('/');
   await expect(page.locator('.map-error')).toBeVisible();
   const button = page.locator('.map-scopes').getByRole('button', { name: 'Go to Camp Margarita' });
@@ -55,7 +59,6 @@ test('missing high resolution relief crops a parent tile and overzooms without u
     const z = Number(route.request().url().match(/tile\/(\d+)/)![1]); levels.push(z);
     return z > 14 ? route.fulfill({status:404}) : route.fulfill({contentType:'image/svg+xml',body:'<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"><rect width="256" height="256" fill="#789567"/></svg>'});
   });
-  await page.route('**/tiles.stadiamaps.com/**', route => route.fulfill({contentType:'image/svg+xml',body:'<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"/>'}));
   await page.goto('/');
   await page.locator('.map-scopes').getByRole('button', {name:'Go to Camp Margarita'}).click();
   await page.locator('.map-canvas').focus();

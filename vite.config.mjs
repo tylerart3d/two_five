@@ -2,10 +2,12 @@ import { defineConfig } from 'vite';
 import { createReadStream } from 'node:fs';
 import { stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
+import { mapTileCache } from './scripts/map-tile-cache.mjs';
 const allowed = new Set(['1201048065','1201048066','1201048067','1201048068','princeton-1965-11','book-1965']);
 export default defineConfig({
   server: { fs: { deny: ['.env', '.env.*', '**/.git/**', '**/_files/**', '**/data/local/**'] } },
   plugins: [{ name: 'local-evidence-proof', configureServer(server) {
+    server.middlewares.use(mapTileCache({directory:fileURLToPath(new URL('./data/local/map-tiles/osm/',import.meta.url))}));
     server.middlewares.use(async (req, res, next) => {
       if(req.url?.split('?')[0]==='/review-photos/pendleton-gate.png'){
         res.setHeader('Content-Type','image/png');
